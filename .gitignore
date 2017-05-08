@@ -70,3 +70,6 @@ local.properties
 # PDT-specific
 .buildpath
 /target/
+
+# Jekyll site
+_site/
