@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html id="main-content" lang="en">
+<head>
+<meta charset="utf-8" />
+<title>License request</title>
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../css/normalize.min.css">
+<link rel="stylesheet" href="../css/main.css">
+<link rel="stylesheet" href="../css/excentia.css">
+<link rel="stylesheet" href="../js/vendor/fancybox/jquery.fancybox.css">
+<script src="../js/vendor/jquery-1.7.2.min.js"></script>
+<script src="../js/info.js"></script>
+<script src="../js/register.js"></script>
+
+<style type="text/css">html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+  margin: auto;
+  padding: 15px;
+  width: 700px;
+}
+
+.content {
+  background-color: #ffffff;
+  background-image: url("../img/fondo-bn.png");
+  border: 2px solid #808080;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 5px #808080;
+  padding: 15px;
+}
+
+#stylized h1 {
+  font-size: 1.2em;
+  margin: 20px 0 0 20px;
+}
+
+#stylized p {
+  border-bottom: 0px;
+  font-size: 1em;
+  margin: 20px 0 0 20px;
+}
+
+.link {
+  color: #f19c20;
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.link-orange {
+  border: 1px solid;
+  border-radius: 10px;
+  color: #f19c20;
+  cursor: pointer;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-left: 20px;
+  padding: 5px;
+}
+
+#stylized button {
+  background-color: #1c232a;
+  border: 0;
+  border-radius: 10px;
+  color: #9c9e9f;
+  font-size: 1.1em;
+}
+
+.hidden-div {
+  display: none;
+}
+
+#buy-header h1 {
+  display: inline;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  vertical-align: middle;
+}
+
+#buy-form p {
+  color: #666666;
+  font-size: 1em;
+  margin: 10px 0 10px 0;
+}
+
+#logo-img {
+  padding-left: 75px;
+  width: 64px;
+}
+
+#loading {
+  display: none;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.request-div {
+  display: inline-table;
+  text-align: center;
+  width: 48%;
+}
+
+.request-div h2 {
+  color: #666666;
+  font-size: 32px;
+  font-weight: normal;
+  margin: 10px 0 20px 0;
+}
+
+.request-div h3 {
+  color: #666666;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px 0 0 0;
+}
+
+.request-div hr {
+  border-top: 0px;
+  border-bottom: 1px dashed #9c9e9f;
+  margin: 10px;
+}
+
+.adjust-text {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: justify;
+}
+
+.div-right {
+  text-align: right;
+}
+</style>
+</head>
+
+<body>
+  <div class="content">
+    <div id="buy-header">
+      <a href="../es.html"><img src="../img/excentia-logo.png"></a> <img id="logo-img" src="" alt="Logo">
+      <h1 id="plugin-name"></h1>
+    </div>
+    <!-- BUY FORM -->
+    <div id="buy-form">
+      <div>
+        <div class="request-div">
+          <div class="adjust-text">
+            <p>Per instance of SonarQube and per year, including upgrading and support.</p>
+            <p>
+              When you purchase the plugin you agree with <a href="../pdf/excentia-terms-and-conditions.pdf"
+                target="_blank">terms and conditions</a>. Don't forget to include your email. We will send the license to that email.
+            </p>
+            <p>
+              Let us know if you need any further information by filling our <a href="../en/contact.html" target="_blank">contact
+                form</a>.
+            </p>
+          </div>
+        </div>
+        <div class="request-div">
+          <h3>Buy it</h3>
+          <hr>
+          <h2 id="plugin-price"></h2>
+          <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <input type="hidden" name="cmd" value="_s-xclick"> <input id="paypal-button" type="hidden" name="hosted_button_id"
+              value=""> <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" name="submit"
+              alt="PayPal - The safer, easier way to pay online!"> <img alt="" border="0"
+              src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
+          </form>
+          <img src="../img/pay.jpg" alt="Buy">
+          <hr>
+          <p style="font-size: 0.85em">
+            or get a <span class="link" onclick="showEvaluationForm()">free trial</span>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- REGISTER FORM -->
+    <div id="stylized">
+      <form id="form" name="form">
+        <h1>
+          Trial request for <span id="plugin-name-evaluation"></span>
+        </h1>
+        <div id="loading">
+          <img src="../img/loadingAnimation.gif" alt="Loading...">
+        </div>
+        <div id="fields-form">
+          <p>Complete this form to request an evaluation license of the product. You will receive a two weeks evaluation license by
+            email.</p>
+          <label>First name* <span class="small">Your name</span></label> <input type="text" name="name" id="name" /> <label>Surname*
+            <span class="small">Your surname</span>
+          </label> <input type="text" name="surname" id="surname" /> <label>Email* <span class="small">Valid email address</span></label> <input
+            type="text" name="email" id="email" /> <label>Organization* <span class="small">Your company</span></label> <input type="text"
+            name="company" id="company" />
+          <button id="send" onclick="sendEvaluationRequest()">Request trial</button>
+          <div class="div-right">
+            <span class="link-orange" onclick="showBuyForm()">Buy license</span>
+          </div>
+        </div>
+      </form>
+    </div>
+    <!-- SUCCESS -->
+    <div id="success-request" class="hidden-div">
+      <p>Thank you very much for your interest in our products.</p>
+      <p>We have successfully processed your request and you will shortly receive an email with the evaluation license key.</p>
+      <p>
+        Should you have any other questions or suggestions, do not hesitate to <a href="mailto:support@excentia.es">contact us</a>.
+      </p>
+      <p>Kind regards.</p>
+    </div>
+    <!-- PIE -->
+    <div id="pie">
+      <a href="http://facebook.com/excentia" target="_blank"><img src="../img/facebook.png" alt="Facebook"
+        onmouseover="this.src='http://www.excentia.es/img/facebook-hover.png';"
+        onmouseout="this.src='http://www.excentia.es/img/facebook.png';" /></a> <a href="http://twitter.com/excentia" target="_blank"><img
+        src="../img/twitter.png" alt="Twitter" onmouseover="this.src='http://www.excentia.es/img/twitter-hover.png';"
+        onmouseout="this.src='http://www.excentia.es/img/twitter.png';" /></a> <a href="http://www.linkedin.com/company/excentia"
+        target="_blank"><img src="../img/in.png" alt="LinkedIn" onmouseover="this.src='http://www.excentia.es/img/in-hover.png';"
+        onmouseout="this.src='http://www.excentia.es/img/in.png';" /></a>
+      <p>
+        Copyright® 2015 - excentia - <a href="../en/legal.html" target="_blank">Legal notice</a> | <a
+          href="../en/privacy.html" target="_blank">Privacy</a> | <a href="../en/contact.html"
+          target="_blank">Contact</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>

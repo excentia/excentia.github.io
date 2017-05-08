@@ -296,10 +296,11 @@ section {
       }
       i {
         font-size: 80px;
-        background: -webkit-linear-gradient(to left, #c42422, #c42422);
-        background: linear-gradient(to left, #c42422, #c42422);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: #c42422;
+        //background: -webkit-linear-gradient(to left, #c42422, #c42422);
+        //background: linear-gradient(to left, #c42422, #c42422);
+        //-webkit-background-clip: text;
+        //-webkit-text-fill-color: transparent;
       }
     }
     .atlassian-item {
@@ -310,10 +311,10 @@ section {
       }
       i {
         font-size: 80px;
-        background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
-        background: linear-gradient(to left, $head-primary, $head-secondary);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        //background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+        //background: linear-gradient(to left, $head-primary, $head-secondary);
+        //-webkit-background-clip: text;
+        //-webkit-text-fill-color: transparent;
       }
     }
     .feature-item {
@@ -342,10 +343,10 @@ section {
       }
       i {
         font-size: 80px;
-        background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
-        background: linear-gradient(to left, $head-primary, $head-secondary);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        //background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+        //background: linear-gradient(to left, $head-primary, $head-secondary);
+        //-webkit-background-clip: text;
+        //-webkit-text-fill-color: transparent;
       }
     }
     .atlassian-service-item {
@@ -358,10 +359,10 @@ section {
       }
       i {
         font-size: 80px;
-        background: -webkit-linear-gradient(to left, #f9a600, #0052cc);
-        background: linear-gradient(to left, #f9a600, #0052cc);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        //background: -webkit-linear-gradient(to left, #f9a600, #0052cc);
+        //background: linear-gradient(to left, #f9a600, #0052cc);
+        //-webkit-background-clip: text;
+        //-webkit-text-fill-color: transparent;
       }
     }
     .sonarsource-service-item {
@@ -374,10 +375,10 @@ section {
       }
       i {
         font-size: 80px;
-        background: -webkit-linear-gradient(to left, #f9a600, #c42422);
-        background: linear-gradient(to left, #f9a600, #c42422);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        //background: -webkit-linear-gradient(to left, #f9a600, #c42422);
+        //background: linear-gradient(to left, #f9a600, #c42422);
+        //-webkit-background-clip: text;
+        //-webkit-text-fill-color: transparent;
       }
     }
   }
