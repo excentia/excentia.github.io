@@ -6,7 +6,7 @@ description: calidad de software, calidad de procesos y servicios, Atlassian Gol
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.excentia.es" # the base hostname & protocol for your site
 
-google_analytics: "UA-86331249-1"
+google_analytics: "UA-24343033-1"
 disqus_account: excentia
 support_url: https://jira.excentia.es/servicedesk/customer/portal/12
 
@@ -56,5 +56,5 @@ highlighter: rouge
 permalink: :title
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-feed, jekyll-sitemap, jekyll-seo-tag]
+gems: [jekyll-feed, jekyll-sitemap, jekyll-seo-tag, jekyll-redirect-from]
 # Build settings
