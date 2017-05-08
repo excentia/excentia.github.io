@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{% include head.html %}
+
+    
+    
+<body id="page-top">
+  {% include nav-blog.html %}
+    
+  <section id="legal" class="download bg-primary text-center" style="padding-top: 90px; padding-bottom: 20px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading"> {{page.title }} </h2>
+                <hr class="light">
+            </div>
+        </div>
+    </div>
+  </section>
+    
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <div class="modal-body" style="padding-top: 50px; font-size: 1.8em">
+                        {{ page.content }}
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

@@ -1,0 +1,101 @@
+<footer id="contact">
+    <div class="footer-above">
+        <div class="container">
+                <div class="row text-left">
+                    <div class="footer-col col-md-2">
+                        <strong>Sobre nosotros</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="#vision">Nuestra Visión</a></li>
+                            <li><a class="page-scroll" href="#values">Valores</a></li>
+                            <li><a class="page-scroll" href="#awards">Reconocimientos</a></li>
+                            <li><a class="page-scroll" href="#testimonial">Casos de éxito</a></li>      
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>Productos</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="#atlassian-products">Atlassian</a></li>
+                            <li><a class="page-scroll" href="#sonarsource-products">SonarSource</a></li>
+                        </ul>
+                        <br>
+                        <strong>Servicios</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="#code-quality-services">Calidad de Software</a></li>
+                            <li><a class="page-scroll" href="#process-quality-services">Calidad de Procesos</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>Atlassian Add-ons</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a href="/time-tracking-stats">Time Tracking Stats</a></li>
+                            <li><a href="/cards">Cards</a></li>
+                            <li><a href="/debt-tracker">Debt Tracker</a></li>
+                            <li><a href="/3d-issues-map">3D Issues Map</a></li>
+                            <li><a href="/issue-picker">Issue Picker</a></li>
+                            <li><a href="/traceabilityx">TraceabilityX</a></li>
+                            <li><a href="/spanish-language-pack">Spanish Pack</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>SonarQube Plugins</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a href="/3d-code-metrics">3D Code Metrics</a></li>
+                            <li><a href="https://bitbucket.org/excentia/sonarqube-abc-plugin">ABC</a></li>
+                            <li><a href="https://bitbucket.org/excentia/sonarqube-formula-plugin">Formula</a></li>
+                            <li><a href="https://bitbucket.org/excentia/sonarqube-tattletale-plugin">Tattletale</a></li>
+                            <li><a href="https://github.com/SonarQubeCommunity/sonar-l10n-es">Spanish Pack</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>Blog</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a href="/blog/#blog-grid">Artículos</a></li>
+                            <li><a href="/blog/#news-grid">Noticias</a></li>
+                        </ul>
+                        <br>
+                        <strong>Partners</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="/atlassian">Atlassian Gold</a></li>
+                            <li><a class="page-scroll" href="/sonarsource">SonarSource partner</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="footer-col col-md-2 text-center">
+                        <a href="https://jira.excentia.es/servicedesk/customer/portal/12" class="btn btn-outline btn-xl" >Contáctanos</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div style="padding-top: 25px"></div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4 text-center">
+                    <a href="/img/certs/aenor-iso-9000-full.png" target="_blank"><img style="margin-right: 10px" width="30px" src="/img/certs/aenor-iso-9000.png"></a>
+                    <a href="/img/certs/iqnet-certified-full.png" target="_blank"><img width="60px" src="/img/certs/iqnet-certified.png"></a>
+                    <a href="https://sede.micinn.gob.es/pyiINFO/buscarPyi.mec?org.apache.struts.taglib.html.TOKEN=ffc25ad29e025e8631816f00aebe2739&nif=B98184807&razonSocial=&ccaa=&nifHidden=B98184807&ccaaHidden=&razonSocialHidden=&nuevoFiltro=NO&buscarPulsado=SI&excelPulsado=NO" target="_blank"><img width="80px" src="/img/certs/sello_pyme_innovadora_2018_es.png"></a>
+                </div>
+                <div class="footer-col col-md-4 text-center">
+                    <p>&copy; 2017 - excentia</p>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="/legal">Aviso Legal</a>
+                        </li>
+                        <li>
+                            <a href="/privacy">Privacidad</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4 text-right">
+                    <ul class="list-inline">
+                        {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" class="btn-social"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

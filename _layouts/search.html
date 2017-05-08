@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+    {% include head.html %}
+    
+    <body id="page-top">
+
+    {% include nav-blog.html %}
+        <header>
+        <div >
+            <div class="container" style="padding-top: 80px">
+                <section id="portfolio" style="padding-top: 10px">
+                    <ul id="search-results"></ul>
+                </section>
+
+                <script>
+                  window.store = {
+                    {% for post in site.posts %}
+                        {% assign cat = '' %}
+                        {% for category in post.categories %}
+                            {% assign cat = cat | append: ' ' | append: category %}
+                        {% endfor %}
+                    
+                      "{{ post.url | slugify }}": {
+                        "title": "{{ post.title | xml_escape }}",
+                        "author": "{{ post.author | xml_escape }}",
+                        "date": "{{ post.date | date: '%Y-%m-%d' }}",       
+                        "category": "{{ cat }}",
+                        "url": "{{ post.url | xml_escape }}"
+                      }
+                         
+                      {% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                  };
+                  
+                </script>
+                <script src="/js/lunr.min.js"></script>
+                <script src="/js/search.js"></script>
+            </div>
+        </div>
+</header>
+    {% include categories-grid.html %}
+    {% include contact.html %}        
+    {% include scripts.html %}
+    </body>
+</html>

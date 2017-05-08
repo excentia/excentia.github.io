@@ -1,0 +1,55 @@
+ <header>
+
+   <!-- Header -->
+    <div class="container" style="background-image: url(/img/product-background-header.png)">
+            <div class="row">
+                <div class="header-content text-center">
+                <div class="header-content-inner text-center" style="width: 100%">
+     
+                    <!-- image cover? -->
+                    
+                        
+<h3>                    {{ page.date | date: "%d" }}
+                        {% assign m = page.date | date: "%-m" %}
+                                {% case m %}
+                                  {% when '1' %}Enero
+                                  {% when '2' %}Febrero
+                                  {% when '3' %}Marzo
+                                  {% when '4' %}Abril
+                                  {% when '5' %}Mayo
+                                  {% when '6' %}Junio
+                                  {% when '7' %}Julio
+                                  {% when '8' %}Agosto
+                                  {% when '9' %}Septiembre
+                                  {% when '10' %}Octubre
+                                  {% when '11' %}Noviembre
+                                  {% when '12' %}Diciembre
+                                {% endcase %}
+                                {{ page.date | date: " %Y" }}                        
+                        
+                                                        <br>&#8212;<br>
+</h3>                                        
+    
+             
+                        <h1>{{ page.title }}</h1>
+                        
+                        <h3>
+                            {% if page.author != "Unknown" %}
+                                por <strong>{{ page.author }}</strong>
+                            {% endif %}
+                            <br>&#8212;<br>
+                            
+                            <ul class="list-inline item-details">
+                                {% for tag in page.categories %}
+                                <li>
+                                    <a href="/search?query={{ tag }}"><h5 class="label label-warning" style="text-transform: uppercase;">{{ tag }}</h5></a>
+                                </li>
+                                {% endfor %}                                    
+                            </ul> 
+                            {{ page.description }}
+                        </h3>
+                    </div>
+        </div>
+     </div>
+     </div>
+     </header>

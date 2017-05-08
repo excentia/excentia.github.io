@@ -1,0 +1,97 @@
+<footer id="contact">
+    <div class="footer-above">
+        <div class="container">
+                <div class="row text-left">
+                    <div class="footer-col col-md-2">
+                        <strong>About us</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="#vision">Vision</a></li>
+                            <li><a class="page-scroll" href="#values">Values</a></li>
+                            <li><a class="page-scroll" href="#awards">Awards</a></li>
+                            <li><a class="page-scroll" href="#testimonial">Testimonials</a></li>      
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>Products</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="#atlassian-products">Atlassian</a></li>
+                            <li><a class="page-scroll" href="#sonarsource-products">SonarSource</a></li>
+                        </ul>
+                        <br>
+                        <strong>Services</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="#code-quality-services">Software Quality</a></li>
+                            <li><a class="page-scroll" href="#process-quality-services">Process Quality</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>Atlassian Add-ons</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a href="/time-tracking-stats">Time Tracking Stats</a></li>
+                            <li><a href="/cards">Cards</a></li>
+                            <li><a href="/debt-tracker">Debt Tracker</a></li>
+                            <li><a href="/3d-issues-map">3D Issues Map</a></li>
+                            <li><a href="/issue-picker">Issue Picker</a></li>
+                            <li><a href="/traceabilityx">TraceabilityX</a></li>
+                            <li><a href="/spanish-language-pack">Spanish Pack</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>SonarQube Plugins</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a href="/3d-code-metrics">3D Code Metrics</a></li>
+                            <li><a href="/abc">ABC</a></li>
+                            <li><a href="/formula">Formula</a></li>
+                            <li><a href="/tattletale">Tattletale</a></li>
+                            <li><a href="/spanish-pack">Spanish Pack</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <strong>Blog</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a href="/blog/#blog-grid">Posts</a></li>
+                            <li><a href="/blog/#news-grid">News</a></li>
+                        </ul>
+                        <br>
+                        <strong>Partners</strong>
+                        <ul style="list-style-type: none;">
+                            <li><a class="page-scroll" href="/atlassian">Atlassian Gold</a></li>
+                            <li><a class="page-scroll" href="/sonarsource">SonarSource partner</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="footer-col col-md-2">
+                        <a href="https://jira.excentia.es/servicedesk/customer/portal/12" class="btn btn-outline btn-xl" >Contact us</a>                        
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div style="padding-top: 25px"></div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4 text-center"></div>
+                <div class="footer-col col-md-4 text-center">
+                    <p>&copy; 2017 - excentia</p>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="/legal">Legal</a>
+                        </li>
+                        <li>
+                            <a href="/privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4 text-right">
+                    <ul class="list-inline">
+                        {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" class="btn-social"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

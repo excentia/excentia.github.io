@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav-blog.html %}
+  {% include header-post.html %}
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <div class="modal-body" style="padding-top: 50px; font-size: 1.8em">
+                        {{ page.content }}
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+  {% include share.html %}
+  {% include small-separator.html %}
+  {% include disqus-comments.html %}
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
+

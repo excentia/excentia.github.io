@@ -1,0 +1,59 @@
+# Site settings
+title: excentia
+email: info@excentia.es
+description: calidad de software, calidad de procesos y servicios, Atlassian Gold Solution Partners, SonarSource partners, SonarQube
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.excentia.es" # the base hostname & protocol for your site
+
+google_analytics: "UA-86331249-1"
+disqus_account: excentia
+
+share:
+    twitter: excentia
+
+# Team names, titles and social links
+people:
+- name: Antonio Calero
+  pic: 1
+  position: Fundador, co-CEO
+  social:
+    - title: twitter
+      url: https://twitter.com/acaleromon
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Hugo Mora
+  pic: 2
+  position: Fundador, co-CEO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://facebook.com/excentia
+  - title: twitter
+    url: https://twitter.com/excentia
+  - title: linkedin
+    url: https://www.linkedin.com/company/excentia
+  - title: google-plus
+    url: https://plus.google.com/+excentiaES
+  #- title: github
+  #  url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: :title
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-feed, jekyll-sitemap, jekyll-seo-tag]
+# Build settings

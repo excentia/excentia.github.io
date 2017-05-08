@@ -1,0 +1,51 @@
+<section id="installation" class="download bg-primary text-center" style="padding: 50px 0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">Instalación</h2>
+                <hr class="light">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="installation" style="padding: 50px 0">
+        <div class="container">
+            <div class="row">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <h3>
+                            {% if page.installation == "jira-installation" %}
+                                
+                                <ol>
+                                    <li>Accede a tu instancia de JIRA como administrador.</li>
+                                    <li>Pulsa el desplegable de tu perfil de administrador y elige Atlassian Marketplace. Se cargará la página de gestión de complementos (add-ons)</li>
+                                    <li>Pulsa Buscar nuevos complementos en el menú lateral de la izquierda de la página. </li>
+                                    <li>Localiza Cards Plugin for JIRA a través de una búsqueda.</li>
+                                    <li>La versión apropiada para el complemento aparecerá en el resultado de la búsqueda. Pulsa <strong>Prueba gratuita</strong> para comenzar una nueva evaluación o <strong>Comprar ahora</strong> para comprar una licencia.</li>
+                                    <li>Te redireccionarán a tu cuenta de MyAtlassian. Y el plugin comenzará a descargarse.</li>
+                                    <li>Introduce toda la información y pulsa en <strong>Generate license</strong> cuando te redireccione a MyAtlassian.</li>
+                                    <li>Pulsa <strong>Aplicar licencia</strong></li>
+                                    <li>Si estas utilizando una versión antigua de UPM, puedes copiar y pegar la licencia en tu instancia de JIRA.</li>
+                                </ol>
+
+                            {% endif %}
+                            {% if page.installation == "sonarqube-installation" %}
+                                
+                                <p>La instalación es muy sencilla:</p>
+                                <ol>
+                                    <li>Utiliza el centro de actualizaciones de SonarQube o copia el fichero jar descargado en la carpeta de plugins de SonarQube</li>
+                                    <li>Reinicia el servidor de SonarQube</li>
+                                    <li>Conecta como usuario administrador, y accede a la configuración global, y en las opciones de configuración general accede a la sección del plugin</li>
+                                    <li>Pega la clave de licencia y guarda la configuración</li>
+                                    <li>Se requiere un nuevo análisis para disponer de la nueva información proporcionada por el análisis.</li>
+                                </ol>
+
+                                <p>Recuerda añadir los diferentes widgets en tu cuadro de mandos para poder ver los resultados.</p>                                
+                            {% endif %}
+                            </h3>
+                        </div>
+                    </div>
+            </div>
+        </div>
+</section>

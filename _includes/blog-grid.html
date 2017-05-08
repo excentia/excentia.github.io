@@ -1,0 +1,52 @@
+<!-- Portfolio Grid Section -->
+<section id="blog-grid" class="download bg-primary text-center" style="padding: 50px 0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">Índice de los artículos</h2>
+                <hr class="light">
+                <h3>Si lo prefieres puedes navegar entre todos artículos publicados...</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <section id="blog-grid">
+        <div class="container">  
+            {% for post in site.posts %}
+                {% if post.categories[0] != "noticias" %}
+                            <div class="col-sm-6 col-md-3 col-lg-3 portfolio-item">
+                            <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
+                              <h5>
+                                    <time datetime="{{ post.date | date_to_xmlschema }}">
+                                        <span class="day">
+                                            {{ post.date | date: "%d" }}
+                                        </span>
+                                        <span class="month-year">
+                                            {% assign m = post.date | date: "%-m" %}
+                                            {% case m %}
+                                              {% when '1' %}ENERO
+                                              {% when '2' %}FEBRERO
+                                              {% when '3' %}MARZO
+                                              {% when '4' %}ABRIL
+                                              {% when '5' %}MAYO
+                                              {% when '6' %}JUNIO
+                                              {% when '7' %}JULIO
+                                              {% when '8' %}AGOSTO
+                                              {% when '9' %}SEPTIEMBRE
+                                              {% when '10' %}OCTUBRE
+                                              {% when '11' %}NOVIEMBRE
+                                              {% when '12' %}DICIEMBRE
+                                            {% endcase %}
+                                            {{ post.date | date: "%Y" }}
+                                        </span>
+                                    </time>
+                                </h5>
+                                <h3 class="list-group-item-heading" style="text-transform: uppercase"> {{ post.title }} </h3>    
+                            </a>
+                            </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </section>
