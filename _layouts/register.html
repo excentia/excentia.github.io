@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav-blog.html %}
+    
+  <section id="register" class="download bg-primary text-center" style="padding-top: 50px; padding-bottom: 20px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+            </div>
+        </div>
+    </div>
+  </section>
+  
+  {{ page.content }}
+    
+  {% include contact.html %}  
+  {% include scripts.html %}
+  <script src="/js/info.js"></script>
+  <script src="/js/register.js"></script>
+
+</body>
+
+</html>
