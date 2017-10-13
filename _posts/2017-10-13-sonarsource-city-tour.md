@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SonarSource City Tour'
+title: 'SonarSource City Tour Madrid 2017'
 description: SonarSource City Tour llega a Madrid de la mano de excentia
 date: '2017-10-13T09:00:00.000+01:00'
 author: excentia
@@ -23,12 +23,19 @@ Los equipos de [excentia](http://www.excentia.es/) y [SonarSource](https://www.s
 ¿Qué podremos ver durante el evento? Te adelantamos algunos de los contenidos:
 
 * Demos de **SonarQube** 6.x.
+
 * Mejoras en escalado y alta disponibilidad.
+
 * **SonarLint**: características y adopción. 
+
 * **SonarQube** y **DevOps**: amor incondicional.
+
 * **SonarCloud**: inspección continua en la nube. 
+
 * Experiencias de clientes. 
+
 * Maximizando el valor a través del compromiso.
+
 * **SonarQube 7**: lo que está por llegar.
 
 El evento tendrá lugar en el Hotel NH Madrid Nacional, el miércoles 29 de noviembre de 9:30 a 15:30.
