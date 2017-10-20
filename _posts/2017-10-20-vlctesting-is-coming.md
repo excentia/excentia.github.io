@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VLCTesting is coming!'
-description: El evento más esperado del año por todos los profesionales del **testing** y la **calidad del software** en Valencia ya está casi aquí
+description: El evento más esperado del año por todos los profesionales del testing y la calidad del software
 date: '2017-10-20T09:00:00.000+01:00'
 author: excentia
 categories: 
