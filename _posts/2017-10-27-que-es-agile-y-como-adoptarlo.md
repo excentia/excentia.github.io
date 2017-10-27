@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Qué es agile, por qué adoptarlo y cómo hacerlo?'
-description: El evento más esperado del año por todos los profesionales del testing y la calidad del software
+description: Si trabajas en desarrollo, software, o alguna de sus variantes, agile es una palabra que te sonará, o incluso, formará parte de tu día a día
 date: '2017-10-27T08:00:00.000+01:00'
 author: excentia
 categories: 
