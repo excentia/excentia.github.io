@@ -1,16 +1,16 @@
 ---
 layout: post
 title: '¿Qué es DevOps?'
-description: ¡Bienvenidos al primer artículo de *#excentiaDevOps*!Empecemos por lo fundamental - ¿qué es DevOps?
+description: ¡Bienvenidos al primer artículo de *excentiaDevOps*! Empecemos por lo fundamental - ¿qué es DevOps?
 date: '2017-11-17T08:00:00.000+01:00'
 author: excentia
 categories: 
-- opinión
+- opinion
 - calidad
 - DevOps
 - desarrollo
 - equipo
-- gestión
+- gestion
 modified_time: '2017-11-17T08:00:00.000+01:00'
 ---
 
@@ -30,10 +30,9 @@ El fin último de **DevOps** es la **mejora continua** e infinita y por eso se r
 
 Una vez tenemos claro qué es y qué no es **DevOps** la pregunta estrella es ¿Por qué? - ¿Por qué adoptar esta metodología de trabajo? Bien, múltiples y probados son sus beneficios - de nuevo, hablaremos en profundidad sobre ellos en nuevas entregas de *#excentiaDevOps*. Sin embargo, podemos resumirlos en que la adopción de **DevOps** permite:
 
-
-* Liberar versiones más rápido y con menos errores.
-* Reducir la **deuda técnica**: la automatización ayuda a incrementar la eficiencia y la velocidad en cada iteración. 
-* Proponer nuevas funcionalidades y establecer nuevos productos en el mercado mucho más rápidamente. 
+* **Liberar versiones** más rápido y con menos errores.
+* **Reducir la deuda técnica**: la automatización ayuda a incrementar la eficiencia y la velocidad en cada iteración. 
+* **Proponer nuevas funcionalidades y establecer nuevos productos en el mercado mucho más rápidamente**. 
 
 
 ## El camino hacia **DevOps**
@@ -41,9 +40,9 @@ Resumiendo, tenemos claro **que es la metodología DevOps**, por qué cualquier 
 
 El camino hacia **DevOps** se compone de tres fases o etapas. 
 
-1.	La cultura: los equipos tienen que hablar entre ellos, la información tiene que estar siempre disponible y por supuesto, todo el mundo comparte éxitos y fracasos.
-2.	Las prácticas: una **metodología ágil** será imprescindible, **control de versiones**, **integración continua**…
-3.	Las herramientas: no se puede hacer una tortilla sin romper los huevos… De la misma manera que no se puede adoptar **DevOps** sin herramientas que favorezcan la cultura y las prácticas que arriba describimos. ¡Ojo! Eso no significa que con usar las herramientas podamos autodefinirnos como **DevOps**. Si no las usamos con unos objetivos y una metodología, no están cumpliendo su fin, de la misma manera que si no batimos los huevos no tendremos la tortilla…
+1. La cultura: los equipos tienen que hablar entre ellos, la información tiene que estar siempre disponible y por supuesto, todo el mundo comparte éxitos y fracasos.
+2. Las prácticas: una **metodología ágil** será imprescindible, **control de versiones**, **integración continua**…
+3. Las herramientas: no se puede hacer una tortilla sin romper los huevos… De la misma manera que no se puede adoptar **DevOps** sin herramientas que favorezcan la cultura y las prácticas que arriba describimos. ¡Ojo! Eso no significa que con usar las herramientas podamos autodefinirnos como **DevOps**. Si no las usamos con unos objetivos y una metodología, no están cumpliendo su fin, de la misma manera que si no batimos los huevos no tendremos la tortilla…
 
 
-¿Qué os ha parecido esta primera introducción? ¿Alguna duda acerca de qué es **DevOps**? ¿Interesados en contribuir con [excentia](http://www.excentia.es/) en nuestra saga *#excentiaDevOps*? ¡Animaros a compartir con nosotros todos esos conocimientos y dudas! Recordar que es el primer paso para adoptar **DevOps** . 
+¿Qué os ha parecido esta primera introducción? ¿Alguna duda acerca de qué es **DevOps**? ¿Interesados en contribuir con [excentia](http://www.excentia.es/) en nuestra saga *#excentiaDevOps*? ¡Animaros a compartir con nosotros todos esos conocimientos y dudas! Recordar que es el primer paso para adoptar **DevOps**. 
