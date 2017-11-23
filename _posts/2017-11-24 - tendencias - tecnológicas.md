@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 'Las principales tendencias tecnológicas… de “nuestros tiempos”'
+title: 'Las principales tendencias tecnológicas... de “nuestros tiempos”'
 description: En excentia te contamos las tendencias tecnológicas que más impacto tendrán en este 2018.
 date: '2017-11-24T08:00:00.000+01:00'
 author: excentia
 categories: 
 - noticias
 - innovacion
-
 modified_time: '2017-11-24T08:00:00.000+01:00'
 ---
 
