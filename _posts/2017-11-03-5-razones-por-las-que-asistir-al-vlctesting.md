@@ -3,7 +3,7 @@ layout: post
 title: '5 razones por las que asistir al #vlctesting17'
 description: Descubre por qué deberías asistir al evento de calidad y testeo de software más esperado del año.
 date: '2017-11-03T08:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo
 categories: 
 - noticias
 - testing
@@ -11,6 +11,7 @@ modified_time: '2017-11-03T08:00:00.000+01:00'
 ---
 
 <a href="http://www.excentia.es/vlctesting-is-coming" target="_blank"><img class="center" width="100%" alt="calidad software" title="VLC Testing 2017" src="/img/posts/2017-11-03-razones vlctesting.png"></a>
+
 
 ¡El [Instituto Tecnológico de Informática (ITI)](https://www.iti.es/) organiza una nueva edición del *#vlctesting*! Este evento, dirigido a profesionales con inquietud por conocer y mejorar sus **procesos**, metodologías y herramientas para asegurar la **calidad en el desarrollo de software**, celebra ya su séptima edición, tras iniciarse en el 2011. Desde entonces, el éxito y la satisfacción de todos los asistentes ha sido tal, que todos esperamos impacientes [noticias](http://www.excentia.es/vlctesting-is-coming) para el próximo año. 
 
@@ -21,7 +22,8 @@ El [programa](http://www.vlctesting.es/programa) está formado por ponencias de 
 
 ¿Qué, todavía no estás seguro del por qué asistir? Intentamos darte motivos muy convincentes de porque hacerlo. 
 
- ## Estas cinco razones te sacarán de dudas… 
+
+## Estas cinco razones te sacarán de dudas 
  
 1.	El *#vlctesting* es el mejor evento de **desarrollo de software** en España. Con un largo y exitoso recorrido de más de 6 años, en el *#vlctesting* se reúnen los mejores expertos en **calidad de código**.  Es un acontecimiento esperado por todos los profesionales y reconocido por más que muchos, organizado con mucho esfuerzo y cariño por el [Instituto Tecnológico de la Informática](https://www.iti.es/) y patrocinado por las empresas líderes en **calidad de código**. 
 

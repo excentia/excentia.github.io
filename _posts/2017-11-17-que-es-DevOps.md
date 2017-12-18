@@ -3,7 +3,7 @@ layout: post
 title: '¿Qué es DevOps?'
 description: ¡Bienvenidos al primer artículo de excentiaDevOps! Empecemos por lo fundamental - ¿qué es DevOps?
 date: '2017-11-17T08:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo
 categories: 
 - opinion
 - calidad

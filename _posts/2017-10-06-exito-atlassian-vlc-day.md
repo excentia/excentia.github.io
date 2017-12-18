@@ -3,7 +3,7 @@ layout: post
 title: 'Éxito en el Atlassian VLC Day'
 description: ¡Muchas gracias por vuestra asistencia al Atlassian VLC Day 2017!
 date: '2017-10-06T09:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo
 categories: 
 - noticias
 - atlassian

@@ -3,7 +3,7 @@ layout: post
 title: 'Resumen SonarSource City Tour 2017'
 description: ¿Te perdiste al equipo de SonarSource en Madrid? ¿Quieres saber en 2 minutos de qué se habló y cuáles fueron las impresiones generales? Si es el caso, ¡sigue leyendo!
 date: '2017-12-01T08:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo 
 categories: 
 - noticias
 - calidad
@@ -46,5 +46,5 @@ Además de todo esto también hablamos sobre [SonarLint](https://www.sonarlint.o
 
 Por último, Antonio Calero nos contó en una amena y apreciada charla **cómo escribir código limpio** y recalcó la importancia, repercusión y ahorro de **medir la calidad de código** en el momento adecuado. 
 
-##Para finalizar...
+## Para finalizar...
 El último consejo que queremos daros hoy para cerrar este resumen creemos que os será bastante útil. Una de las mayores ventajas de **SonarQube** es precisamente la posibilidad de con una misma plataforma analizar lenguajes distintos. No tendremos que usar programas distintos para tecnologías distintas.  Sin embargo, para poder disfrutar de estas ventajas necesitamos estar alerta y disponer siempre de las últimas actualizaciones. Por eso desde [excentia](http://www.excentia.es/) os recomendamos encarecidamente que os suscribáis a este [boletín](https://www.sonarsource.com/resources/product-news/). Recibiereis emails claros y sencillos, sobre las últimas actualizaciones y no os preocupéis por comunicaciones comerciales, eso queda para otras suscripciones. Así que no lo dudéis y darle al [botón](http://feedburner.google.com/fb/a/mailverify?uri=Sonarsource&loc=en_US). 

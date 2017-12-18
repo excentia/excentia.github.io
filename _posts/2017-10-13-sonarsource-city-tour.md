@@ -3,7 +3,7 @@ layout: post
 title: 'SonarSource City Tour Madrid 2017'
 description: SonarSource City Tour llega a Madrid de la mano de excentia
 date: '2017-10-13T09:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo
 categories: 
 - noticias
 - sonarqube
@@ -11,6 +11,7 @@ modified_time: '2017-10-13T09:00:00.000+01:00'
 ---
 
 <a href="http://bit.ly/2ydqjuO" target="_blank"><img class="center" width="100%" alt="SonarSource City Tour" title="SonarSource City Tour Madrid" src="/img/posts/2017-10-13-SonarSource-City-Tour-Madrid.png"></a>
+
 
 ¡**SonarSource** vuelve a Madrid! La empresa referente en [**calidad de código**](https://www.sonarsource.com/) regresa a España con su ya habitual tour de eventos por más de 10 ciudades europeas y estadounidenses: Londres, Nueva York, Paris, Frankfurt o Washington, junto con Madrid, son algunos de sus destinos para el 2017. 
 

@@ -3,7 +3,7 @@ layout: post
 title: 'El Atlassian Summit U.S. viaja a Valencia'
 description: Descubre las últimas novedades del Atlassian Summit con excentia el jueves 5 de octubre en Valencia
 date: '2017-09-22T09:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo
 categories: 
 - noticias
 - atlassian

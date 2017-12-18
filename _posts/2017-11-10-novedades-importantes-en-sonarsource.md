@@ -3,7 +3,7 @@ layout: post
 title: 'Novedades importantes en SonarSource'
 description: Te detallamos las nuevas funcionalidades de SonarQube 6.7 (LTS) y te contamos su renovada cartera de productos.
 date: '2017-11-11T08:00:00.000+01:00'
-author: excentia
+author: Andrea Crespo
 categories: 
 - noticias
 - calidad
@@ -13,7 +13,9 @@ modified_time: '2017-11-11T08:00:00.000+01:00'
 
 <a href="http://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="novedades importantes en SonarSource" title="Novedades importantes en SonarSource" src="/img/posts/2017-11-11-novedades-sonar.png"></a>
 
+
 El pasado miércoles fue un día muy importante para la comunidad [SonarSource](https://www.sonarsource.com/). Coincidiendo con la celebración del noveno aniversario de la empresa, y el inicio del ciclo de eventos [City Tour](https://www.sonarsource.com/company/events/) por Estados Unidos en Nueva York, el líder en calidad de código anunció dos de sus novedades más importantes hasta el momento: el [lanzamiento](https://www.sonarsource.com/resources/product-news/news.html#6.7-lts-released) de **SonarQube 6.7** (LTS) y un cambio estratégico en su cartera de productos. 
+
 
 ## SonarQube 6.7
 Como bien dicen nuestros compañeros de [SonarSource](http://www.excentia.es/sonarsource), la navidad se ha adelantado con el lanzamiento de esta versión que nos trae muchas de las funcionalidades que estábamos esperando. 
@@ -26,7 +28,8 @@ Como bien dicen nuestros compañeros de [SonarSource](http://www.excentia.es/son
 
 * **Inspección continua de la calidad del código**: SonarSource apuesta fuerte por la filosofía [DevOps](http://www.excentia.es/que-es-agile-y-como-adoptarlo). Queremos que todo simplemente funcione, y por eso ya no tendrás que abandonar el IDE para saber si el *Quality Gate* ha cambiado o si se te ha asignado alguna nueva incidencia. *Integración entre aplicaciones = trabajo fluido y continuo*. 
 
-## Nuevas ediciones de SonarSource
+
+## Nuevas licencias en SonarSource
 La otra gran noticia del día fue el cambio estratégico en SonarSource. El [modelo de licenciamiento]( https://www.sonarsource.com/plans-and-pricing/) ha cambiado en consonancia con la filosofía de **mejora continua** que compartimos SonarSource y [excentia]( http://www.excentia.es/).
 
 <a href="https://www.sonarsource.com/plans-and-pricing/" target="_blank"><img class="center" width="100%" alt="Modelo de precios y planes en SonarSource" title="Novedades importantes en SonarSource" src="/img/posts/2017-11-11-planes-nuevos.png"></a>
