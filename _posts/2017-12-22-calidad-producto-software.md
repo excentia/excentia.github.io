@@ -16,7 +16,7 @@ modified_time: '2017-12-22T08:00:00.000+01:00'
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt=" La calidad del producto software" title="La calidad del producto software" src="/img/posts/2017-12-22-calidad-producto-software.png"></a>
 
 
-En [excentia](www.excentia.es) queremos celebramos la Navidad con todos vosotros hablando de uno de los temas que más nos apasiona: la calidad del software. Sabemos que este artículo no es tan apasionante como la lotería de navidad, pero, ¿sabéis qué?, asegurar la calidad de tu producto software es casi como si te tocara el gordo, y aquí vienen las razones. 
+En [excentia](http://www.excentia.es) queremos celebramos la Navidad con todos vosotros hablando de uno de los temas que más nos apasiona: la calidad del software. Sabemos que este artículo no es tan apasionante como la lotería de navidad, pero, ¿sabéis qué?, asegurar la calidad de tu producto software es casi como si te tocara el gordo, y aquí vienen las razones. 
 
 Las estadísticas de la industria muestran que en promedio el 80% del coste de un producto software se invierte en mantenimiento durante todo su ciclo de vida, y que los **costes de mantenimiento tienen alta variabilidad en función de la calidad interna del código**. Por tanto, **la calidad interna del código es el elemento determinante de alrededor del 80% del coste de un producto software**, ya que la capacidad de mantenibilidad del producto software de hoy determinará el coste de mañana.
 
@@ -30,11 +30,11 @@ En el mejor de los casos este método tradicional de control de calidad ocasiona
 
 Las auditorias puntuales se ejecutan por diseño a intervalos específicos y no de forma continua. Este enfoque de la gestión de la calidad del código tiene cuatro grandes tipos de deficiencias, que detallamos a continuación: 
 
-* Demasiado poco, demasiado tarde
+*Demasiado poco, demasiado tarde* 
 
 Las auditorias puntuales identifican dos tipos de mejoras: cambios cosméticos y cambios estructurales. Mientras que los cambios cosméticos requieren modificaciones menores, los cambios estructurales pueden incluir importantes reingenierías de software. Si bien pueden ser necesarios estos cambios, **los planes de acción resultantes de las auditorias puntuales se definen demasiado tarde en el proceso**; de manera que o la fecha de lanzamiento de una versión software necesita ser ampliada, para incluir esta reingeniería del software, o peor todavía, el software llegara a producción con un nivel bajo de calidad, y por lo tanto con baja mantenibilidad y capacidad de adaptación cuando surjan nuevos requisitos del negocio. 
 
-* El rechazo de los desarrolladores
+*El rechazo de los desarrolladores*
 
 Los desarrolladores tienden a rechazar los planes de acción generados a partir de auditorías puntuales, ya que: 
 
@@ -49,11 +49,11 @@ d. Están invalidados por los cambios en curso y rápidamente quedan obsoletos.
 e. No involucra a los desarrolladores y otras partes interesadas en el proceso de revisión y auditoría. Intervienen demasiado tarde en el proceso; para cuando una característica es auditada, los desarrolladores necesitan “reaprender” el código para hacer frente a un hallazgo. 
 
 
-* Falta de propiedad de los procesos
+*Falta de propiedad de los procesos*
 
 Hay una clara falta de apropiación del proceso de calidad dentro de la organización. **Los auditores no pueden poseer el proceso, debido a que ni son propietarios del código ni tienen control sobre la resolución de problemas**. Del mismo modo, el carácter de mando y control del modelo evita que el equipo de desarrollo sea dueño del proceso, ya que no está involucrado en las revisiones. Así que aparecen dos grupos inconexos que son ambos responsables de calidad, mientras que en realidad ninguno de ellos es responsable.
 
-* Heterogeneidad de los requisitos
+*Heterogeneidad de los requisitos*
 
 Los enfoques tradicionales miden el software en valores absolutos, como el número total de problemas encontrados en unos umbrales de calidad, y eso fuerza a los evaluadores a medir cada aplicación contra diferentes requisitos, en función de su origen. Por ejemplo, un proyecto *legacy* se hace con el mismo estándar de alta calidad que se espera de un proyecto nuevo, y el desarrollo interno podría ser juzgado de manera diferente que el código subcontratado. Esto se debe al hecho de que se debe “autorizar” el software para pasarlo a producción. 
 **Que cada proyecto deba alcanzar los mismos valores absolutos para los umbrales de calidad antes de su lanzamiento es a menudo poco práctico**. El uso de este tipo de valores absolutos implica que sea casi imposible conseguir requisitos comunes para todas las aplicaciones, y por lo tanto difícil de adoptar buenas prácticas en todos los ámbitos. 
