@@ -564,6 +564,17 @@ footer {
   }
 }
 
+.btn-outline-white {
+  color: white;
+  border-color: white;
+  border: 1px solid;
+  &:hover, &:focus, &:active, &.active {
+    color: white;
+    background-color: $theme-primary;
+    border-color: $theme-primary;
+  }
+}
+
 .btn-outline-noborder {
   color: #555555;
   &:hover, &:focus, &:active, &.active {
