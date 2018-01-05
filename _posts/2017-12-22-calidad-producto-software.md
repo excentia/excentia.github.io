@@ -7,9 +7,9 @@ author: Antonio Calero
 categories: 
 - opinion
 - calidad
-- Desarrollo
-- Metodologia
-- Integracion
+- desarrollo
+- metodologia
+- integracion
 modified_time: '2017-12-22T08:00:00.000+01:00'
 ---
 
