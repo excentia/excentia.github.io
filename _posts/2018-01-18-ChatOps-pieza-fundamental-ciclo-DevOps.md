@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatización de pruebas'
+title: 'ChatOps: pieza fundamental del ciclo DevOps'
 description: ChatOps es una filosofía emergente y destinada a convertirse en el día a día de los equipos de trabajo. Se trata de un modelo colaborativo que conecta a las personas, herramientas, procesos y automatizaciones en un flujo de trabajo completamente transparente.
 date: '2018-01-18T08:00:00.000+01:00'
 author: Alberto Alós
