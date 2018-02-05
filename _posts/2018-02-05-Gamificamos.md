@@ -31,7 +31,7 @@ En definitiva, gamificar es convertir el trabajo en un juego con el objetivo de 
 
 Por cierto, puede que conozcas a la gamificación con otro nombre, que puristamente hablando sería más correcto en la lengua española. Fue otro de los grandes temas de debate en Twitter… ¿Gamificación o ludificación?  Google, que lo sabe todo, dice que en España lo de ludificación no se lleva mucho… Mira que nos gustan los anglicanismos. Ay, si es que en inglés todo suena mejor, ¿verdad, despliegue continuo? (*continuos deployment* es más *cool*, venga no lo niegues)
 
-<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Tendencias de busqueda de gamificacion en comparativa con ludificacion" title="Tendencias de busqueda de gamificacion en comparativa con ludificacion" src="/img/posts/2018-02-05-trends.png"></a>
+<a href="http://www.excentia.es/#sonarqube-plugins" target="_blank"><img class="center" width="100%" alt="Tendencias de busqueda de gamificacion en comparativa con ludificacion" title="Tendencias de busqueda de gamificacion en comparativa con ludificacion" src="/img/posts/2018-02-05-trends.png"></a>
 
 ## Beneficios de gamificar. 
 Bueno, entonces, ¿por qué convertir los proyectos en juegos? Pues por lo que conseguimos al hacerlo (si lo hacemos bien claro):
