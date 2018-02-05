@@ -25,7 +25,7 @@ Ya respondimos a esta pregunta tiempo atrás, pero es bueno empezar por el princ
 Concepto relacionado con la teoría de la diversión que afirma que la diversión es la forma más fácil de cambiar el comportamiento de la gente. Para [muestra](https://www.youtube.com/watch?v=fWnabVDwCf0) un botón. Volkswagen realizó una serie de anuncios demostrando la validez de esta teoría en la que se sustenta la gamificación. 
 
 
-<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=fWnabVDwCf0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/fWnabVDwCf0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 En definitiva, gamificar es convertir el trabajo en un juego con el objetivo de mantener motivados a los trabajadores. ¡Ojo! No confundamos juego con cachondeo, que somos muy dados… Todo juego tiene unas normas y unos objetivos. Y todo jugador quiere una única cosa: ganar, y para ello hay que ser el mejor. De ahí la relación entre gamificación y mejora continua. 
 
