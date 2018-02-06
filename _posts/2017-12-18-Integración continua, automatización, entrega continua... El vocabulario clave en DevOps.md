@@ -7,10 +7,10 @@ author: Andrea Crespo
 categories: 
 - opinion
 - calidad
-- DevOps
-- Desarrollo
-- Equipo
-- Gestion
+- devops
+- desarrollo
+- equipo
+- gestion
 modified_time: '2017-12-18T08:00:00.000+01:00'
 ---
 

@@ -7,7 +7,7 @@ author: Andrea Crespo
 categories: 
 - opinion
 - calidad
-- DevOps
+- devops
 - desarrollo
 - equipo
 - gestion
