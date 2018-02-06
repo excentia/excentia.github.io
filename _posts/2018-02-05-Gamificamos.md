@@ -37,9 +37,13 @@ Por cierto, puede que conozcas a la gamificación con otro nombre, que puristame
 Bueno, entonces, ¿por qué convertir los proyectos en juegos? Pues por lo que conseguimos al hacerlo (si lo hacemos bien claro):
 
 * Motivamos a los trabajadores. La tarea más monótona puede convertirse en excitante si logramos recompensas por su realización. 
-* Unimos al equipo. Colaboran entre ellos, comentan las jugadas y se pican, porque no lo vamos a negar…lo que nos gusta un pique. 
+
+* Unimos al equipo. Colaboran entre ellos, comentan las jugadas y se pican, porque no lo vamos a negar... lo que nos gusta un pique. 
+
 * Generamos un sentimiento de comunidad y una elevada cultura y comprensión empresarial. 
+
 * Aprendemos. Desde niños nos enseñan con juegos porque está demostrado que mejoran la retención de los nuevos conceptos. No te acuerdas de lo que el profe que leía las dispositivas en la facultad te enseñó, pero si te acuerdas de la jugada que aprendiste en aquel entrenamiento de chaval en el que te lo pasaste genial… 
+
 * La gamificación es la plataforma perfecta para reconocer los éxitos a nuestros mejores trabajadores y también para detectar problemas tempranamente y poder ayudar a aquellos que no consigan su objetivo.
 
 ## ¿Cómo gamificar?
