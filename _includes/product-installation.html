@@ -18,18 +18,35 @@
                             {% if page.installation == "jira-installation" %}
                                 
                                 <ol>
-                                    <li>Accede a tu instancia de JIRA como administrador.</li>
+                                    <li>Accede a tu instancia de Jira como administrador.</li>
                                     <li>Pulsa el desplegable de tu perfil de administrador y elige Atlassian Marketplace. Se cargará la página de gestión de complementos (add-ons)</li>
                                     <li>Pulsa Buscar nuevos complementos en el menú lateral de la izquierda de la página. </li>
-                                    <li>Localiza Cards Plugin for JIRA a través de una búsqueda.</li>
+                                    <li>Localiza la app correspondiente a través de una búsqueda.</li>
                                     <li>La versión apropiada para el complemento aparecerá en el resultado de la búsqueda. Pulsa <strong>Prueba gratuita</strong> para comenzar una nueva evaluación o <strong>Comprar ahora</strong> para comprar una licencia.</li>
                                     <li>Te redireccionarán a tu cuenta de MyAtlassian. Y el plugin comenzará a descargarse.</li>
                                     <li>Introduce toda la información y pulsa en <strong>Generate license</strong> cuando te redireccione a MyAtlassian.</li>
                                     <li>Pulsa <strong>Aplicar licencia</strong></li>
-                                    <li>Si estas utilizando una versión antigua de UPM, puedes copiar y pegar la licencia en tu instancia de JIRA.</li>
+                                    <li>Si estas utilizando una versión antigua de UPM, puedes copiar y pegar la licencia en tu instancia de Jira.</li>
                                 </ol>
 
                             {% endif %}
+                                
+                            {% if page.installation == "confluence-installation" %}
+                                
+                                <ol>
+                                    <li>Accede a tu instancia de Confluence como administrador.</li>
+                                    <li>Pulsa el desplegable de tu perfil de administrador y elige Atlassian Marketplace. Se cargará la página de gestión de complementos (add-ons)</li>
+                                    <li>Pulsa Buscar nuevos complementos en el menú lateral de la izquierda de la página. </li>
+                                    <li>Localiza la app correspondiente a través de una búsqueda.</li>
+                                    <li>La versión apropiada para el complemento aparecerá en el resultado de la búsqueda. Pulsa <strong>Prueba gratuita</strong> para comenzar una nueva evaluación o <strong>Comprar ahora</strong> para comprar una licencia.</li>
+                                    <li>Te redireccionarán a tu cuenta de MyAtlassian. Y la  app comenzará a descargarse.</li>
+                                    <li>Introduce toda la información y pulsa en <strong>Generate license</strong> cuando te redireccione a MyAtlassian.</li>
+                                    <li>Pulsa <strong>Aplicar licencia</strong></li>
+                                    <li>Si estas utilizando una versión antigua de UPM, puedes copiar y pegar la licencia en tu instancia de Confluence.</li>
+                                </ol>
+
+                            {% endif %}
+                                
                             {% if page.installation == "sonarqube-installation" %}
                                 
                                 <p>La instalación es muy sencilla:</p>
