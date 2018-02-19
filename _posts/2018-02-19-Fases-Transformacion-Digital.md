@@ -12,7 +12,7 @@ categories:
 modified_time: '2018-02-19T08:00:00.000+01:00'
 ---
 
-<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera Transformación Digital" title="Fases de la transformacion digital" src="/img/posts/2018-02-19-fases-transformacion-digital.png"></a>
+<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera Transformación Digital" title="Fases de la transformacion digital" src="/img/posts/2018-02-19-fases-transformacion-digital-2.png"></a>
 
 
 La transformación digital se lleva toda la atención y titulares de revistas tecnológicas y periódicos especializados. Es el tema del momento y como tal, queremos estar informados de las últimas novedades. Sabemos que la tecnología ha aportado mucho a nuestra sociedad. Sabemos que puede ayudarnos a especializarnos y a aportarnos ventaja competitiva, e intuimos que quedarnos desfasados significará nuestra desaparición.
