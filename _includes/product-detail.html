@@ -1,0 +1,28 @@
+{% if page.detail-body %}
+<section id="detail" class="download bg-primary text-center" style="padding: 30px 0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading"> {{ page.detail-title }}</h2>
+                <hr class="light">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="usage" style="padding: 50px 0">
+        <div class="container">
+            <div class="row">
+                    <div class="container-fluid">
+                        <div class="row">
+                                {% for desc in page.detail-body %}
+                                <h3>{{ desc }}</h3>
+                                {% endfor %}
+                        </div>
+                        
+                    </div>
+            </div>
+        </div>
+</section>
+{% endif %}
