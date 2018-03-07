@@ -1,0 +1,2015 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)https://confluence.excentia.es/pages/viewpage.action?pageId=66585485 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                            <title>Gestión de SLAs en Jira Service Desk - Consejo de Comercio - Confluence</title>
+    
+        
+
+                        
+    
+                        
+    
+
+                
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+
+<meta id="confluence-context-path" name="confluence-context-path" content="">
+<meta id="confluence-base-url" name="confluence-base-url" content="https://confluence.excentia.es">
+
+<meta id="atlassian-token" name="atlassian-token" content="42d4d081e8ce669448b29c80cc68f8ffc7c04696">
+
+
+<meta id="confluence-space-key" name="confluence-space-key" content="OFER">
+<script type="text/javascript" async="" src="./2018-03-07-sla-resuelto_files/ga.js.descarga"></script><script type="text/javascript">
+        var contextPath = '';
+</script>
+
+    
+
+    <meta name="confluence-request-time" content="1520413082815">
+        
+    
+        
+            <meta name="ajs-is-space-admin" content="false"> <meta name="ajs-has-space-config" content="false">
+            <meta name="ajs-show-space-welcome-dialog" content="true">
+            <style>.ia-fixed-sidebar, .ia-splitter-left {width: 285px;}.theme-default .ia-splitter #main {margin-left: 285px;}.ia-fixed-sidebar {visibility: hidden;}</style>
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+            <meta name="ajs-discovered-plugin-features" content="{&quot;com.atlassian.confluence.plugins.confluence-dashboard&quot;:[&quot;transition-saved-for-later&quot;],&quot;com.atlassian.confluence.plugins.confluence-jira-metadata&quot;:[&quot;linked-issues-dropdown&quot;]}">
+            <meta name="ajs-keyboardshortcut-hash" content="51ab3d75c293f06da78ec1000b4c903f">
+            <meta name="ajs-is-confluence-admin" content="false">
+            <meta name="ajs-connection-timeout" content="10000">
+            
+    
+    
+            <meta name="ajs-page-id" content="66585485">
+            <meta name="ajs-latest-page-id" content="66585485">
+            <meta name="ajs-content-type" content="page">
+            <meta name="ajs-page-title" content="Gestión de SLAs en Jira Service Desk">
+            <meta name="ajs-latest-published-page-title" content="Gestión de SLAs en Jira Service Desk">
+            <meta name="ajs-parent-page-title" content="Marketing Digital">
+            <meta name="ajs-parent-page-id" content="63996313">
+            <meta name="ajs-space-key" content="OFER">
+            <meta name="ajs-space-name" content="Consejo de Comercio">
+            <meta name="ajs-max-number-editors" content="12">
+            <meta name="ajs-jira-metadata-count" content="0">
+            <meta name="ajs-from-page-title" content="">
+            <meta name="ajs-can-remove-page" content="false">
+            <meta name="ajs-can-remove-page-hierarchy" content="false">
+            <meta name="ajs-browse-page-tree-mode" content="view">
+            <meta name="ajs-shared-drafts" content="true">
+            <meta name="ajs-user-display-name" content="Andrea Crespo">
+            <meta name="ajs-context-path" content="">
+            <meta name="ajs-base-url" content="https://confluence.excentia.es">
+            <meta name="ajs-version-number" content="6.6.0">
+            <meta name="ajs-build-number" content="7502">
+            <meta name="ajs-remote-user" content="acrespo">
+            <meta name="ajs-remote-user-key" content="ff8081815d60a7c6015e0dd29a0d1993">
+            <meta name="ajs-remote-user-has-licensed-access" content="true">
+            <meta name="ajs-current-user-fullname" content="Andrea Crespo">
+            <meta name="ajs-current-user-avatar-url" content="/download/attachments/60523139/user-avatar">
+            <meta name="ajs-current-user-avatar-uri-reference" content="/download/attachments/60523139/user-avatar">
+            <meta name="ajs-static-resource-url-prefix" content="/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/_">
+            <meta name="ajs-global-settings-attachment-max-size" content="52428800">
+            <meta name="ajs-user-locale" content="es_ES">
+            <meta name="ajs-enabled-dark-features" content="site-wide.shared-drafts,site-wide.synchrony,confluence.view.edit.transition,confluence-inline-comments-resolved,notification.plugin.api.enabled.com.atlassian.confluence.plugins.sharepage.api.ShareContentEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.mentions.api.ConfluenceMentionEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.security.ForgotPasswordEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.tasklist.event.SendTaskEmailEvent,file-annotations,confluence.efi.onboarding.rich.space.content,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.comment.CommentCreateEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.requestaccess.events.AccessGrantedEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.PageMoveEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.follow.FollowEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.inlinecomments.events.InlineCommentReplyEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostCreateEvent,confluence.table.resizable,notification.batch,confluence-inline-comments-rich-editor,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostUpdateEvent,site-wide.synchrony.opt-in,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.async.PageCreatedEvent,mobile.supported.version,notification.plugin.api.enabled.com.atlassian.confluence.plugins.files.notifications.event.FileContentMentionUpdateEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.hipchat.api.events.HipChatUserMapped,quick-reload-inline-comments-flags,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostMovedEvent,clc.quick.create,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.PageUpdateEvent,cql.search.screen,nps.survey.inline.dialog,confluence.efi.onboarding.new.templates,pdf-preview,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.async.PageMovedEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.sharepage.api.ShareCustomEvent,previews.sharing,previews.versions,notification.plugin.api.enabled.com.atlassian.confluence.plugins.files.notifications.event.FileContentUpdateEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.attachment.AttachmentBatchUploadCompletedEvent,collaborative-audit-log,notification.plugin.api.enabled.com.atlassian.confluence.efi.emails.events.OnboardingLessUsersEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.files.notifications.event.FileContentRemoveEvent,confluence.wrap.macro,previews.conversion-service,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.comment.CommentUpdateEvent,editor.ajax.save,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.async.PageEditedEvent,previews.trigger-all-file-types,notification.plugin.api.enabled.com.atlassian.confluence.plugins.inlinecomments.events.InlineCommentResolveEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.like.LikeCreatedEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.inlinecomments.events.InlineCommentCreateEvent,attachment.extracted.text.extractor,notification.plugin.api.enabled.com.atlassian.confluence.plugins.requestaccess.events.AccessRequestedEvent,previews.sharing.pushstate,file-annotations.likes,collaborative.editing.frictionless.upgrade,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.PageCreateEvent,notification.plugin.api.enabled.com.atlassian.confluence.efi.emails.events.OnboardingNoSpaceCreatedEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.sharepage.api.ShareDraftEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.sharepage.api.ShareAttachmentEvent,confluence-inline-comments,confluence-inline-comments-dangling-comment">
+            <meta name="ajs-atl-token" content="42d4d081e8ce669448b29c80cc68f8ffc7c04696">
+            <meta name="ajs-confluence-flavour" content="VANILLA">
+            <meta name="ajs-user-date-pattern" content="dd-MMM-yyyy">
+            <meta name="ajs-date.format" content="dd/MMM/yy">
+    
+    <link rel="shortcut icon" href="https://confluence.excentia.es/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/112/_/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://confluence.excentia.es/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/112/_/favicon.ico">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://confluence.excentia.es/opensearch/osd.action" title="Confluence">
+    
+                    
+            <meta name="ajs-create-issue-metadata-show-discovery" content="true">
+            
+
+    <script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};window.WRM._unparsedErrors=window.WRM._unparsedErrors||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\u0022\u0022";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-hipchat-integration-plugin:discovery-javascript-data.link-active"]="{\u0022linkActive\u0022:true,\u0022conditionsMet\u0022:true,\u0022admin\u0022:false}";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-feature-discovery-plugin:confluence-feature-discovery-plugin-resources.test-mode"]="false";
+WRM._unparsedData["com.atlassian.analytics.analytics-client:policy-update-init.policy-update-data-provider"]="false";
+WRM._unparsedData["com.atlassian.analytics.analytics-client:programmatic-analytics-init.programmatic-analytics-data-provider"]="false";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.applinks-help-paths"]="{\u0022entries\u0022:{\u0022applinks.docs.root\u0022:\u0022https://confluence.atlassian.com/display/APPLINKS-054/\u0022,\u0022applinks.docs.diagnostics.troubleshoot.sslunmatched\u0022:\u0022SSL+and+application+link+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthsignatureinvalid\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthtimestamprefused\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.delete.entity.link\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.adding.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.administration.guide\u0022:\u0022Application+Links+Documentation\u0022,\u0022applinks.docs.oauth.security\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.troubleshoot.application.links\u0022:\u0022Troubleshoot+application+links\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unknownerror\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.trusted.apps\u0022:\u0022Configuring+Trusted+Applications+authentication+for+an+application+link\u0022,\u0022applinks.docs.diagnostics.troubleshoot.authlevelunsupported\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.ssluntrusted\u0022:\u0022SSL+and+application+link+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unknownhost\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.delete.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.link.applications\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthproblem\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.migration\u0022:\u0022Update+application+links+to+use+OAuth\u0022,\u0022applinks.docs.relocate.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.administering.entity.links\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.upgrade.application.link\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.diagnostics.troubleshoot.connectionrefused\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.oauth\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.insufficient.remote.permission\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.configuring.application.link.auth\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.diagnostics\u0022:\u0022Application+links+diagnostics\u0022,\u0022applinks.docs.configured.authentication.types\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.adding.entity.link\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unexpectedresponse\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.basic\u0022:\u0022Configuring+Basic+HTTP+Authentication+for+an+Application+Link\u0022,\u0022applinks.docs.diagnostics.troubleshoot.authlevelmismatch\u0022:\u0022OAuth+troubleshooting+guide\u0022}}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.applinks-types"]="{\u0022crowd\u0022:\u0022Crowd\u0022,\u0022confluence\u0022:\u0022Confluence\u0022,\u0022fecru\u0022:\u0022FishEye/Crucible\u0022,\u0022stash\u0022:\u0022Bitbucket Server\u0022,\u0022jira\u0022:\u0022JIRA\u0022,\u0022refapp\u0022:\u0022Aplicaci\u00f3n de referencia\u0022,\u0022bamboo\u0022:\u0022Bamboo\u0022,\u0022generic\u0022:\u0022Aplicaci\u00f3n gen\u00e9rica\u0022}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.entity-types"]="{\u0022singular\u0022:{\u0022refapp.charlie\u0022:\u0022Charlie\u0022,\u0022fecru.project\u0022:\u0022Proyectos Crucible\u0022,\u0022fecru.repository\u0022:\u0022Repositorio FishEye\u0022,\u0022stash.project\u0022:\u0022Proyecto de Bitbucket Server\u0022,\u0022generic.entity\u0022:\u0022Proyecto gen\u00e9rico\u0022,\u0022confluence.space\u0022:\u0022Espacio de Confluence\u0022,\u0022bamboo.project\u0022:\u0022Proyecto de Bamboo\u0022,\u0022jira.project\u0022:\u0022Proyecto JIRA\u0022},\u0022plural\u0022:{\u0022refapp.charlie\u0022:\u0022Charlies\u0022,\u0022fecru.project\u0022:\u0022Proyectos Crucible\u0022,\u0022fecru.repository\u0022:\u0022Repositorios FishEye\u0022,\u0022stash.project\u0022:\u0022Proyectos de Bitbucket Server\u0022,\u0022generic.entity\u0022:\u0022Proyectos gen\u00e9ricos\u0022,\u0022confluence.space\u0022:\u0022Espacios de Confluence\u0022,\u0022bamboo.project\u0022:\u0022Proyectos de Bamboo\u0022,\u0022jira.project\u0022:\u0022Proyectos JIRA\u0022}}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.authentication-types"]="{\u0022com.atlassian.applinks.api.auth.types.BasicAuthenticationProvider\u0022:\u0022Access b\u00e1sico\u0022,\u0022com.atlassian.applinks.api.auth.types.TrustedAppsAuthenticationProvider\u0022:\u0022Aplicaciones de confianza\u0022,\u0022com.atlassian.applinks.api.auth.types.CorsAuthenticationProvider\u0022:\u0022CORS\u0022,\u0022com.atlassian.applinks.api.auth.types.OAuthAuthenticationProvider\u0022:\u0022OAuth\u0022,\u0022com.atlassian.applinks.api.auth.types.TwoLeggedOAuthAuthenticationProvider\u0022:\u0022OAuth\u0022,\u0022com.atlassian.applinks.api.auth.types.TwoLeggedOAuthWithImpersonationAuthenticationProvider\u0022:\u0022OAuth\u0022}";
+WRM._unparsedData["com.atlassian.confluence.plugins.synchrony-interop:synchrony-status-banner-loader.synchrony-status"]="false";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-license-banner:confluence-license-banner-resources.license-details"]="{\u0022daysBeforeLicenseExpiry\u0022:0,\u0022daysBeforeMaintenanceExpiry\u0022:0,\u0022showLicenseExpiryBanner\u0022:false,\u0022showMaintenanceExpiryBanner\u0022:false,\u0022renewUrl\u0022:null,\u0022salesEmail\u0022:null}";
+if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
+<link type="text/css" rel="stylesheet" href="./2018-03-07-sla-resuelto_files/batch.css" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/s/eba5d480acba4c1dd1e6b1b9cfdccf2f-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/76dd4379d984f81d3b6f3f155f4b05f5/_/download/contextbatch/css/_super/batch.css?conditionalComment=lt+IE+9" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/s/eba5d480acba4c1dd1e6b1b9cfdccf2f-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/76dd4379d984f81d3b6f3f155f4b05f5/_/download/contextbatch/css/_super/batch.css?conditionalComment=lte+IE+9" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="./2018-03-07-sla-resuelto_files/batch(1).css" data-wrm-key="atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super" data-wrm-batch-type="context" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/s/dbd1b06ef30b6adf0cf717d5ab670ef1-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/82a566674cd1c4c729db32fb59cd60d4/_/download/contextbatch/css/atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super/batch.css?anonymous-access-enabled=true&amp;conditionalComment=lt+IE+9&amp;confluence.table.resizable=true&amp;confluence.view.edit.transition=true&amp;highlightactions=true&amp;hostenabled=true&amp;is-server-instance=true" data-wrm-key="atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super" data-wrm-batch-type="context" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="./2018-03-07-sla-resuelto_files/colors.css" media="all">
+<link type="text/css" rel="stylesheet" href="./2018-03-07-sla-resuelto_files/custom.css" media="all">
+<script type="text/javascript" src="./2018-03-07-sla-resuelto_files/batch.js.descarga" data-wrm-key="_super" data-wrm-batch-type="context"></script><style type="text/css"></style><style type="text/css"></style>
+<script type="text/javascript" src="./2018-03-07-sla-resuelto_files/batch.js(1).descarga" data-wrm-key="atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super" data-wrm-batch-type="context"></script>
+
+    
+        
+    
+
+        
+        <meta name="ajs-site-title" content="Confluence">
+            
+    
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-63149312-1']);
+  _gaq.push(['_setDomainName', '.excentia.es']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+    
+                <link rel="canonical" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+        <link rel="shortlink" href="https://confluence.excentia.es/x/jQP4Aw">
+    <meta name="wikilink" content="[OFER:Gestión de SLAs en Jira Service Desk]">
+    <meta name="page-version" content="2">
+    <meta name="ajs-page-version" content="2">
+
+<script type="text/javascript" charset="utf-8" src="./2018-03-07-sla-resuelto_files/batch.js(2).descarga"></script><link rel="stylesheet" type="text/css" href="./2018-03-07-sla-resuelto_files/batch(2).css"><script type="text/javascript" charset="utf-8" src="./2018-03-07-sla-resuelto_files/batch.js(3).descarga"></script><link rel="stylesheet" type="text/css" href="./2018-03-07-sla-resuelto_files/batch(3).css"><script type="text/javascript" charset="utf-8" src="./2018-03-07-sla-resuelto_files/batch.js(4).descarga"></script>
+            <meta name="ajs-use-watch" content="true">
+            <meta name="ajs-attachment-source-content-id" content="66585485">
+            <meta name="ajs-use-inline-tasks" content="true">
+            <meta name="ajs-heartbeat" content="true">
+            <meta name="ajs-action-locale" content="es_ES">
+            <meta name="ajs-editor-plugin-resource-prefix" content="/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_">
+            <meta name="ajs-edit-mode" content="collaborative">
+            <meta name="ajs-user-watching-own-content" content="true">
+            <meta name="ajs-new-page" content="false">
+            <meta name="ajs-editor-mode" content="richtext">
+            <meta name="ajs-auto-start" content="false">
+            <meta name="ajs-conf-revision" content="confluence$content$66585485.6">
+            <meta name="ajs-sync-revision-source" content="synchrony">
+            <meta name="ajs-draft-id" content="66585491">
+            <meta name="ajs-draft-share-id" content="e4feda0d-cf7f-40e6-8439-5abe692f1d45">
+            <meta name="ajs-content-type" content="page">
+            <meta name="ajs-collaborative-editor-status" content="">
+            <meta name="ajs-existing-draft-id" content="0">
+            <meta name="ajs-content-id" content="66585485">
+            <meta name="ajs-form-name" content="inlinecommentform">
+            <meta name="ajs-can-attach-files" content="true">
+            <meta name="ajs-show-draft-message" content="false">
+            <meta name="ajs-shared-drafts" content="true">
+            <meta name="ajs-collaborative-content" content="true">
+            <meta name="ajs-min-editor-height" content="150">
+            <meta name="ajs-version-comment" content="">
+            <meta name="ajs-draft-type" content="page">
+                
+                <meta name="ajs-synchrony-token" content="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczpcL1wvY29uZmx1ZW5jZS5leGNlbnRpYS5lc1wvc3luY2hyb255XC92MSIsInN1YiI6ImZmODA4MTgxNWQ2MGE3YzYwMTVlMGRkMjlhMGQxOTkzIiwiYWNjZXNzIjp7IlwvZGF0YVwvU3luY2hyb255LTFlYzEzZTcxLTU1ZTMtMzg3ZC1iOTJiLTg3ZDU4YmJkNjhmZlwvY29uZmx1ZW5jZS02NjU4NTQ4NSI6ImZ1bGwiLCJcL2RhdGFcL1N5bmNocm9ueS0xZWMxM2U3MS01NWUzLTM4N2QtYjkyYi04N2Q1OGJiZDY4ZmZcL2NvbmZsdWVuY2UtNjY1ODU0ODUtdGl0bGUiOiJmdWxsIn0sInJldmlzaW9uTWV0YSI6eyJ1c2VyS2V5IjoiZmY4MDgxODE1ZDYwYTdjNjAxNWUwZGQyOWEwZDE5OTMifSwic2Vzc2lvbiI6eyJhdmF0YXJVUkwiOiJcL2Rvd25sb2FkXC9hdHRhY2htZW50c1wvNjA1MjMxMzlcL3VzZXItYXZhdGFyIiwibmFtZSI6ImFjcmVzcG8iLCJmdWxsbmFtZSI6IkFuZHJlYSBDcmVzcG8ifSwiaXNzIjoiU3luY2hyb255LTFlYzEzZTcxLTU1ZTMtMzg3ZC1iOTJiLTg3ZDU4YmJkNjhmZiIsImV4cCI6MTUyMDQ5OTQ4NSwiaWF0IjoxNTIwNDEzMDg1fQ.bvGvv8AMzJlK3I7-23gsAe-L6COtxWgENrhcvb7j5kM">
+    <meta name="ajs-synchrony-base-url" content="https://confluence.excentia.es/synchrony,https://confluence.excentia.es/synchrony-proxy">
+    <meta name="ajs-synchrony-app-id" content="Synchrony-1ec13e71-55e3-387d-b92b-87d58bbd68ff">
+    <meta name="ajs-synchrony-expiry" content="1520498585">
+    <meta name="ajs-use-xhr-fallback" content="true">
+
+            		    <meta name="ajs-max-thumb-width" content="300">
+		    <meta name="ajs-max-thumb-height" content="300">
+		    <meta name="ajs-can-send-email" content="true">
+		    <meta name="ajs-is-dev-mode" content="false">
+		    <meta name="ajs-draft-save-interval" content="30000">
+		    <meta name="ajs-show-hidden-user-macros" content="false">
+		    <meta name="ajs-is-admin" content="false">
+		    <meta name="ajs-confluence.prefs.editor.disable.autocomplete" content="false">
+		    <meta name="ajs-confluence.prefs.editor.disable.autoformat" content="false">
+		    <meta name="ajs-heartbeat-interval" content="30000">
+	
+    <link rel="stylesheet" type="text/css" href="./2018-03-07-sla-resuelto_files/batch(4).css"><script type="text/javascript" charset="utf-8" src="./2018-03-07-sla-resuelto_files/batch.js(5).descarga"></script><script style="display: none;">var tvt = tvt || {}; tvt.captureVariables = function (a){for(var b=new Date,c={},d=Object.keys(a||{}),e=0,
+f;f=d[e];e++)if(a.hasOwnProperty(f)&&"undefined"!=typeof a[f])try{var g=[];c[f]=JSON.stringify(a[f],function(a,b){try{if("function"!==typeof b){if("object"===typeof b&&null!==b){if(b instanceof HTMLElement||b instanceof Node||-1!=g.indexOf(b))return;g.push(b)}return b}}catch(N){}})}catch(l){}a=document.createEvent("CustomEvent");a.initCustomEvent("TvtRetrievedVariablesEvent",!0,!0,{variables:c,date:b});window.dispatchEvent(a)};window.setTimeout(function() {tvt.captureVariables({'dataLayer': window['dataLayer']})}, 2000);</script></head>
+
+    
+<body id="com-atlassian-confluence" class="theme-default  aui-layout aui-theme-default synchrony-active" data-aui-version="6.0.6">
+
+        
+            <div id="stp-licenseStatus-banner"></div>
+    <ul id="assistive-skip-links" class="assistive">
+    <li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#title-heading">Ir al contenido</a></li>
+    <li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#breadcrumbs">Saltar al historial</a></li>
+    <li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#header-menu-bar">Saltar al encabezado del menú</a></li>
+    <li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#navigation">Saltar al menú de acciones</a></li>
+    <li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#quick-search-query">Ir a la búsqueda rápida</a></li>
+</ul>
+<div id="page">
+<div id="full-height-container">
+    <div id="header-precursor">
+        <div class="cell">
+            
+                            </div>
+    </div>
+            
+
+
+
+
+
+<header id="header" role="banner" class="fixed-header">
+    <nav class="aui-header aui-dropdown2-trigger-group" role="navigation" data-aui-responsive="true"><div class="aui-header-inner"><div class="aui-header-before"><a class=" aui-dropdown2-trigger app-switcher-trigger" aria-controls="app-switcher" aria-haspopup="true" role="button" tabindex="0" data-aui-trigger="" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#app-switcher" resolved="" aria-expanded="false"><span class="aui-icon aui-icon-small aui-iconfont-appswitcher">Aplicaciones enlazadas</span></a><div id="app-switcher" class="aui-dropdown2 aui-style-default aui-layer" role="menu" aria-hidden="true" data-is-switcher="true" data-environment="{&quot;isUserAdmin&quot;:false,&quot;isAppSuggestionAvailable&quot;:false,&quot;isSiteAdminUser&quot;:false}" resolved=""><div class="aui-dropdown2-section"><ul class="nav-links"><li class="nav-link"><a href="https://jira.excentia.es/" class="aui-dropdown2-radio " title="https://jira.excentia.es" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">JIRA</span></a></li><li class="nav-link"><a href="https://www.qalitax.com/sonar" class="aui-dropdown2-radio " title="https://www.qalitax.com/sonar" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">SONARQUBE</span></a></li><li class="nav-link"><a href="https://www.qalitax.com/jenkins" class="aui-dropdown2-radio " title="https://www.qalitax.com/jenkins" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">JENKINS</span></a></li><li class="nav-link"><a href="https://bitbucket.org/excentia/" class="aui-dropdown2-radio " title="https://bitbucket.org/excentia/" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">BITBUCKET</span></a></li><li class="nav-link"><a href="https://www.qalitax.com/nexus" class="aui-dropdown2-radio " title="https://www.qalitax.com/nexus" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">NEXUS</span></a></li><li class="nav-link"><a href="https://jira.excentia.es/secure/MyJiraHome.jspa" class="aui-dropdown2-radio " title="https://jira.excentia.es/secure/MyJiraHome.jspa" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">JIRA </span></a></li><li class="nav-link nav-link-local"><a href="https://confluence.excentia.es/" class="aui-dropdown2-radio aui-dropdown2-checked checked" title="https://confluence.excentia.es/" resolved="" aria-checked="true" tabindex="0"><span class="nav-link-label">Confluence</span></a></li><li class="nav-link"><a href="https://bitbucket.org/excentia" class="aui-dropdown2-radio " title="https://bitbucket.org/excentia" resolved="" aria-checked="false" tabindex="0"><span class="nav-link-label">Bitbucket - excentia</span></a></li></ul></div></div></div><div class="aui-header-primary"><h1 id="logo" class="aui-header-logo aui-header-logo-custom"><a href="https://confluence.excentia.es/"><img src="./2018-03-07-sla-resuelto_files/atl.site.logo" alt="Confluence" data-aui-responsive-header-index="0"></a></h1><ul class="aui-nav" resolved="" style="width: auto;">
+                            <li>
+            
+        
+        
+<a id="space-menu-link" class=" aui-dropdown2-trigger aui-nav-link" aria-controls="space-menu-link-content" aria-haspopup="true" role="button" title="Espacios" tabindex="0" data-aui-trigger="" resolved="" aria-expanded="false" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#space-menu-link-content">Espacios<span class="icon aui-icon-dropdown"></span></a><div id="space-menu-link-content" class="aui-dropdown2 aui-style-default aui-dropdown2-in-header aui-layer" role="menu" aria-hidden="true" resolved=""><div role="application"></div></div>
+        </li>
+                    <li>
+            
+    
+        
+<a id="people-directory-link" href="https://confluence.excentia.es/browsepeople.action" class=" aui-nav-imagelink" title="Personas">
+            <span>Personas</span>
+    </a>
+        </li>
+                                        <li class="aui-buttons">
+                                    
+                                        <a href="https://confluence.excentia.es/pages/createpage.action?spaceKey=OFER&amp;fromPageId=66585485&amp;src=quick-create" id="quick-create-page-button" class="aui-button aui-button-primary" title="Crear una página vacía (c)" tabindex="0">Crear</a>
+                                <a href="https://confluence.excentia.es/pages/createpage.action?spaceKey=OFER&amp;fromPageId=66585485" id="create-page-button" class="aui-button aui-button-primary clc-create-dialog-btn" title="Crear desde plantilla" tabindex="0"><span class="aui-icon aui-icon-small aui-iconfont-more">Crear </span></a>
+            </li>
+    </ul>
+</div><div class="aui-header-secondary"><ul class="aui-nav" resolved="">
+                        <li>
+        <form id="quick-search" class="aui-quicksearch dont-default-focus header-quicksearch" action="https://confluence.excentia.es/dosearchsite.action" method="get"><fieldset><label for="quick-search-query" class="assistive">Búsqueda rápida</label><input id="quick-search-query" class="text app-search search quick-search-query" type="text" accesskey="q" autocomplete="off" name="queryString" title="Búsqueda rápida (/o g , g)"><input id="quick-search-submit" class="quick-search-submit" type="submit" value="Buscar"><div class="aui-dd-parent quick-nav-drop-down"></div></fieldset></form>
+    </li>
+        <li>
+            
+        <a id="help-menu-link" class="aui-nav-link aui-dropdown2-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" aria-haspopup="true" title="Ayuda" resolved="" aria-controls="help-menu-link-content" aria-expanded="false">
+        <span class="aui-icon aui-icon-small aui-iconfont-help">Ayuda</span>
+    </a>
+    <nav id="help-menu-link-content" class="aui-dropdown2 aui-style-default aui-layer" aria-hidden="true" resolved="">
+                    <div class="aui-dropdown2-section">
+                                <ul id="help-menu-link-leading" class="aui-list-truncate section-leading first">
+                                            <li>
+        
+            
+<a id="confluence-help-link" href="https://docs.atlassian.com/confluence/docs-66/" class="    " title="Visita la página de inicio de la documentación de Confluence" target="_blank">
+        Ayuda en línea
+</a>
+</li>
+                                            <li>
+    
+                
+<a id="keyboard-shortcuts-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="    " title="Ver los métodos abreviados de teclado disponibles (?)">
+        Atajos de teclado
+</a>
+</li>
+                                            <li>
+    
+            
+<a id="feed-builder-link" href="https://confluence.excentia.es/dashboard/configurerssfeed.action" class="    " title="Crea tu propia fuente RSS personalizada.">
+        Constructor de fuentes
+</a>
+</li>
+                                            <li>
+    
+            
+<a id="whats-new-menu-link" href="https://confluence.atlassian.com/display/DOC/Confluence+6.6+Release+Notes?a=false" class="    " title="">
+        Novedades
+</a>
+</li>
+                                            <li>
+    
+                
+<a id="gadget-directory-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="   user-item administration-link " title="Explorar gadgets proporcionados por Confluence">
+        Gadgets disponibles
+</a>
+</li>
+                                            <li>
+    
+            
+<a id="confluence-about-link" href="https://confluence.excentia.es/aboutconfluencepage.action" class="    " title="Obtener más información acerca de Confluence">
+        Acerca de Confluence
+</a>
+</li>
+                                    </ul>
+            </div>
+            </nav>
+    
+    </li>
+        <li>
+                
+    
+    </li>
+        <li>
+                    
+        
+            
+<a id="notifications-anchor" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="mw-anchor aui-nav-imagelink unread" title="Abrir notificaciones (g , n)"><div class="badge-i aui-icon aui-icon-small aui-iconfont-workbox"></div><span class="badge-w"><span class="badge">9</span></span></a>
+    
+    </li>
+        <li>
+                                            
+        <a id="user-menu-link" class="aui-dropdown2-trigger " aria-haspopup="true" data-username="acrespo" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" title="Andrea Crespo" resolved="" aria-controls="user-menu-link-content" aria-expanded="false">
+                    <div class="aui-avatar aui-avatar-small">
+                <div class="aui-avatar-inner">
+                                                                                                    <img src="./2018-03-07-sla-resuelto_files/user-avatar">
+                </div>
+            </div>
+            <span class="aui-icon-dropdown"></span>
+        </a>
+        <nav id="user-menu-link-content" class="aui-dropdown2 aui-style-default aui-layer" aria-hidden="true" resolved="">
+                            <div class="aui-dropdown2-section">
+                    <ul id="user-menu-link-user-preferences" class="aui-list-truncate section-user-preferences first">
+                                                    <li>
+        
+            
+<a id="create-personal-space-link" href="https://confluence.excentia.es/spaces/createpersonalspace.action" class="   user-item personal-space create-personal-space-link " title="">
+        Añadir espacio personal...
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="view-user-history-link" href="https://confluence.excentia.es/users/viewuserhistory.action" class="   user-item user-history popup-link " title=" (g , r)">
+        Visto recientemente
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="user-recently-worked-on" href="https://confluence.excentia.es/dashboard.action#recently-worked" class="   user-item " title="">
+        Recientemente modificados
+</a>
+</li>
+                                            </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul id="user-menu-link-user-content" class="aui-list-truncate section-user-content">
+                                                    <li>
+    
+            
+<a id="view-user-profile-link" href="https://confluence.excentia.es/users/viewmyprofile.action" class="   user-item user-profile " title="">
+        Perfil
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="view-mytasks-link" href="https://confluence.excentia.es/plugins/inlinetasks/mytasks.action" class="   user-item list-user-status " title="">
+        Tareas
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="user-favourites-link" href="https://confluence.excentia.es/users/viewmyfavourites.action" class="   user-item " title="">
+        Guardado para más tarde
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="user-watches-link" href="https://confluence.excentia.es/users/viewnotifications.action" class="   user-item " title="">
+        Visitas
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="user-drafts-link" href="https://confluence.excentia.es/users/viewmydrafts.action" class="   user-item " title="">
+        Borradores
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="user-network-link" href="https://confluence.excentia.es/users/viewfollow.action?username=acrespo" class="   follow-link " title="">
+        Red
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="user-settings-link" href="https://confluence.excentia.es/users/viewmysettings.action" class="   user-item " title="">
+        Configuración
+</a>
+</li>
+                                                    <li>
+    
+            
+<a id="upm-requests-link" href="https://confluence.excentia.es/plugins/servlet/upm/requests?source=header_user" class="    " title="">
+        Atlassian Marketplace
+</a>
+</li>
+                                            </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul id="user-menu-link-user-operations" class="aui-list-truncate section-user-operations">
+                                                    <li>
+    
+            
+<a id="logout-link" href="https://confluence.excentia.es/logout.action" class="   user-item logout-link " title="">
+        Salir
+</a>
+</li>
+                                            </ul>
+                </div>
+                    </nav>
+                    
+    </li>
+    </ul>
+</div></div><!-- .aui-header-inner--></nav><!-- .aui-header -->
+    <br class="clear">
+</header>
+    
+
+    
+    	<div class="ia-splitter">
+    		<div class="ia-splitter-left">
+    			<div class="ia-fixed-sidebar" style="width: 285px; visibility: visible; top: 41px; left: 0px;">
+                                            
+                            <div class="acs-side-bar ia-scrollable-section"><div class="acs-side-bar-space-info tipsy-enabled" data-configure-tooltip="Editar datos de espacio"><div class="avatar"><div class="space-logo" data-key="OFER" data-name="Consejo de Comercio" data-entity-type="confluence.space"><div class="avatar-img-container"><div class="avatar-img-wrapper"><a href="https://confluence.excentia.es/display/OFER/Inicio?src=sidebar" title="Consejo de Comercio"><img class="avatar-img" src="./2018-03-07-sla-resuelto_files/OFER" alt="Consejo de Comercio"></a></div></div></div></div><div class="space-information-container"><div class="name"><a href="https://confluence.excentia.es/display/OFER/Inicio?src=sidebar" title="Consejo de Comercio">Consejo de Comercio</a></div><div class="flyout-handle icon"></div><div class="favourite-space-icon"><button title="Añadir a mis espacios" id="space-favourite-add" class="space-favourite aui-icon aui-icon-small aui-iconfont-unstar"></button><button class=" space-favourite aui-icon aui-icon-small aui-iconfont-star" id="space-favourite-remove" title="Quitar de mis espacios"></button></div></div></div><div class="acs-side-bar-content"><div class="acs-nav-wrapper"><div class="acs-nav" data-has-create-permission="true" data-quick-links-state="hide" data-page-tree-state="null" data-nav-type="page-tree"><div class="acs-nav-sections"></div></div></div><div class="ia-secondary-container tipsy-enabled" data-tree-type="page-tree"><div class="ia-secondary-header"><h5 class="ia-secondary-header-title page-tree"><span class="icon"></span><span class="label">Árbol de páginas</span></h5></div><div class="ia-secondary-content">
+
+
+<div class="plugin_pagetree conf-macro output-inline" data-hasbody="false" data-macro-name="pagetree">
+
+        
+        
+    <ul class="plugin_pagetree_children_list plugin_pagetree_children_list_noleftspace">
+        <div class="plugin_pagetree_children" id="children15106078-0">
+<ul class="plugin_pagetree_children_list" id="child_ul15106078-0">
+            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus60522676-0" class="plugin_pagetree_childtoggle icon icon-section-closed" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan60522676-0">                        <a href="https://confluence.excentia.es/display/OFER/Comercial+y+ventas?src=contextnavpagetreemode">Comercial y ventas</a>
+        </span>
+            </div>
+
+        <div id="children60522676-0" class="plugin_pagetree_children_container">
+                                                            </div>
+    </li>
+            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus60522682-0" class="plugin_pagetree_childtoggle icon icon-section-closed" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan60522682-0">                        <a href="https://confluence.excentia.es/display/OFER/Marketing+y+contenidos?src=contextnavpagetreemode">Marketing y contenidos</a>
+        </span>
+            </div>
+
+        <div id="children60522682-0" class="plugin_pagetree_children_container">
+                                                            </div>
+    </li>
+            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus63996313-0" class="plugin_pagetree_childtoggle icon icon-section-opened" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan63996313-0">                        <a href="https://confluence.excentia.es/display/OFER/Marketing+Digital?src=contextnavpagetreemode">Marketing Digital</a>
+        </span>
+            </div>
+
+        <div id="children63996313-0" class="plugin_pagetree_children_container">
+                                                        <ul class="plugin_pagetree_children_list" id="child_ul63996313-0">
+                                            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus63996338-0" class="plugin_pagetree_childtoggle icon icon-section-closed" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan63996338-0">                        <a href="https://confluence.excentia.es/display/OFER/excentia+Blog?src=contextnavpagetreemode">excentia Blog</a>
+        </span>
+            </div>
+
+        <div id="children63996338-0" class="plugin_pagetree_children_container">
+                                                            </div>
+    </li>
+                                            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                    <span class="no-children icon"></span>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span plugin_pagetree_current" id="childrenspan66585485-0">                        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485&amp;src=contextnavpagetreemode">Gestión de SLAs en Jira Service Desk</a>
+        </span>
+            </div>
+
+        <div id="children66585485-0" class="plugin_pagetree_children_container">
+            </div>
+    </li>
+                                            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus66585094-0" class="plugin_pagetree_childtoggle icon icon-section-closed" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan66585094-0">                        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585094&amp;src=contextnavpagetreemode">Informes Analítica Web</a>
+        </span>
+            </div>
+
+        <div id="children66585094-0" class="plugin_pagetree_children_container">
+                                                            </div>
+    </li>
+                                            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                    <span class="no-children icon"></span>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan66585096-0">                        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585096&amp;src=contextnavpagetreemode">Informes Campañas Emailing</a>
+        </span>
+            </div>
+
+        <div id="children66585096-0" class="plugin_pagetree_children_container">
+            </div>
+    </li>
+                                            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                    <span class="no-children icon"></span>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan66584943-0">                        <a href="https://confluence.excentia.es/display/OFER/Keyword+Research?src=contextnavpagetreemode">Keyword Research</a>
+        </span>
+            </div>
+
+        <div id="children66584943-0" class="plugin_pagetree_children_container">
+            </div>
+    </li>
+                                            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                    <span class="no-children icon"></span>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan63996315-0">                        <a href="https://confluence.excentia.es/display/OFER/Publicaciones+RRSS?src=contextnavpagetreemode">Publicaciones RRSS</a>
+        </span>
+            </div>
+
+        <div id="children63996315-0" class="plugin_pagetree_children_container">
+            </div>
+    </li>
+                                        </ul>
+                                        </div>
+    </li>
+            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus60523367-0" class="plugin_pagetree_childtoggle icon icon-section-closed" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan60523367-0">                        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=60523367&amp;src=contextnavpagetreemode">Catálogo de Servicios</a>
+        </span>
+            </div>
+
+        <div id="children60523367-0" class="plugin_pagetree_children_container">
+                                                            </div>
+    </li>
+            <li>
+    <div class="plugin_pagetree_childtoggle_container">
+                                            <a id="plusminus60523142-0" class="plugin_pagetree_childtoggle icon icon-section-closed" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">
+            </a>
+            </div>
+    <div class="plugin_pagetree_children_content">
+          
+        
+                    <span class="plugin_pagetree_children_span" id="childrenspan60523142-0">                        <a href="https://confluence.excentia.es/display/OFER/Enlaces+compartidos?src=contextnavpagetreemode">Enlaces compartidos</a>
+        </span>
+            </div>
+
+        <div id="children60523142-0" class="plugin_pagetree_children_container">
+                                                            </div>
+    </li>
+    </ul>
+</div>
+    </ul>
+
+    <fieldset class="hidden">
+        <input type="hidden" name="treeId" value="">
+        <input type="hidden" name="treeRequestId" value="/plugins/pagetree/naturalchildren.action?decorator=none&amp;excerpt=false&amp;sort=position&amp;reverse=false&amp;disableLinks=false&amp;expandCurrent=true">
+        <input type="hidden" name="treePageId" value="66585485">
+
+        <input type="hidden" name="noRoot" value="false">
+        <input type="hidden" name="rootPageId" value="15106078">
+
+        <input type="hidden" name="rootPage" value="">
+        <input type="hidden" name="startDepth" value="0">
+        <input type="hidden" name="spaceKey" value="OFER">
+
+        <input type="hidden" name="i18n-pagetree.loading" value="Cargando...">
+        <input type="hidden" name="i18n-pagetree.error.permission" value="No se puede cargar el árbol de páginas. Parece que no tienes permiso para ver la página raíz.">
+        <input type="hidden" name="i18n-pagetree.eeror.general" value="Hubo un problema al recuperar el árbol de páginas. Comprueba el archivo de registro del servidor para obtener más información.">
+        <input type="hidden" name="loginUrl" value="/login.action?os_destination=%2Fpages%2Fviewpage.action%3FpageId%3D66585485&amp;permissionViolation=true">
+        <input type="hidden" name="mobile" value="false">
+
+                <fieldset class="hidden">
+                                                <input type="hidden" name="ancestorId" value="63996313">
+                                    <input type="hidden" name="ancestorId" value="15106078">
+                                    </fieldset>
+    </fieldset>
+</div>
+</div></div></div><div class="hidden"><a href="https://confluence.excentia.es/collector/pages.action?key=OFER&amp;src=sidebar" id="space-pages-link" title=" (g , s)"></a><script type="text/x-template" title="logo-config-content"><h2>Propiedades del espacio</h2><div class="personal-space-logo-hint">Tu imagen de perfil se utiliza como logotipo de su espacio personal. <a href="/users/profile/editmyprofilepicture.action" target="_blank">Cambiar tu imagen de perfil</a>.</div></script></div></div><div class="space-tools-section"><div id="space-tools-menu-additional-items" class="hidden"><div data-label="Reordenar páginas" data-class="" data-href="/pages/reorderpages.action?key=OFER">Reordenar páginas</div></div><button id="space-tools-menu-trigger" class=" aui-dropdown2-trigger aui-button aui-button-subtle tipsy-enabled" aria-controls="space-tools-menu" aria-haspopup="true" role="button" data-aui-trigger="" resolved="" aria-expanded="false" data-collapsed-tooltip="Herramientas de espacio"><span class="aui-icon aui-icon-small aui-iconfont-configure">Configurar</span><span class="aui-button-label">Herramientas de espacio</span><span class="icon aui-icon-dropdown"></span></button><div id="space-tools-menu" class="aui-dropdown2 aui-style-default space-tools-dropdown aui-layer" role="menu" aria-hidden="true" data-aui-alignment="top left" resolved=""><div role="presentation" class="aui-dropdown2-section space-tools-navigation"><div role="group"><ul class="aui-list-truncate" role="presentation"><li role="presentation"><a role="menuitem" tabindex="-1" class="" href="https://confluence.excentia.es/spaces/viewspacesummary.action?key=OFER&amp;src=spacetools">Vista general</a></li><li role="presentation"><a role="menuitem" tabindex="-1" class="" href="https://confluence.excentia.es/pages/reorderpages.action?key=OFER&amp;src=spacetools">Herramientas de contenido</a></li></ul></div></div><div role="presentation" class="aui-dropdown2-section space-operations"><div role="group"><ul class="aui-list-truncate" role="presentation"><li role="presentation"><a role="menuitem" tabindex="-1" class="" href="https://confluence.excentia.es/pages/reorderpages.action?key=OFER&amp;src=spacetools">Reordenar páginas</a></li></ul></div></div></div><a class="expand-collapse-trigger" data-tooltip="Contraer barra lateral ( [ )"></a></div>
+                    
+                        			<div class="ia-splitter-handle tipsy-enabled" data-tooltip="Contraer barra lateral ( [ )" original-title=" ([)"><div class="ia-splitter-handle-highlight"></div></div></div>
+    		</div>
+        <!-- \#header -->
+
+            
+    
+        <div id="main" class=" aui-page-panel" style="margin-left: 285px; margin-top: 41px;">
+                        <div id="main-header-placeholder" style="margin: -10px 0px 20px; padding: 0px; height: 70px;"><h1 class="with-breadcrumbs" style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Noto Sans&quot;, Ubuntu, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 28px; font-style: normal; font-weight: 400; text-decoration: none solid rgb(88, 88, 117); letter-spacing: normal; text-align: start; padding: 35px 0px 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;">
+                                                <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485" style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Noto Sans&quot;, Ubuntu, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 28px; font-style: normal; font-weight: 400; margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none solid rgb(51, 51, 51); letter-spacing: normal; text-align: start;">Gestión de SLAs en Jira Service Desk</a>
+                                    </h1></div><div id="main-header" class="overlay-header" style="width: 1298px; position: fixed; right: 0px; top: -10px; margin-top: 0px; padding: 10px 40px; z-index: 0;">
+                        
+    <div id="navigation" class="content-navigation view">
+                    <ul class="ajs-menu-bar">
+                                                                    <li class="ajs-button normal">
+
+        
+        
+                                            
+    
+    
+    <a id="editPageLink" href="https://confluence.excentia.es/pages/editpage.action?pageId=66585485" rel="nofollow" class="aui-button aui-button-subtle edit" accesskey="e" title="Editar (e)">
+                <span>
+                            <span class="aui-icon aui-icon-small aui-iconfont-edit"></span>
+                        <u>E</u>ditar
+        </span>    </a>
+</li>
+                                            <li class="ajs-button normal">
+
+        
+            
+                                            
+    
+    
+    <a id="page-favourite" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" rel="nofollow" class="aui-button aui-button-subtle action-page-favourite" accesskey="f" title="Guardar para más tarde (f)">
+                <span>
+                            <span class="aui-icon aui-icon-small aui-iconfont-unstar"></span>
+                        Guardar <u>p</u>ara más tarde
+        </span>    </a>
+</li>
+                                            <li class="ajs-button normal">
+
+        
+            
+                                            
+    
+    
+    <a id="watch-content-button" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" rel="nofollow" class="aui-button aui-button-subtle watch-menu watch-state-initialised" title="Dejar de seguir (s)">
+                <span><span class="aui-icon aui-icon-small aui-iconfont-watch"></span> <u>S</u>iguiendo</span>    </a>
+</li>
+                                            <li class="ajs-button normal">
+
+        
+            
+                                            
+    
+    
+    <a id="shareContentLink" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" rel="nofollow" class="aui-button aui-button-subtle share" title="Share this page with others (so k)">
+                <span>
+                            <span class="aui-icon aui-icon-small aui-iconfont-share"></span>
+                        <u></u>Compartir
+        </span>    </a>
+</li>
+                    
+        <li class="normal ajs-menu-item">
+        <a id="action-menu-link" class="action aui-dropdown2-trigger-arrowless aui-button aui-button-subtle ajs-menu-title aui-dropdown2-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" aria-haspopup="true" data-container="#navigation" resolved="" aria-controls="action-menu" aria-expanded="false">
+            <span>
+                                    <span class="aui-icon aui-icon-small aui-iconfont-more"></span>
+                                
+            </span>
+        </a>         <div id="action-menu" class="aui-dropdown2 aui-style-default aui-layer most-right-menu-item" aria-hidden="true" resolved="">
+                            <div class="aui-dropdown2-section">
+                    <ul id="action-menu-primary" class="section-primary first">
+                                                    <li>
+
+    
+        
+                                            
+    
+    
+    <a id="view-attachments-link" href="https://confluence.excentia.es/pages/viewpageattachments.action?pageId=66585485" rel="nofollow" class="action-view-attachments" accesskey="t" title="Ver archivos adjuntos (t)">
+                <span>
+                        A<u>r</u>chivos adjuntos (5)
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-view-history-link" href="https://confluence.excentia.es/pages/viewpreviousversions.action?pageId=66585485" rel="nofollow" class="action-view-history" title="">
+                <span>
+                        Historial de página
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="mailPageLink" href="https://confluence.excentia.es/pages/mailpage/mailpage.action?pageId=66585485" rel="nofollow" class="" title="">
+                    <img alt="E-mail" src="./2018-03-07-sla-resuelto_files/mail_content_16.gif" height="16" width="16" title="E-mail">
+                <span>
+                        E-mail
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-page-permissions-link" href="https://confluence.excentia.es/pages/viewinfo.action?pageId=66585485" rel="nofollow" class="action-page-permissions" title="Editar las restricciones">
+                <span>
+                        Restricciones
+        </span>    </a>
+</li>
+                                        </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul id="action-menu-secondary" class="section-secondary">
+                                                    <li>
+
+    
+        
+                                            
+    
+    
+    <a id="view-page-info-link" href="https://confluence.excentia.es/pages/viewinfo.action?pageId=66585485" rel="nofollow" class="action-view-info" title="">
+                <span>
+                        Información de página
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+            
+                                            
+    
+    
+    <a id="view-resolved-comments" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" rel="nofollow" class="" title="">
+                <span>Comentarios resueltos (0)</span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="view-in-hierarchy-link" href="https://confluence.excentia.es/pages/reorderpages.action?key=OFER&amp;openId=66585485#selectedPageInHierarchy" rel="nofollow" class="" title="">
+                <span>
+                        Ver en jerarquía
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-view-source-link" href="https://confluence.excentia.es/plugins/viewsource/viewpagesrc.action?pageId=66585485" rel="nofollow" class="action-view-source popup-link" title="">
+                <span>
+                        Ver fuente
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-export-pdf-link" href="https://confluence.excentia.es/spaces/flyingpdf/pdfpageexport.action?pageId=66585485" rel="nofollow" class="" title="">
+                <span>
+                        Exportar a PDF
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-export-word-link" href="https://confluence.excentia.es/exportword?pageId=66585485" rel="nofollow" class="action-export-word" title="">
+                <span>
+                        Exportar a Word
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="import-word-doc" href="https://confluence.excentia.es/pages/worddav/uploadimport.action?pageId=66585485" rel="nofollow" class="" title="">
+                <span>
+                        Importar documento de Word
+        </span>    </a>
+</li>
+                                        </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul id="action-menu-modify" class="section-modify">
+                                                    <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-copy-page-link" href="https://confluence.excentia.es/pages/copypage.action?idOfPageToCopy=66585485&amp;spaceKey=OFER" rel="nofollow" class="action-copy" title="">
+                <span>
+                        Copiar
+        </span>    </a>
+</li>
+                                                <li>
+
+    
+        
+                                            
+    
+    
+    <a id="action-move-page-dialog-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485" rel="nofollow" class="action-move" title="">
+                <span>
+                        Mover
+        </span>    </a>
+</li>
+                                        </ul>
+                </div>
+                    </div>
+    </li>
+            </ul>
+    </div>
+
+            
+            <div id="title-heading" class="pagetitle with-breadcrumbs">
+                
+                                    <div id="breadcrumb-section">
+                        
+    
+    
+    <ol id="breadcrumbs">
+                                        
+                        
+        <li class="first">
+                        
+                            <span class=""><a href="https://confluence.excentia.es/collector/pages.action?key=OFER&amp;src=breadcrumbs-collector">Panel</a></span>
+                                                                                    
+                        
+        </li><li>
+                        
+                            <span class=""><a href="https://confluence.excentia.es/display/OFER/Inicio?src=breadcrumbs">Inicio</a></span>
+                                                                                    
+                        
+        </li><li>
+                        
+                            <span class=""><a href="https://confluence.excentia.es/display/OFER/Marketing+Digital?src=breadcrumbs-parent">Marketing Digital</a></span>
+                                                                    </li></ol>
+
+
+                    </div>
+                
+                
+        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#page-banner-end" class="assistive">Saltar al final del anuncio</a>
+<div id="page-banner-start" class="assistive"></div>
+
+                    
+            <div id="page-metadata-banner" style="visibility: visible;"><ul class="banner"><li id="system-content-items" class="noprint"><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485" title="Sin restricciones" id="content-metadata-page-restrictions" class="aui-icon aui-icon-small aui-iconfont-unlocked system-metadata-restrictions" resolved=""></a><a href="https://confluence.excentia.es/pages/viewpageattachments.action?pageId=66585485&amp;metadataLink=true" title="5 archivos adjuntos" id="content-metadata-attachments" class="aui-icon aui-icon-small aui-iconfont-attachment"></a></li><li class="page-metadata-item noprinthas-button" id="content-metadata-jira-wrapper"><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485" title="" id="content-metadata-jira" class="aui-button aui-button-subtle content-metadata-jira tipsy-disabled hidden"><span>Enlaces de JIRA</span></a></li></ul></div>
+            
+
+<a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#page-banner-start" class="assistive">Ir al inicio del anuncio</a>
+<div id="page-banner-end" class="assistive"></div>
+    
+
+                <h1 id="title-text" class="with-breadcrumbs" style="display: none;">
+                                                <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485">Gestión de SLAs en Jira Service Desk</a>
+                                    </h1>
+            </div>
+        </div><!-- \#main-header -->
+        
+        
+
+        <div id="sidebar-container">
+                                                </div><!-- \#sidebar-container -->
+
+        
+    
+
+        
+
+
+
+
+            
+    
+
+                                
+    
+
+    
+    
+        
+    
+    
+                    
+    
+
+    
+
+    
+            
+        
+
+    
+    
+
+    
+            
+        
+
+
+
+    
+<div id="content" class="page view">
+    
+
+
+<div id="action-messages">
+                        </div>
+
+
+
+            <script type="text/x-template" title="searchResultsGrid">
+    <table class="aui">
+        <thead>
+            <tr class="header">
+                <th class="search-result-title">Título de página</th>
+                <th class="search-result-space">Espacio</th>
+                <th class="search-result-date">Actualizado</th>
+            </tr>
+        </thead>
+    </table>
+</script>
+<script type="text/x-template" title="searchResultsGridCount">
+    <p class="search-result-count">{0}</p>
+</script>
+<script type="text/x-template" title="searchResultsGridRow">
+    <tr class="search-result">
+        <td class="search-result-title"><a href="{1}" class="content-type-{2}"><span>{0}</span></a></td>
+        <td class="search-result-space"><a class="space" href="/display/{4}/" title="{3}">{3}</a></td>
+        <td class="search-result-date"><span class="date" title="{6}">{5}</span></td>
+    </tr>
+</script>
+        
+    
+            
+
+        
+                            
+    
+
+                    
+
+        
+        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#page-metadata-end" class="assistive">Saltar al final de los metadatos</a>
+<div id="page-metadata-start" class="assistive"></div>
+
+    <div class="page-metadata">
+        <ul>
+            <li class="page-metadata-modification-info">
+                
+        
+    
+        
+    
+        
+            
+            Creado por <span class="author">     <a href="https://confluence.excentia.es/display/~aalos" class="url fn confluence-userlink userlink-0" data-username="aalos" title="" data-user-hover-bound="true">Alberto Alos</a></span>, modificado por última vez <a class="last-modified" href="https://confluence.excentia.es/pages/diffpagesbyversion.action?pageId=66585485&amp;selectedPageVersions=1&amp;selectedPageVersions=2" original-title="Mostrar cambios">ayer a las 14:54 PM</a>
+                </li>
+        </ul>
+    </div>
+
+
+<a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#page-metadata-start" class="assistive">Ir al inicio de los metadatos</a>
+<div id="page-metadata-end" class="assistive"></div>
+
+        
+                                            
+        <div id="main-content" class="wiki-content">
+                           
+        <h2 id="GestióndeSLAsenJiraServiceDesk-¿QuéesunSLA?">¿Qué es un SLA?</h2><p>En el mundo de los servicios, los SLA ("Service Level Agreement") o en castellano ANS (Acuerdo de Nivel de Servicio) son acuerdos o contratos que realiza un proveedor de servicios con un cliente interno o externo. Este compromiso entre servicio y cliente ayuda a medir la calidad de los servicios contratados.&nbsp;</p><p>(Imagen: <a href="https://confluence.atlassian.com/servicedesk025/slas-754977501.html" class="external-link" rel="nofollow">https://confluence.atlassian.com/servicedesk025/slas-754977501.html</a>)</p><p><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/SLA3.jpeg" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977509/1/1434955282141/SLA3.jpeg"></span></p><p>Con el fin de ejemplificar los SLAs, vamos a explicar qué métricas se suelen incluir en los ANS.</p><ul><li>Disponibilidad de un servicio (porcentaje, suele ser un 99%)</li><li>Métricas de rendimiento de un servicio determinado (velocidad, tiempos de carga)</li><li>Tiempos de notificación en caídas de servicio "downtime"</li><li>Tiempos de respuesta en comunicaciones con el cliente</li></ul><p>El origen del SLA se encuentra en los proveedores de servicios de telefonía, redes e IT en general. En este sector, el cliente contrata servicios relacionados con unas determinadas tasas de velocidad, capacidad y tiempos que deben ser medibles. Si un proveedor ofrece una tasa de velocidad determinada de acceso a la red, debe ser capaz de medirla y de cumplir con lo acordado en el contrato.</p><p>Actualmente, el concepto de SLA se ha transportado a los grupos de TI y los grupos de atención al cliente de las organizaciones. El departamento de TI da servicio a los clientes internos (trabajadores dentro de la misma compañía) y cumple con unos tiempo de respuesta y de resolución previamente establecido. En un CAU (Centro de Atención al Usuario) los clientes realizan solicitudes de soporte y los agentes han de cumplir con los SLAs típicos (Tiempo de primera respuesta y tiempo de resolución)</p><h2 id="GestióndeSLAsenJiraServiceDesk-ConfiguracióndeSLAenJiraServiceDesk">Configuración de SLA en Jira Service Desk</h2><p>En relación con Jira Service Desk, un SLA es un cronómetro que se activa cuando llega una nueva solicitud/incidencia y/o cuando ocurre un determinado evento. Pero, ¿no hay determinadas condiciones dónde no debería contar el tiempo? ¿Qué ocurre si en el contrato pactado con los clientes, se han especificado determinados días festivos? ¿Y si un ticket abierto por un cliente está pendiente de información por parte del solicitante? Ese tiempo debe ser excluído de forma automática de nuestros "cronómetros."&nbsp;Los ANS de componen de dos elementos básicos: tiempo a medir y metas.&nbsp;</p><p><span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-content-image-border" height="400" src="./2018-03-07-sla-resuelto_files/image2018-3-6_13-42-42.png" data-image-src="/download/attachments/66585485/image2018-3-6_13-42-42.png?version=1&amp;modificationDate=1520341886000&amp;api=v2" data-unresolved-comment-count="0" data-linked-resource-id="66585488" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2018-3-6_13-42-42.png" data-base-url="https://confluence.excentia.es" data-linked-resource-content-type="image/png" data-linked-resource-container-id="66585485" data-linked-resource-container-version="2"></span></p><p>En este caso, se ha configurado un SLA que mide el tiempo de resolución de los tickets en un proyecto de Jira Service Desk. Debemos hacernos varias preguntas antes de comenzar. ¿en qué situaciones debería empezar a contar el tiempo? ¿y cuando paramos el tiempo? ¿hay alguna situación pactada con nuestros clientes dónde no se han de medir tiempos?</p><p>Veamos este caso en concreto, nuestro cronómetro comenzará a contar cuando se cree un nuevo ticket, y se detendrá cuando se haya establecido una resolución. ¿en qué caso debería pararse el cronómetro para después volver a reanudarse el tiempo? Por supuesto, si estamos esperando respuesta de un cliente. Existen casos, donde el solicitante puede no estar de acuerdo con la resolución y volver a reabrir un ticket, si es el caso, pondremos que nuestro cronómetro se reinicie cuando el ticket se haya reabierto.</p><p>¿Y si no todos los tipos de tickets tienen fijados los mismos tiempos de respuesta o de resolución? Existen determinadas condiciones que requieren tiempos más estrictos. Podemos establecer mediante filtros JQL ("Jira Query Language") diferentes metas u objetivos dentro de un mismo proyecto o mesa de servicio en Jira Service Desk. En el caso de la imagen, se ha decidido que todos los tickets que sean incidencias se tendrán que resolver en menos de 4 horas. Se pueden definir tantas "condiciones" o metas como se requiera. Por supuesto, no hay que definir cada caso. Una vez se han establecido las condiciones específicas, todos los demás tickets se rigen por una meta por defecto. En el caso de la figura, serían 40 horas.</p><p>La última columna permite elegir un calendario para cada meta. Así de esta forma, controlamos cuándo va a contar el tiempo, a qué horas y qué días del año.</p><p><span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-content-image-border" height="250" src="./2018-03-07-sla-resuelto_files/image2018-3-6_13-47-24.png" data-image-src="/download/attachments/66585485/image2018-3-6_13-47-24.png?version=1&amp;modificationDate=1520341886000&amp;api=v2" data-unresolved-comment-count="0" data-linked-resource-id="66585487" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2018-3-6_13-47-24.png" data-base-url="https://confluence.excentia.es" data-linked-resource-content-type="image/png" data-linked-resource-container-id="66585485" data-linked-resource-container-version="2"></span></p><h2 id="GestióndeSLAsenJiraServiceDesk-VisualizacióndeSLAsenJiraServiceDesk">Visualización de SLAs en Jira Service Desk</h2><p>(Primera imagen de: <a href="https://www.atlassian.com/blog/jira-service-desk/abcs-to-jira-service-desk-unleash-power-queues" class="external-link" rel="nofollow">https://www.atlassian.com/blog/jira-service-desk/abcs-to-jira-service-desk-unleash-power-queues</a>)</p><p><br></p><p>Los agentes de un Help Desk de Jira Service Desk pueden visualizar el tiempo restante de cada ticket desde las colas de Jira Service Desk y desde el propio ticket.</p><p><span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-external-resource confluence-content-image-border" alt="Jira Service Desk SLAs" height="382" width="800" src="./2018-03-07-sla-resuelto_files/prioritySLA1.jpg" data-image-src="http://atlassianblog.wpengine.com/wp-content/uploads/prioritySLA1.jpg"></span><span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-content-image-border" height="400" width="920" src="./2018-03-07-sla-resuelto_files/image2018-3-6_13-57-26.png" data-image-src="/download/attachments/66585485/image2018-3-6_13-57-26.png?version=1&amp;modificationDate=1520341886000&amp;api=v2" data-unresolved-comment-count="0" data-linked-resource-id="66585486" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2018-3-6_13-57-26.png" data-base-url="https://confluence.excentia.es" data-linked-resource-content-type="image/png" data-linked-resource-container-id="66585485" data-linked-resource-container-version="2"></span></p><p>Esta forma de visualización de SLAs permite a los agentes dedicar su tiempo a los tickets que puedan estar a punto de incumplir las condiciones establecidas en los acuerdos de nivel de servicio. Jira Service Desk utiliza colores muy descriptivos.</p><p>(Imágenes de: <a href="https://confluence.atlassian.com/servicedesk025/slas-754977501.html" class="external-link" rel="nofollow">https://confluence.atlassian.com/servicedesk025/slas-754977501.html</a>)</p><p>Visualización de SLAs en curso</p><p><br></p><div class="table-wrap"><table class="confluenceTable"><colgroup><col style="width: 115.0px;"><col style="width: 541.0px;"></colgroup><tbody><tr><td class="confluenceTd"><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/sla_tag.png" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977510/1/1434955282262/sla_tag.png"></span></td><td class="confluenceTd">Queda más de una hora para incumplir el SLA</td></tr><tr><td class="confluenceTd"><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/sla_tag_important.png" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977512/1/1434955282402/sla_tag_important.png"></span></td><td class="confluenceTd">Queda menos de una hora para incumplir el SLA</td></tr><tr><td class="confluenceTd"><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/sla_tag_urgent.png" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977516/1/1434955282787/sla_tag_urgent.png"></span></td><td class="confluenceTd">Quedan menos de 30 minutos para incumplir el SLA</td></tr><tr><td class="confluenceTd"><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/sla_tag_breached.png" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977511/1/1434955282342/sla_tag_breached.png"></span></td><td class="confluenceTd">Se ha incumplido el SLA. El tiempo se muestra con un signo negativo.</td></tr></tbody></table></div><p>Visualización de SLAs completados</p><div class="table-wrap"><table class="confluenceTable"><colgroup><col><col></colgroup><tbody><tr><td class="confluenceTd"><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/sla_tag_successful.png" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977514/1/1434955282572/sla_tag_successful.png"></span></td><td class="confluenceTd">SLA completado con éxito</td></tr><tr><td colspan="1" class="confluenceTd"><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="./2018-03-07-sla-resuelto_files/sla_tag_unsuccessful.png" data-image-src="https://confluence.atlassian.com/servicedesk025/files/754977501/754977515/1/1434955282687/sla_tag_unsuccessful.png"></span></td><td colspan="1" class="confluenceTd">SLA completado e incumplido</td></tr></tbody></table></div><p><br></p><p class="auto-cursor-target">(Si necesitamos una conclusión, la podemos pensar mañana)</p>
+
+                
+        
+    
+        </div>
+
+        <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485"
+    dc:identifier="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485"
+    dc:title="Gestión de SLAs en Jira Service Desk"
+    trackback:ping="https://confluence.excentia.es/rpc/trackback/66585485"/>
+</rdf:RDF>
+-->
+
+                        
+    
+
+
+
+<div id="likes-and-labels-container"><div id="likes-section" class="no-print"><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485" class="like-button"><span class="aui-icon aui-icon-small aui-iconfont-like"></span><span class="like-button-text">Me gusta</span></a><span class="like-summary">Sé el primero al que le gusta esto</span></div><div id="labels-section" class="pageSection group">
+    <div class="labels-section-content content-column" entityid="66585485" entitytype="page">
+	<div class="labels-content">
+		
+    <ul class="label-list label-list-right  has-pen">
+            <li class="no-labels-message">
+            Sin etiquetas
+        </li>
+                <li class="labels-edit-container">
+            <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="show-labels-editor" title="Editar etiquetas (l)">
+                <span class="aui-icon aui-icon-small aui-iconfont-edit-small">Editar etiquetas</span>
+            </a>
+        </li>
+        </ul>
+
+    </div>
+</div>
+</div></div>
+        
+		
+            
+
+
+
+
+            
+        
+
+
+
+
+
+
+
+
+                        
+    
+<div id="comments-section" class="pageSection group">
+        
+    
+
+
+    <div class="bottom-comment-panels comment-panels">
+                
+                    
+    
+
+
+        
+        
+    
+    <div class="quick-comment-container comment add"><p class="comment-user-logo"><a class="userLogoLink userlink-1" data-username="acrespo" href="https://confluence.excentia.es/display/~acrespo" title="" data-user-hover-bound="true"><img class="userLogo logo" src="./2018-03-07-sla-resuelto_files/user-avatar" alt="Icono del usuario: acrespo" title=""></a></p><div class="quick-comment-body"><div class="quick-comment-loading-container" style="display:none;"></div><div id="editor-messages"></div><div id="all-messages"></div><form style="display:block;" class="quick-comment-form aui" method="post" name="inlinecommentform" action="https://confluence.excentia.es/pages/doaddcomment.action?pageId=66585485"><div title="Añadir un comentario (m)" class="quick-comment-prompt"><span>Escribe un comentario…</span></div></form></div></div>
+
+            </div>
+
+            <div id="comments-actions" class="aui-toolbar noprint" style="display: none;">
+            <p class="toolbar-group">
+                <span class="toolbar-item"><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485&amp;showComments=true&amp;showCommentArea=true#addcomment" id="add-comment-rte" accesskey="m" class="toolbar-trigger">Añadir comentario</a></span>
+            </p>
+        </div>
+    </div>
+        
+
+
+                
+    
+            
+</div>
+
+    
+
+    
+
+
+
+
+    
+    
+
+    
+    
+    
+
+
+    
+<div id="space-tools-web-items" class="hidden">
+                <div data-label="Vista general" data-href="/spaces/viewspacesummary.action?key=OFER">Vista general</div>
+            <div data-label="Herramientas de contenido" data-href="/pages/reorderpages.action?key=OFER">Herramientas de contenido</div>
+    </div>
+        
+
+
+
+            </div><!-- \#main -->
+            
+    
+    
+        
+            
+            
+
+<div id="footer" role="contentinfo" style="margin-left: 285px;">
+    <section class="footer-body">
+
+                                                    
+        
+
+        <ul id="poweredby">
+            <li class="noprint">Desarrollado por <a href="http://www.atlassian.com/software/confluence" class="hover-footer-link" rel="nofollow">Atlassian Confluence</a> <span id="footer-build-information">6.6.0</span>
+</li>
+            <li class="print-only">Impreso por Atlassian Confluence 6.6.0
+</li>
+            <li class="noprint"><a href="https://support.atlassian.com/help/confluence" class="hover-footer-link" rel="nofollow">Informar de un error</a></li>
+            <li class="noprint"><a href="http://www.atlassian.com/about/connected.jsp?s_kwcid=Confluence-stayintouch" class="hover-footer-link" rel="nofollow">Noticias de Atlassian</a></li>
+        </ul>
+
+        
+
+        <div id="footer-logo"><a href="http://www.atlassian.com/" rel="nofollow">Atlassian</a></div>
+
+                    
+        
+    </section>
+</div>
+
+    
+</div>
+
+</div><!-- \#full-height-container -->
+</div><!-- \#page -->
+
+    <span style="display:none;" id="confluence-server-performance">{"serverDuration": 446, "requestCorrelationId": "b7caf97047720081"}</span>
+
+
+<script type="text/javascript">
+    AJS.BigPipe = AJS.BigPipe || {};
+    AJS.BigPipe.metrics = AJS.BigPipe.metrics || {};
+    AJS.BigPipe.metrics.pageEnd = typeof window.performance !== "undefined" && typeof window.performance.now === "function"
+                                    ? Math.ceil(window.performance.now()) : 0;
+    AJS.BigPipe.metrics.isBigPipeEnabled = 'false' === 'true';
+</script>
+
+
+    
+<div id="inline-dialog-notifications-miniview" class="aui-inline-dialog"><div class="aui-inline-dialog-contents contents" style="width: 500px;"><iframe id="notifications-miniview-iframe" src="./2018-03-07-sla-resuelto_files/notifications-miniview.html" frameborder="0"></iframe></div><div id="arrow-notifications-miniview" class="aui-inline-dialog-arrow arrow aui-css-arrow"></div></div><script id="wappalyzer" src="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/inject.js"></script><div id="editor-preload-container" style="display: none;">
+ 
+
+<div class="hidden">
+        
+
+
+<content tag="breadcrumbs">
+    
+    
+    <ol id="quickedit-breadcrumbs">
+                                        
+                        
+        <li class="first">
+                        
+                            <span class=""><a href="https://confluence.excentia.es/display/OFER" target="_blank">Consejo de Comercio</a></span>
+                                                                                    
+                        
+        </li><li>
+                        
+                            <span class=""><a href="https://confluence.excentia.es/collector/pages.action?key=OFER" target="_blank">Panel</a></span>
+                                                                                    
+                        
+        </li><li>
+                        
+                            <span class=""><a href="https://confluence.excentia.es/display/OFER/Inicio" target="_blank">Inicio</a></span>
+                                                                                    
+                        
+        </li><li>
+                        
+                            <span class=""><a href="https://confluence.excentia.es/display/OFER/Marketing+Digital" target="_blank">Marketing Digital</a></span>
+                                                                                    
+                        
+        </li><li>
+                        
+                            <span class="edited-page-title"><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485" target="_blank">Gestión de SLAs en Jira Service Desk</a></span>
+                                                                    </li></ol>
+
+</content>
+</div>
+
+
+        
+    
+
+                                                                                        
+
+<script type="text/x-template" title="editor-css" id="editor-css-resources">
+    <link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/2.0.17/_/download/batch/com.atlassian.confluence.plugins.confluence-collaborative-editor-plugin:confluence-collaborative-editor-plugin-editor-content-resources/com.atlassian.confluence.plugins.confluence-collaborative-editor-plugin:confluence-collaborative-editor-plugin-editor-content-resources.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-collaborative-editor-plugin:confluence-collaborative-editor-plugin-editor-content-resources" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d31cd7d2fde86846818b7c61a667b08c-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.0.6/_/download/batch/com.atlassian.auiplugin:aui-page-typography/com.atlassian.auiplugin:aui-page-typography.css" data-wrm-key="com.atlassian.auiplugin:aui-page-typography" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d31cd7d2fde86846818b7c61a667b08c-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.0.6/_/download/batch/com.atlassian.auiplugin:aui-avatars/com.atlassian.auiplugin:aui-avatars.css" data-wrm-key="com.atlassian.auiplugin:aui-avatars" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/5fb89cff7cdb4d326688653fc11d5658-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.0.6/_/download/batch/com.atlassian.auiplugin:aui-page-layout/com.atlassian.auiplugin:aui-page-layout.css" data-wrm-key="com.atlassian.auiplugin:aui-page-layout" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/e330c48656444406579e9a67ad27107f-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_/download/batch/com.atlassian.confluence.editor:editor-content-styles/com.atlassian.confluence.editor:editor-content-styles.css" data-wrm-key="com.atlassian.confluence.editor:editor-content-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/e330c48656444406579e9a67ad27107f-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_/download/batch/com.atlassian.confluence.editor:table-resizable-editor-content-styles/com.atlassian.confluence.editor:table-resizable-editor-content-styles.css?confluence.table.resizable=true" data-wrm-key="com.atlassian.confluence.editor:table-resizable-editor-content-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/e330c48656444406579e9a67ad27107f-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_/download/batch/com.atlassian.confluence.editor:table-resizable-styles/com.atlassian.confluence.editor:table-resizable-styles.css?confluence.table.resizable=true" data-wrm-key="com.atlassian.confluence.editor:table-resizable-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_/download/batch/com.atlassian.confluence.plugins.confluence-templates:variable-editor-content-styles/com.atlassian.confluence.plugins.confluence-templates:variable-editor-content-styles.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-templates:variable-editor-content-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d31cd7d2fde86846818b7c61a667b08c-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.0.6/_/download/batch/com.atlassian.auiplugin:aui-lozenge/com.atlassian.auiplugin:aui-lozenge.css" data-wrm-key="com.atlassian.auiplugin:aui-lozenge" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/2.21/_/download/batch/com.atlassian.confluence.plugins.status-macro:view_content_status/com.atlassian.confluence.plugins.status-macro:view_content_status.css" data-wrm-key="com.atlassian.confluence.plugins.status-macro:view_content_status" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/24c91441d2d4cd90dd9447828346d8d6-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/2.21/_/download/batch/com.atlassian.confluence.plugins.status-macro:editor_content_status/com.atlassian.confluence.plugins.status-macro:editor_content_status.css" data-wrm-key="com.atlassian.confluence.plugins.status-macro:editor_content_status" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d0638b94054c44b2ca8199723136b528-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/1.2.8/_/download/batch/com.atlassian.confluence.plugins.confluence-fixed-headers:confluence-fixed-headers-editor-content-resources/com.atlassian.confluence.plugins.confluence-fixed-headers:confluence-fixed-headers-editor-content-resources.css?confluence.view.edit.transition=true" data-wrm-key="com.atlassian.confluence.plugins.confluence-fixed-headers:confluence-fixed-headers-editor-content-resources" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/656aaffb18e6a1aff5fbfe3cf106e125-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/5.0.2/_/download/batch/confluence.extra.attachments:attachments-css/confluence.extra.attachments:attachments-css.css" data-wrm-key="confluence.extra.attachments:attachments-css" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/14.1.2/_/download/batch/com.atlassian.confluence.plugins.confluence-roadmap-plugin:roadmap-placeholder-css/com.atlassian.confluence.plugins.confluence-roadmap-plugin:roadmap-placeholder-css.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-roadmap-plugin:roadmap-placeholder-css" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/1.0/_/download/batch/confluence.web.resources:panel-styles/confluence.web.resources:panel-styles.css" data-wrm-key="confluence.web.resources:panel-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/7f3ca32c7c32462a92cc404a621f249f-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/1.0/_/download/batch/confluence.web.resources:content-styles/confluence.web.resources:content-styles.css" data-wrm-key="confluence.web.resources:content-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_/download/batch/com.atlassian.confluence.plugins.confluence-page-layout:editor-pagelayout-content-styles/com.atlassian.confluence.plugins.confluence-page-layout:editor-pagelayout-content-styles.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-page-layout:editor-pagelayout-content-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/5.0.5/_/download/batch/com.atlassian.confluence.plugins.confluence-business-blueprints:sharelinks-urlmacro-editor-resources/com.atlassian.confluence.plugins.confluence-business-blueprints:sharelinks-urlmacro-editor-resources.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-business-blueprints:sharelinks-urlmacro-editor-resources" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/7.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-inline-tasks:inline-tasks-styles/com.atlassian.confluence.plugins.confluence-inline-tasks:inline-tasks-styles.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-inline-tasks:inline-tasks-styles" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/7.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-inline-tasks:editor-autocomplete-date-css/com.atlassian.confluence.plugins.confluence-inline-tasks:editor-autocomplete-date-css.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-inline-tasks:editor-autocomplete-date-css" data-wrm-batch-type="resource" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/7.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-inline-tasks:editor-autocomplete-date-css/com.atlassian.confluence.plugins.confluence-inline-tasks:editor-autocomplete-date-css.css?conditionalComment=lte+IE+9" data-wrm-key="com.atlassian.confluence.plugins.confluence-inline-tasks:editor-autocomplete-date-css" data-wrm-batch-type="resource" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/s/3d4b11f6ee2a89fd5ace87c910cee04b-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/3.0.1/_/download/batch/com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-editor-content-resources/com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-editor-content-resources.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-editor-content-resources" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/4.1.0/_/download/batch/com.atlassian.confluence.plugins.confluence-software-blueprints:common-resources/com.atlassian.confluence.plugins.confluence-software-blueprints:common-resources.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-software-blueprints:common-resources" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/112/_/styles/colors.css" media="all">
+<link type="text/css" rel="stylesheet" href="/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/112/_/styles/custom.css" media="all">
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+<div class="editor-container">
+
+        
+            
+
+<div id="link-browser-tab-items" class="hidden">
+                <div title="Buscar" data-weight="10">search</div>
+            <div title="Visto recientemente" data-weight="20">recentlyviewed</div>
+            <div title="Archivos" data-weight="30">attachments</div>
+            <div title="Enlace web" data-weight="40">weblink</div>
+            <div title="Avanzado" data-weight="50">advanced</div>
+    </div>
+            <div id="image-properties-tab-items" class="hidden">
+                <div title="Efectos" data-weight="10">image-effects</div>
+            <div title="Título" data-weight="20">image-attributes</div>
+    </div>
+            
+
+ 
+
+
+
+
+
+
+
+
+
+
+        <div id="toolbar">
+        <div id="rte-toolbar" class="aui-toolbar aui-toolbar2">
+
+            <div class="aui-toolbar2-primary toolbar-primary">
+                <ul class="aui-buttons rte-toolbar-group-formatting">
+                                        <li id="format-dropdown" class="toolbar-item toolbar-dropdown">
+                        <div class="aui-dd-parent">
+                            <a id="format-dropdown-display" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="toolbar-trigger aui-dd-trigger aui-button" data-control-id="formatselect">
+                                <span class="dropdown-text">Párrafo</span>
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-dropdown "></span>
+                            </a>
+                            <ul id="format-dropdown-display-menu" class="aui-dropdown hidden">
+                                    <li class="dropdown-item format-p" data-format="p" data-tooltip="Párrafo (Ctrl+0)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Párrafo</a>
+    </li>
+                                    <li class="dropdown-item format-h1" data-format="h1" data-tooltip="Título 1 (Ctrl+1)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Título 1</a>
+    </li>
+                                    <li class="dropdown-item format-h2" data-format="h2" data-tooltip="Título 2 (Ctrl+2)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Título 2</a>
+    </li>
+                                    <li class="dropdown-item format-h3" data-format="h3" data-tooltip="Título 3 (Ctrl+3)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Título 3</a>
+    </li>
+                                    <li class="dropdown-item format-h4" data-format="h4" data-tooltip="Título 4 (Ctrl+4)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Título 4</a>
+    </li>
+                                    <li class="dropdown-item format-h5" data-format="h5" data-tooltip="Título 5 (Ctrl+5)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Título 5</a>
+    </li>
+                                    <li class="dropdown-item format-h6" data-format="h6" data-tooltip="Título 6 (Ctrl+6)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Título 6</a>
+    </li>
+                                    <li class="dropdown-item format-pre" data-format="pre" data-tooltip="Con formato previo (Ctrl+7)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Con formato previo</a>
+    </li>
+                                    <li class="dropdown-item format-blockquote" data-format="blockquote" data-tooltip="Citar (Ctrl+8)">
+        <a class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">Citar</a>
+    </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+
+                <ul class="aui-buttons rte-toolbar-group-style">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-bold" data-tooltip="Negrita (Ctrl+B)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="bold">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-bold ">Negrita</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-italic" data-tooltip="Cursiva (Ctrl+I)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="italic">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-italic ">Cursiva</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-underline" data-tooltip="Subrayar (Ctrl+U)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="underline">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-underline ">Subrayar</span>
+        </a>
+    </li>
+                                        <li id="color-picker-control" class="toolbar-item toolbar-splitbutton">
+                        <a class="toolbar-trigger aui-button" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" id="rte-button-color" data-color="003366" data-tooltip="Color"><span class="icon aui-icon aui-icon-small aui-iconfont-editor-color ">Selector de colores</span><span class="selected-color"></span></a><div class="aui-dd-parent"><a class="toolbar-trigger aui-dd-trigger aui-button" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" id="rte-button-color-selector" data-control-id="colorSelector" data-tooltip="Más colores"><span class="icon aui-icon aui-icon-small aui-iconfont-dropdown ">Más colores</span></a><div class="color-picker-container"><div class="color-picker aui-dropdown hidden"><ul><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #000000" data-color="000000">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #993300" data-color="993300">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #333300" data-color="333300">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #003300" data-color="003300">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #003366" data-color="003366">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #000080" data-color="000080">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #333399" data-color="333399">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #333333" data-color="333333">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #800000" data-color="800000">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FF6600" data-color="FF6600">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #808000" data-color="808000">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #008000" data-color="008000">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #008080" data-color="008080">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #0000FF" data-color="0000FF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #666699" data-color="666699">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #808080" data-color="808080">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FF0000" data-color="FF0000">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FF9900" data-color="FF9900">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #99CC00" data-color="99CC00">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #339966" data-color="339966">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #33CCCC" data-color="33CCCC">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #3366FF" data-color="3366FF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #800080" data-color="800080">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #999999" data-color="999999">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FF00FF" data-color="FF00FF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FFCC00" data-color="FFCC00">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FFFF00" data-color="FFFF00">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #00FF00" data-color="00FF00">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #00FFFF" data-color="00FFFF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #00CCFF" data-color="00CCFF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #993366" data-color="993366">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #C0C0C0" data-color="C0C0C0">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FF99CC" data-color="FF99CC">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FFCC99" data-color="FFCC99">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FFFF99" data-color="FFFF99">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #CCFFCC" data-color="CCFFCC">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #CCFFFF" data-color="CCFFFF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #99CCFF" data-color="99CCFF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #CC99FF" data-color="CC99FF">&nbsp;</a></li><li><a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" style="background-color: #FFFFFF" data-color="FFFFFF">&nbsp;</a></li></ul></div></div></div>
+                    </li>
+                    <li id="more-menu" class="toolbar-item toolbar-dropdown">
+                        <div class="aui-dd-parent">
+                            <a id="rte-button-more" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="toolbar-trigger aui-dd-trigger aui-button" data-tooltip="Más">
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-styles ">Formato</span>
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-dropdown "></span>
+                            </a>
+                            <div id="rte-button-more-menu" class="aui-dropdown grouped hidden">
+                                <div class="grouped-dropdown-item">
+                                    <ul>
+                                                                <li class="dropdown-item more-menu-trigger" data-control-id="strikethrough" data-tooltip="Tachado (Ctrl+Mayús+S)">
+        <a id="rte-strikethrough" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+Tachado
+        </a>
+    </li>
+                                                                 <li class="dropdown-item more-menu-trigger" data-control-id="sub" data-tooltip="">
+        <a id="rte-sub" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+Subíndice
+        </a>
+    </li>
+                                                                 <li class="dropdown-item more-menu-trigger" data-control-id="sup" data-tooltip="">
+        <a id="rte-sup" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+Superíndice
+        </a>
+    </li>
+                                                        <li class="dropdown-item more-menu-trigger" data-control-id="monospace" data-tooltip="Dar formato a texto con fuente monoespaciada">
+        <a id="rte-monospace" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+Monoespaciado
+        </a>
+    </li>
+
+                                                                                                                    </ul>
+                                </div>
+                                <div class="grouped-dropdown-item">
+                                    <ul>
+                                            <li class="dropdown-item more-menu-trigger no-icon" data-format="removeformat" data-tooltip="Borra formato en texto seleccionado">
+        <a id="rte-removeformat" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+            Borrar formato
+        </a>
+    </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </li>
+                </ul>
+
+                <ul class="aui-buttons rte-toolbar-group-lists">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-bullist" data-tooltip="Lista de viñetas (Ctrl+Mayús+B)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="bullist">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-list-bullet ">Lista de viñetas</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-numlist" data-tooltip="Lista numerada (Ctrl+Mayús+N)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="numlist">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-list-number ">Lista numerada</span>
+        </a>
+    </li>
+                </ul>
+                                <ul class="aui-buttons rte-toolbar-group-task-lists">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-tasklist" data-tooltip="Lista de tareas ([luego])">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="tasklist">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-task ">Lista de tareas</span>
+        </a>
+    </li>
+                </ul>
+                
+                <ul class="aui-buttons rte-toolbar-group-indentation">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-outdent" data-tooltip="Anular sangría">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="outdent">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-outdent ">Anular sangría</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-indent" data-tooltip="Aplicar sangría">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="indent">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-indent ">Aplicar sangría</span>
+        </a>
+    </li>
+                </ul>
+
+                <ul class="aui-buttons rte-toolbar-group-justification">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-justifyleft" data-tooltip="Alinear a la izquierda">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="justifyleft">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-align-left ">Alinear a la izquierda</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-justifycenter" data-tooltip="Alinear al centro">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="justifycenter">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-align-center ">Alinear al centro</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-justifyright" data-tooltip="Alinear a la derecha">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="justifyright">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-align-right ">Alinear a la derecha</span>
+        </a>
+    </li>
+                </ul>
+
+                                <ul class="aui-buttons hidden" id="page-layout-2-group">
+                    <li id="page-layout-2" class="toolbar-item" data-tooltip="Diseño de página">
+                        <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="aui-button toolbar-trigger" id="rte-button-pagelayout-2">
+                                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-layout ">Diseño de página</span>
+                        </a>
+                    </li>
+                </ul>
+                
+
+                <ul class="aui-buttons rte-toolbar-group-files hidden"></ul>
+
+                <ul class="aui-buttons rte-toolbar-group-link no-separator">
+                    <li class="toolbar-item" data-tooltip="Insertar enlace (Ctrl+K)">
+                        <a id="rte-button-link" class="toolbar-trigger aui-button" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="linkbrowserButton">
+                                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-link "></span>
+                            <span class="trigger-text">Enlace</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <ul class="aui-buttons rte-toolbar-group-table no-separator">
+                    <li class="toolbar-item toolbar-dropdown" id="insert-table-dropdown">
+                        <div class="aui-dd-parent">
+                            <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="toolbar-trigger aui-dd-trigger aui-button" id="rte-button-insert-table" data-tooltip="Insertar tabla">
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-table "></span>
+                                <span class="dropdown-text">Tabla</span>
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-dropdown "></span>
+                            </a>
+
+                            <div id="table-picker-container" class="hidden aui-box-shadow">
+                                <div class="table-picker-box" data-tooltip="Mantén presionada la tecla Mayús para hacer una tabla sin título.">
+                                    <div class="table-picker-background">
+                                        <div class="picker picker-cell"></div>
+                                        <div class="picker picker-heading heading"></div>
+                                        <div class="picker picker-selected-cell"></div>
+                                        <div class="picker picker-selected-heading heading"></div>
+                                    </div>
+                                    <p class="desc"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+
+                                                                
+                
+                <ul class="aui-buttons rte-toolbar-group-insert no-separator">
+                    <li class="toolbar-item toolbar-dropdown" id="insert-menu">
+                        <div class="aui-dd-parent">
+                            <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="toolbar-trigger aui-dd-trigger aui-button" id="rte-button-insert" data-tooltip="Insertar más contenido">
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-add "></span>
+                                <span class="dropdown-text">Insertar</span>
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-dropdown "></span>
+                            </a>
+
+                            <div id="insert-menu-options" class="aui-dropdown grouped hidden">
+                                <div class="grouped-dropdown-item">
+                                    <span class="assistive">Insertar contenido</span>
+                                    <ul id="content-insert-list">
+                                        
+        
+        <li class="dropdown-item content-image" data-command="mceConfimage" data-tooltip="Insertar archivos e imágenes (Ctrl+M)">
+        <a id="rte-insert-image" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Archivos e imágenes
+        </a>
+    </li>
+                                        
+        
+        <li class="dropdown-item content-link" data-control-id="linkbrowserButton" data-tooltip="Insertar enlace (Ctrl+K)">
+        <a id="rte-insert-link" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Enlace
+        </a>
+    </li>
+                                        
+    
+        <li class="dropdown-item content-symbol" data-command="confCharmap" data-tooltip="Insertar símbolo">
+        <a id="rte-insert-symbol" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Símbolo
+        </a>
+    </li>
+                                        
+    
+        <li class="dropdown-item content-emoticon" data-command="mceEmotion" data-tooltip="Insertar emoticono">
+        <a id="rte-insert-emoticon" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Emoticono
+        </a>
+    </li>
+                                        
+        
+        <li class="dropdown-item content-wikimarkup" data-command="InsertWikiMarkup" data-tooltip="Insertar markup (Ctrl+Mayús+D)">
+        <a id="rte-insert-wikimarkup" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Markup
+        </a>
+    </li>
+                                        
+    
+        <li class="dropdown-item content-hr" data-command="InsertHorizontalRule" data-tooltip="Insertar regla horizontal (----)">
+        <a id="rte-insert-hr" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Regla horizontal
+        </a>
+    </li>
+                                                                                    
+        
+        <li class="dropdown-item content-tasklist" data-command="InsertInlineTaskListNoToggle" data-tooltip="Insertar lista de tareas ([luego])">
+        <a id="rte-insert-tasklist" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Lista de tareas
+        </a>
+    </li>
+                                                                            </ul>
+                                </div>
+                                <div class="grouped-dropdown-item">
+                                    <span class="assistive">Insertar macro</span>
+                                    <ul id="macro-insert-list">
+                                                                                                                                                                                <li class="dropdown-item macro-insertmention-button" data-macro-name="insertmention-button" data-tooltip="Insertar macro &#39;Mención de usuarios&#39;">
+        <a id="insertmention-button" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Mención de usuarios
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-jiralink" data-macro-name="jiralink" data-tooltip="Insertar macro &#39;Filtro/tique de Jira&#39;">
+        <a id="jiralink" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Filtro/tique de Jira
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-info" data-macro-name="info" data-tooltip="Insertar macro &#39;Info&#39;">
+        <a id="info" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Info
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-status" data-macro-name="status" data-tooltip="Insertar macro &#39;Estado&#39;">
+        <a id="status" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Estado
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-gallery" data-macro-name="gallery" data-tooltip="Insertar macro &#39;Galería&#39;">
+        <a id="gallery" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Galería
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-toc" data-macro-name="toc" data-tooltip="Insertar macro &#39;Tabla de contenidos&#39;">
+        <a id="toc" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Tabla de contenidos
+        </a>
+    </li>
+                                                                                                                            
+        
+        <li class="dropdown-item content-macro" data-command="mceConfMacroBrowser" data-tooltip="Abrir el explorador de macros (Ctrl+Mayús+A)">
+        <a id="rte-insert-macro" class="item-link" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#">
+                
+    
+    <span class="icon "></span>
+ Otras macros
+        </a>
+    </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+
+                                <ul class="aui-buttons rte-toolbar-group-page-layouts-section-types">
+                    <li id="pagelayout-menu" class="toolbar-item toolbar-dropdown">
+                        <div class="aui-dd-parent">
+                            <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="toolbar-trigger aui-dd-trigger aui-button" id="rte-button-pagelayout" data-tooltip="Diseño de página">
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-default">Diseño de página</span>
+                                    
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-dropdown "></span>
+                            </a>
+
+                            <ul id="pagelayout-menu-options" class="aui-dropdown hidden">
+                                <li class="dropdown-item" data-tooltip="Ningún diseño">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-none&quot;, &quot;columns&quot;: 0   }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-none">Ningún diseño</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Dos columnas (simples)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-two-simple&quot;, &quot;columns&quot;: [&quot;&quot;, &quot;&quot;]   }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-two-simple">Dos columnas (simples)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Dos columnas (simples, barra lateral izquierda)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-two-simple-left&quot;, &quot;columns&quot;: [&quot;aside&quot;, &quot;large&quot;]   }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-two-simple-left">Dos columnas (simples, barra lateral izquierda)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Dos columnas (simple, barra lateral derecha)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-two-simple-right&quot;, &quot;columns&quot;: [&quot;large&quot;, &quot;aside&quot;]   }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-two-simple-right">Dos columnas (simple, barra lateral derecha)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Tres columnas (simples)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-three-simple&quot;, &quot;columns&quot;: [&quot;&quot;, &quot;&quot;, &quot;&quot;]   }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-three-simple">Tres columnas (simples)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Dos columnas">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-two&quot;, &quot;columns&quot;: [&quot;&quot;, &quot;&quot;] , &quot;header&quot;: true  , &quot;footer&quot;:true  }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-two">Dos columnas</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Dos columnas (barra lateral izquierda)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-two-left&quot;, &quot;columns&quot;: [&quot;aside&quot;, &quot;large&quot;] , &quot;header&quot;: true  , &quot;footer&quot;:true  }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-two-left">Dos columnas (barra lateral izquierda)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Dos columnas (barra lateral derecha)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-two-right&quot;, &quot;columns&quot;: [&quot;large&quot;, &quot;aside&quot;] , &quot;header&quot;: true  , &quot;footer&quot;:true  }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-two-right">Dos columnas (barra lateral derecha)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Tres columnas">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-three&quot;, &quot;columns&quot;: [&quot;&quot;, &quot;&quot;, &quot;&quot;] , &quot;header&quot;: true  , &quot;footer&quot;:true  }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-three">Tres columnas</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="Tres columnas (barras laterales izquierda y derecha)">
+    <a href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" class="item-link" data-atlassian-layout="{&quot;name&quot;: &quot;pagelayout-three-sidebars&quot;, &quot;columns&quot;: [&quot;sidebars&quot;, &quot;large&quot;, &quot;sidebars&quot;] , &quot;header&quot;: true  , &quot;footer&quot;:true  }">
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-check hidden"></span>
+            
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-layout pagelayout-three-sidebars">Tres columnas (barras laterales izquierda y derecha)</span>
+    </a>
+</li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                
+                                                
+                <ul class="aui-buttons rte-toolbar-group-undo">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-undo" data-tooltip="Deshacer (Ctrl+Z)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="undo">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-undo ">Deshacer</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-redo" data-tooltip="Rehacer (Ctrl+Y)">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="redo">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-redo ">Rehacer</span>
+        </a>
+    </li>
+                </ul>
+            </div>                                                                                                <div id="draft-status" style="display:none"></div>
+                            <div class="aui-toolbar2-secondary">
+                <ul class="aui-buttons rte-toolbar-group-searchreplace">
+                        <li class="toolbar-item aui-button" id="rte-button-searchreplace" data-tooltip="Buscar/reemplazar">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="searchreplace">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-search ">Buscar/reemplazar</span>
+        </a>
+    </li>
+                </ul>
+                <ul class="aui-buttons rte-toolbar-group-help">
+                        <li class="toolbar-item aui-button" id="rte-button-help" data-tooltip="Ayuda">
+        <a class="toolbar-trigger" href="https://confluence.excentia.es/pages/viewpage.action?pageId=66585485#" data-control-id="help">
+                
+    
+    <span class="icon aui-icon aui-icon-small aui-iconfont-editor-help ">Ayuda de métodos abreviados de teclado</span>
+        </a>
+    </li>
+                </ul>
+            </div>        </div>    </div>
+        
+        
+                                <div id="editor-notifications-container"><div id="all-messages"><div id="action-messages"></div></div></div><div id="editor-precursor"><div class="cell"><div class="aui-buttons aui-toolbar2"><button class="aui-button aui-button-subtle rte-button-labels" type="button" data-tooltip="Etiquetas" id="rte-button-labels" data-explicit-restrictions="" data-inherited-restrictions=""><span class="icon aui-icon aui-icon-small aui-iconfont-devtools-tag"></span></button><button class="aui-button aui-button-subtle rte-button-restrictions" type="button" data-tooltip="Sin restricciones" id="rte-button-restrictions" data-explicit-restrictions="false" data-inherited-restrictions="false"><span class="icon aui-icon aui-icon-small aui-iconfont-unlocked"></span></button></div><div id="content-title-div" class="collaborative"><input type="text" name="title" id="content-title" tabindex="1" class="text pagetitle" autocomplete="off" value="Gestión de SLAs en Jira Service Desk" placeholder="Título de página"></div></div></div>
+            
+    <div id="wysiwyg">
+        <div id="rte" class="cell editor-default collaborative">
+            <textarea id="wysiwygTextarea" name="wysiwygContent" class="hidden tinymce-editor"></textarea>
+        </div>
+    </div>
+    <div id="editor-html-source-container" class="hidden">
+        <textarea id="editor-html-source" class="monospaceInput"></textarea>
+    </div>
+
+    <div id="preview">
+                        <div id="previewArea" class="cell">
+        </div>
+    </div>
+
+            <div id="savebar-container"><div id="rte-savebar" class="aui-toolbar aui-toolbar2"><div class="toolbar-split toolbar-split-row"><div class="toolbar-split toolbar-split-left"><div class="aui-buttons"></div></div><div class="toolbar-split toolbar-split-right"><div id="pluggable-status-container" class="toolbar-item rte-toolbar-pluggable-status"><div id="pluggable-status" class="synchrony"><div class="synchrony-status-indicator"><div class="status-indicator-icon aui-icon aui-icon-small aui-iconfont-devtools-task-in-progress" data-tooltip="Guardamos todos tus cambios de forma automática en un borrador. Haz clic para ver los cambios."></div><div class="status-indicator-message" data-tooltip="Guardamos todos tus cambios de forma automática en un borrador. Haz clic para ver los cambios.">Conectando…</div></div></div></div><div class="aui-buttons" id="rte-savebar-tinymce-plugin-point"></div><div class="aui-buttons"><span id="rte-spinner" class="toolbar-item shared-drafts">&nbsp;</span></div><div class="aui-buttons toolbar-group-edit assistive"><button id="rte-button-edit" class="aui-button" title="Regresar al modo de edición" type="button"><span class="trigger-text">Editar</span></button></div><div class="aui-buttons toolbar-group-preview"><button class="aui-button toolbar-item aui-button-light" id="rte-button-preview" title="Previsualizar" type="button"><span class="trigger-text">Previsualizar</span></button></div><div class="save-button-container"><button class="aui-button aui-button-primary" type="submit" id="rte-button-publish" name="confirm" value="Save" title="Guardar"><span class="trigger-text">Guardar</span></button></div><button class="toolbar-item-link aui-button aui-button-link" type="submit" id="rte-button-cancel" name="cancel" value="cancel">Cerrar</button></div></div></div></div>
+    
+        <section role="dialog" id="quit-editor-dialog" class="aui-layer aui-dialog2 aui-dialog2-medium" aria-hidden="true"><header class="aui-dialog2-header"></header><div class="aui-dialog2-content"></div><footer class="aui-dialog2-footer"><div class="aui-dialog2-footer-actions"><button id="qed-publish-button" class="aui-button aui-button-primary publish">Actualizar</button><button id="qed-discard-button" title="Descartar todos los cambios no publicados" class="aui-button aui-button-light exit"></button><button id="qed-save-exit-button" class="aui-button aui-button-primary exit">Conservar borrador</button><button id="qed-close-button" class="aui-button aui-button-link">Cerrar</button></div><div class="aui-dialog2-footer-hint"><a id="qed-show-diff-button" class="aui-button aui-button-link">Mostrar cambios</a><a id="qed-hide-diff-button" class="aui-button aui-button-link">Ocultar cambios</a></div></footer></section>
+
+    
+</div>
+
+
+
+<script type="text/x-template" title="dynamic-editor-metadata" id="dynamic-editor-metadata-template">
+            <meta name="ajs-use-watch" content="true">
+            <meta name="ajs-attachment-source-content-id" content="66585485">
+            <meta name="ajs-use-inline-tasks" content="true">
+            <meta name="ajs-heartbeat" content="true">
+            <meta name="ajs-action-locale" content="es_ES">
+            <meta name="ajs-editor-plugin-resource-prefix" content="/s/es_ES/7502/177212298c6461c885dbbafed4e632d4bbbd984f/6.6.0/_">
+            <meta name="ajs-edit-mode" content="collaborative">
+            <meta name="ajs-user-watching-own-content" content="true">
+            <meta name="ajs-new-page" content="false">
+            <meta name="ajs-editor-mode" content="richtext">
+            <meta name="ajs-auto-start" content="false">
+            <meta name="ajs-conf-revision" content="confluence$content$66585485.6">
+            <meta name="ajs-sync-revision-source" content="synchrony">
+            <meta name="ajs-draft-id" content="66585491">
+            <meta name="ajs-draft-share-id" content="e4feda0d-cf7f-40e6-8439-5abe692f1d45">
+            <meta name="ajs-content-type" content="page">
+            <meta name="ajs-collaborative-editor-status" content="">
+            <meta name="ajs-existing-draft-id" content="0">
+            <meta name="ajs-content-id" content="66585485">
+            <meta name="ajs-form-name" content="inlinecommentform">
+            <meta name="ajs-can-attach-files" content="true">
+            <meta name="ajs-show-draft-message" content="false">
+            <meta name="ajs-shared-drafts" content="true">
+            <meta name="ajs-collaborative-content" content="true">
+            <meta name="ajs-min-editor-height" content="150">
+            <meta name="ajs-version-comment" content="">
+            <meta name="ajs-draft-type" content="page">
+                
+                <meta name="ajs-synchrony-token" content="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczpcL1wvY29uZmx1ZW5jZS5leGNlbnRpYS5lc1wvc3luY2hyb255XC92MSIsInN1YiI6ImZmODA4MTgxNWQ2MGE3YzYwMTVlMGRkMjlhMGQxOTkzIiwiYWNjZXNzIjp7IlwvZGF0YVwvU3luY2hyb255LTFlYzEzZTcxLTU1ZTMtMzg3ZC1iOTJiLTg3ZDU4YmJkNjhmZlwvY29uZmx1ZW5jZS02NjU4NTQ4NSI6ImZ1bGwiLCJcL2RhdGFcL1N5bmNocm9ueS0xZWMxM2U3MS01NWUzLTM4N2QtYjkyYi04N2Q1OGJiZDY4ZmZcL2NvbmZsdWVuY2UtNjY1ODU0ODUtdGl0bGUiOiJmdWxsIn0sInJldmlzaW9uTWV0YSI6eyJ1c2VyS2V5IjoiZmY4MDgxODE1ZDYwYTdjNjAxNWUwZGQyOWEwZDE5OTMifSwic2Vzc2lvbiI6eyJhdmF0YXJVUkwiOiJcL2Rvd25sb2FkXC9hdHRhY2htZW50c1wvNjA1MjMxMzlcL3VzZXItYXZhdGFyIiwibmFtZSI6ImFjcmVzcG8iLCJmdWxsbmFtZSI6IkFuZHJlYSBDcmVzcG8ifSwiaXNzIjoiU3luY2hyb255LTFlYzEzZTcxLTU1ZTMtMzg3ZC1iOTJiLTg3ZDU4YmJkNjhmZiIsImV4cCI6MTUyMDQ5OTQ4NSwiaWF0IjoxNTIwNDEzMDg1fQ.bvGvv8AMzJlK3I7-23gsAe-L6COtxWgENrhcvb7j5kM">
+    <meta name="ajs-synchrony-base-url" content="https://confluence.excentia.es/synchrony,https://confluence.excentia.es/synchrony-proxy">
+    <meta name="ajs-synchrony-app-id" content="Synchrony-1ec13e71-55e3-387d-b92b-87d58bbd68ff">
+    <meta name="ajs-synchrony-expiry" content="1520498585">
+    <meta name="ajs-use-xhr-fallback" content="true">
+
+            		    <meta name="ajs-max-thumb-width" content="300">
+		    <meta name="ajs-max-thumb-height" content="300">
+		    <meta name="ajs-can-send-email" content="true">
+		    <meta name="ajs-is-dev-mode" content="false">
+		    <meta name="ajs-draft-save-interval" content="30000">
+		    <meta name="ajs-show-hidden-user-macros" content="false">
+		    <meta name="ajs-is-admin" content="false">
+		    <meta name="ajs-confluence.prefs.editor.disable.autocomplete" content="false">
+		    <meta name="ajs-confluence.prefs.editor.disable.autoformat" content="false">
+		    <meta name="ajs-heartbeat-interval" content="30000">
+	
+    </script>
+
+<script type="text/x-template" title="tableForm" id="table-form-template">
+    <form id="tinymce-table-form" class="aui">
+        <div class="field-group">
+            <label for="rows">Filas</label>
+            <input id="rows" name="rows" type="text" size="3" autocomplete="off" value="{0}">
+        </div>
+        <div class="field-group">
+            <label for="cols">Columnas</label>
+            <input id="cols" name="cols" type="text" size="3" autocomplete="off" value="{1}">
+        </div>
+        <div class="field-group hidden">
+            <input id="width" type="hidden" name="width" value="">
+            <label for="width">Ancho</label>
+        </div>
+        <div class="group">
+            <div class="checkbox">
+                <input id="table-heading-checkbox" class="checkbox" type="checkbox" name="heading" checked="checked" value="true">
+                <label for="table-heading-checkbox">Primera fila es el título</label>
+            </div>
+        </div>
+        <div class="group hidden">
+            <div class="checkbox">
+                <input id="table-equal-width-columns-checkbox" class="checkbox" type="checkbox" name="equal-width-columns" value="false">
+                <label for="table-equal-width-columns-checkbox">Columnas con la misma anchura</label>
+            </div>
+        </div>
+    </form>
+</script>
+<input type="hidden" name="draftId" value="66585491" id="draftId"><input type="hidden" name="originalVersion" value="2" id="originalVersion">
+<input type="hidden" name="syncRev" value="0.HGWEgi1oxkpX8HFEZnCAUH4.28" id="syncRev">    <input type="hidden" name="atl_token" value="42d4d081e8ce669448b29c80cc68f8ffc7c04696">
+</div><div id="content-hover-0" class="ajs-content-hover aui-box-shadow" style="display: none;"><div class="contents" style="width: 300px;"></div></div><div id="content-hover-1" class="ajs-content-hover aui-box-shadow" style="display: none;"><div class="contents" style="width: 300px;"></div></div></body></html>
