@@ -55,7 +55,9 @@ La última columna permite elegir un calendario para cada meta. Así de esta for
 
 Los agentes de un Help Desk de Jira Service Desk pueden visualizar el tiempo restante de cada ticket desde las colas de Jira Service Desk y desde el propio ticket.
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-sla-en-curso.jpeg"></a>
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-1.jpg"></a>
+
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-2.png"></a>
 
 **Esta forma de visualización de SLAs permite a los agentes dedicar su tiempo a los tickets que puedan estar a punto de incumplir las condiciones establecidas en los acuerdos de nivel de servicio**.
 
@@ -63,13 +65,11 @@ Además, Jira Service Desk utiliza colores muy descriptivos que mejoran la visua
 
 **Visualización de SLA´s en curso:**
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-tiempo-de-resolucion-ticket.jpeg"></a>
-
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-4.png"></a>
 
 **Visualización de SLAs completados:**
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-tiempo-de-resolucion-ticket-tarea.jpeg"></a>
-
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-3.png"></a>
 
 ## ¿Por qué Jira Service Desk?
 Con esta explicación más práctica sobre el funcionamiento de Jira Service Desk, esperamos haberos convencido de por qué esta herramienta está triunfando en la gestión de servicios TI. 
