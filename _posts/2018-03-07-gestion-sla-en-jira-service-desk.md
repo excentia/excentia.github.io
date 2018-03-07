@@ -26,10 +26,10 @@ En el mundo de los servicios, los SLA (Service Level Agreement) o en castellano 
 
 Con el fin de ejemplificar los SLAs, vamos a explicar qué métricas se suelen incluir:
 
-* Disponibilidad de un servicio (porcentaje, suele ser un 99%)
-* Métricas de rendimiento de un servicio determinado (velocidad, tiempos de carga)
-* Tiempos de notificación en caídas de servicio "downtime"
-* Tiempos de respuesta en comunicaciones con el cliente
+* Disponibilidad de un servicio (porcentaje, suele ser un 99%).
+* Métricas de rendimiento de un servicio determinado (velocidad, tiempos de carga).
+* Tiempos de notificación en caídas de servicio "downtime".
+* Tiempos de respuesta en comunicaciones con el cliente.
 
 El origen del SLA se encuentra en los proveedores de servicios de telefonía, redes e IT en general. En este sector, el cliente contrata servicios relacionados con unas determinadas tasas de velocidad, capacidad y tiempos que deben ser medibles. Si un proveedor ofrece una tasa de velocidad determinada de acceso a la red, debe ser capaz de medirla y de cumplir con lo acordado en el contrato.
 
@@ -55,19 +55,21 @@ La última columna permite elegir un calendario para cada meta. Así de esta for
 
 Los agentes de un Help Desk de Jira Service Desk pueden visualizar el tiempo restante de cada ticket desde las colas de Jira Service Desk y desde el propio ticket.
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Visualización tiempo restante tickets en cola" title="Visualización tiempo restante tickets en cola" src="/img/posts/2018-03-07-tiempo-de-resolucion-ticket.jpeg"></a>
-
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Visualización tiempo restante tickets en tarea" title="Visualización tiempo restante tickets en tarea" src="/img/posts/2018-03-07-tiempo-de-resolucion-ticket-tarea.jpeg"></a>
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-sla-en-curso.jpeg"></a>
 
 **Esta forma de visualización de SLAs permite a los agentes dedicar su tiempo a los tickets que puedan estar a punto de incumplir las condiciones establecidas en los acuerdos de nivel de servicio**.
 
 Además, Jira Service Desk utiliza colores muy descriptivos que mejoran la visualización y el tiempo de respuesta por parte de los agentes.
 
 **Visualización de SLA´s en curso:**
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Visualización de SLAs en curso en Jira Service Desk" title="Visualización de SLAs en curso en Jira Service Desk" src="/img/posts/2018-03-07-sla-en-curso.jpeg"></a>
+
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-tiempo-de-resolucion-ticket.jpeg"></a>
+
 
 **Visualización de SLAs completados:**
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Visualización de SLAs completados en Jira Service Desk" title="Visualización de SLAs completados en Jira Service Desk" src="/img/posts/2018-03-07-sla-resuelto.jpeg"></a>
+
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-tiempo-de-resolucion-ticket-tarea.jpeg"></a>
+
 
 ## ¿Por qué Jira Service Desk?
 Con esta explicación más práctica sobre el funcionamiento de Jira Service Desk, esperamos haberos convencido de por qué esta herramienta está triunfando en la gestión de servicios TI. 
