@@ -65,7 +65,7 @@ Además, Jira Service Desk utiliza colores muy descriptivos que mejoran la visua
 
 **Visualización de SLAs en curso:**
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="200px" height="100px" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-4.png"></a>
+<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="300px" height="150px" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-4.png"></a>
 
 **Visualización de SLAs completados:**
 
