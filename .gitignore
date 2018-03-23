@@ -75,3 +75,13 @@ local.properties
 _site/
 .sass-cache
 .jekyll-metadata
+
+# Visual Studio Code
+.vscode
+
+
+# ---- IntelliJ IDEA
+*.iws
+*.iml
+*.ipr
+.idea/
