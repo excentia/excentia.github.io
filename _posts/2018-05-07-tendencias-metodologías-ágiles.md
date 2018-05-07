@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '5 tendencias que estamos viendo en el agilismo open-source'
-description: Entrada originalmente publicada en el [blog de Atlassian](https://www.atlassian.com/blog/agile/5-trends-from-open-sourcing-agile) el 21 de marzo de 2018. Adaptada y traducida por [excentia](https://www.excentia.es/).*
+description: ¿Cuál es el estado actual del agilismo en la industria? Atlassian nos cuenta 5 tendencias resultantes de su investigación. 
 date: '2018-05-07T08:00:00.000+01:00'
 author: Atlassian. Traducción por Andrea Crespo, excentia.
 categories: 
@@ -12,6 +12,7 @@ categories:
 
 modified_time: '2018-05-07T08:00:00.000+01:00'
 ---
+Entrada originalmente publicada en el [blog de Atlassian](https://www.atlassian.com/blog/agile/5-trends-from-open-sourcing-agile) el 21 de marzo de 2018. Adaptada y traducida por [excentia](https://www.excentia.es/).*
 
 <a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Cabecera Blog - 5 tendencias que estamos viendo en el agilismo open-source" title="5 tendencias que estamos viendo en el agilismo open-source" src="/img/posts/2018-05-07-tendencias-metodologias-agiles.png"></a>
 
