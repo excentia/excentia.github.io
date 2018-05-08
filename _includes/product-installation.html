@@ -31,6 +31,20 @@
 
                             {% endif %}
                                 
+                            {% if page.installation == "jira-free-installation" %}
+                                
+                                <ol>
+                                    <li>Accede a tu instancia de Jira como administrador.</li>
+                                    <li>Pulsa el desplegable de tu perfil de administrador y elige Atlassian Marketplace. Se cargará la página de gestión de complementos (add-ons)</li>
+                                    <li>Pulsa Buscar nuevos complementos en el menú lateral de la izquierda de la página. </li>
+                                    <li>Localiza la app correspondiente a través de una búsqueda.</li>
+                                    <li>La versión apropiada para el complemento aparecerá en el resultado de la búsqueda.</li>
+                                    <li>Pulsa "Instalar" para descargar e instalar la app.</li>
+                                    <li>¡Listo para usar!</li>
+                                </ol>
+
+                            {% endif %}
+                                
                             {% if page.installation == "confluence-installation" %}
                                 
                                 <ol>

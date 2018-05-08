@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav-blog.html %}
+    
+    <section id="events-title" class="download bg-primary text-center" style="padding: 50px 0">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="section-heading">Eventos</h2>
+                    <hr class="light">
+                    <h4>¡Síguenos la pista! En este apartado podrás encontrar un listado de todos los eventos y conferencias en las que excentia participa. Si te gustaría que nos conocieramos en persona y charlemos sobre la calidad del software y los procesos, te esperamos en cualquiera de estas citas.</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="events-content" class="features">
+    <div class="container">
+        {{ page.content }}
+    </div>
+    </section>
+
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
