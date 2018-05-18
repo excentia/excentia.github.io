@@ -16,13 +16,13 @@ modified_time: '2018-05-18T08:00:00.000+01:00'
 
 **Comunicación, documentación, planificación, monitorización y el feedback continuo son áreas fundamentales en el [ciclo DevOps](http://www.excentia.es/que-es-DevOps)**. En la [entrada anterior](http://www.excentia.es/herramientas-ciclo-devops) mi compañero Manuel nos habló de numerosas herramientas que participan en la integración de los equipos de trabajo en el día a día de las compañías. Hoy retomamos este ciclo y nuestra metáfora de la navaja suiza. 
 
-## La navaja multifunción conocida como herramientas DevOps
+## Más herramientas para el ciclo DevOps
 
 Si estamos ante un proyecto y disponemos de nuestra útil navaja con Jenkins, SonarQube, SonarLint, Bitbucket, Maven, Nexus... ¿qué funciones nos gustaría añadirle?, ¿qué más necesitamos para efectivamente unir a los equipos de desarrollo y operaciones?
 
 **La comunicación entre las personas, entre los equipos y entre los departamentos (incluso entre organizaciones) es frecuentemente una de las barreras más difíciles de superar en la ejecución de un proyecto.  El objetivo es que todo el mundo disponga de toda la información necesaria en cualquier momento, y si es posible, en tiempo real. Cuando la comunicación fluye, los proyectos se desarrollan de forma natural, sin barreras.**
 
-Como las palabras se las lleva el viento... una base de conocimientos bien estructurada permite organizar la información de las compañías, proyectos, equipos, productos y todo lo que se nos ocurra, sin obstaculizar la transferencia de conocimientos entre los equipos de trabajo. Este tipo de herramientas nos permite además, documentar todo lo relativo a nuestros proyectos. ¡Podemos elaborar una planificación y dejarla documentada en nuestra *Knowledge base*.
+Como las palabras se las lleva el viento... una base de conocimientos bien estructurada permite organizar la información de las compañías, proyectos, equipos, productos y todo lo que se nos ocurra, sin obstaculizar la transferencia de conocimientos entre los equipos de trabajo. Este tipo de herramientas nos permite además, documentar todo lo relativo a nuestros proyectos. ¡Podemos elaborar una planificación y dejarla documentada en nuestra *Knowledge base*!.
 
 **Una de las piezas clave del ciclo DevOps es el feedback continuo, es decir, tener siempre información actualizada de nuestros sistemas, productos y proyectos mediante herramientas de monitorización, integraciones que responden a eventos y herramientas de comunicación (como no, la comunicación es fundamental) en tiempo real**.
 
