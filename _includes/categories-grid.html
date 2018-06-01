@@ -1,30 +1,74 @@
 <!-- Categories Grid Section -->
-
-<section id="categories" class="download bg-primary text-center" style="padding: 50px 0">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h2 class="section-heading">Categorías</h2>
-                <hr class="light">
-                <h3>Selecciona la categoría y busca los artículos y noticias que más te interesen</h3>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section id="categories"  style="padding: 50px 0">
+<section id="categories"  style="padding: 0px 0">
         <div class="container">
-            <div class="row">
-                {% for category in site.categories %}
-                    <div class="col-xs-6 col-sm-3 col-md-2">
-                        <a class="btn" href="/search?query={{ category[0] }}">
-                            <div>
-                                <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">{{ category[0] }}</span>&nbsp<span class="label label-default">{{ category[1].size }}</span></h3>
-                            </div>  
-                        </a>
-                    </div>
-                {% endfor %}
+            <div class="row text-center">
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=atlassian">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">atlassian</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=sonarsource">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">sonarsource</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=calidad">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">calidad</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=eventos">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">eventos</span></h3>
+                        </div>  
+                    </a>
+                </div>
+            </div>
+            <div class="row text-center">
+  
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=agilismo">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">agilismo</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=devops">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">devops</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=opinion">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">opinion</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <a class="btn" href="/search?query=noticias">
+                        <div>
+                            <h3><span class="label label-warning" style="text-transform: uppercase; font-weight: 100;">noticias</span></h3>
+                        </div>  
+                    </a>
+                </div>
+                
             </div>
         </div>
 </section>

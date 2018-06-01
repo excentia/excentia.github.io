@@ -7,8 +7,7 @@ author: Andrea Crespo
 categories: 
 - noticias
 - desarrollo
-
-
+cover: /img/posts/2018-05-15-supersec-codigo-seguro.png
 modified_time: '2018-05-15T08:00:00.000+01:00'
 ---
 

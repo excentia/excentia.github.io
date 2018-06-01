@@ -10,8 +10,8 @@ categories:
 - metodologia
 - desarrollo
 - testing
-
 modified_time: '2018-04-25T08:00:00.000+01:00'
+cover: /img/posts/2018-04-25-mantenimiento-atlassian-apps.png
 ---
 
 <a href="https://marketplace.atlassian.com/vendors/1210681/excentia" target="_blank"><img class="center" width="100%" alt="Cabecera Blog - Mantenimiento Atlassian Apps" title="Mantenimiento de Atlassian Apps, ¿cómo lo hacemos?" src="/img/posts/2018-04-25-mantenimiento-atlassian-apps.png"></a>

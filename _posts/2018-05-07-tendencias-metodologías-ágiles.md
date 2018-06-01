@@ -9,8 +9,8 @@ categories:
 - agilismo
 - equipo
 - atlassian
-
 modified_time: '2018-05-07T08:00:00.000+01:00'
+cover: /img/posts/2018-05-07-tendencias-metodologias-agiles.png
 ---
 *Entrada originalmente publicada en el [blog de Atlassian](https://www.atlassian.com/blog/agile/5-trends-from-open-sourcing-agile) el 21 de marzo de 2018. Adaptada y traducida por [excentia](https://www.excentia.es/).*
 
