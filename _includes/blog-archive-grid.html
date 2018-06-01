@@ -2,14 +2,13 @@
     <section id="blog-grid">
         <div class="container">  
             
-            {% assign rows = 21 | divided_by: 3.0 | ceil %}
+            {% assign rows = site.posts.size | divided_by: 3.0 | ceil %}
             {% for i in (1..rows) %}
               {% assign offset = forloop.index0 | times: 3 %}
               <div class="row">
                 {% for post in site.posts limit:3 offset:offset %}
                   <div class="col-md-4 portfolio-item">
                                 <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
-                                  <img width="100%" src="{{ post.cover }}"/>
                                   <h5>
                                         <time datetime="{{ post.date | date_to_xmlschema }}">
                                             <span class="day">
@@ -43,22 +42,5 @@
               </div>
             {% endfor %}
             
-        </div>
-    </section>
-
-    <section class="download bg-primary text-center" style="padding: 20px 0">
-        <div class="container">
-            <div class="row">
-            </div>
-        </div>
-    </section>
-
-    
-    <section id="blog-archive-container">
-        <div class="container">  
-            <div class="row text-center">
-                <h3>¿Estás buscando algún artículo más antiguo y no lo encuentras?</h3><br><br>
-                <a href="/archive" class="btn btn-outline btn-xl page-scroll">Revisa nuestro archivo</a>
-            </div>
         </div>
     </section>
