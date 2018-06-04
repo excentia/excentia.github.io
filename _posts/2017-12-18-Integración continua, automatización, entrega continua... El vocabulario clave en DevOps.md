@@ -8,7 +8,7 @@ categories:
 - devops
 
 modified_time: '2017-12-18T08:00:00.000+01:00'
-cover: /img/posts/2017-12-18-Integración continua, automatización, entrega continua... El vocabulario clave en DevOps.png.
+cover: /img/posts/2017-12-18-Integración continua, automatización, entrega continua... El vocabulario clave en DevOps.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt=" Integración continua, automatización, entrega continua...El vocabulario clave en DevOps" title="Vocabulario clave en DevOps" src="/img/posts/2017-12-18-Integración continua, automatización, entrega continua... El vocabulario clave en DevOps.png"></a>

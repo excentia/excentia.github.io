@@ -5,7 +5,7 @@ description: DevOps reporta beneficios directa y tangiblemente porque contribuye
 date: '2018-02-12T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
--devops
+- devops
 
 modified_time: '2018-02-12T08:00:00.000+01:00'
 cover: /img/posts/2018-02-12-beneficios-devops.png
