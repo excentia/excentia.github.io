@@ -6,7 +6,6 @@ date: '2018-04-13T08:00:00.000+01:00'
 author: Manuel Velázquez
 categories: 
 -devops
-
 modified_time: '2018-04-13T08:00:00.000+01:00'
 cover: /img/posts/2018-04-13-herramientas-devops.png
 ---
