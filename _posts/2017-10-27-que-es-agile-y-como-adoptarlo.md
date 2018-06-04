@@ -5,9 +5,10 @@ description: Si trabajas en desarrollo, software, o alguna de sus variantes, agi
 date: '2017-10-27T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
 - agilismo
+
 modified_time: '2017-10-27T08:00:00.000+01:00'
+cover: /img/posts/2017-10-27-que-es-agile-y-como-adoptarlo.png
 ---
 
 <img class="center" width="100%" alt="agilismo" title="agilismo" src="/img/posts/2017-10-27-que-es-agile-y-como-adoptarlo.png">

@@ -5,14 +5,10 @@ description: Los SLAs (Service Level Agreements) o en castellano ANS (Acuerdos d
 date: '2018-03-07T08:00:00.000+01:00'
 author: Alberto Alós
 categories: 
-- opinion
-- calidad
-- jira
-- metodologia
-- gestion
 - atlassian
 
 modified_time: '2018-03-07T08:00:00.000+01:00'
+cover: /img/posts/Gestion de SLA en JSD.png
 ---
 
 <a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Gestión de SLA en Jira Service Desk" title="Gestión de SLA en Jira Service Desk" src="/img/posts/Gestion de SLA en JSD.png"></a>

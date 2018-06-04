@@ -5,13 +5,10 @@ description: ¡Bienvenidos al primer artículo de excentiaDevOps! Empecemos por 
 date: '2017-11-17T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- opinion
-- calidad
 - devops
-- desarrollo
-- equipo
-- gestion
+
 modified_time: '2017-11-17T08:00:00.000+01:00'
+cover: /img/posts/2017-11-17-qué-es-DevOps.png
 ---
 
 <a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="que es devops" title="¿Qué es DevOps?" src="/img/posts/2017-11-17-qué-es-DevOps.png"></a>

@@ -5,13 +5,10 @@ description: DevOps reporta beneficios directa y tangiblemente porque contribuye
 date: '2018-02-12T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- opinion
-- DevOps
-- calidad
-- equipo
-- desarrollo
+-devops
 
 modified_time: '2018-02-12T08:00:00.000+01:00'
+cover: /img/posts/2018-02-12-beneficios-devops.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera Beneficios de adoptar DevOps" title="Beneficios de adoptar DevOps" src="/img/posts/2018-02-12-beneficios-devops.png"></a>

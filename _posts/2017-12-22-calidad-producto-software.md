@@ -5,12 +5,10 @@ description: La calidad interna del código es el elemento determinante de alred
 date: '2017-12-22T08:00:00.000+01:00'
 author: Antonio Calero 
 categories: 
-- opinion
 - calidad
-- desarrollo
-- metodologia
-- integracion
+
 modified_time: '2017-12-22T08:00:00.000+01:00'
+cover: /img/posts/2017-12-22-calidad-producto-software.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt=" La calidad del producto software" title="La calidad del producto software" src="/img/posts/2017-12-22-calidad-producto-software.png"></a>

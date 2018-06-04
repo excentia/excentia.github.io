@@ -5,12 +5,10 @@ description: La clave del concepto de la inspección continua es detectar proble
 date: '2018-01-05T08:00:00.000+01:00'
 author: Antonio Calero 
 categories: 
-- opinion
 - calidad
-- desarrollo
-- metodologia
-- integracion
+
 modified_time: '2018-01-05T08:00:00.000+01:00'
+cover: /img/posts/2018-01-05-inspeccion-continua.png 
 ---
 
 <a href="http://www.excentia.es/blog" target="_blank"><img class="center" width="100%" alt="La inspección continua como modelo de calidad" title="La inspección continua como modelo de calidad" src="/img/posts/2018-01-05-inspeccion-continua.png"></a>

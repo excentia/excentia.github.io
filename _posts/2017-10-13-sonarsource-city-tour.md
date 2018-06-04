@@ -5,9 +5,11 @@ description: SonarSource City Tour llega a Madrid de la mano de excentia
 date: '2017-10-13T09:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
-- sonarqube
+- eventos
+- sonarsource
+
 modified_time: '2017-10-13T09:00:00.000+01:00'
+cover: /img/posts/2017-10-13-SonarSource-City-Tour-Madrid.png
 ---
 
 <a href="http://bit.ly/2ydqjuO" target="_blank"><img class="center" width="100%" alt="SonarSource City Tour" title="SonarSource City Tour Madrid" src="/img/posts/2017-10-13-SonarSource-City-Tour-Madrid.png"></a>

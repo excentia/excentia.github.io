@@ -5,10 +5,11 @@ description: Te detallamos las nuevas funcionalidades de SonarQube 6.7 (LTS) y t
 date: '2017-11-11T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
+- sonarsource
 - noticias
-- calidad
-- sonarqube
+
 modified_time: '2017-11-11T08:00:00.000+01:00'
+cover: /img/posts/2017-11-11-novedades-sonar.png
 ---
 
 <a href="http://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="novedades importantes en SonarSource" title="Novedades importantes en SonarSource" src="/img/posts/2017-11-11-novedades-sonar.png"></a>

@@ -5,9 +5,10 @@ description: Descubre por qué deberías asistir al evento de calidad y testeo d
 date: '2017-11-03T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
-- testing
+- eventos
+
 modified_time: '2017-11-03T08:00:00.000+01:00'
+cover: /img/posts/2017-11-03-razones vlctesting.png
 ---
 
 <a href="http://www.excentia.es/vlctesting-is-coming" target="_blank"><img class="center" width="100%" alt="calidad software" title="VLC Testing 2017" src="/img/posts/2017-11-03-razones vlctesting.png"></a>

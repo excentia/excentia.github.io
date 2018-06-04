@@ -5,9 +5,10 @@ description: Descubre las últimas novedades del Atlassian Summit con excentia e
 date: '2017-09-22T09:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
+- eventos
 - atlassian
 modified_time: '2017-09-22T09:00:00.000+01:00'
+
 ---
 
 El [Atlassian Summit U.S.](https://www.atlassian.com/company/events/summit-us) que tuvo lugar la semana pasada nos ha dejado muchas novedades – nuevos productos, actualizaciones, premios a los mejores partners, etc.  En [excentia](http://www.excentia.es) lo hemos estado siguiendo y hemos tomado nota de cada detalle. La **calidad** en la **gestión de procesos** implica una actualización constante y por esta razón en [excentia](http://www.excentia.es) estudiamos minuciosamente como todas las novedades y actualizaciones satisfacen las necesidades más significativas para tu equipo.

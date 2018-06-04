@@ -5,9 +5,10 @@ description: En excentia te contamos las tendencias tecnológicas que más impac
 date: '2017-11-24T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
-- innovacion
+- opinion
+
 modified_time: '2017-11-24T08:00:00.000+01:00'
+cover: /img/posts/2017-11-24 - tendencias-tecnológicas.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="tendencias tecnológicas 2018" title="Tendencias Tecnológicas en el 2018" src="/img/posts/2017-11-24 - tendencias-tecnológicas.png"></a>--

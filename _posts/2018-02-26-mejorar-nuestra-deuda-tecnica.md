@@ -5,14 +5,10 @@ description: ¿Cómo evitar la acumulación de deuda técnica sin interrumpir un
 date: '2018-02-26T08:00:00.000+01:00'
 author: Manuel Velázquez
 categories: 
-- opinion
 - calidad
-- estrategia
-- metodologia
-- desarrollo
-- deuda
 
 modified_time: '2018-02-26T08:00:00.000+01:00'
+cover: /img/posts/2018-02-26-mejorar-deuda-tecnica.png
 ---
 
 <a href="http://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="Mejorar nuestra deuda técnica día a día" title="Mejorar nuestra deuda técnica día a día" src="/img/posts/2018-02-26-mejorar-deuda-tecnica.png"></a>

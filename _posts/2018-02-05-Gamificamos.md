@@ -6,12 +6,9 @@ date: '2018-02-05T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
 - opinion
-- metodologia
-- estrategia
-- equipo
-- gamificacion
 
 modified_time: '2018-02-05T08:00:00.000+01:00'
+cover: /img/posts/2018-02-05-gamificamos.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera Gamificamos" title="Cabecera Gamificamos" src="/img/posts/2018-02-05-gamificamos.png"></a>

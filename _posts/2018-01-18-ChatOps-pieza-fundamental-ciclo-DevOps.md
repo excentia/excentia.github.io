@@ -5,12 +5,10 @@ description: ChatOps es una filosofía emergente y destinada a convertirse en el
 date: '2018-01-18T08:00:00.000+01:00'
 author: Alberto Alós
 categories: 
-- opinion
 - devops
-- procesos
-- equipo
 
 modified_time: '2018-01-18T08:00:00.000+01:00'
+cover: /img/posts/2018-01-18- ChatOps-pieza-fundamental-ciclo-DevOps.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera ChatOps: pieza fundamental del ciclo DevOps" title="ChatOps: pieza fundamental del ciclo DevOps" src="/img/posts/2018-01-18- ChatOps-pieza-fundamental-ciclo-DevOps.png"></a>

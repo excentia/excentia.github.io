@@ -6,10 +6,9 @@ date: '2018-02-19T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
 - opinion
-- estrategia
-- gestion
 
 modified_time: '2018-02-19T08:00:00.000+01:00'
+cover: /img/posts/2018-02-19-fases-transformacion-digital-2.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera Transformación Digital" title="Fases de la transformacion digital" src="/img/posts/2018-02-19-fases-transformacion-digital-2.png"></a>

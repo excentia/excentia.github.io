@@ -5,8 +5,10 @@ description: El evento más esperado del año por todos los profesionales del te
 date: '2017-10-20T09:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
+- eventos
+
 modified_time: '2017-10-20T09:00:00.000+01:00'
+cover: /img/posts/2017-10-20-VLCTesting-is-coming.png
 ---
 
 <a href="http://www.vlctesting.es/" target="_blank"><img class="center" width="100%" alt="VLC Testing 2017" title="VLC Testing 2017" src="/img/posts/2017-10-20-VLCTesting-is-coming.png"></a>

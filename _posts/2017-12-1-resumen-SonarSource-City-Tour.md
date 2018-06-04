@@ -5,10 +5,11 @@ description: ¿Te perdiste al equipo de SonarSource en Madrid? ¿Quieres saber e
 date: '2017-12-01T08:00:00.000+01:00'
 author: Andrea Crespo 
 categories: 
-- noticias
-- calidad
-- sonarqube
+- eventos
+- sonarsource
+
 modified_time: '2017-12-01T08:00:00.000+01:00'
+cover: /img/posts/2017-12-1-resumen-ssct.png
 ---
 
 <a href="http://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="Resumen de las novedades contadas en el SonarSource City Tour 2017" title="Resumen SSCT" src="/img/posts/2017-12-1-resumen-ssct.png"></a>

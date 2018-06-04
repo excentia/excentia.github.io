@@ -5,12 +5,10 @@ description: Reflexionamos acerca de la automatización de pruebas funcionales d
 date: '2018-01-11T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- opinion
 - calidad
-- desarrollo
-- testing
 
 modified_time: '2018-01-11T08:00:00.000+01:00'
+cover: /img/posts/2018-01-11-automatización-de-pruebas.png
 ---
 
 <a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera_Automatización de peurbas" title="Automatizacion de pruebas" src="/img/posts/2018-01-11-automatización-de-pruebas.png"></a>

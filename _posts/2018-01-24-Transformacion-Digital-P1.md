@@ -6,11 +6,9 @@ date: '2018-01-24T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
 - opinion
-- tecnologia
-- estrategia
-- equipo
 
 modified_time: '2018-01-24T08:00:00.000+01:00'
+cover: /img/posts/2018-01-24-transformacion-digital.png
 ---
 
 <a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Cabecera Transformación Digital - Parte 1" title="Cabecera Transformación Digital - Parte 1" src="/img/posts/2018-01-24-transformacion-digital.png"></a>
