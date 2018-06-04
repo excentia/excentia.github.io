@@ -5,11 +5,8 @@ description: El mantenimiento, la actualización de versiones, la introducción 
 date: '2018-04-25T08:00:00.000+01:00'
 author: José Carlos Esparza
 categories: 
-- opinion
+- atlassian
 - calidad
-- metodologia
-- desarrollo
-- testing
 modified_time: '2018-04-25T08:00:00.000+01:00'
 cover: /img/posts/2018-04-25-mantenimiento-atlassian-apps.png
 ---

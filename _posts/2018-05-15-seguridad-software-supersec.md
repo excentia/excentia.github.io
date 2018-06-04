@@ -5,8 +5,7 @@ description: ¡Vivimos una gran experiencia en el SuperSEC!
 date: '2018-05-15T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
-- desarrollo
+- eventos
 cover: /img/posts/2018-05-15-supersec-codigo-seguro.png
 modified_time: '2018-05-15T08:00:00.000+01:00'
 ---

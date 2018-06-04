@@ -5,10 +5,8 @@ description: ¿Cuál es el estado actual del agilismo en la industria? Atlassian
 date: '2018-05-07T08:00:00.000+01:00'
 author: Atlassian. Traducción por Andrea Crespo, excentia.
 categories: 
-- opinion
 - agilismo
-- equipo
-- atlassian
+
 modified_time: '2018-05-07T08:00:00.000+01:00'
 cover: /img/posts/2018-05-07-tendencias-metodologias-agiles.png
 ---

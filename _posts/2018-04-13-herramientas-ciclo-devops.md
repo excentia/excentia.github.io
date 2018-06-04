@@ -5,11 +5,10 @@ description: No existe el conjunto perfecto de aplicaciones para decir que traba
 date: '2018-04-13T08:00:00.000+01:00'
 author: Manuel Velázquez
 categories: 
-- opinion
-- devops
-- metodologia
+-devops
 
 modified_time: '2018-04-13T08:00:00.000+01:00'
+cover: /img/posts/2018-04-13-herramientas-devops.png
 ---
 
 <a href="http://www.excentia.es/search?query=devops" target="_blank"><img class="center" width="100%" alt="Herramientas y ciclo DevOps" title="Herramientas y ciclo DevOps" src="/img/posts/2018-04-13-herramientas-devops.png"></a>
