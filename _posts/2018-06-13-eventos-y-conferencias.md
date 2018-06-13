@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 'Eventos y conferencias de software'
-description: Tantas citas donde encontrarnos. Os contamos nuestra experiencia y os animamos a participar en todas las actividades.
-date: '2018-06-13T08:00:00.000+01:00'
+title: 'Eventos y conferencias en el sector del software'
+description: Nuestras agendas están repletas de citas. ¿Por qué asistir? ¿Qué se obtiene de un evento? Os contamos nuestras experiencia  
+date: '2018-05-15T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
 - eventos
-
-modified_time: '2018-06-13T08:00:00.000+01:00'
-cover: /img/posts/2018-04-13-herramientas-devops.png
+cover: /img/posts/2018-06-13-eventos-y-conferencias-software.png
+modified_time: '2018-05-15T08:00:00.000+01:00'
 ---
-
 
 <a href="http://www.excentia.es/search?query=devops" target="_blank"><img class="center" width="100%" alt="Herramientas y ciclo DevOps" title="Herramientas y ciclo DevOps" src="/img/posts/2018-06-13-eventos-y-conferencias-software.png"></a> 
 
