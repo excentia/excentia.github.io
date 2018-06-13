@@ -5,9 +5,10 @@ description: ¡Muchas gracias por vuestra asistencia al Atlassian VLC Day 2017!
 date: '2017-10-06T09:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
-- noticias
+- eventos
 - atlassian
 modified_time: '2017-10-06T09:00:00.000+01:00'
+cover: /img/posts/2017-10-06-exito-atlassian-vlc-day.png
 ---
 
 <img class="center" width="500px" alt="Éxito en el Atlassian VLC Day" title="Evento Atlassian" src="/img/posts/2017-10-06-exito-atlassian-vlc-day.png">
