@@ -1,0 +1,33 @@
+<header style="
+    background: $head-primary;
+    background: -webkit-linear-gradient(to left, #f9a600, #c42422);
+    background: linear-gradient(to left, #f9a600, #ffffff);">
+    <div class="text-center" style="background-image: url({{ page.cover }}); background-repeat: no-repeat; background-size:cover; background-position:center;">
+        <div class="container">
+            <div class="row">
+                    <div class="header-content">
+                        <div class="header-content-inner">
+                            
+                            <div class="text-center" style="display: inline-block; padding-top: 30px; color: black">
+                                <p style="font-size: 2em">{{ page.fecha }}</p>
+                                <h1><strong>{{ page.title }}</strong></h1>
+                                <h1>{{ page.eslogan }}</h1>
+                            </div>
+
+                            <div class="text-center" style="display: block; width: 100%; padding-top: 0px; padding-bottom: 50px;">
+                                <img style="max-width: 150px; width: 100%; padding: 10px" src="{{ page.logo }}"/>
+                            </div>
+                            
+                            <div class="text-center" style="display: block; width: 100%; padding-top: 0px; padding-bottom: 10px;">
+                                <a href="#agenda" target="_blank" class="btn btn-outline btn-xl page-scroll">AGENDA</a>&nbsp;&nbsp;&nbsp;
+                                
+                                <a href="{{ page.inscripcion }}" target="_blank" class="btn btn-outline btn-xl page-scroll">INSCRIPCIÓN GRATUITA</a>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</header>
