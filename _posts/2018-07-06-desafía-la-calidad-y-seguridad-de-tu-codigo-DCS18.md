@@ -2,15 +2,15 @@
 layout: post
 title: 'DCS18 fue un éxito, ¡gracias!'
 description: Repasamos la jornada organizada por excentia y compartimos todo el feedback que nos estáis haciendo llegar  
-date: '2018-06-13T08:00:00.000+01:00'
+date: '2018-07-06T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
 - eventos
 cover: /img/posts/2018-07-06-calidad-y-seguridad-codigo-logo.png
-modified_time: '2018-06-13T08:00:00.000+01:00'
+modified_time: '2018-06-06T08:00:00.000+01:00'
 ---
 
-<a href="http://www.excentia.es/dcs-2018" target="_blank"><img class="center" width="100%" alt="Demo OWASP" title="Demo OWASP" src="/img/posts/2018-07-06-demo-owasp.png"></a> 
+<a href="http://www.excentia.es/dcs-2018" target="_blank"><img class="center" width="100%" alt="Demo OWASP" title="Demo OWASP" src="/img/posts/2018-07-06-demo-owasp.jpg"></a> 
 
 
 Han pasado ya dos días desde DCS18 y nosotros seguimos en una nube. En excentia apostamos fuerte por este evento: llevamos meses preparandolo, curando el contenido, promocionando, repasando, aprendiendo... y todo ese esfuerzo ha tenido una gran recompensa. 
