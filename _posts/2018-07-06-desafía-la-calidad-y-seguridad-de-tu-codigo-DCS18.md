@@ -20,7 +20,7 @@ En primer lugar, nos gustaría agradecer a todos aquellos que han hecho esta jor
 
 * Instituto Tecnológico de la Informática (ITI), gracias por el apoyo, la difusión, las recomendaciones y sobretodo gracias a vuestro compañero Lucas Sanjuán por su valiosa aportación a la jornada. Nos dejó con ganas de conocer más, y estamos seguros de que podremos volver a contar con él. 
 
-* Indra Sistemas: Desde Madrid, nos acompañaron Óscar Tejada y Rubén Álvarez, y no podemos estar más agradecidos y satisfechos con su aportación. Gracias compañeros por elegirnos y confiar en nosotros hace ya muchos años, y por seguir haciendolo y recomendandonos desde entonces.
+* Indra Sistemas: Desde Madrid, nos acompañaron Óscar Tejada y Rubén Álvarez, y no podemos estar más agradecidos y satisfechos con su aportación. Gracias compañeros por elegirnos y confiar en nosotros hace ya muchos años, y por seguir haciendolo y recomendandonos desde entonces. 
 
 * Ciudad Politécnica de la Innovación: por sus instalaciones y lugar privilegiados para celebrar eventos de este tipo. 
 
