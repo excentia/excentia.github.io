@@ -70,7 +70,7 @@ Se introducen por primera vez las aplicaciones desarrolladas, testeadas y aproba
 Muchas de las más importantes aplicaciones ya disponen de esta novedad: [Insight](https://marketplace.atlassian.com/apps/1212137/insight-asset-management-for-jira?hosting=server&tab=overview), [Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?hosting=cloud&tab=overview), [Tempo](https://marketplace.atlassian.com/apps/6572/tempo-timesheets?hosting=cloud&tab=overview), [Eazy By](https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server&tab=overview) ...
 
 <a href="https://www.atlassian.com/blog/enterprise/data-center-approved-apps">
-    <img class="center" width="400px" alt="Data Center App" title="Data Center App" src="/img/posts/2018-09-14-data-center-apps.png">
+    <img class="center" width="400px" alt="Data Center App" title="Data Center App" src="/img/posts/2018-09-14-data-center-apps.PNG">
 </a>
 
 Toda la información sobre esta importante apuesta en el [blog de Atlassian](https://www.atlassian.com/blog/enterprise/data-center-approved-apps). 
@@ -84,7 +84,7 @@ La nueva versión de Jira promete traer muchas novedades con respecto a versione
 * Jira Server tendrá por fin una aplicación móvil nativa, compatible tanto para IOS como para Android.
 
 <a href="https://www.atlassian.com/software/jira/mobile-app/server">
-    <img class="center" width="400px" alt="Jira Mobile Server" title="Anuncio Jira Mobile en Atlassian Summit" src="/img/posts/2018-09-14-native-apps.png">
+    <img class="center" width="400px" alt="Jira Mobile Server" title="Anuncio Jira Mobile en Atlassian Summit" src="/img/posts/2018-09-14-native-apps.PNG">
 </a>
 
 * Mejoras significantes en las notificaciones por correo electrónico: no solo los administradores, también los usuarios podrán configurar y personalizar sus alertas por email. Además se introduce una de las novedades más esperadas: notificación por lotes. Será posible recibir notificaciones agrupadas de manera personalizada.
