@@ -2,14 +2,13 @@
     <section id="blog-grid">
         <div class="container">  
             
-            {% assign rows = 21 | divided_by: 3.0 | ceil %}
+            {% assign rows = 1 | divided_by: 3.0 | ceil %}
             {% for i in (1..rows) %}
               {% assign offset = forloop.index0 | times: 3 %}
-              {% if i > 1 %}
               <div class="row">
                 {% for post in site.posts limit:3 offset:offset %}
                   <div class="col-md-4 portfolio-item">
-                     <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
+                                <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
                                   <img width="100%" src="{{ post.cover }}"/>
                                   <h5>
                                         <time datetime="{{ post.date | date_to_xmlschema }}">
@@ -38,16 +37,15 @@
                                     </h5>
                                     <h3 class="list-group-item-heading" style="text-transform: uppercase"><strong> {{ post.title }} </strong></h3>    
                                     <p class="list-group-item-text" style="padding-bottom: 10px;">{{ post.description | strip_html }}</p>
-                      </a>
-                   </div>
+                                </a>
+                            </div>
                 {% endfor %}
               </div>
-              {% endif %}
             {% endfor %}
             
         </div>
     </section>
-
+<!--
     <section class="download bg-primary text-center" style="padding: 20px 0">
         <div class="container">
             <div class="row">
@@ -63,4 +61,4 @@
                 <a href="/archive" class="btn btn-outline btn-xl page-scroll">Revisa nuestro archivo</a>
             </div>
         </div>
-    </section>
+    </section>-->
