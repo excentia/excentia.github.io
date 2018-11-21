@@ -24,11 +24,12 @@
                             </ul>
                             </h3>
                         </div>
+                        {% if page.buylink %}
                         <div class="row text-center">
                             <a href="{{ page.buylink }}" class="btn btn-outline btn-xl page-scroll">Comprar <i class="fa fa-shopping-basket" aria-hidden="true"></i></a>&nbsp;
                             <a href="{{ page.trylink }}" class="btn btn-outline btn-xl page-scroll">Probar <i class="fa fa-clock-o" aria-hidden="true"></i></a>&nbsp;
                         </div>
-
+                        {% endif %}
                     </div>
             </div>
         </div>
