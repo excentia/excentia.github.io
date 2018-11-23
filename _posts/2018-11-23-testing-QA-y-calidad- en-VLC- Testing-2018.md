@@ -7,11 +7,11 @@ author: Andrea Crespo
 categories: 
 - calidad
 - eventos
-cover: /img/posts/2018-11-23-VLCTesting18.PNG
+cover: /img/posts/2018-11-23-VLCTesting18.png
 modified_time: '2018-09-14T08:00:00.000+01:00'
 ---
 
-<a href="http://www.vlctesting.es/" target="_blank"><img class="center" width="100%" alt="VLC Testing 2018" title="VLC Testing 2018" src="/img/posts/2018-11-23-VLCTesting18.PNG"></a> 
+<a href="http://www.vlctesting.es/" target="_blank"><img class="center" width="100%" alt="VLC Testing 2018" title="VLC Testing 2018" src="/img/posts/2018-11-23-VLCTesting18.png"></a> 
 
 Ya van ocho. Ocho ediciones de VLC Testing, de aprendizaje, de superación y de reunir en un mismo sitio durante dos días a **lo mejor del panorama nacional en cuanto a calidad y testeo de software**.
 
