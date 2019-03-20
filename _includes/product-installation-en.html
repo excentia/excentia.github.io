@@ -1,0 +1,86 @@
+<section id="installation" class="download bg-primary text-center" style="padding: 50px 0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">Installation</h2>
+                <hr class="light">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="installation" style="padding: 50px 0">
+        <div class="container">
+            <div class="row">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <h3>
+                            {% if page.installation == "jira-installation" %}
+                                
+                                <ol>
+                                    <li>Log into your Jira instance as an admin..</li>
+                                    <li>Click the admin dropdown and choose Atlassian Marketplace.
+                                        The Manage add-ons screen loads</li>
+                                    <li>Click Find new apps or Find new add-ons from the left-hand side of the page. </li>
+                                    <li>Locate the app via search.
+                                        The appropriate app version appears in the search results.</li>
+                                    <li>Click Try free to begin a new trial or Buy now to purchase a license for the app.
+                                        You're prompted to log into MyAtlassian. The app begins to download.</li>
+                                    <li>Enter your information and click Generate license when redirected to MyAtlassian.</li>
+                                    <li>Click Apply license.</li>
+                                    <li>If you're using an older version of UPM, you can copy and paste the license into your Jira instance.</li>
+                                </ol>
+
+                            {% endif %}
+                                
+                            {% if page.installation == "jira-free-installation" %}
+                                
+                                <ol>
+                                    <li>Log into your Jira instance as an admin..</li>
+                                    <li>Click the admin dropdown and choose Atlassian Marketplace.
+                                        The Manage add-ons screen loads</li>
+                                    <li>Click Find new apps or Find new add-ons from the left-hand side of the page. </li>
+                                    <li>Locate the app via search.
+                                        The appropriate app version appears in the search results.</li>
+                                    <li>Click Install to download and install your app.</li>
+                                    <li>You're all set!
+                                        Click Close in the Installed and ready to go dialog.</li>
+                                </ol>
+
+                            {% endif %}
+                                
+                            {% if page.installation == "confluence-installation" %}
+                                
+                                <ol>
+                                    <li>Log into your Confluence instance as an admin.</li>
+                                    <li>Click the admin dropdown and choose Atlassian Marketplace.
+                                        The Manage add-ons screen loads.</li>
+                                    <li>Click Find new apps or Find new add-ons from the left-hand side of the page. </li>
+                                    <li>Locate the app via search.
+                                        The appropriate app version appears in the search results.</li>
+                                    <li>Click Try free to begin a new trial or Buy now to purchase a license for the app.
+                                        You're prompted to log into MyAtlassian. The app begins to download.</li>
+                                    <li>Enter your information and click Generate license when redirected to MyAtlassian.</li>
+                                    <li>Click Apply license.</li>
+                                    <li>If you're using an older version of UPM, you can copy and paste the license into your Confluence instance.</li>
+                                </ol>
+
+                            {% endif %}
+                                
+                            {% if page.installation == "sonarqube-installation" %}
+                                
+                                <p>The installation is quite simple:</p>
+                                <ol>
+                                    <li>Download and copy the jar file into your extensions/plugins folder in SonarQube installation.</li>
+                                    <li>Restart SonarQube server</li>
+                                    <li>Log into SonarQube as an admin, go to Administration and General Settings, and then to the plugin section</li>
+                                    <li>Paste the license key and save settings</li>
+                                    <li>Don't forget to analyze your projects in order process the information with the new plugins.</li>
+                                </ol>
+                            {% endif %}
+                            </h3>
+                        </div>
+                    </div>
+            </div>
+        </div>
+</section>

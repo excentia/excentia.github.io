@@ -25,43 +25,45 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-2">
-                        <strong>Atlassian Add-ons</strong>
+                        <strong>Atlassian Apps</strong>
                         <ul style="list-style-type: none;">
-                            <li><a href="/time-tracking-stats">Time Tracking Stats</a></li>
-                            <li><a href="/cards">Cards</a></li>
-                            <li><a href="/debt-tracker">Debt Tracker</a></li>
-                            <li><a href="/3d-issues-map">3D Issues Map</a></li>
+                            <li><a href="/sonarqube-connector-jira">SQ Connector for Jira</a></li>
+                            <li><a href="/sonarqube-connector-confluence">SQ Connector for Confluence</a></li>
                             <li><a href="/issue-picker">Issue Picker</a></li>
                             <li><a href="/traceabilityx">TraceabilityX</a></li>
-                            <li><a href="/spanish-language-pack">Spanish Pack</a></li>
+                            <li><a href="/time-tracking-stats">Time Tracking Stats</a></li>
+                            <li><a href="/cards">Cards</a></li>
+                            <li><a href="/debt-tracker">Project Health Monitor</a></li>
+                            <li><a href="/3d-issues-map">3D Issues Map</a></li>
+                            <li><a href="/excentia-admin-tools">Admin Tools</a></li>
                         </ul>
                     </div>
                     <div class="footer-col col-md-2">
                         <strong>SonarQube Plugins</strong>
                         <ul style="list-style-type: none;">
                             <li><a href="/3d-code-metrics">3D Code Metrics</a></li>
-                            <li><a href="/abc">ABC</a></li>
-                            <li><a href="/formula">Formula</a></li>
-                            <li><a href="/tattletale">Tattletale</a></li>
-                            <li><a href="/spanish-pack">Spanish Pack</a></li>
+                            <li><a href="https://github.com/SonarQubeCommunity/sonar-l10n-es">Spanish Pack</a></li>
                         </ul>
-                    </div>
-                    <div class="footer-col col-md-2">
                         <strong>Blog</strong>
                         <ul style="list-style-type: none;">
                             <li><a href="/blog/#blog-grid">Posts</a></li>
                             <li><a href="/blog/#news-grid">News</a></li>
                         </ul>
-                        <br>
                         <strong>Partners</strong>
                         <ul style="list-style-type: none;">
                             <li><a class="page-scroll" href="/atlassian">Atlassian Gold</a></li>
                             <li><a class="page-scroll" href="/sonarsource">SonarSource partner</a></li>
                         </ul>
-
                     </div>
-                    <div class="footer-col col-md-2">
-                        <a href="https://jira.excentia.es/servicedesk/customer/portal/12" class="btn btn-outline btn-xl" >Contact us</a>                        
+                    <div class="footer-col col-md-4 text-center">
+                        <span id="contact-button" class="btn btn-outline-white btn-xl" >Contact Us</span>&nbsp;<a target="_new" href="{{ site.support_url }}" class="btn btn-outline-white btn-xl text-center" >Support</a>
+                        <p class="btn btn-xl" style="color: white; text-align:left; cursor:default">
+                            excentia<br>
+                            Xàtiva 14, 1B<br>
+                            46002, Valencia<br><br>
+                            <i class="fa fa-phone"></i> +34 963 254 808‬<br><br>
+                            <a href="mailto:info@excentia.es">info@excentia.es</a>
+                        </p>
                     </div>
                 </div>
         </div>
@@ -70,9 +72,13 @@
     <div class="footer-below">
         <div class="container">
             <div class="row">
-                <div class="footer-col col-md-4 text-center"></div>
                 <div class="footer-col col-md-4 text-center">
-                    <p>&copy; 2017 - excentia</p>
+                    <a href="/img/certs/aenor-iso-9000-full.png" target="_blank"><img style="margin-right: 10px" width="30px" src="/img/certs/aenor-iso-9000.png"></a>
+                    <a href="/img/certs/iqnet-certified-full.png" target="_blank"><img width="60px" src="/img/certs/iqnet-certified.png"></a>
+                    <a href="https://sede.micinn.gob.es/pyiINFO/buscarPyi.mec?org.apache.struts.taglib.html.TOKEN=ffc25ad29e025e8631816f00aebe2739&nif=B98184807&razonSocial=&ccaa=&nifHidden=B98184807&ccaaHidden=&razonSocialHidden=&nuevoFiltro=NO&buscarPulsado=SI&excelPulsado=NO" target="_blank"><img width="80px" src="/img/certs/sello_pyme_innovadora_2018_es.png"></a>
+                </div>
+                <div class="footer-col col-md-4 text-center">
+                    <p>&copy; 2019 - excentia</p>
                     <ul class="list-inline">
                         <li>
                             <a href="/legal">Legal</a>
@@ -82,7 +88,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="footer-col col-md-4 text-right">
+                <div class="footer-col col-md-4 text-center">
                     <ul class="list-inline">
                         {% for network in site.social %}
                         <li>
@@ -95,3 +101,14 @@
         </div>
     </div>
 </footer>
+<script type="text/javascript" src="https://jira.excentia.es/s/e978736ce6d728f29fbe1e698073187a-T/7tgy2g/77002/057e670a83828f572768d6e343ff1da2/2.0.24/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=es-ES&collectorId=71909b18"></script>
+
+<script type="text/javascript">window.ATL_JQ_PAGE_PROPS =  {
+	"triggerFunction": function(showCollectorDialog) {
+		//Requires that jQuery is available!
+		jQuery("#contact-button").click(function(e) {
+			e.preventDefault();
+			showCollectorDialog();
+		});
+	}};</script>
+
