@@ -7,6 +7,7 @@ author: Andrea Crespo
 categories: 
 - sonarsource
 - noticias
+- productos
 
 modified_time: '2017-11-11T08:00:00.000+01:00'
 cover: /img/posts/2017-11-11-novedades-sonar.png
