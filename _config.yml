@@ -45,8 +45,8 @@ social:
     url: https://twitter.com/excentia
   - title: linkedin
     url: https://www.linkedin.com/company/excentia
-  #- title: github
-  #  url: http://github.com/jekyll
+  - title: feed
+    url: https://www.excentia.es/feed.xml
 
 # Build settings
 markdown: kramdown
