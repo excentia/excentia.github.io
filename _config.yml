@@ -47,6 +47,8 @@ social:
     url: https://www.linkedin.com/company/excentia
   - title: feed
     url: https://www.excentia.es/feed.xml
+  - title: email
+    url:
 
 # Build settings
 markdown: kramdown
