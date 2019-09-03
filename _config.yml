@@ -56,5 +56,8 @@ highlighter: rouge
 permalink: :title
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
+# jekyll 3.5 or less
 gems: [jekyll-feed, jekyll-sitemap, jekyll-seo-tag, jekyll-redirect-from]
+# jekyll 4.0
+plugins: [jekyll-feed, jekyll-sitemap, jekyll-seo-tag, jekyll-redirect-from]
 # Build settings
