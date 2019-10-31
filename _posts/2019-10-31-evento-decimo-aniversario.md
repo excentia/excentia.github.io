@@ -2,7 +2,7 @@
 layout: post
 title: '¡excentia celebra diez años de calidad!'
 description: Si te perdiste la celebración de nuestro décimo aniversario, o quieres tener el mejor resumen a mano, ¡no te puedes perder este post!
-date: '2019-10-01T08:00:00.000+01:00'
+date: '2019-10-31T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
 - eventos
