@@ -27,7 +27,7 @@ Si estás leyéndonos es bastante probable que sepas que no somos precisamente u
 
 A las 8:30 de la mañana abríamos las puertas de la Fundación Bancaja para recibir a todos los asistentes. 
 
-El pistoletazo de salida lo marcaron nuestros fundadores y capitanes del barco, Antonio Calero y Hugo Mora, en una divertida presentación sobre los 10 años de evolución y crecimiento de excentia. Todavía me pregunto cómo Sálvame acabó formando parte de esa presentación… el caso es que nos permitió iniciar la velada con una sonrisa. Por cierto, Nicolás nos preguntó quiénes eran y por qué os reíais tanto. Una anécdota más que contar. 
+El pistoletazo de salida lo marcaron nuestros fundadores y capitanes del barco, Antonio Calero y Hugo Mora, en una divertida presentación sobre los 10 años de evolución y crecimiento de excentia. Todavía me pregunto cómo Sálvame acabó formando parte de esa presentación. El caso es que nos permitió iniciar la velada con una sonrisa. Por cierto, Nicolas Bontoux nos preguntó quiénes eran y por qué os reíais tanto. Una anécdota más que contar. 
 
 Empezamos el mismo año que se estrenó [Avatar](https://es.wikipedia.org/wiki/Avatar_(pel%C3%ADcula)), se creó [el primer Bitcoin](https://www.centralcharts.com/es/gm/1-aprender/1-criptomoneda/43-bitcoin/727-el-bitcoin-cumple-diez-anos-fechas), o salieron a la luz el [LOL](https://euw.leagueoflegends.com/es/news/game-updates/special-event/celebrad-10-anos-de-lol-con-nosotros-el-16-de-octubre) o [Minecraft](https://www.20minutos.es/videojuegos/noticia/minecraft-cumple-10-anos-celebra-mapa-gigante-lleno-secretos-3639440/0/). En aquel entonces, usábamos Sonar en sus primeras versiones y Jira no lucia en absoluto como lo hace hoy…
 
