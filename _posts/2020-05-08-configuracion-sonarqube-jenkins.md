@@ -10,7 +10,7 @@ categories:
 - devops
 
 cover: /img/posts/2020-05-08-configuracion-sonarqube-jenkins.png
-modified_time: '2018-10-01T08:00:00.000+01:00'
+modified_time: '2020-05-08T08:00:00.000+01:00'
 ---
 
 La **integración continua** se ha consolidado en el desarrollo de software como un **modelo imprescindible** en la construcción de aplicaciones.
