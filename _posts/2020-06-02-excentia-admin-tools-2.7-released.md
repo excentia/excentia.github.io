@@ -26,6 +26,3 @@ Esta nueva versión incluye nuevas funcionalidades:
 Además se han incluido diferentes mejoras tanto en el validador de valor de un campo como en las condiciones y otras post funciones ya existentes.
 
 Lo tienes disponible en [este enlace](https://marketplace.atlassian.com/apps/1219118/excentia-admin-tools-for-jira) y seguro que te resultará de utilidad y mejorará tu gestión del día a día.
-
-
-![excentia admin tools 2.7](/img/posts/2020-06-02-excentia-admin-tools-2.7-released.png){:width="100%" .center-image}
