@@ -78,6 +78,8 @@ Aquí hay una breve lista de verificación, según las respuestas, podrá evalua
 - ¿Cuánto tiempo y dinero se gasta en este proceso de gobernanza (incluido el tiempo de espera habitual que enfrentan las iniciativas mientras esperan las aprobaciones)?
 - ¿Este paso de gobernanza se basa en medidas objetivas o una medida subjetiva? ¿Cómo lo sabe?
 
+## DevOps en tu empresa
 
+¿Estas interesado en aplicar la metodología DevOps a tu empresa? [**Contacta con nosotros**](https://www.excentia.es/#contact) para empezar juntos esta aventura.
 
-*Texto adaptado* [*DevOps for the Modern Enterprise*](https://itrevolution.com/book/devops_modern_enterprise/) *de Mirco Hering.*
+<sub>- *Texto adaptado* [*DevOps for the Modern Enterprise*](https://itrevolution.com/book/devops_modern_enterprise/) *de Mirco Hering*<sub>
