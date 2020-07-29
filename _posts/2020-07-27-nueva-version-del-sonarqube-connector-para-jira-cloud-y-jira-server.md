@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nueva versión del SonarQube Connector para Jira Cloud y Jira Server'
-description: Todas las novedades de la versión 2.1 del SonarQube Connector para Jira Cloud y Jira Server
+description: Todas las novedades de la versión 2.2 del SonarQube Connector para Jira Cloud y Jira Server
 date: '2020-07-27T08:00:00.000+01:00'
 author: Anna Torres
 categories: 
@@ -12,7 +12,7 @@ cover: /img/posts/2020-07-27-nueva-version-del-sonarqube-connector-para-jira-clo
 modified_time: '2020-07-29T08:00:00.000+01:00'
 ---
 
-Hemos publicado una nueva **versión 2.1** del **SonarQube Connector** para **Jira Cloud** y **Jira Server**.
+Hemos publicado una nueva **versión 2.2** del **SonarQube Connector** para **Jira Cloud** y **Jira Server**.
 
 Estas son las nuevas funcionalidades que incluyen:
 
