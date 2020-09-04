@@ -65,10 +65,21 @@ hr {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h5, h6 {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
+  font-weight: 900;
   letter-spacing: 1px;
+}
+
+.h4, h4 {
+    font-size: 18px;
+    font-weight: 400!important;
+    letter-spacing: 1px;
+    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+section.features .feature-item h3 {
+    color: #000;
 }
 
 p {
@@ -146,7 +157,7 @@ p {
         color: rgba(255, 255, 255, 0.7);
       }
       &:hover, &:focus:hover {
-        color: white;
+        color: $theme-primary;
       }
     }
     &.affix {
@@ -177,13 +188,13 @@ header {
   min-height: auto;
   overflow-y: hidden;
   //background: url("../img/bg-pattern.png"), $head-primary;
-    background: $head-primary;
+    //background: $head-primary;
   /* fallback for old browsers */
   //background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, $head-primary, $head-secondary);
-    background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+    //background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
   /* Chrome 10-25, Safari 5.1-6 */
   //background: url("../img/bg-pattern.png"), linear-gradient(to left, $head-primary, $head-secondary);
-    background: linear-gradient(to left, $head-primary, $head-secondary);
+    //background: linear-gradient(to left, $head-primary, $head-secondary);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: #333333;
   .header-content {
@@ -505,7 +516,7 @@ section {
 
 @media (min-width: 768px) {
   section.download h2 {
-    font-size: 70px;
+    font-size: 68px;
   }
 }
 
@@ -551,13 +562,12 @@ footer {
 }
 
 .bg-primary {
-  background: $theme-primary;
-  background: -webkit-linear-gradient($theme-primary, $theme-secondary);
-  background: linear-gradient($theme-primary, $theme-secondary);
+  background: #f0f0f0;
+  color: #000;
 }
 
 .text-primary {
-  color: $theme-primary;
+    color: #ff8200;
 }
 
 .no-gutter > [class*='col-'] {
