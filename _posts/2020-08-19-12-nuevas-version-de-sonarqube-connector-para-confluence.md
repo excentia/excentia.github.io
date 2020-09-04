@@ -5,6 +5,7 @@ description: Integra los proyectos de SonarQube en tus páginas de Confluence
 date: '2020-09-03T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
+- productos
 - novedades
 - atlassian
 
