@@ -9,21 +9,23 @@ categories:
 - atlassian
 
 cover: /img/posts/2020-09-08-server-vs-data-center-cual-es-mejor.jpg
-modified_time: '2020-09-03T08:00:00.000+01:00'
+modified_time: '2020-09-08T08:00:00.000+01:00'
 ---
 
-Si aún no estás listo para pasar al cloud, y aún estás buscando un mayor control sobre tus datos e infraestructura, entonces [Data Center](/atlassian-data-center) es la mejor opción. 
+Si aún no estás listo para pasar al cloud, y aún estás buscando un mayor control sobre tus datos e infraestructura, 
+entonces [Data Center](/atlassian-data-center) es la mejor opción. 
 
-Los productos de Data Center ofrecen la misma funcionalidad los de Server, pero con más funciones y capacidades para brindar un mejor servicio a las empresas.
+Los productos de Data Center ofrecen la misma funcionalidad los de Server, pero con más funciones y capacidades para 
+brindar un mejor servicio a las empresas.
 
 ## ¿Cuál es la diferencia entre Server y Data Center?
 
-En pocas palabras, Data Center está diseñado para empresas: alto rendimiento, escalabilidad, fácil administración de usuarios, opciones de implementación flexibles y seguridad... estas son solo algunas de sus características.
+En pocas palabras, Data Center está diseñado para empresas: alto rendimiento, escalabilidad, fácil administración de 
+usuarios, opciones de implementación flexibles y seguridad... estas son solo algunas de sus características.
 
 A continuación podras obtener más información sobre las funciones adicionales a las que obtendrás acceso con Data Center:
 
 | Escala, rendimiento y disponibilidad | > **Agrupación** (Jira Software, Confluence, Bitbucket, Jira Service Desk, Crowd) > **Soporte para CDN** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Limitación de velocidad** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Problema y archivado de proyectos** (Jira Software, Jira Service Desk) > **Espejo inteligente y granjas de espejos** (Bitbucket) > **Fragmentación de almacenamiento** (Bitbucket) > **Grupo de procesamiento externo** (Confluence) |
-| ------------------------------------ | ------------------------------------------------------------ |
 | Infraestructura y Operaciones        | > **Soporte para AWS** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Soporte para Azure** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Soporte para Amazon Aurora** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Actualizaciones sin tiempo de inactividad** (Jira Software, Jira Service Desk) > **Modo de solo lectura** (Confluence) |
 | Cumplimiento, gobernanza y seguridad | > **Auditoría avanzada** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Visibilidad de licencia centralizada** (Multitud) > **Filtrado de usuarios de Azure AD y administración de grupos locales** (Multitud) > **Permisos** masivos (Confluence) |
 | Gestión de usuarios                  | > **SAML** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **OpenID Connect** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Aprovisionamiento justo a tiempo** (Jira Software, Confluence, Bitbucket, Jira Service Desk) > **Delegado Administrador** (multitud) |
@@ -74,4 +76,4 @@ Si bien puedes implementar Data Center en tu propio hardware, también puedes ap
 
 Los productos de Data Center de Atlassian brindan todas las funciones de Server, pero con más control sobre los datos, más flexibilidad en la infraestructura y más soporte para equipos grandes o en crecimiento. Por estas y otras razones, Data Center es una excelente opción para las empresas.
 
-Para obtener más información, conocer cuándo y cómo realizar el cambio [contactanos](https://www.excentia.es/#contact) sin compromiso.
+Para obtener más información, conocer cuándo y cómo realizar el cambio [contáctanos](https://www.excentia.es/#contact) sin compromiso.
