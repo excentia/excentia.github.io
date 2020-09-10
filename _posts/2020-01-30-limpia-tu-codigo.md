@@ -3,7 +3,7 @@ layout: post
 title: 'Limpia tu código. El concepto Clean as You Code llega a SonarQube'
 description: SonarSource redefine su propuesta de valor, antes conocida como Fix the Leak , para adaptarla a los principios del código limpio y las capacidades de su potente herramienta de análisis estático de código. 
 date: '2020-01-30T08:00:00.000+01:00'
-author: Adaptación y traducción por Andrea Crespo. Artículo original por G. Ann Campbell. 
+author: Andrea Crespo. Artículo original por G. Ann Campbell. 
 categories: 
 - sonarsource
 - calidad

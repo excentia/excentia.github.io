@@ -3,7 +3,7 @@ layout: post
 title: 'Seguridad de aplicaciones, a la manera de SonarSource'
 description:  SonarQube refuerza su análisis de código desde la perspectiva de la seguridad de aplicaciones con un nuevo tipo de evidencia, los security hotspots 
 date: '2019-02-27T08:00:00.000+01:00'
-author: Traducción, interpretación y ampliación de Andrea Crespo. Artículo original de SonarSource
+author: Andrea Crespo. Artículo original de SonarSource
 categories: 
 - sonarsource
 - calidad

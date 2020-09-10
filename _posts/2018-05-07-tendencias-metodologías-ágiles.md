@@ -3,7 +3,7 @@ layout: post
 title: '5 tendencias que estamos viendo en el agilismo open-source'
 description: ¿Cuál es el estado actual del agilismo en la industria? Atlassian nos cuenta 5 tendencias resultantes de su investigación. 
 date: '2018-05-07T08:00:00.000+01:00'
-author: Atlassian. Traducción por Andrea Crespo, excentia.
+author: Andrea Crespo. Artículo original de Atlassian
 categories: 
 - agilismo
 

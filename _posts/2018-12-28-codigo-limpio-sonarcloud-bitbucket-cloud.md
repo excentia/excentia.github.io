@@ -3,7 +3,7 @@ layout: post
 title: 'Código limpio con SonarCloud y Bitbucket Cloud'
 description: Traducción del blog de Atlassian en colaboración con SonarSource en el que se presenta la integración entre SonarCloud y Bitbucket Cloud    
 date: '2018-12-28T08:00:00.000+01:00'
-author: Traducción - Andrea Crespo. Artículo original por Fabrice Bellingard.  
+author: Andrea Crespo. Artículo original por Fabrice Bellingard.  
 categories: 
 - atlassian
 - sonarsource
