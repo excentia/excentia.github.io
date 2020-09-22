@@ -8,7 +8,7 @@ categories:
 - productos
 - noticias
 
-cover: /img/posts/2020-06-02-excentia-admin-tools-2.7-released.png
+cover: /img/posts/2020-09-21-nueva-version-excentia-admin-tools-2.9-para-administradores-jira-thumb.jpg
 modified_time: '2020-09-21T08:00:00.000+01:00'
 ---
 
