@@ -52,7 +52,7 @@ La nueva versión mejora todavía más la vida a los administradores añadiendo 
 
 ## Mejoras
 
-- Añadido soporte para bases  de datos Oracle en el report
+- Añadido soporte para bases de datos Oracle en los informes de estadísticas
 - Añadido soporte para ServiceDesk del modo mantenimiento
 - Permitir borrar el nivel de seguridad  en la postfunción para modificar el nivel de seguridad de los asuntos
 - Ocultar la pestaña de notificaciones cuando la licencia no está activa
