@@ -38,7 +38,7 @@ Ahora todo lo que necesites con un simple clic: IDs de estados, campos, proyecto
 
 <img src="img/posts/2020-09-21-nueva-version-excentia-admin-tools-2.9-para-administradores-jira-eatools-report.png" alt="Información detallada en Jira">
 
-<a href="https://marketplace.atlassian.com/apps/1219118/excentia-admin-tools-for-jira?hosting=server&tab=overview" id="contact-button" class="btn btn-outline-white btn-xl" style="background:#333333;border:none" >Descarga excentia Admin Tools</a>
+<a href="https://marketplace.atlassian.com/apps/1219118/excentia-admin-tools-for-jira?hosting=server&tab=overview" class="btn btn-outline-white btn-xl" style="background:#333333;border:none" >Descarga excentia Admin Tools</a>
 
 ## <span style="color:#FF8200">Nueva versión: Excentia Admin Tools 2.9</span>
 
