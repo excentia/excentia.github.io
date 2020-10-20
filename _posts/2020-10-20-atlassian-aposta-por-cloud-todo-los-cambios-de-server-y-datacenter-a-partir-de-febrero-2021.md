@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 'Atlassian aposta por un servicio premium para la Nube'
+title: 'Atlassian apuesta por un servicio premium para la Nube'
 description: Todo lo cambios de Server y Data Center a partir del 2 de febrero 2021
 date: '2020-10-20T08:00:00.000+01:00'
 author:  Anna Torres
@@ -12,7 +12,7 @@ categories:
 cover: /img/posts/2020-10-20-atlassian-aposta-por-cloud-todo-los-cambios-de-server-y-datacenter-a-partir-de-febrero-2021-thumb.jpg
 modified_time: '2020-10-20T08:00:00.000+01:00'
 ---
-**Atlassian** en estos años ha evolucionado siguiendo las necesidades de sus clientes, y es por esta razón que ahora aposta por dar un **servicio premium para la Nube**.
+**Atlassian** en estos años ha evolucionado siguiendo las necesidades de sus clientes, y es por esta razón que ahora apuesta por dar un **servicio premium para la Nube**.
 
 Como ya sabes las **ventajas** de la nube son muchas, como la administración optimizada, la escalabilidad instantánea y una rentabilidad más rápida. De hecho, más del 90% de los clientes comienzan con los productos en el cloud de Atlassian, y siempre más clientes de Server deciden **migrar a cloud**.
 
@@ -48,7 +48,7 @@ Atlassian ha pensado a todos los clientes. Como por ejemplo a los que podrían t
 
 Se van a mejorar algunas de las aplicaciones más poderosas de Atlassian para que estén disponibles de forma nativa en Data Center y ofrecerá Soporte Prioritario con suscripciones. 
 
-Para respaldar esta innovación continua, el **2 de febrero de 202**1 (PT) se [actualizarán los precios de las suscripciones a Data Center](https://www.atlassian.com/licensing/future-pricing/data-center-pricing/faqs).
+Para respaldar esta innovación continua, el **2 de febrero de 2021** (PT) se [actualizarán los precios de las suscripciones a Data Center](https://www.atlassian.com/licensing/future-pricing/data-center-pricing/faqs).
 
 ## Construye tu camino
 
