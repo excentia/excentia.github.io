@@ -10,7 +10,7 @@ categories:
 - atlassian
 
 redirect_from:
- - /2020-10-20-atlassian-aposta-por-cloud-todo-los-cambios-de-server-y-datacenter-a-partir-de-febrero-2021
+ - /atlassian-aposta-por-cloud-todo-los-cambios-de-server-y-datacenter-a-partir-de-febrero-2021
  
 cover: /img/posts/2020-10-20-atlassian-aposta-por-cloud-todo-los-cambios-de-server-y-datacenter-a-partir-de-febrero-2021-thumb.jpg
 modified_time: '2020-10-20T08:00:00.000+01:00'
