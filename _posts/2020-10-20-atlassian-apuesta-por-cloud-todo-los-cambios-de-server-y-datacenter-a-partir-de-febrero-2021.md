@@ -59,5 +59,5 @@ Independientemente de dónde te encuentres en su viaje hacia la nube, **excentia
 
 Si quieres saber más sobre estos cambios o **cómo migrar a cloud** o quieres **evaluar tus opciones**, [**contáctanos ahora**](/#contact) mismo. Evaluaremos juntos el mejor camino y sentaremos las bases para tu nuevo futuro prometedor.
 
-<span id="contact-button" class="btn btn-outline-white btn-xl" style="background:#333333; border:none" >Contáctanos</span>
+<span id="contact-button-2" class="btn btn-outline-white btn-xl" style="background:#333333; border:none" >Contáctanos</span>
 <br>
