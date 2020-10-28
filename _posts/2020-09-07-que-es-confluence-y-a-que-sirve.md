@@ -2,13 +2,13 @@
 layout: post
 title: '¿Qué es Confluence y qué aporta al trabajo remoto?'
 description: El trabajo en equipo empieza en Confluence
-date: '2020-10-07T08:00:00.000+01:00'
+date: '2020-10-27T08:00:00.000+01:00'
 author: Anna Torres
 categories: 
 - atlassian
 
 cover: /img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-thumb.jpg
-modified_time: '2020-10-07T08:00:00.000+01:00'
+modified_time: '2020-10-27T08:00:00.000+01:00'
 ---
 
 
