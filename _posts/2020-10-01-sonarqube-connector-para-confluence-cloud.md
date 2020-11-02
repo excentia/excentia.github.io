@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SonarQube Connector para Conference Cloud'
+title: 'SonarQube Connector para Confluence Cloud'
 description: Todas tus métricas fácilmente accesibles desde Confluence
 date: '2020-10-10T08:00:00.000+01:00'
 author: Anna Torres
