@@ -2,7 +2,7 @@
 layout: post
 title: 'Informe de satisfacción clientes'
 description: Nuevo informe para los proyectos de Jira Service Desk
-date: '2020-10-28T08:00:00.000+01:00'
+date: '2020-11-09T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - productos
@@ -10,7 +10,7 @@ categories:
 - atlassian
 
 cover: /img/posts/2020-11-09-nuevas-version-2-10-excentia-admin-tool-para-jira-customer-satisfaction.jpg
-modified_time: '2020-10-28T08:00:00.000+01:00'
+modified_time: '2020-11-09T08:00:00.000+01:00'
 ---
 
 
