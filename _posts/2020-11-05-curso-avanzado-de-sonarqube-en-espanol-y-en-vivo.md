@@ -13,21 +13,21 @@ categories:
 cover: /img/posts/2020-11-05-curso-avanzado-de-sonarqube-en-espanol-y-en-vivo-thumb.jpg
 modified_time: '2020-11-05T08:00:00.000+01:00'
 ---
-¿Quieres saber todo sobre **SonarQube**? ¿Estas buscando un curso avanzado de SonarQube? 
+Quieres saber todo sobre **SonarQube**? ¿Estás buscando un curso avanzado de SonarQube? 
 
-Nuestro compañero y bug hunter [Oscar Moreno](https://www.linkedin.com/in/oscarmorenozamora/) impartirá el **curso avanzado de SonarQube** en **español** y en modalidad <span style="text-decoration:underline;font-weight:bold">en vivo</span>. 
+Nuestro compañero y bug hunter [Oscar Moreno](https://www.linkedin.com/in/oscarmorenozamora/) impartirá el **curso avanzado de SonarQube** en **español** y <span style="text-decoration:underline;font-weight:bold">en vivo</span>. 
 
-Una pasada verdad? Cuantas veces te habrá pasado de hacer curso online y quedarte con algunas dudas o preguntas sin resolver? Gracias a esta ocasión única podrás <span style="text-decoration:underline;">interactuar con el profesor</span> en tiempo real y facilitar tus consultas. 
+Una pasada, ¿verdad? ¿Cuántas veces has hecho un curso online y te has quedado con algunas dudas o preguntas sin resolver? Gracias a esta ocasión única, podrás <span style="text-decoration:underline;">interactuar con el profesor</span> en tiempo real y facilitar tus consultas. 
 
 ## Objetivo 
 
-El objetivo del **curso avanzado de SonarQube** es de aprender a utilizar esta herramienta de manera experta, para que puedas mejorar tu software basadote en el análisis estático del código y integrar herramientas DevOps como Jenkins, Azure DevOps y Gitlab.
+El objetivo del **curso avanzado de SonarQube** es aprender a utilizar esta herramienta de manera experta, para que puedas mejorar tu software basadote en el análisis estático del código e integrarlo con herramientas DevOps como Jenkins, Azure DevOps y Gitlab.
 
-Aprenderás a administrar un amplio número de proyectos e interpretar la calidad de su conjunto. Además de conocer la arquitectura de un ecosistema de integración continua y de realizar instalaciones y configuraciones complejas en servidores.
+Aprenderás a administrar un amplio número de proyectos e interpretar la calidad de su conjunto, además de conocer la arquitectura de un ecosistema de integración continua y de realizar instalaciones y configuraciones complejas en servidores.
 
 ## A quién está dirigido
 
-A Project Managers, DevOps Engineers, QA Managers y QA Engineers que quieran profundizar y convertirse en un verdadero experto.
+A Project Managers, DevOps Engineers, QA Managers y QA Engineers que quieran profundizar y convertirse en unos verdaderos experto.
 
 ## Temario
 
