@@ -2,7 +2,7 @@
 layout: post
 title: '5 razones para elegir la nube'
 description: Y los riesgos de quedarse atrás
-date: '2020-11-11T08:00:00.000+01:00'
+date: '2020-11-18T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - devops
@@ -10,7 +10,7 @@ categories:
 - noticias
 
 
-cover: /img/posts/2020-11-11-5-razones-para-elegir-la-nube-thumb.jpg
+cover: /img/posts/2020-11-18-5-razones-para-elegir-la-nube-thumb.jpg
 modified_time: '2020-11-09T08:00:00.000+01:00'
 ---
 
@@ -48,7 +48,7 @@ Las seis razones principales son:
 
 ### 4. Incrementar la productividad del equipo
 
-<img src="/img/posts/2020-11-11-incrementa-la-productividad-de-tu-equipo-ti.jpg" alt="Mejora la productividad" width="100%">
+<img src="/img/posts/2020-11-18-incrementa-la-productividad-de-tu-equipo-ti.jpg" alt="Mejora la productividad" width="100%">
 
 Hay muchas formas de mejorar la productividad de tu empresa. Por ejemplo, contratando a los mejores talentos, mejorando el compromiso, minimizado las reuniones, promoviendo o incluso rediseñando las oficina para aumentar las horas productivas. Pero una forma, es también pasar a la nube. 
 
