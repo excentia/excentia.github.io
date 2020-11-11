@@ -73,6 +73,7 @@ A Project Managers, DevOps Engineers, QA Managers y QA Engineers que quieran pro
 ## Convocatoria
 
 **Fechas**: 30 noviembre 2020 - 4 diciembre 2020
+
 **Horario**: 18:00 - 20:00
 
 **Inscripciones**: [Qalovers Accademy - Curso Avanzado de SonarQube](https://www.qaloversacademy.com/2020/09/sonarqube-fundamentos.html)
