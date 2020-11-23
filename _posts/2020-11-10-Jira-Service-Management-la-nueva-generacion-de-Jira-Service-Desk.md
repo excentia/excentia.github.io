@@ -10,7 +10,7 @@ categories:
 - noticias
 
 
-cover: /img/posts/2020-11-10-Jira-Service-Management-la-nueva-generación-de-Jira-Service-Desk-thumb.jpg
+cover: /img/posts/2020-11-10-Jira-Service-Management-la-nueva-generacion-de-Jira-Service-Desk-thumb.jpg
 modified_time: '2020-11-10T08:00:00.000+01:00'
 ---
 
