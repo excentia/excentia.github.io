@@ -9,9 +9,9 @@ categories:
 - atlassian
 - noticias
 
-
-cover: /img/posts/2020-11-10-Jira-Service-Management-la-nueva-generacion-de-Jira-Service-Desk-thumb.jpg
+cover: /img/posts/2020-11-10-jira-service-management-thumb.jpg
 modified_time: '2020-11-10T08:00:00.000+01:00'
+
 ---
 
 
