@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 'Conecta con tu instancia de SonarQube'
+title: 'Conecta tu instancia de SonarQube con Jira'
 description: SonarQube Connector para Jira Cloud, Data Center y Server versión 2.4
 date: '2020-11-24T08:00:00.000+01:00'
 author:  Anna Torres
