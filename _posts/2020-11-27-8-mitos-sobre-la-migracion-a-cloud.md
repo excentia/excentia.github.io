@@ -53,11 +53,12 @@ Esto significa que si un hacker accede por casualidad a unas únicas credenciale
 </div>
 
 <br/>
+<hr>
 <br/>
 
 <div id="contact-form-hubspot">
-	<h1>CONTÁCTANOS</h1>
-<p>Nos encanta ayudar. Rellena el formulario y te responderemos en 24 horas o menos.</p>
+	<h1>¿Buscas la solución perfecta para tu empresa?</h1>
+<p>Rellena el formulario y te responderemos en 24 horas (o menos).</p>
 <br/>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
