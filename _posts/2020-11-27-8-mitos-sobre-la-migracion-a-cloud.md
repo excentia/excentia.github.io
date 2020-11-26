@@ -2,7 +2,7 @@
 layout: post
 title: 'Los mitos más frecuentes sobre la migración a Atlassian Cloud'
 description: Desde la seguridad de los datos hasta el rendimiento, desmentimos los conceptos erróneos más comunes
-date: '2020-11-27T08:00:00.000+01:00'
+date: '2020-11-24T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - atlassian
@@ -31,12 +31,12 @@ En lugar de depender de un único inicio de sesión, el enfoque de confianza cer
 
 Esto significa que si un hacker accede por casualidad a unas únicas credenciales de inicio de sesión, el daño que puede hacer está limitado por los permisos de usuario y las herramientas a las que dichas credenciales pueden acceder.
 
-<a href="/pdf/atlassian/whitepaper/8_mitos_sobre_el_cloud.pdf"><span style="text-decoration:underline;font-size:0.8em; color:#3f77f4">Descubre los 8 mitos sobre Cloud en el PDF técnico ></span></a>
+<a href="https://excentia.hubspotpagebuilder.com/descarga-el-pdf-8-mitos-sobre-la-migracion-a-cloud"><span style="text-decoration:underline;font-size:0.8em; color:#3f77f4">Descubre los 8 mitos sobre Cloud en el PDF técnico ></span></a>
 
 <center>
 <img src="/img/posts/2020-11-27-8-mitos-sobre-el-cloud-whitepaper-8_mitos_sobre_la_nube.png" alt="Descubre la verdad sobre Atlassian Cloud">
 <br/>
-<a href="/pdf/atlassian/whitepaper/8_mitos_sobre_el_cloud.pdf" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold; font-size:0.8em" >Descarga ahora > </a>
+<a href="https://excentia.hubspotpagebuilder.com/descarga-el-pdf-8-mitos-sobre-la-migracion-a-cloud" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold; font-size:0.8em" >Descarga ahora > </a>
 
 </center>
 
