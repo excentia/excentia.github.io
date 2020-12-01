@@ -82,7 +82,7 @@ Descarga el informe técnico detallado.
 <h3>¿Tienes dudas sobre sobre la solución ideal para tu empresa?</h3> 
 <p style="font-size:1.1em;">Contacta con nosotros y te asesoraremos para que puedas encontrar la solución perfecta.
 </p>
-<span id="contact-button" class="btn btn-outline-white btn-xl" style="background:#1D252D; border:none" >Contáctanos</span>
+<span id="contact-button" class="btn btn-outline-white btn-xl" style="background:#1D252; border:none" >Contáctanos</span>
 <br>
 </div>
 
