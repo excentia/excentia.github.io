@@ -78,5 +78,5 @@ Existe una gran variedad de técnicas que cumplen los principios de la **metodol
 });
 </script>
 
-
+</div>
 
