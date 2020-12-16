@@ -62,6 +62,21 @@ Existe una gran variedad de técnicas que cumplen los principios de la **metodol
 
 **Bitbucket** y **Hipchat** son otros dos grandes aliados para el **desarrollo software**. La integración de **Bitbucket** con **Jira Software** facilita el trabajo de todo el equipo, permitiendo hacer revisiones de código de manera muy intuitiva, asegurando, así pues la **calidad del código**. Finalmente, **Hipchat**, también integrado tanto con **Jira Software** como con **Bitbucket**, provee la plataforma de comunicación ideal para todos los miembros del equipo.  
 
+<br/>
+<hr>
+<br/>
 
+<div id="contact-form-hubspot">
+	<h1>¿Quieres adoptar la metodologías ágile en tu empresa?</h1>
+<p>Rellena el formulario y contactaremos contigo..</p>
+<br/>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "7892756",
+	formId: "88c36f66-edb7-403c-8200-d4518c6329cc"
+});
+</script>
 
+</div>
 
