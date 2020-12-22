@@ -8,6 +8,7 @@ categories:
 - atlassian
 - novedades
 
+
 cover: /img/posts/2020-12-21-servicios-migracion-atlassian-cloud-valencia.jpg
 modified_time: '2020-12-21T08:00:00.000+01:00'
 ---
