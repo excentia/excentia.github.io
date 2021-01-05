@@ -398,9 +398,17 @@ section {
       }
     }
     .atlassian-service-item {
-      text-align: center;
+      text-align: left;
+      padding: 40px;
       margin-bottom: 100px;
       text-decoration: none;
+      background-color: #F0F0F0;
+      border-color: #F0F0F0;
+      border: 1px;
+
+      -moz-box-shadow: -5px 5px 5px 0px #666;
+      -webkit-box-shadow: -5px 5px 5px 0px #666;
+      box-shadow: -5px 5px 5px 0px #999;
         
       h3 {
         font-size: 30px;
