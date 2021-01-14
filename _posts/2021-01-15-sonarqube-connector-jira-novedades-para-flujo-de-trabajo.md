@@ -2,7 +2,7 @@
 layout: post
 title: 'Mejora el flujo de trabajo de los proyectos'
 description: Nuevas funcionalidades para los Administradores de Proyecto
-date: '2021-01-12T08:00:00.000+01:00'
+date: '2021-01-18T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - productos
