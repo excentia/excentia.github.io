@@ -19,21 +19,15 @@ Un flujo de trabajo optimizado y automatizado es muy valioso pero **no es sufici
 
 Una hermosa cocina equipada con electrodomésticos costosos no se traduce automáticamente en una deliciosa comida. Si no estas alimentando el flujo de trabajo de desarrollo con código limpio y seguro, no obtendrás aplicaciones de calidad.
 
-SonarQube ayuda a garantizar la calidad de la alimentación para que puedas **obtener** **calidad**.
+## SonarQube: calidad en salida y en entrada
 
 <img src="/img/posts/2021-01-15-calidad-de-codigo-y-seguridad-con-sonarqube-sonarcloud-1.png" alt="Ventajas de SonarQube" width="70%">
-
-SonarQube se integra estrechamente con las cuatro herramientas ALM  más importantes: GitHub, Azure DevOps, Bitbucket, GitLab).
-
-Está respaldado por más de 10 años de ingeniería de productos y experiencia, y los valores fundamentales de sus productos son:
-
--   Disponible para todos los desarrolladores
--   Simple y transparente para desarrolladores y sus equipos
--   Preciso en la información proporcionada y siempre útil
 
 Hoy en día, los desarrolladores codifican en su **ALM** y ese es el lugar perfecto para agregar valor con comentarios sobre la calidad del código.
 
 El ALM es donde los desarrolladores envían los cambios para su revisión y activan las implementaciones. Por eso tiene sentido que SonarQube se integre estrechamente aquí y no hay mejor punto focal que la solicitud de extracción (Pull Request - PR). Además es el lugar perfecto para enviar comentarios al desarrollador sobre la calidad del código.
+
+Por esto SonarQube se integra estrechamente con las cuatro herramientas ALM  más importantes: GitHub, Azure DevOps, Bitbucket, GitLab. Y está respaldado por más de 10 años de ingeniería de productos y experiencia. 
 
 ## SonarQube y la metodología [Clean as You Code](https://www.sonarqube.org/features/clean-as-you-code/) (CAYC)
 
