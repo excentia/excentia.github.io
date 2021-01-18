@@ -929,6 +929,18 @@ body {
     outline: 0;
 }
 
+.dropdown-li {
+    display:inline-block !important;
+}
+.dropdown-link {
+    display:inline-block !important;
+    padding-right:4px !important;
+}
+.dropdown-caret {
+    display:inline-block !important;
+    padding-left:4px !important;
+}
+
 img.center {
   display: block;
   margin-left: auto;
