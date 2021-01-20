@@ -99,10 +99,22 @@ p {
   margin-bottom: 20px;
 }
 
+.header-li-text {
+  font-size: 1.5em;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .atlassian-background {
   background: #0052CC;
   color: #fff;
   border-color: #0052CC;
+}
+.atlassian-background-action {
+  background: #d6ebfe;
+  color: black;
+  border-color: #d6ebfe;
 }
 .sonarsource-background {
   background: #c42422;
@@ -405,6 +417,7 @@ section {
       background-color: #F0F0F0;
       border-color: #F0F0F0;
       border: 1px;
+      min-height: 360px;
 
       -moz-box-shadow: -5px 5px 5px 0px #666;
       -webkit-box-shadow: -5px 5px 5px 0px #666;
