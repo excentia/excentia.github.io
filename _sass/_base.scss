@@ -100,7 +100,7 @@ p {
 }
 
 .header-text {
-  font-size: 1.5em;
+  font-size: 1.6em;
   line-height: 1.5;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -127,6 +127,14 @@ p {
   background: #c42422;
   color: #fff;
   border-color: #c42422;
+}
+
+.text-atlassian {
+    color: #0052CC;
+}
+
+.text-sonarsource {
+    color: #c42422;
 }
 
 .title {
@@ -402,9 +410,18 @@ section {
       }
     }
     .service-item {
-      text-align: center;
+      text-align: left;
+      padding: 40px;
       margin-bottom: 100px;
       text-decoration: none;
+      background-color: #F0F0F0;
+      border-color: #F0F0F0;
+      border: 1px;
+      min-height: 500px;
+
+      -moz-box-shadow: -5px 5px 5px 0px #666;
+      -webkit-box-shadow: -5px 5px 5px 0px #666;
+      box-shadow: -5px 5px 5px 0px #999;
         
       h3 {
         font-size: 30px;
@@ -443,9 +460,18 @@ section {
       }
     }
     .sonarsource-service-item {
-      text-align: center;
+      text-align: left;
+      padding: 40px;
       margin-bottom: 100px;
       text-decoration: none;
+      background-color: #F0F0F0;
+      border-color: #F0F0F0;
+      border: 1px;
+      min-height: 390px;
+
+      -moz-box-shadow: -5px 5px 5px 0px #666;
+      -webkit-box-shadow: -5px 5px 5px 0px #666;
+      box-shadow: -5px 5px 5px 0px #999;
         
       h3 {
         font-size: 30px;
@@ -1082,11 +1108,29 @@ img.center {
     border-radius: 4px;
 }
 
-.vertical-center {
+.tarjeta-curso {
+  min-height: 350px;
+  background-color:white;
+  margin-top: 20px;
+  padding: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
 
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+.informacion-curso {
+  display: table-row-group;
+  vertical-align: top;
+}
 
+.enlace-curso {
+  display: table-row;
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+      color: #fff;
+      background-color: #FF8200;
+      border-color: black;
 }
