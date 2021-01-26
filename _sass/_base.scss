@@ -460,7 +460,7 @@ section {
           }
         }
     .atlassian-service-item {
-      text-align: left;
+      text-align: center;
       padding: 40px;
       margin-bottom: 50px;
       text-decoration: none;
@@ -1178,6 +1178,27 @@ img.center {
 }
 
 .tarjeta-link {
+  display: table-row;
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.tarjeta-producto {
+  min-height: 400px;
+  background-color:white;
+  margin-top: 40px;
+  padding: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
+.informacion-producto {
+  display: table-row-group;
+  vertical-align: top;
+}
+
+.enlace-producto {
   display: table-row;
   vertical-align: bottom;
   text-align: center;
