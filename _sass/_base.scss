@@ -485,7 +485,7 @@ section {
       }
     }
     .sonarsource-service-item {
-      text-align: left;
+      text-align: center;
       padding: 40px;
       margin-bottom: 50px;
       text-decoration: none;
@@ -494,9 +494,9 @@ section {
       border: 1px;
       min-height: 390px;
 
-      -moz-box-shadow: -5px 5px 5px 0px #666;
-      -webkit-box-shadow: -5px 5px 5px 0px #666;
-      box-shadow: -5px 5px 5px 0px #999;
+      -moz-box-shadow: -3px 3px 3px 3px #CCC;
+      -webkit-box-shadow: -3px 3px 3px 3px #CCC;
+      box-shadow: -3px 3px 3px 3px #CCC;
         
       h3 {
         font-size: 30px;
