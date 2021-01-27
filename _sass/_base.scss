@@ -412,16 +412,16 @@ section {
     .service-item {
       text-align: left;
       padding: 40px;
-      margin-bottom: 100px;
+      margin-bottom: 50px;
       text-decoration: none;
       background-color: #F0F0F0;
       border-color: #F0F0F0;
       border: 1px;
       min-height: 500px;
 
-      -moz-box-shadow: -5px 5px 5px 0px #666;
-      -webkit-box-shadow: -5px 5px 5px 0px #666;
-      box-shadow: -5px 5px 5px 0px #999;
+      -moz-box-shadow: -3px 3px 3px 0px #CCC;
+      -webkit-box-shadow: -3px 3px 3px 0px #CCC;
+      box-shadow: -3px 3px 3px 0px #CCC;
         
       h3 {
         font-size: 30px;
@@ -434,19 +434,44 @@ section {
         //-webkit-text-fill-color: transparent;
       }
     }
+    .service-item-small {
+          text-align: left;
+          padding: 40px;
+          margin-bottom: 50px;
+          text-decoration: none;
+          background-color: #F0F0F0;
+          border-color: #F0F0F0;
+          border: 1px;
+          min-height: 300px;
+
+          -moz-box-shadow: -3px 3px 3px 0px #CCC;
+          -webkit-box-shadow: -3px 3px 3px 0px #CCC;
+          box-shadow: -3px 3px 3px 0px #CCC;
+
+          h3 {
+            font-size: 30px;
+          }
+          i {
+            font-size: 80px;
+            //background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+            //background: linear-gradient(to left, $head-primary, $head-secondary);
+            //-webkit-background-clip: text;
+            //-webkit-text-fill-color: transparent;
+          }
+        }
     .atlassian-service-item {
-      text-align: left;
+      text-align: center;
       padding: 40px;
-      margin-bottom: 100px;
+      margin-bottom: 50px;
       text-decoration: none;
       background-color: #F0F0F0;
       border-color: #F0F0F0;
       border: 1px;
-      min-height: 360px;
+      min-height: 400px;
 
-      -moz-box-shadow: -5px 5px 5px 0px #666;
-      -webkit-box-shadow: -5px 5px 5px 0px #666;
-      box-shadow: -5px 5px 5px 0px #999;
+      -moz-box-shadow: -3px 3px 3px 0px #CCC;
+      -webkit-box-shadow: -3px 3px 3px 0px #CCC;
+      box-shadow: -3px 3px 3px 0px #CCC;
         
       h3 {
         font-size: 30px;
@@ -460,18 +485,18 @@ section {
       }
     }
     .sonarsource-service-item {
-      text-align: left;
+      text-align: center;
       padding: 40px;
-      margin-bottom: 100px;
+      margin-bottom: 50px;
       text-decoration: none;
       background-color: #F0F0F0;
       border-color: #F0F0F0;
       border: 1px;
       min-height: 390px;
 
-      -moz-box-shadow: -5px 5px 5px 0px #666;
-      -webkit-box-shadow: -5px 5px 5px 0px #666;
-      box-shadow: -5px 5px 5px 0px #999;
+      -moz-box-shadow: -3px 3px 3px 3px #CCC;
+      -webkit-box-shadow: -3px 3px 3px 3px #CCC;
+      box-shadow: -3px 3px 3px 3px #CCC;
         
       h3 {
         font-size: 30px;
@@ -1124,6 +1149,56 @@ img.center {
 }
 
 .enlace-curso {
+  display: table-row;
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.tarjeta {
+  min-height: 350px;
+  background-color:white;
+  margin-top: 20px;
+  padding: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
+.tarjeta-con-imagen {
+  min-height: 350px;
+  background-color:white;
+  margin-top: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
+.tarjeta-body {
+  padding: 20px;
+}
+
+.tarjeta-link {
+  display: table-row;
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.tarjeta-producto {
+  min-height: 400px;
+  background-color:white;
+  margin-top: 40px;
+  padding: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
+.informacion-producto {
+  display: table-row-group;
+  vertical-align: top;
+}
+
+.enlace-producto {
   display: table-row;
   vertical-align: bottom;
   text-align: center;
