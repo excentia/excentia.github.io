@@ -417,7 +417,7 @@ section {
       background-color: #F0F0F0;
       border-color: #F0F0F0;
       border: 1px;
-      min-height: 500px;
+      min-height: 450px;
 
       -moz-box-shadow: -3px 3px 3px 0px #CCC;
       -webkit-box-shadow: -3px 3px 3px 0px #CCC;
@@ -435,14 +435,14 @@ section {
       }
     }
     .service-item-small {
-          text-align: left;
+          text-align: center;
           padding: 40px;
           margin-bottom: 50px;
           text-decoration: none;
           background-color: #F0F0F0;
           border-color: #F0F0F0;
           border: 1px;
-          min-height: 300px;
+          min-height: 400px;
 
           -moz-box-shadow: -3px 3px 3px 0px #CCC;
           -webkit-box-shadow: -3px 3px 3px 0px #CCC;
@@ -450,6 +450,7 @@ section {
 
           h3 {
             font-size: 30px;
+            text-align: left;
           }
           i {
             font-size: 80px;
@@ -457,6 +458,9 @@ section {
             //background: linear-gradient(to left, $head-primary, $head-secondary);
             //-webkit-background-clip: text;
             //-webkit-text-fill-color: transparent;
+          }
+          p {
+            text-align: left;
           }
         }
     .atlassian-service-item {
@@ -467,7 +471,7 @@ section {
       background-color: #F0F0F0;
       border-color: #F0F0F0;
       border: 1px;
-      min-height: 400px;
+      min-height: 430px;
 
       -moz-box-shadow: -3px 3px 3px 0px #CCC;
       -webkit-box-shadow: -3px 3px 3px 0px #CCC;
@@ -1133,6 +1137,27 @@ img.center {
     border-radius: 4px;
 }
 
+
+.tarjeta {
+  min-height: 350px;
+  background-color:white;
+  margin-top: 20px;
+  padding: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
+.tarjeta-con-imagen {
+  min-height: 470px;
+  background-color:white;
+  margin-top: 20px;
+  padding: 20px;
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
 .tarjeta-curso {
   min-height: 350px;
   background-color:white;
@@ -1154,24 +1179,6 @@ img.center {
   text-align: center;
 }
 
-.tarjeta {
-  min-height: 350px;
-  background-color:white;
-  margin-top: 20px;
-  padding: 20px;
-  display: table;
-  text-align: center;
-  width: 100%;
-}
-
-.tarjeta-con-imagen {
-  min-height: 350px;
-  background-color:white;
-  margin-top: 20px;
-  display: table;
-  text-align: center;
-  width: 100%;
-}
 
 .tarjeta-body {
   padding: 20px;
