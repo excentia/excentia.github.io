@@ -55,7 +55,7 @@ a {
   transition: all 0.35s;
   color: $theme-primary;
   &:hover, &:focus {
-    color: #fcbd20;
+    color: #FF8200;
   }
 }
 
@@ -158,7 +158,7 @@ p {
       padding: 10px;
       color: $theme-primary;
       &:hover, &:focus {
-        color: #fcbd20;
+        color: #FF8200;
       }
     }
     .navbar-toggle {
@@ -1015,6 +1015,7 @@ body {
     background-color: #f0951f;
     outline: 0;
 }
+
 
 img.center {
   display: block;
