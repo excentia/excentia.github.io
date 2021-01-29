@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: 'Agile Vs Waterfall: ¿Cuál es la mejor metodología?' 
+title: 'Agile Vs Waterfall. ¿Cuál es la mejor metodología?' 
 description: Descubre las ventajas y diferencias entre las metodologías de desarrollo de software. 
 date: '2021-01-20T08:00:00.000+01:00' 
 author: Anna Torres
@@ -9,8 +9,8 @@ categories:
 - noticias
 - agile
 
-cover: /img/posts/2021-01-20-agile-vs-waterfall-cual-es-la-mejor-metodologia-para-el-desarollo.png modified_time: '
-2021-01-20T08:00:00.000+01:00'
+cover: /img/posts/2021-01-20-agile-vs-waterfall-cual-es-la-mejor-metodologia-para-el-desarollo.png 
+modified_time: '2021-01-20T08:00:00.000+01:00'
 ---
 
 Los primeros en adoptar el desarrollo **agile** fueron equipos pequeños e independientes que trabajaban en proyectos
