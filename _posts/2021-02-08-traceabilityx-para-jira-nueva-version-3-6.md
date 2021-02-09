@@ -28,7 +28,7 @@ Disponible la nueva versión 3.6 de **[TraceabilityX for Jira](https://marketpla
 
 ## Una matriz de trazabilidad para mostrar todos los enlaces
 
-Elige el formato y visualiza las relaciones de forma rápida y sencilla con el **[TraceabilityX for Jira](https://marketplace.atlassian.com/apps/1211138/traceabilityx-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=traceabilityx)**.
+Elige el formato y visualiza las relaciones de forma rápida y sencilla con **[TraceabilityX for Jira](https://marketplace.atlassian.com/apps/1211138/traceabilityx-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=traceabilityx)**.
 
 <a href="https://marketplace.atlassian.com/apps/1211138/traceabilityx-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=traceabilityx" target="_blank"><img src="/img/posts/2021-02-08-traceabilityx-views.png" alt="Vistas de TraceabilityX for Jira" width="30%"></a>
 
@@ -44,7 +44,7 @@ Para más detalles visita la pagina de [**TraceabilityX for Jira**](https://conf
 
 <div style="border:1px solid #253858; padding:20px 20px;background:#253858; color:#fff; ">
 <h3>¿Estas buscando otras funcionalidades para Jira?</h3> 
-<p style="font-size:1.1em;">Prueba nuestros plugins para el ecosistema de Atlassian, son el resultado de la innovación y mejora continua con la garantía de ser Silver Marketplace Partner</strong>.
+<p style="font-size:1.1em;">Prueba nuestros plugins para el ecosistema de Atlassian, son el resultado de la innovación y mejora continua con la garantía de ser <strong>Silver Marketplace Partner</strong>.
 </p>
 <a href="https://marketplace.atlassian.com/vendors/1210681/excentia?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=traceabilityx" target="_blank"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.6em; font-weight: bold;" >Descubre todos los plugins</span></a>
 <br/>
