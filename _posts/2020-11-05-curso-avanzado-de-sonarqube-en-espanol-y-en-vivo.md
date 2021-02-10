@@ -76,16 +76,16 @@ A Project Managers, DevOps Engineers, QA Managers y QA Engineers que quieran pro
 
 **Horario**: 18:00 - 20:00
 
-**Inscripciones**: [Qalovers Accademy - Curso Avanzado de SonarQube](https://www.qaloversacademy.com/2020/09/sonarqube-fundamentos.html)
+**Inscripciones**: Qalovers Accademy - Curso Avanzado de SonarQube
 
-<a href="https://excentia.hubspotpagebuilder.com/escuela-excentia-cursos-formativos-proximas-convocatorias?utm_source=blog&utm_medium=post&utm_campaign=escuela&utm_content=sonarqube_nuevas_convocatorias"><span class="btn btn-outline-white btn-xl" style="background:#000; border:none" >inscripciones cerradas </span></a>
+<a href="/formacion#convocatorias-eventos"><span class="btn btn-outline-white btn-xl" style="background:#000; border:none" >Inscripciones cerradas </span></a>
 
 <br/>
 <div style="border:1px solid #253858; background:#253858; padding:20px 20px; color:#fff">
 <h3>Próximas convocatorias </h3> 
-<p style="font-size:1.1em;">Apuntate a la lista de espera y te avisaremos cuando salgan las nuevas fechas.
+<p style="font-size:1.1em;">Abierto el plazo de inscripción a las próximas  convocatoria (plazas limitadas).
 </p>
-<a href="https://excentia.hubspotpagebuilder.com/escuela-excentia-cursos-formativos-proximas-convocatorias?utm_source=blog&utm_medium=post&utm_campaign=escuela&utm_content=sonarqube_nuevas_convocatorias"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none;font-weight:bold; font-size:0.8em" >Me apunto ></span></a>
+<a href="/formacion#convocatorias-eventos"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none;font-weight:bold; font-size:0.8em" >Me apunto</span></a>
 <br/>
 <br/>
 </div>
