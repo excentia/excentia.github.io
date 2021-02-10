@@ -55,7 +55,7 @@ Para más detalles visita la pagina de [**TraceabilityX for Jira**](https://conf
 <br/>
 <hr>
 <br/>
-
+<!--Atlassian Contact Form-->
 <div id="contact-form-hubspot">
 	<h1>¿Necesitas soporte para tus productos de Atlassian?</h1>
 	<p>Si necesitas un desarrollo personalizado, asesoramiento con componentes de terceros, migración de datos, unificación de instancias, o otra gestión contactanos sin compromiso y te responderemos en menos de 24 horas.</p>
@@ -64,7 +64,7 @@ Para más detalles visita la pagina de [**TraceabilityX for Jira**](https://conf
 <script>
   hbspt.forms.create({
 	portalId: "7892756",
-	formId: "88c36f66-edb7-403c-8200-d4518c6329cc"
+	formId: "50910627-e80f-4d85-8cb6-9e22405d7051"
 });
 </script>
 </div>
