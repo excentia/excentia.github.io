@@ -93,7 +93,7 @@ Contacta con nosotros y te guiáremos hacia la mejor implementación de la inspe
 <script>
   hbspt.forms.create({
 	portalId: "7892756",
-	formId: "88c36f66-edb7-403c-8200-d4518c6329cc"
+	formId: "04c1f007-ebcf-4b24-92fe-bf87af18f736"
 });
 </script>
 </div>
