@@ -1,0 +1,29 @@
+<section id="newsletter" class="bg-primary text-center" style="padding: 50px 0">
+  <div class="container">
+    <div class="row">
+      <div class="block">
+        <div class="col-md-6 text-left">
+          <h3>Receive the latest news about our products and services directly to your inbox</h3>
+        </div>
+        <div class="col-md-6 text-left" style="padding-top: 20px">
+          <form action="/newsletter-thank-you-page" method="get" name="newsletter-signup-form" id="newsletter-signup-form" novalidate>
+
+            <div class="row control-group">
+              <div class="form-group col-xs-8 floating-label-form-group controls" style="padding-right:0px;">
+                <input type="email" name="customerEmail" class="form-control" placeholder="Email *" id="email" required data-validation-required-message="The email must be valid">
+                <div id="success"></div>
+              </div>
+              <div class="form-group col-xs-4 floating-label-form-group" style="padding-left:0px;">
+                <div class="block">
+                  <button type="submit" style="border-radius:4px; color: white;" class="btn btn-warning">Send</button>
+                </div>
+              </div>
+            </div>
+            <div class="form-group col-xs-12 floating-label-form-group controls">
+              <p style="font-size: 12px">* By subscribing you accept our <a target="_blank" href="/privacy"> privacy policy</a>.</p>
+            </div>
+          </form>
+        </div>
+      </div>
+  </div>
+</section>
