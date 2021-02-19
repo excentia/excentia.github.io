@@ -6,30 +6,59 @@
               data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i>
       </button>
-      <a class="navbar-brand page-scroll" href="#page-top"><img width="100px" src="/img/header-logo.png"></a>
+      <a class="navbar-brand page-scroll" href="/"><img width="125px" src="/img/header-logo.png"></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li>
-          <a href="/en/nosotros">About Us</a>
+        <li class="nav-item dropdown">
+          <a href="/en/nosotros" class="nav-link dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn"
+             role="button" aria-haspopup="true" aria-expanded="false">About<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a class="page-scroll" href="/nosotros">About</a></li>
+            <li><a class="page-scroll" href="/eventos">Events</a></li>
+            <li><a class="page-scroll" href="/empleo">Join Us</a></li>
+          </ul>
         </li>
-        <li>
-          <a href="/en/servicios">Services</a>
+        <li class="nav-item dropdown">
+          <a href="/en/servicios" class="nav-link dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn"
+             role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a class="page-scroll" href="/servicios">What do we do</a></li>
+            <li><a class="page-scroll" href="/calidad-de-software">Software Quality</a></li>
+            <li><a class="page-scroll" href="/calidad-de-procesos">Process Quality</a></li>
+            <li><a class="page-scroll" href="/formacion">Training and Courses</a></li>
+          </ul>
         </li>
-        <li>
-          <a href="/en/atlassian">Atlassian</a>
+        <li class="nav-item dropdown">
+          <a href="/en/atlassian" class="nav-link dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn"
+             role="button" aria-haspopup="true" aria-expanded="false">Atlassian<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a class="page-scroll" href="/atlassian">Gold Solution Partner</a></li>
+            <li><a class="page-scroll" href="/atlassian#servicios-atlassian">Services</a></li>
+            <li><a class="page-scroll" href="/soporte-atlassian">Atlassian Support</a></li>
+            <li><a class="page-scroll" href="https://www.excentia.es/servicios-cloud-atlassian">Migration to Cloud</a></li>
+            <li><a class="page-scroll" href="/atlassian-data-center">Data Center </a></li>
+            <li><a class="page-scroll" href="/atlassian#atlassian-marketplace">Atlassian Apps</a></li>
+          </ul>
         </li>
-        <li>
-          <a href="/en/sonarsource">SonarSource</a>
+        <li class="nav-item dropdown">
+          <a href="/en/sonarsource" class="nav-link dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn"
+             role="button" aria-haspopup="true" aria-expanded="false">SonarSource<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a class="page-scroll" href="/sonarsource">SonarSource Partner</a></li>
+            <li><a class="page-scroll" href="/sonarsource#servicios-sonarsource">Services</a></li>
+            <li><a class="page-scroll" href="/sonarsource#ediciones-sonarsource">Developer Plans</a></li>
+            <li><a class="page-scroll" href="/sonarsource#sonarqube-plugins">SonarQube Plugins</a></li>
+          </ul>
         </li>
         <li>
           <a href="/en/blog">Blog</a>
         </li>
-        <li class="btn" style="text-align:left">
-          <div>
-            <a class="btn btn-warning" style="font-size: 11px; letter-spacing: 1px;line-height:20px" href="/en/contacto">Contact us</a>
+        <li>
+          <div style="padding-top: 7px">
+            <a class="btn btn-warning" style="font-size: 11px; letter-spacing: 1px;line-height:20px" href="contacto">Contact Us</a>
           </div>
         </li>
         <li>
