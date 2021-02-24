@@ -1,42 +1,242 @@
 ---
-layout: product
-title: SonarQube Connector for Confluence
-logo: /img/atlassian-addons/sonarqube-connector-confluence.png
-headline: Integra SonarQube y Confluence<br>¡Tus métricas de calidad de código a un simple vistazo!<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/9NbM39GFxQ4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-buylink: https://www.atlassian.com/purchase/addon/es.excentia.confluence.plugins.confluence-sonarqube-connector
-trylink: https://marketplace.atlassian.com/plugins/es.excentia.confluence.plugins.confluence-sonarqube-connector/server/overview
-
-feature-title-1: Métricas fácilmente accesibles
-feature-description-1: Consulta tu deuda técnica, bugs, vulnerabilidades, code smells y mucho más, con la macro de Confluence que hemos diseñado
-feature-screenshot-1: /img/atlassian-addons/sonarqube-connector-confluence-feature-1.png
-
-feature-title-2: Sé ágil mediante la integración de herramientas
-feature-description-2: Todos los miembros de tu equipo podrán consultar todos los datos importantes de la calidad de tu código sin abandonar Confluence
-feature-screenshot-2: /img/atlassian-addons/sonarqube-connector-confluence-feature-2.png
-
-feature-title-3: Decide basándote en el umbral de calidad
-feature-description-3: Revisa fácilmente el estado del umbral de calidad de todos tus proyectos sin salir de Confluence
-feature-screenshot-3: /img/atlassian-addons/sonarqube-connector-confluence-feature-3.png
-
-detail-title: Integración entre calidad y documentación
-detail-body: 
-- SonarQube Connector for Confluence integra tus proyectos de SonarQube en tus páginas de Confluence.
-- Diseñado con el agilismo y la colaboración como objetivo, esta integración permite tener acceso a los datos más relevantes de la calidad del código en el mismo espacio donde reside toda la documentación del mismo, agilizando el proceso de consulta previo a la toma de decisiones.
-- Un project manager podrá decidir si pasar a producción un producto software sin ni siquiera tener que acceder al panel de control de SonarQube. Desde Confluence tendrá acceso claro, simple y directo a todas las métricas y al umbral de calidad. Además, gracias a la integración entre herramientas Atlassian, le será mucho más fácil y rápido comunicar su decisión al resto del equipo.
-- <br><b>¿Qué métricas podrás visualizar?</b><br>
-- <div class="container"><div class="row"><div class="container-fluid"><div class="row"><div class="col-md-4"><div class="service-item"><img class="center" src="img/pictos/bugs.png"><h3 class="text-align-center"><em>Fiabilidad</em></h3><p class="product-usage-description">Incluye las evidencias de tipo bug. Un bug representa algo que está mal en el código. Si el software aún no se ha roto, se romperá, y probablemente en el peor momento. Todos los bugs tienen que solucionarse cuanto antes.</p></div></div><div class="col-md-4"><div class="service-item"><img class="center" src="img/pictos/vulnerabilities.png"><h3 class="text-align-center"><em>Seguridad</em></h3><p class="product-usage-description">Incluye las evidencias de tipo vulnerabilidad, que representan una potencial puerta trasera para atacantes. Aquí se van a encontrar todas las evidencias que tengan una mínima sospecha de afectar a la seguridad. Es responsabilidad del equipo eliminar los falsos positivos y centrarse en resolver los casos reales.</p></div></div><div class="col-md-4"><div class="service-item"><img class="center" src="img/pictos/code-smells.png"><h3 class="text-align-center"><em>Mantenibilidad</em></h3><p class="product-usage-description">Incluye las evidencias de tipo code smells, que al final son todas esas malas prácticas que a la larga van a provocar que cada vez sea más difícil hacer cambios en el código. En el peor de los casos, todos estos code smells van a hacer que los desarrolladores se confundan, lo que terminará introduciendo nuevos bugs.</p></div></div></div></div></div></div>
-- Además podrás acceder fácilmente a
-- <ul>
-- <li>Densidad de código duplicado</li>
-- <li>Líneas de código</li>
-- <li>Deuda técnica</li>
-- <li>Ratio de deuda técnica</li>
-- <li>Cobertura de tests unitarios</li>
-- <li>Densidad de comentarios</li>
-- </ul>
-
-installation: confluence-installation
+layout: front
+title: SonarQube Connector for Confluence y SonarCloud Connector for Confluence
+description: Integra SonarQube y Confluence o SonarCloud y Confluence, tus métricas de calidad de código a un simple vistazo
 ---
 
+<section id="producto-cabecera" class="bg-primary text-center">
+  <div class="container">
+    <div class="row title">
+      <h2><img src="/img/atlassian-addons/sonarqube-connector-confluence.png" height="60px" alt="logo"> SonarCloud / SonarQube Connector for Confluence</h2>
+    </div>
+    <div class="row">
+ <div class="col-md-6">
+        <img width="100%" style="border:1px solid #333"
+             src="/img/atlassian-addons/atlassian-app-sonarqube-connector-for-confluence.png" alt="Integra SonarCloud y SonarQube con Confluence">
+      </div>
 
 
+      <div class="col-md-6 text-left">
+        <p class="header-text">
+          <strong>Integra tus proyectos de SonarCloud / SonarQube en tus páginas de Confluence.</strong>
+        </p>
+        <p class="header-text">
+          Tus métricas de calidad de código fácilmente accesibles a todos los miembros de tu equipo para que puedan consultar todos los datos importantes de la calidad de tu código sin abandonar Confluence.
+        </p>
+
+        <div class="text-left">
+          <a class="btn btn-warning btn-xl" href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank">Prueba por 30 días </a>
+          &nbsp;
+          <a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank"><img src="img/atlassian-addons/atlassian-app-disponibile-en-el-marketplace.png" alt="App para Confluence Disponible en el Atlassian Marketplace" height="55px"></a>
+        </div>      
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section id="caracteristicas-producto" class="bg-primary text-center" style="background-color: #37394f;padding: 50px 0;padding-bottom: 150px;">
+  <div class="container">
+    <div class="row title" style="color:white">
+      <h2>Funcionalidades</h2>
+      <p class="header-text" >SonarCloud / SonarQube Connector for Confluence</p>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="tarjeta-producto" style="padding-top:50px">
+          <div class="informacion-producto">
+          	<i class="fa fa-plug" aria-hidden="true" style="font-size:80px"></i>
+            <h3><strong>SonarQube Connector Macro</strong></h3>
+            <p class="text-left">
+              Permite visualizar la información general de 1:N proyectos (tamaño, bugs, vulnerabilidades, code smells, cobertura de código y código duplicado).
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="tarjeta-producto" style="padding-top:50px">
+          <div class="informacion-producto" >
+          	<i class="fa fa-list-alt" aria-hidden="true" style="font-size: 80px"></i>
+            <h3><strong>SonarQube Connector Badge</strong></h3>
+            <p class=" text-left">
+              Permite añadir la información de una métrica específica para visualizarla.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="tarjeta-producto" style="padding-top:50px">
+          <div class="informacion-producto">
+          	<i class="fa fa-file-text-o" aria-hidden="true" style="font-size: 80px"></i>
+            <h3><strong>SonarQube Issues Breakdown</strong></h3>
+            <p class="text-left">
+              Visualiza una lista de issues críticas y bloqueantes de un proyecto SonarCloud / SonarQube (bugs, vulnerabilidades y code smells).
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="tarjeta-producto" style="padding-top:50px">
+          <div class="informacion-producto">
+          	<i class="fa fa-user" aria-hidden="true" style="font-size:80px"></i>
+            <h3><strong>SonarQube Issues by Authors</strong></h3>
+            <p class="text-left">
+              Muestra las issues de SonarCloud / SonarQube de uno o varios autores.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="tarjeta-producto" style="padding-top:50px">
+          <div class="informacion-producto">
+          	<i class="fa fa-list" aria-hidden="true" style="font-size: 80px"></i>
+            <h3><strong>Todas las<br/>Funcionalidades </strong></h3>
+            <p class="text-left">
+              Para descubrir todas las funcionalidades en detalle visita la pagina de <a href="https://confluence.excentia.es/display/SQCONF/Home?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank">documentación</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</section>
+
+<section id="producto-detalles" class="text-center" style="padding: 50px 0; padding-bottom:150px">
+  <div class="container">
+    <div class="row title">
+      <h2>Integración entre calidad y documentación</h2>
+      <p class="header-text" style="text-transform: uppercase;"><strong>Agiliza el proceso de consulta para tus decisiones más importantes</strong></p>
+    </div>
+    <div class="row">
+        <div class="col-md-7 text-left">
+          <p style="font-weight: bold">Atlassian y SonarSource juntos. <br/>
+          	<br/>
+          El SonarCloud / SonarQube Connector para Confluence permite tener acceso a los datos más relevantes de la calidad del código en el mismo espacio donde reside toda la documentación.</p>
+          <p>Esta integración, gracias a macros dinámicas, permite traer la información de SonarQube / SonarCloud a Confluence, agilizando el proceso de consulta previo a la toma de decisiones.
+          </p>
+          <p>Los Gerentes de Proyecto podrán asegurarse si la calidad del código es suficientemente buena directamente desde Confluence.</p>
+          <h4 style="text-transform: uppercase;"><strong>¿Qué métricas podrás visualizar?</strong></h4>
+          <p><strong>Fiabilidad</strong> 
+          	<p>Incluye las evidencias de tipo bug. Un bug representa algo que está mal en el código. Si el software aún no se ha roto, se romperá, y probablemente en el peor momento. Todos los bugs tienen que solucionarse cuanto antes.</p>
+          </p>
+          <p><strong>Seguridad</strong> 
+          	<p>Incluye las evidencias de tipo vulnerabilidad, que representan una potencial puerta trasera para atacantes. Aquí se van a encontrar todas las evidencias que tengan una mínima sospecha de afectar a la seguridad. Es responsabilidad del equipo eliminar los falsos positivos y centrarse en resolver los casos reales.</p>
+          </p>
+          <p><strong>Mantenibilidad</strong> 
+          	<p>Incluye las evidencias de tipo code smells, que al final son todas esas malas prácticas que a la larga van a provocar que cada vez sea más difícil hacer cambios en el código. En el peor de los casos, todos estos code smells van a hacer que los desarrolladores se confundan, lo que terminará introduciendo nuevos bugs.</p>
+          </p>
+          <p>Además podrás acceder fácilmente a:
+          	<ul>
+          	<li>Densidad de código duplicado</li>
+          	<li>Líneas de código</li>
+          	<li>Deuda técnica</li>
+          	<li>Ratio de deuda técnica</li>
+          	<li>Cobertura de tests unitarios</li>
+          	<li>Densidad de comentarios</li>
+          </ul>
+      </p>
+          <div class="text-left">
+          	<a class="btn btn-warning btn-xl" style="background: #fff; color:#FF8200;" href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank">Prueba Gratis</a> &nbsp;&nbsp;
+          	<a class="btn btn-warning btn-xl" href="https://www.atlassian.com/purchase/addon/es.excentia.confluence.plugins.confluence-sonarqube-connector?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        </div>  
+          <div style="padding-top:20px">        
+          <h4 style="text-transform: uppercase;"><strong>Compatibilidad</strong></h4>
+          <p>Actualmente es compatible con Confluence Cloud, Confluence Server 6.0.1 - 7.11.1 and Confluence Data Center 6.0.1 - 7.11.1.
+          </p>
+          <p><a href="https://confluence.excentia.es/display/SQCONF/Home?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank" style="text-decoration: underline; color:#0052CC; font-size:0.8em">Documentación ></a>
+          	<br/>
+          	<a href="https://confluence.excentia.es/display/SQCONF/Installation?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank" style="text-decoration: underline; color:#0052CC; font-size:0.8em">Instalación >
+          </a>
+      </p>  
+  </div>
+        </div>        
+        <div class="col-md-5">
+          <img width="100%" 
+               src="/img/atlassian-addons/atlassian-app-sonarcloud-sonarqube-connector-para-confluence.png" alt="Detalles Atlassian App Marketplace - SonarCloud / SonarQube Connector for Confluence">
+        </div>        
+    </div>
+  </div>
+</section>
+
+<section id="banner" class="atlassian-background text-center" style="background-color: #37394f; padding:30px 0">
+  <div class="container">
+    <div class="row title">
+      <h2>Documentación Completa</h2>
+      <p>Descubre todos los detalles del excentia Admin Tools para Jira.</p>
+      <a class="btn btn-primary btn-xl atlassian-background" href="https://confluence.excentia.es/display/SQCONF/Home?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank"><strong>Ir a la Documentación</strong></a>
+    </div>
+  </div>
+</section>
+
+<section id="lista-pluging" class="bg-primary text-center" style="padding: 50px 0; padding-bottom:150px">
+  <div class="container">
+    <div class="row title">
+      <h2>Atlassian Apps</h2>
+      <p class="header-text">Nuestras apps son el resultado de la innovación y mejora continua<br/>
+      	con la garantía de estar certificados como <strong>Silver Marketplace Partner</strong>.</p>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="tarjeta-con-imagen">
+          <div class="informacion-producto">
+            <img width="100%" src="/img/atlassian-addons/atlassian-app-sonarqube-connector-jira-thumb.png" alt="SonarQube Connector for Jira" style="border:1px solid #333">
+            <h3>SonarQube Connector para Jira</h3>
+            <p class="product-usage-description text-left" style="font-size:1em">
+              Integra SonarQube o SonarCloud con Jira. Toda la información de la calidad del código a tu alcance.
+            </p>
+          </div>
+          <div class="enlace-tarjeta">
+              <a href="/sonarqube-connector-jira" class="btn btn-warning btn-xl sonarsource-background" style="border-radius: 4px;">DESCUBRE</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="tarjeta-con-imagen">
+          <div class="informacion-producto">
+            <img width="100%" src="/img/atlassian-addons/atlassian-app-issue-picker-custom-field-type-jira-thumb.png" alt="Issue Picker Custom Fields Type for Jira" style="border:1px solid #333;">
+            <h3>Issue Picker Custom Field Type para Jira</h3>
+            <p class="product-usage-description text-left" style="font-size:1em">Un nuevo tipo de campo personalizado para poder crear campos de búsqueda y vincular issues.
+            </p>
+          </div>
+          <div class="enlace-tarjeta">
+            <a href="/traceabilityx" class="btn btn-warning btn-xl sonarsource-background" style="border-radius: 4px;">DESCUBRE</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="tarjeta-con-imagen">
+          <div class="informacion-producto">
+            <img width="100%" src="/img/atlassian-addons/atlassian-app-issue-picker-custom-field-type-jira-thumb.png" alt="excentia Admin Tools for Jira" style="border:1px solid #333;">
+            <h3>excentia Admin Tools para Jira</h3>
+            <p class="product-usage-description text-left" style="font-size:1em"> Herramientas para administradores de Jira. Agiliza el trabajo y reduce los tiempo de las tareas más comunes.
+            </p>
+          </div>
+          <div class="enlace-tarjeta">
+            <div class="row">
+              <a href="/issue-picker" class="btn btn-warning btn-xl sonarsource-background" style="border-radius: 4px;">DESCUBRE</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section id="banner" class="atlassian-background text-center" style="padding:30px 0">
+  <div class="container">
+    <div class="row title">
+      <h2>¿Quieres más información<br/>o te gustaría ver una demo?</h2>
+      <br/>
+      <br/>
+      <a class="btn btn-warning btn-xl" href="/contacto"><strong>SOLICITAR CONTACTO</strong></a>
+    </div>
+  </div>
+</section>
