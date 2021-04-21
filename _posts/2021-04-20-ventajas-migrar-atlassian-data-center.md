@@ -2,7 +2,7 @@
 layout: post
 title: 'Ventajas de migrar a Data Center'
 description: 4 motivos por los que es hora de probar Atlassian Data Center
-date: '2021-04-20T08:00:00.000+01:00'
+date: '2021-04-26T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - atlassian
