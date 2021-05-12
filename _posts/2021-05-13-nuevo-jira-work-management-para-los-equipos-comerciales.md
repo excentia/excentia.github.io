@@ -104,11 +104,11 @@ El trabajo en equipo es más efectivo cuando los compañeros comprenden cómo el
 
 Los líderes y los equipos pueden crear paneles personalizados para la generación de informes entre empresas sobre el progreso, los bloqueos y las cargas de trabajo. Luego, pueden consolidar los flujos de trabajo entre departamentos y equipos en hojas de ruta avanzadas en Jira Software Premium y Jira Align. No importa el nivel, las conexiones del equipo se destacan y se comprenden.
 
-## Eres clientes de Jira?
+## Eres cliente de Jira?
 
 Si aún no has utilizado proyectos comerciales te informamos que pueden acceder a **Jira Work Management de forma gratuita.**
 
-¿Cómo? Simplemente contactando con su administrador de Jira para crear nuevos proyectos de Jira Work Management. 
+¿Cómo? Simplemente contactando con tu Jira admin para que cree nuevos proyectos de Jira Work Management para tu equipo de negocios.
 <br/>
 
 <div style="border:1px solid #253858; padding:20px 20px;background:#253858; color:#fff; ">
