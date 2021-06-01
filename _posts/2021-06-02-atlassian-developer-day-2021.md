@@ -2,14 +2,14 @@
 layout: post
 title: 'Atlassian Developer Day'
 description: El desarrollo de aplicaciones en el Cloud con Forge
-date: '2021-06-02T08:00:00.000+01:00'
+date: '2021-06-03T08:00:00.000+01:00'
 author:  Carlos Sánchez Prieto
 categories: 
 - eventos
 - atlassian
 
 cover: /img/posts/2021-06-02-atlassian-developer-day-2021-thumb.png
-modified_time: '2021-06-02T08:00:00.000+01:00'
+modified_time: '2021-06-03T08:00:00.000+01:00'
 ---
 
 El día 25 de Mayo de 2021 pude asistir de manera virtual al evento organizado por **Atlassian**, llamado **Developer's day**.
