@@ -7,6 +7,7 @@ author:  Anna Torres
 categories: 
 - productos
 - atlassian
+- webinar
 
 cover: /img/posts/2021-07-12-mejora-la-productividad-confluence-cloud-thumb.png
 modified_time: '2021-07-12T08:00:00.000+01:00'
