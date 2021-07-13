@@ -2,14 +2,14 @@
 layout: post
 title: 'Atlassian Cloud Enterprise'
 description: Diseñada para responder a las necesidades de los clientes empresariales
-date: '2021-07-13T08:00:00.000+01:00'
+date: '2021-07-26T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - productos
 - atlassian
 
 cover: /img/posts/2021-07-26-atlassian-cloud-enterprise-para-empresas-thumb.png
-modified_time: '2021-07-19T08:00:00.000+01:00'
+modified_time: '2021-07-26T08:00:00.000+01:00'
 ---
 
 ## Acelera la innovación empresarial
