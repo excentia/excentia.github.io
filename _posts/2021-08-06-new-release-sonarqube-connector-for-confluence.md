@@ -14,7 +14,7 @@ modified_time: '2021-08-10T08:00:00.000+01:00'
 ---
 
 
-Ya está disponible la nueva versión del <a href="http://localhost:4000/sonarqube-connector-confluence" target="_blank">SonarCloud / SonarQube Connector for Confluence 1.11</a>.
+Ya está disponible la nueva versión del <a href="/sonarqube-connector-confluence" target="_blank">SonarCloud / SonarQube Connector for Confluence 1.11</a>.
 
 
 ### Nueva funcionalidad 
