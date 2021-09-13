@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Convocatoria Curso SonarQube Fundamentos'
-description: Abierta las inscripciones para el curso de septiembre 2021
+description: Abierta la inscripción para el curso de septiembre 2021
 date: '2021-09-09T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
