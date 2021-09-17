@@ -29,7 +29,7 @@ Si quieres mejorar tu carrera profesional, ¡este curso es para ti!
 **Curso SonarQube Fundamentos**
 
 📅 27, 28, 29 Septiembre 2021  
-🕘 9.00 - 11.00 am (GMT+2)  
+🕘 16.00 - 18.00 am (CEST, zona horaria Europa Central)  
 👉 Apúntate > [https://www.excentia.es/curso-sonarqube-fundamentos](https://www.excentia.es/curso-sonarqube-fundamentos#curso-formulario)
 
 Si ya conoces SonarQube y estás buscando el curso avanzado, ¡ten en cuenta que también tenemos abiertas las inscripciones para el [Curso SonarQube Avanzado](https://www.excentia.es/curso-sonarqube-avanzado#curso-formulario) de octubre de 2021!
