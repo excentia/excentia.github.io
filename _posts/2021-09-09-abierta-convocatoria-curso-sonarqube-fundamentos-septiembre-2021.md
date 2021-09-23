@@ -26,18 +26,20 @@ Utilizando una herramienta para la inspección continua del código, como [Sonar
 
 Si quieres mejorar tu carrera profesional, ¡este curso es para ti!
 
-**Curso SonarQube Fundamentos**
+**Curso SonarQube Fundamentos** (última edición de 2021)
 
 📅 27, 28, 29 Septiembre 2021  
-🕘 16.00 - 18.00 am (CEST, zona horaria Europa Central)  
+🕘 16.00 - 18.00 pm (CEST, zona horaria Europa Central)  
+
 👉 Apúntate > [https://www.excentia.es/curso-sonarqube-fundamentos](https://www.excentia.es/curso-sonarqube-fundamentos#curso-formulario)
 
-Si ya conoces SonarQube y estás buscando el curso avanzado, ¡ten en cuenta que también tenemos abiertas las inscripciones para el [Curso SonarQube Avanzado](https://www.excentia.es/curso-sonarqube-avanzado#curso-formulario) de octubre de 2021!
+Si ya conoces SonarQube y estás buscando el curso avanzado, ¡ten en cuenta que también tenemos abiertas las inscripciones para el [Curso SonarQube Avanzado](https://www.excentia.es/curso-sonarqube-avanzado#curso-formulario) de octubre.
 
-**Curso SonarQube Avanzado**
+**Curso SonarQube Avanzado** (última edición de 2021)
 
 📅 25, 26, 27, 28 Octubre 2021  
-🕘 9.00 - 11.00 am (GMT+2)  
+🕘 16.00 - 18.00 pm (CEST, zona horaria Europa Central)
+
 👉 Apúntate > [https://www.excentia.es/curso-sonarqube-avanzado](https://www.excentia.es/curso-sonarqube-avanzado#curso-formulario)
 
 
