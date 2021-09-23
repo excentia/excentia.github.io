@@ -48,7 +48,7 @@ Si ya conoces SonarQube y estás buscando el curso avanzado, ¡ten en cuenta que
 Si estás interesado en tener más información sobre nuestro curso SonarQube o necesitas un presupuesto para tu equipo, <a href="#contact-form">contáctanos</a> sin compromiso.
 
 
-<br/>
+
 <hr>
 <br/>
 <!--Calidad de Software Contact Form-->
