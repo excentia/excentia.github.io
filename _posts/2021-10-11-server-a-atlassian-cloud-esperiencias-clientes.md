@@ -8,7 +8,7 @@ categories:
 - productos
 - atlassian
 
-cover: /img/posts/2021-10-11-server-a-cloud-esperiencias-clientes-thumb.png
+cover: /img/posts/2021-10-11-server-a-atlassian-cloud-esperiencias-clientes-thumb.png
 modified_time: '2021-09-29T08:00:00.000+01:00'
 ---
 
@@ -24,7 +24,7 @@ Atlassian ha preguntado a 320 clientes que han migrado recientemente:
 
 Los clientes han clasificado lo siguiente como mejor o igual en Cloud en comparación con Server y Data Center:
 
-<img src="img/posts/2021-10-11-server-a-cloud-comparacion-atlassian-cloud-server.png" width="100%" alt="Atlassian Cloud Vs Atlassian Server">
+<img src="img/posts/2021-10-11-server-a-atlassian-cloud-comparacion-atlassian-cloud-server.png" width="100%" alt="Atlassian Cloud Vs Atlassian Server">
 <br/>
 
 
@@ -36,7 +36,7 @@ Cada equipo es diferente, por lo que también lo es cada migración a Cloud. Per
 
 <cite>– Marcus Hecht, profesional de informática, ClearlyRated</cite>
 
-<img src="img/posts/2021-10-11-server-a-cloud-motivacion-migracion.png" width="70%" alt="Motivacion migración Atlassian Cloud">
+<img src="img/posts/2021-10-11-server-a-atlassian-cloud-motivacion-migracion.png" width="70%" alt="Motivacion migración Atlassian Cloud">
 
 <br/>
 
@@ -48,7 +48,7 @@ Hay muchos aspectos atractivos de Cloud, pero estos son algunas de las principal
 
 <cite>– Director de operaciones, empresa mediana de servicios al consumidor</cite>
 
-<img src="img/posts/2021-10-11-server-a-cloud-ventajas-atlassian-cloud.png" width="50%" alt="Ventajas Atlassian Cloud">
+<img src="img/posts/2021-10-11-server-a-atlassian-cloud-ventajas-atlassian-cloud.png" width="50%" alt="Ventajas Atlassian Cloud">
 
 <br/>
 
@@ -57,7 +57,7 @@ Hay muchos aspectos atractivos de Cloud, pero estos son algunas de las principal
 
 El 89 % de las organizaciones afirman que tardaron menos de 6 meses en empezar a cosechar las ventajas de Cloud.
 
-<img src="img/posts/2021-10-11-server-a-cloud-tiempo-ventajas-atlassian-cloud.png" width="100%" alt="Ventajas Atlassian Cloud">
+<img src="img/posts/2021-10-11-server-a-atlassian-cloud-tiempo-ventajas-atlassian-cloud.png" width="100%" alt="Ventajas Atlassian Cloud">
 
 <br/>
 
@@ -67,7 +67,7 @@ Contra todo pronóstico, la migración fue:
 - más fácil y más rápido de lo esperado 
 - las integraciones y aplicaciones de Cloud resultaron mejores de lo esperado
 
-<img src="img/posts/2021-10-11-server-a-cloud-migracion-facil-rapida.png" width="100%" alt="Migracion Atlassian Cloud">
+<img src="img/posts/2021-10-11-server-a-atlassian-cloud-migracion-facil-rapida.png" width="100%" alt="Migracion Atlassian Cloud">
 
 ## ¿De qué manera la migración a Cloud ahorra tiempo y dinero a los equipos?
 
