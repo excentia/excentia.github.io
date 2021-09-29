@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: /img/posts/2021-09-27-nueva-version-sonarqube-8-9-lts.png
+cover: /img/posts/2021-09-22-nueva-version-sonarqube-8-9-lts.png
 modified_time: '2021-09-22T08:00:00.000+01:00'
 ---
 
