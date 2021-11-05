@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cómo migrar con exito a Atlassian Cloud'
+title: 'Cómo migrar con éxito a Atlassian Cloud'
 description: Los puntos clave a considerar para migrar exitosamente a la Atlassian Cloud
 date: '2021-11-18T08:00:00.000+01:00'
 author:  Anna Torres
@@ -20,7 +20,7 @@ Gartner predice que antes del 2025 el **80% de todas las empresas habrán migrad
 
 La planificación en este proceso de migración puede resultar abrumadora. Afortunadamente, para evitar el estrés solo tienes que tenere bien claros los puntos clave para migrar exitosamente a Atlassian Cloud.
 
-## Puntos clave para migrar con exito a Atlassian Cloud
+## Puntos clave para migrar con éxito a Atlassian Cloud
 
 ### Licencias
 
