@@ -15,7 +15,7 @@ modified_time: '2021-11-08T08:00:00.000+01:00'
 ---
 Quieres aprender a utilizar **Jira** y **Confluence**? ¿Estás buscando un curso en español de Jira y Confluence para usuarios? 
 
-¡Entonces usted está en el lugar correcto! Hemos abierto la convocatoria del **Curso Jira y Confluence** en **español** y <span style="text-decoration:underline;font-weight:bold">en directo</span> para todos los usuarios (en cualquier rol dentro de la organización). 
+¡Entonces estás en el lugar correcto! Hemos abierto la convocatoria del **Curso Jira y Confluence** en **español** y <span style="text-decoration:underline;font-weight:bold">en directo</span> para todos los usuarios (en cualquier rol dentro de la organización). 
 
 A diferencia de los otros cursos, aquí tendrás la posibilidad de <span style="text-decoration:underline;">interactuar con el profesor</span> en tiempo real y facilitar tus consultas. 
 
