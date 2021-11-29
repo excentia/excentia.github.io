@@ -7,7 +7,7 @@ redirect_from:
 
 logo: /img/sonarqube-plugins/3d-code-metrics.png
 headline: La visualización es la clave. Tú código fuente en 3D en forma de ciudad
-buylink: "#purchase"
+buylink:
 trylink: "#purchase"
 
 feature-title-1: Visualiza el código fuente
@@ -32,82 +32,54 @@ installation: sonarqube-installation
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="section-heading">¿A qué esperas?</h2>
-                <hr class="light">
             </div>
+          <div class="col-md-12 text-center">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+              <h4><span>
+                        <a class="btn btn-outline btn-xl fancybox" href="#inline-download">Descargar</a>
+                    </span></h4>
+              <div id="inline-download" style="display:none" class="download-form">
+                <form id="form" name="form">
+                  <h1>Formulario de descarga</h1>
+                  <p>Completa los datos para realizar la descarga del producto.<br><br>
+                  </p>
+
+                  <label>Nombre*
+                    <span class="small">Tu nombre</span>
+                  </label>
+                  <input type="text" name="name" id="name">
+
+                  <label>Apellidos*
+                    <span class="small">Tus apellidos</span>
+                  </label>
+                  <input type="text" name="surname" id="surname">
+
+                  <label>Correo*
+                    <span class="small">Introduce una dirección válida</span>
+                  </label>
+                  <input type="text" name="email" id="email">
+
+                  <label>Organización*
+                    <span class="small">Organización válida</span>
+                  </label>
+                  <input type="text" name="company" id="company">
+
+                  <div class="text-center">
+                    <button class="btn btn-outline btn-xl" id="send">Descargar</button>
+                  </div>
+                  <div class="spacer"></div>
+
+                </form>
+              </div>
+            </div>
+            <div class="col-md-4">
+            </div>
+          </div>
         </div>
     </div>
 </section>
-
-<div class="container" style="background-image: url(/img/product-background-header.png)">
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <div class="col-md-4">
-                <h3>Pruébalo gratis</h3>
-                <p style="font-family: Lato; font-size: xx-large">14 días</p>
-                    <h4><span>
-                        <a class="btn btn-outline btn-xl fancybox" href="#inline-download">Descargar</a>
-                    </span></h4>
-                <hr>
-                <p>Tras la descarga recibirás en tu correo electrónico una licencia de evaluación para dos semanas.</p>
-                    
-                <div id="inline-download" style="display:none" class="download-form">
-                  <form id="form" name="form">
-                    <h1>Formulario de descarga</h1>
-                    <p>Completa los datos para realizar la descarga del producto.<br><br>
-                    Inmediatamente después de la descarga recibirás en tu correo electrónico una&nbsp;<strong>licencia de evaluación para dos semanas</strong>&nbsp;que tendrás que introducir en la configuración del plugin.<br></p>
-                        
-                    <label>Nombre*
-                    <span class="small">Tu nombre</span>
-                    </label>
-                    <input type="text" name="name" id="name">
-                        
-                    <label>Apellidos*
-                    <span class="small">Tus apellidos</span>
-                    </label>
-                    <input type="text" name="surname" id="surname">
-  
-                    <label>Correo*
-                    <span class="small">Introduce una dirección válida</span>
-                    </label>
-                    <input type="text" name="email" id="email">
-                                              
-                    <label>Organización*
-                    <span class="small">Organización válida</span>
-                    </label>
-                    <input type="text" name="company" id="company">
-  
-                    <div class="text-center">
-                    <button class="btn btn-outline btn-xl" id="send">Descargar</button>
-                    </div>
-                    <div class="spacer"></div>
-                      
-                  </form>
-                </div>
-            </div>                                  
-            <div class="col-md-4">
-            </div>
-            <div class="col-md-4">
-                <h3>Cómpralo</h2>
-                <p style="font-family: Lato; font-size: xx-large">359 €/año</p>
-                <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="5AJN8S34HVMLN">
-                    <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/blue-pill-paypal-44px.png" name="submit" alt="PayPal">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
-                <hr>
-                <p>El precio es por instancia de SonarQube y por año, incluye actualizaciones y soporte.</p>
-
-                <p>Al comprar el plugin aceptas el acuerdo de&nbsp;<a href="/pdf/excentia-terms-and-conditions.pdf">términos y condiciones</a>. No olvides incluir tu e-mail en el formulario de compra. Enviaremos la licencia a esa dirección.</p>
-
-                <p>Si necesitas más información, por favor, ponte en contacto con nosotros a través de&nbsp;<a href="mailto:support@excentia.es?subject=SonarQube%203D%20Code%20Metrics%20Plugin">support@excentia.es</a></p>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-<div>
 
 <script>
     var product     = 'sonar-city-model-plugin-3.7.1.jar';
