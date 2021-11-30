@@ -2,7 +2,7 @@
 layout: post
 title: 'Cómo planificar la migración a Atlassian Cloud'
 description: Los pasos necesarios para migrar con exito a Atlassian Cloud
-date: '2021-12-05T08:00:00.000+01:00'
+date: '2021-12-07T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
 - atlassian
