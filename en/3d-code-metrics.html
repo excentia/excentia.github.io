@@ -7,7 +7,7 @@ redirect_from:
 
 logo: /img/sonarqube-plugins/3d-code-metrics.png
 headline: Visualization is the key. Your source code as a 3D city
-buylink: "#purchase"
+buylink:
 trylink: "#purchase"
 
 feature-title-1: Visualize your source code
@@ -32,7 +32,55 @@ installation: sonarqube-installation
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="section-heading">What are you waiting for?</h2>
-                <hr class="light">
+                <div class="col-md-12 text-center">
+                <div class="col-md-4">
+                </div>
+                <div class="col-md-4">
+                  <h4><span>
+                        <a class="btn btn-outline btn-xl fancybox" href="#inline-download">Download</a>
+                    </span></h4>
+                  <div id="inline-download" style="display:none" class="download-form">
+                    <form id="form" name="form">
+                      <h3>
+                        Download <span id="plugin-name-evaluation">SonarQube 3D Code Metrics</span>
+                      </h3>
+                      <div class="text-center" id="loading" style="display:none;">
+                        <img src="/img/loadingAnimation.gif" alt="Loading...">
+                      </div>
+
+                      <div id="fields-form">
+                        <p>Complete this form to download the product.</p>
+                        <label>Fist name*
+                          <span class="small">Your name</span>
+                        </label>
+                        <input type="text" name="name" id="name">
+
+                        <label>Surname*
+                          <span class="small">Your surname</span>
+                        </label>
+                        <input type="text" name="surname" id="surname">
+
+                        <label>Email*
+                          <span class="small">A valid email address</span>
+                        </label>
+                        <input type="text" name="email" id="email">
+
+                        <label>Organization*
+                          <span class="small">Your company</span>
+                        </label>
+                        <input type="text" name="company" id="company">
+                      </div>
+                      <div class="text-center">
+                        <button class="btn btn-outline btn-xl" id="send" onclick="sendEvaluationRequest()">Download</button>
+                      </div>
+                      <div class="spacer"></div>
+
+                    </form>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                </div>
+              </div>
             </div>
         </div>
     </div>
@@ -40,78 +88,7 @@ installation: sonarqube-installation
 
 <div class="container" style="background-image: url(/img/product-background-header.png)">
     <div class="row">
-        <div class="col-md-12 text-center">
-            <div class="col-md-4">
-                <h3>Try it free</h3>
-                <p style="font-family: Lato; font-size: xx-large">14 days</p>
-                    <h4><span>
-                        <a class="btn btn-outline btn-xl fancybox" href="#inline-download">Request free trial</a>
-                    </span></h4>
-                <hr>
-                <p>You will receive a two weeks evaluation license by email.</p>
 
-
-                <div id="inline-download" style="display:none" class="download-form">
-                  <form id="form" name="form">
-                    <h3>
-                      Trial for <span id="plugin-name-evaluation">SonarQube 3D Code Metrics</span>
-                    </h3>
-                    <div class="text-center" id="loading" style="display:none;">
-                      <img src="/img/loadingAnimation.gif" alt="Loading...">
-                    </div>
-
-                    <div id="fields-form">
-                      <p>Complete this form to request an evaluation license of the product. You will receive a two weeks evaluation license by email.</p>
-                      <label>Fist name*
-                        <span class="small">Your name</span>
-                      </label>
-                      <input type="text" name="name" id="name">
-
-                      <label>Surname*
-                        <span class="small">Your surname</span>
-                      </label>
-                      <input type="text" name="surname" id="surname">
-
-                      <label>Email*
-                        <span class="small">A valid email address</span>
-                      </label>
-                      <input type="text" name="email" id="email">
-
-                      <label>Organization*
-                        <span class="small">Your company</span>
-                      </label>
-                      <input type="text" name="company" id="company">
-                    </div>
-                    <div class="text-center">
-                      <button class="btn btn-outline btn-xl" id="send" onclick="sendEvaluationRequest()">Request trial</button>
-                    </div>
-                    <div class="spacer"></div>
-
-                  </form>
-                </div>
-            </div>                                  
-            <div class="col-md-4">
-            </div>
-          <div class="col-md-4">
-            <h3>Buy it</h3>
-            <p style="font-family: Lato; font-size: xx-large">359 €/year</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="5AJN8S34HVMLN">
-              <input type="image"
-                     src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/blue-pill-paypal-44px.png"
-                     name="submit" alt="PayPal">
-              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-            </form>
-            <hr>
-            <p>Per instance of SonarQube and per year, including upgrading and support.</p>
-            <p>When you purchase the plugin you agree with <a href="/pdf/excentia-terms-and-conditions.pdf">terms and
-              conditions</a>. Don't forget to include your email. We will send the license to that email.</p>
-
-            <p>Let us know if you need any further information by sending any issue to our <a href="https://jira.excentia.es/servicedesk/customer/portal/12">help center</a>.</p>
-
-          </div>
-        </div>
     </div>
 </div>
 
