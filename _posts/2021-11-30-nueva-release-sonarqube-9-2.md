@@ -14,7 +14,7 @@ modified_time: '2021-11-30T08:00:00.000+01:00'
 ---
 
 
-**Soporte de IaC: analiza CloudFormation, seguridad de Terraform**
+**Soporte de IaC: analiza CloudFormation, seguridad de Terraform** 
 
 En la versión 9.2, SonarQube añade soporte para analizar archivos CloudFormation y Terraform. Con estos dos nuevos lenguajes, SonarQube ayuda a los desarrolladores a proteger no solo su código, sino también sus implementaciones. 
 
