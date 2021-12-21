@@ -32,8 +32,8 @@ La configuración global del conector y por cada proyecto(se pueden seleccionar 
 Además de la nueva Herramienta de Migración en la versión para Cloud se ha mejorado la carga del Issue Breakdown,  separado los Security Hotspot del Issue Breakdown para que estén en una tabla diferente y mejorado el diseño del Issue Breakdown.
 
 <br/>
-<img src="/img/posts/2021-12-22-nueva-version-sonarqube-connector-for-jira-cloud-2-14-issues-breakdown.png" alt="Issues Breakdown">
-<img src="/img/posts/2021-12-22-nueva-version-sonarqube-connector-for-jira-cloud-2-14-hotspots.png" alt="Hotspots breakdown">
+<img src="/img/posts/2021-12-22-nueva-version-sonarqube-connector-for-jira-cloud-2-14-issues-breakdown.png" alt="Issues Breakdown" width="100%">
+<img src="/img/posts/2021-12-22-nueva-version-sonarqube-connector-for-jira-cloud-2-14-hotspots.png" alt="Hotspots breakdown" width="100%">
 
 <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_Jira" target="_blank" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight:bold;font-size:0.6em" >PRUÉBALO GRATUITAMENTE POR 30 DÍAS</a>
 
