@@ -28,6 +28,8 @@ de ellos son expertos en áreas de la misma compañía de Atlassian aunque tambi
 de Bob Iger, Ex-Director general de The Walt Disney Company y Jay Shetty, autor del bestseller Piensa como 
 un monje.
 
+<a href="https://events.atlassian.com/team22/sessions" target=_blank><img style="width: 100%" src="/img/posts/2022-03-31-atlassian-team-22-speakers.png" /></a>
+
 **Desde Atlassian** contaremos con Mike Cannon-Brookes y Scott Farquar, ambos co-fundadores y codirectores 
 generales; Joff Redfern, jefe de producto; Erika Trautman, jefa de producto y gestión de trabajo; Amita 
 Abraham, jefa de producto en el área de marketing; Sherif Mansour, manager de producto y Tiffany To, jefa 
@@ -45,7 +47,7 @@ hacia todos sus empleados. La sección de **Open Work Management** va destinada 
 en los proyectos y programas, el análisis y las empresas consultoras que pueden ayudar a romper las 
 barreras entre los equipos de software y las empresas.
 
-El programa de las charlas está disponible en la página del evento:
+Tienes toda la información disponible en la web del evento:
 
 <a class="btn btn-primary btn-xl atlassian-background" style="font-size: 16px; letter-spacing: 1px;line-height:20px" href="https://events.atlassian.com/team22" target=_blank>ATLASSIAN TEAM 22</a> 
 
