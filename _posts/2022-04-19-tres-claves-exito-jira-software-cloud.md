@@ -3,14 +3,14 @@ layout: post
 title: 'Las tres claves del éxito de Jira Software Cloud'
 description: Seguridad mejorada. Más confiable. Más fácil de manejar. Aceleras la innovación. Cuando te cambias a la nube, obtienes lo mejor de Atlassian
 
-date: '2022-04-10T08:00:00.000+01:00'
+date: '2022-04-19T08:00:00.000+01:00'
 author: Marisa Martín
 categories: 
 - productos
 - atlassian
 
 cover: /img/posts/2022-04-19-tres-claves-exito-jira-software-cloud.png
-modified_time: '2022-04-10T08:00:00.000+01:00'
+modified_time: '2022-04-19T08:00:00.000+01:00'
 ---
 
 Seguridad mejorada. Más confiable. Más fácil de manejar. Aceleras la innovación. Cuando te cambias a la nube, obtienes 
