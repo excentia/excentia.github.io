@@ -177,3 +177,6 @@ trabajo de forma visual: prueba el gadget “Mapa de calor” o “Gráfico circ
 versión de corrección”.
 
 Si aún no conoces las [3 claves del éxito de Jira Software Cloud](https://www.excentia.es/tres-claves-exito-jira-software-cloud) no dudes de visitar nuestro blog para descubrirlo.
+
+Referencia al artículo original de **Cristina Bang**:
+[Atlassian](https://www.atlassian.com/blog/jira-software/5-steps-to-build-a-killer-dashboard)
