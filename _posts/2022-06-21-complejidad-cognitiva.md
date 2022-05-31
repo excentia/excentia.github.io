@@ -3,7 +3,7 @@ layout: post
 title: 'Complejidad Cognitiva'
 description: Una nueva forma de medir la comprensibilidad del código
 
-date: '2022-06-210T08:00:00Z'
+date: '2022-06-21T08:00:00Z'
 author: Sonsoles Cabrera<br><br>(white paper original G. Ann Campbell)
 categories:
 
