@@ -8,7 +8,7 @@ author: Sonsoles Cabrera<br><br>(artículo original de Robert Krohn)
 categories:
 
 - productos
-- sonarsource
+- atlassian
 
 cover: /img/posts/2022-06-14-el-futuro-del-desarrollo-software.png
 
