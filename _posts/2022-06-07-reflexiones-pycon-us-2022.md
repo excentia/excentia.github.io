@@ -4,10 +4,11 @@ title: 'Reflexiones desde la PyCon US 2022'
 description: Algunas cosas importantes tras el paso por la PyCon para reflexionar.
 
 date: '2022-06-07T08:00:00Z'
-author: Marisa Martin (artículo original Andrea Guarino y Guillaume Dequenne)
+author: Marisa Martin<br><br>(artículo original Andrea Guarino y Guillaume Dequenne)
 categories:
 - productos
-- sonarqube
+- sonarsource
+- eventos
 
 cover: /img/posts/2022-06-07-reflexiones-pycon-us-2022.jpg
 

@@ -4,7 +4,7 @@ title: 'Un sitio web nuevo y renovado para Sonar'
 description: Al principio de este año, SonarSource publicó su nueva marca y web renovadas.
 
 date: '2022-06-30T08:00:00Z'
-author: Marisa Martin (artículo original Olivier Gaudin)
+author: Marisa Martin<br><br>(artículo original Olivier Gaudin)
 categories:
 - productos
 - sonarqube
