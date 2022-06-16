@@ -4,7 +4,7 @@ title: '¿Por qué una mayor autonomía es el futuro del desarrollo de software?
 description: Atlassian publica el primer informe de estado del desarrollador
 
 date: '2022-06-14T08:00:00Z'
-author: Sonsoles Cabrera<br><br>(artículo original de Robert Krohn)
+author: Marisa Martín<br><br>(artículo original de Robert Krohn)
 categories:
 
 - productos
