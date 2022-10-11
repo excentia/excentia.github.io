@@ -21,7 +21,7 @@
 }
 
 .alt-font {
-  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Poppins', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -35,6 +35,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: 'Outfit', 'Catamaran', 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 300;
 }
 
 td, th {
@@ -70,23 +71,25 @@ hr {
 }
 
 h1, h2, h3 {
-  font-family: 'Outfit', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Poppins', 'Outfit', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 600;
   letter-spacing: 1px;
 }
 
-h5, h6 {
-  font-family: 'Outfit', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 500;
-  letter-spacing: 1px;
-}
 
 .h4, h4 {
     font-size: 18px;
     font-weight: 400!important;
     letter-spacing: 1px;
-    font-family: 'Outfit', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+    font-family: 'Poppins', 'Outfit', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
 }
+
+h5, h6 {
+  font-family: 'Poppins', 'Outfit', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
 
 section.features .feature-item h3 {
     color: #000;
@@ -101,6 +104,14 @@ p {
 
 .header-text {
   font-size: 1.6em;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+.main-header-text {
+  font-size: 1.8em;
   line-height: 1.5;
   margin-top: 20px;
   margin-bottom: 20px;
