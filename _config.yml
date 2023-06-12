@@ -54,6 +54,14 @@ social:
   - title: email
     url:
 
+# defaults to hide folders from sitemap
+defaults:
+  -
+    scope:
+      path:            "formacion/**/*.*"
+    values:
+      sitemap:         false
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
