@@ -24,7 +24,7 @@ Este producto está diseñado para ayudar los equipos de desarrollo de producto 
 
 **- Organiza ideas:** Esta solución da una estructura para las ideas de desarrollo. Gracias a la información ordenada, la comprensión es más sencilla y se acelera la toma de decisiones. 
 jek
-**- Información comprensible:** La visión compartida, hojas de ruta, representación visual de la información... Estas características permiten que la información se asimile de forma rápida, para que el usuario se centre en lo realmente importante. 
+**- Información comprensible:** La visión compartida, hojas de ruta, distintas representaciones visuales de la información... Estas características permiten que la información se asimile de forma rápida, para que el usuario se centre en lo realmente importante. 
 
 **- Fomenta la comunicación de equipo:** Todas las partes interesadas en el desarrollo del producto tendrán acceso a la información y podrán colaborar con sus puntos de vista en cualquier momento. Esta solución brinda un espacio para colaborar, comentar y puntuar las ideas. 
 
