@@ -14,7 +14,7 @@ cover: /img/posts/2023-06-15-post-premio-sonar.png
 
 ---
 
-Sonar ha sido galardonado con el **2023 Gold Globee Awards por Disruptor Product/ Service en la categoría 'Developer Tools'**. Se trata de un premio, a nivel internacional, que reconocen a los mejores proveedores de software del mercado que introducen servicios nuevos e innovadores y que desafían los modelos de negocio tradicionales en la búsqueda de la innovación. 
+Sonar ha sido galardonado con el **2023 Gold Globee Awards por Disruptor Product/ Service en la categoría 'Developer Tools'**. Se trata de un premio, a nivel internacional, que reconoce a los mejores proveedores de software del mercado que introducen servicios nuevos e innovadores y que desafían los modelos de negocio tradicionales en la búsqueda de la innovación. 
 
 En concreto, Sonar se ha alzado con el máximo reconocimiento por su gama de productos para **mejorar la calidad del código** de los desarrolladores. Tal y como informan desde la compañía, la clave para obtener este galardón ha sido “la metodología Clean as You Code, nuestro enfoque único que permite a los desarrolladores escribir código limpio de calidad”.
 
