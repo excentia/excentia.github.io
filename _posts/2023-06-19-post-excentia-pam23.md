@@ -3,7 +3,7 @@ layout: post
 title: 'El equipo de excentia acude al Peopleware and Agile Management' #PAM23'
 description: La cita de referencia para equipos ágiles, cultura y gestión ágil celebrada en Madrid
 
-date: '2023-06-14T08:00:00Z'
+date: '2023-06-19T08:00:00Z'
 author: Belén Casanovas
 categories:
 - eventos
