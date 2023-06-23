@@ -53,12 +53,7 @@ También puedes buscar asuntos desde la sección "Issues" del menú desplegable.
 <img width="100%" src="/img/posts/2022-07-26-jql-la-forma-de-buscar-en-jira-seccion-busqueda.png">
 
 En la pantalla que se acaba de abrir podrás filtrar fácilmente en función de los valores de 
-determinados campos. Un ejemplo de búsqueda rápida:
-
-<video width="100%" controls="" loop="" src="
-/wp-content/uploads/2021/05/jql-blog-screen-recording.mp4"></video>
-
-Puedes filtrar en cualquier campo disponible en Jira (en función de los proyectos seleccionados).
+determinados campos. Puedes filtrar en cualquier campo disponible en Jira (en función de los proyectos seleccionados).
 
 <br><br>
 ## Búsquedas básicas y avanzadas
