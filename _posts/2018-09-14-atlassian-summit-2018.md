@@ -56,7 +56,7 @@ No se quedó ahí el anuncio del día... Además Atlassian puso a disposición d
 
 Accede a la guía desde: <https://www.atlassian.com/software/jira/ops/handbook> 
 
-Y por supuesto, **¡ya puedes [probar gratuitamente]((https://www.atlassian.com/try/cloud/signup?bundle=jira-ops)) Jira Ops!** Con el *Early Access Program* podrás disfrutarlo hasta principios de 2019. 
+Y por supuesto, **¡ya puedes puedes probar de forma gratuita Jira Ops!** Con el *Early Access Program* podrás disfrutarlo hasta principios de 2019. 
 
 De momento, Jira Ops sólamente estará disponible en modalidad *cloud*.
 
