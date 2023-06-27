@@ -59,7 +59,7 @@ A continuación, desglosamos las novedades según el idioma.
 
 **Java** 
 
-•	Soporte para Java 2.0. 
+•	Soporte para Java 20. 
 
 •	Tres nuevas reglas que cubren el método Singleton, Monster Class, Brain para permitir a los desarrolladores escribir código Java bien diseñado y fácil de mantener.
 
