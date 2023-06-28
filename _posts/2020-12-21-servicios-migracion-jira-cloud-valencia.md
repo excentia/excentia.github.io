@@ -66,9 +66,7 @@ La **migración hacia el Cloud** es un viaje. Y así como no hay dos compañías
 
 Nuestros servicio para la migración de Server a Cloud o de Data Center a Cloud <span style="text-decoration:underline;font-weight:bold;">incluyen el soporte proactivo y reactivo por 1 año</span>. 
 
-Si buscas quién te guíe en este proceso tan delicado <a href="excentia.es/contacto">contacta con nosotros</a> **sin compromiso**, estaremos encantados en solucionar todas tus dudas.
-
-<a href="excentia.es/contacto" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold;" >Contacta > </a>
+Si buscas quién te guíe en este proceso tan delicado contacta con nosotros **sin compromiso**, estaremos encantados en solucionar todas tus dudas.
 
 <br/>
 <div style="border:1px solid ##fbf1e1; background:#253858; padding:20px 20px;color:#ffffff">
@@ -80,7 +78,7 @@ Si buscas quién te guíe en este proceso tan delicado <a href="excentia.es/cont
 <p style="font-size:1.1em;">Todo nuestro equipo esta certificado por Atlassian y puede brindarte la ayuda y el suporte que necesitas para implantar la solución más idónea a tus necesidades.
 </p>
 
-<a href="excentia.es/contacto" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold;" >Solicita más información  > </a>
+<a href="/contacto" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold;" >Solicita más información  > </a>
 <br/>
 <br/>
 </div>
