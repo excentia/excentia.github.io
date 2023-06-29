@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Que es SonarQube, planes y precios'
-description: Todo lo que necesita saber para mejorar la calidad de tu código con SonarQube
+description: Te explicamos qué es SonarQube, sus ediciones y precios de las licencias. Todo lo que necesitas si quieres empezar a trabajar con este software.
 date: '2021-10-18T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 

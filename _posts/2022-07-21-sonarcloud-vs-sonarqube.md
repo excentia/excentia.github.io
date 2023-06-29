@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarCloud&trade; vs SonarQube&trade;'
-description: Guía para elegir uno u otro para tu equipo
+description: ¿Dudas entre elegir SonarCloud o SonarQube? Desde excentia te ayudamos a detectar cuál necesitas con esta guía.
 
 date: '2022-07-21T08:00:00Z'
 author: Marisa Martin
