@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube/SonarCloud Connector for Confluence Cloud 1.20'
-description: Nueva macro disponible para visualizar las vulnerabilidades del estándar ASVS
+description: Te explicamos en qué consiste la nueva macro disponible para visualizar las vulnerabilidades del estándar ASVS.
 
 date: '2023-02-02T08:00:00.000+01:00'
 author: Carlos Sánchez

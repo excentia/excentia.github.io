@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: '¿Qué es Confluence y qué aporta al trabajo remoto?'
-description: El trabajo en equipo empieza en Confluence
+description: El trabajo en equipo empieza en Confluence. Te contamos en qué consiste este espacio de trabajo colaborativo diseñado por Atlassian. 
 date: '2020-10-27T08:00:00.000+01:00'
 author: Anna Torres
 categories: 

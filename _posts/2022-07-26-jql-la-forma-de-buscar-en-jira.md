@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JQL: la forma más flexible de buscar en Jira'
-description: Jira Query Language -JQL- es la forma más potente y flexible de buscar tus asuntos en Jira
+description: Jira Query Language -JQL- es la forma más potente y flexible de buscar tus asuntos en Jira. Aquí te enseñamos cómo hacerlo.
 
 date: '2022-07-26T08:00:00Z'
 author: Marisa Martin
