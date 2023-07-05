@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Qué es y qué no es la transformación digital?'
-description: La transformación digital no es implementar nuevas tecnologías, es obtener oportunidades y ampliar posibilidades estratégicas de negocio gracias a su correcta utilización.
+description: La transformación digital no es implementar nuevas tecnologías, es obtener oportunidades y ampliar posibilidades estratégicas de negocio.
 date: '2018-01-24T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
