@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novedades en la gestión de procesos'
-description: El jueves 5 de octubre estaremos en el Instituto Tecnológico de Informática (ITI) para traerte el Atlassian Summit a Valencia. ¡Te esperamos en el Auditorio Cubo Rojo a las 9:00! 
+description: El jueves 5 de octubre estaremos en el ITI para traerte el Atlassian Summit a Valencia. ¡Te esperamos en el Auditorio Cubo Rojo a las 9:00! 
 date: '2017-09-29T09:00:00.000+01:00'
 author: Andrea Crespo
 categories: 

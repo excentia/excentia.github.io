@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenExpo 2017. The future is open'
-description: excentia continua apostando por la comunidad open-source y patrocinará el evento para evangelizar acerca del análisis de código y la inspección continua con SonarQube.
+description: Patrocinamos este evento para evangelizar acerca del análisis de código y la inspección continua con SonarQube.
 date: '2017-05-15T10:08:00.000+01:00'
 author: Unknown
 categories: 

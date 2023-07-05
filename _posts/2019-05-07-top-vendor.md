@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¡Somos Top Vendor en Atlassian Marketplace!'
-description: Hoy podemos gritar bien alto que hemos sido reconocidos como Top Vendors en Atlassian Marketplace. Te contamos todas las implicaciones y nuestro camino hasta conseguirlo. 
+description: Hoy podemos gritar bien alto que el equipo de excentia ha sido reconocidos como Top Vendors en Atlassian Marketplace.
 date: '2019-05-07T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
