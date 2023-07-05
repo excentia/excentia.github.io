@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Resumen SonarSource City Tour 2017'
-description: ¿Te perdiste al equipo de SonarSource en Madrid? ¿Quieres saber en 2 minutos de qué se habló y cuáles fueron las impresiones generales? Si es el caso, ¡sigue leyendo!
+description: Conoce en 2 minutos de que se habló en el SonarSource City Tour 2017 y cuáles fueron las impresiones generales.
 date: '2017-12-01T08:00:00.000+01:00'
 author: Andrea Crespo 
 categories: 
