@@ -10,7 +10,7 @@ categories:
 - atlassian
 - devops
 
-cover: 
+cover: /img/posts/2023-06-07-cover-atlassian-gartner-2023.jpg
 
 ---
 
