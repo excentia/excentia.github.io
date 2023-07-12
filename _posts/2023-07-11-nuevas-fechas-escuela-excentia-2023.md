@@ -14,9 +14,9 @@ cover: /img/posts/2023-07-11-fechas-escuela-excentia-2023.jpg
 
 ---
 
-Después del éxito de las últimas ediciones, volvemos a abrir inscripciones en la Escuela excentia. Esta vez, lanzamos **dos fechas para agosto y octubre** de los cursos de SonarQube para usuarios y administradores. 
+Después del éxito de las últimas ediciones, volvemos a abrir inscripciones en la Escuela excentia. Esta vez, lanzamos **dos fechas: una para agosto y otra para octubre** de los cursos de SonarQube para usuarios y administradores. 
 
-Si quieres aprender a utilizar SonarQube y a interpretar los resultados de los análisis que te ofrece, puedes ir pensando a cuál de las dos fechas te interesa inscribírte.
+Si quieres aprender a utilizar SonarQube y a interpretar los resultados de los análisis que te ofrece, puedes ir pensando a cuál de las dos fechas te interesa inscribirte.
 
 
 <img width="100%" src="/img/posts/2023-07-11-fechas-escuela-excentia-2023.jpg">
@@ -93,6 +93,6 @@ A continuación, te dejamos la programación establecida, al igual que el curso 
 
 En el [siguiente](https://www.excentia.es/curso-sonarqube-administradores) enlace podrás encontrar el temario de este curso y el formulario de inscripción al curso. 
 
-Por último, si estás interesado en realizar los dos cursos, te recomendamos que adquieras el [Pack Maestría](https://www.excentia.es/curso-sonarqube-pack-maestria). Se trata de una edición que incluye los dos cursos, mismas fechas pero que tiene un descuento de hasta el 16%. 
+Por último, si estás interesado en realizar los dos cursos, te recomendamos que adquieras el [Pack Maestría](https://www.excentia.es/curso-sonarqube-pack-maestria). Se trata de una edición que incluye los dos cursos, mismas fechas, pero que tiene un descuento de hasta el 16%. 
 
-Recuerda que, si tienes alguna duda, o tienes preguntas puedes ponerte en contacto con nosotros. 
+Recuerda que, si tienes alguna duda, o tienes preguntas, puedes ponerte en contacto con nosotros. 
