@@ -3,14 +3,14 @@ layout: post
 title: 'Atlassian, líder en el Cuadrante Mágico de Gartner 2023 para plataformas DevOps'
 description: Un año más Atlassian es reconocido por Gartner en la categoría de herramientas para desarrolladores. ¡Te lo contamos!
 
-date: '2023-06-14T08:00:00Z'
+date: '2023-06-07T08:00:00Z'
 author: Belén Casanovas
 categories:
 - productos
 - atlassian
 - devops
 
-cover: 
+cover: /img/posts/2023-06-07-cover-atlassian-gartner-2023.jpg
 
 ---
 
