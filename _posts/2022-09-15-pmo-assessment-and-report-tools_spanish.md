@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PMO Assessment and Report Tools 1.0'
+title: 'Herramientas de evaluación e informe de PMO 1.0'
 description: ¡Todo es cuestión de prioridades!
 
 date: '2022-09-05T08:00:00Z'
