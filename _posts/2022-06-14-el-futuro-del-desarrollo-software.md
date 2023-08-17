@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '¿Por qué una mayor autonomía es el futuro del desarrollo de software?'
+title: '¿Por qué más autonomía es el futuro del desarrollo de software?'
 description: Atlassian publica el primer informe de estado del desarrollador
 
 date: '2022-06-14T08:00:00Z'
