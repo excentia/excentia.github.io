@@ -22,7 +22,7 @@ cover: /img/posts/2023-08-29-PMO-assessment-jira-server-data-center.png
 
 <h2>¿Qué es PMO Assessment and Reports for Jira? </h2>
 
-Por si aún no la conoces, PMO Assessment and Reports for Jira es una aplicación que te muestra toda la información que necesitas sobre **el tiempo, el coste y la calidad de tus proyectos**. Está diseñada especialmente para los equipos DevOps puedan controlar estos tres factores y la progresión de los proyectos. 
+Por si aún no la conoces, PMO Assessment and Reports for Jira es una aplicación que te muestra toda la información que necesitas sobre **el tiempo, el coste y la calidad de tus proyectos**. Está diseñada especialmente para que los equipos DevOps puedan controlar estos tres factores y la progresión de los proyectos. 
 
 A continuación, mostramos una captura de pantalla de la información resumida que ofrece esta aplicación: 
 
