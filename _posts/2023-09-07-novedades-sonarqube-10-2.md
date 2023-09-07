@@ -102,7 +102,7 @@ Mejora la experiencia SonarQube con las actualizaciones de UI y UX en project, p
 
 • Análisis incremental más rápido para Python.
 
-• Genera simuladores para bibliotecas Python escritas conocidas disponibles en PyPI.
+• Genera stubs para bibliotecas Python escritas conocidas disponibles en PyPI.
 
 • Nuevas reglas de Core Python.
 <br>
