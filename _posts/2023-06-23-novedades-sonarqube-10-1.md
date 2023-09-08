@@ -9,10 +9,14 @@ categories:
 - productos
 - sonar
 - sonarqube
+- release
 
-cover: /img/posts/2023-06-23-novedades-sonarqube-10-1.jpg
+cover: /img/posts/2023-06-23-novedades-sonarqube-10-1.png
 
 ---
+
+<img width="90%" src="img/posts/2023-06-23-novedades-sonarqube-10-1.png" alt="Novedades SonarQube 10.1">
+
 Sonar ha anunciado que la nueva versión SonarQube 10.1 ya está disponible. Desde excentia, como **partners exclusivos de Sonar en España y Latinoamérica**, te vamos a contar en este artículo cuáles son las novedades de esta versión.
 
 <h2>Gestión de acceso centralizado más fluido con GitHub</h2> 
