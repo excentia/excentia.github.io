@@ -3,7 +3,7 @@ layout: post
 title: 'PMO Assessment and Report Tools 1.0'
 description: It's all about priorities!
 
-date: '2022-07-19T08:00:00Z'
+date: '2023-09-11T08:00:00Z'
 author: Hugo Mora
 categories:
 - productos
