@@ -16,7 +16,7 @@ modified_time: '2021-12-15T08:00:00.000+01:00'
 ## Clean Code comienza en su IDE
 
 
-[**SonarLint**](https://www.sonarlint.org/) es una extensión IDE gratuita y open-source que identifica y te ayuda a solucionar los problemas de calidad y seguridad mientras escribes el código.
+**SonarLint** es una extensión IDE gratuita y open-source que identifica y te ayuda a solucionar los problemas de calidad y seguridad mientras escribes el código.
 
 Piensa en **Sonarlint** como un corrector automático que te proporciona comentarios en tiempo real y una guía de corrección para que puedas entregar un código limpio (desde el principio).
 
@@ -36,7 +36,7 @@ Gestiona más de veinte lenguajes de programación (entre otros java, C #, C / C
 
 SonarLint es un gran aliado en la entrega de código sin errores. Gracias a esta herramienta inteligente los miembros de tu equipo podrán ver sus errores en tiempo real, comprenderlos y corregirlos rápidamente, de esta manera seguirán mejorando a lo largo del camino.
 
-SonarLint es la herramienta perfecta para ayudar a los desarrolladores de todos los niveles a mejorar y entregar un código limpio y seguro.
+SonarLint es la [herramienta perfecta](https://www.excentia.es/sonarlint) para ayudar a los desarrolladores de todos los niveles a mejorar y entregar un código limpio y seguro.
 
 ## Cómo funciona SonarLint
  
@@ -62,14 +62,17 @@ El análisis de alta precisión sobre la marcha significa menos falsos positivos
 ¿Que estas esperando? Descarga gratuitamente [**SonarLint**](https://www.sonarlint.org/) y comienza a mejorar la calidad y la seguridad de tu código.
 
 
+Por cierto, aquí te dejamos los curso que tenemos en la actualidad de SonarQube por si quieres inscribirte: 
 
+
+- Curso SonarQube para usuarios. [Más información aquí.](https://www.excentia.es/curso-sonarqube-usuarios)
+- Curso SonarQube para administradores. [Más información aquí.](https://www.excentia.es/curso-sonarqube-administradores)
+- Pack Maestría de SonarQube. [Más información aquí.](https://www.excentia.es/curso-sonarqube-pack-maestria)
 <br/>
-<hr>
 <br/>
 <!--Calidad de Software Contact Form-->
 <div id="contact-form">
-	<h1>Contáctanos</h1>
-	<p>Si necesitas ayuda con SonarQube o quieres conseguir un desarrollo de software sostenible y de calidad, ¡contáctanos y te responderemos en menos de 24 horas.</p>
+<p>Si necesitas ayuda con SonarQube o quieres conseguir un desarrollo de software sostenible y de calidad, ¡contáctanos y te responderemos en menos de 24 horas.</p>
 <br/>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
@@ -80,5 +83,4 @@ El análisis de alta precisión sobre la marcha significa menos falsos positivos
 });
 </script>
 </div>
-
 
