@@ -1,0 +1,58 @@
+<!-- Portfolio Grid Section -->
+    <section id="blog-grid">
+        <div class="container">  
+            
+            {% assign rows = 21 | divided_by: 3.0 | ceil %}
+            {% for i in (1..rows) %}
+              {% assign offset = forloop.index0 | times: 3 %}
+              {% if i > 1 %}
+              <div class="row">
+                {% for post in site.posts limit:3 offset:offset %}
+                   {% if post.path contains '_en' %}
+                  <div class="col-md-4 portfolio-item">
+                     <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
+                                  <img width="100%" src="{{ post.cover }}"/>
+                                  <h5>
+                                        <time datetime="{{ post.date | date_to_xmlschema }}">
+                                            <span class="day">
+                                                {{ post.date | date: "%d" }}
+                                            </span>
+                                            <span class="month-year">
+                                                {% assign m = post.date | date: "%-m" %}
+                                                {% case m %}
+                                                  {% when '1' %}JANUARY
+                                                  {% when '2' %}FEBRUARY
+                                                  {% when '3' %}MARCH
+                                                  {% when '4' %}APRIL
+                                                  {% when '5' %}MAY
+                                                  {% when '6' %}JUNY
+                                                  {% when '7' %}JULY
+                                                  {% when '8' %}AUGUST
+                                                  {% when '9' %}SEPTEMBER
+                                                  {% when '10' %}OCTOBER
+                                                  {% when '11' %}NOVEMBER
+                                                  {% when '12' %}DECEMBER
+                                                {% endcase %}
+                                                {{ post.date | date: "%Y" }}
+                                            </span>
+                                        </time>
+                                    </h5>
+                                    <h3 class="list-group-item-heading" style="text-transform: uppercase"><strong> {{ post.title }} </strong></h3>    
+                                    <p class="list-group-item-text" style="padding-bottom: 10px;">{{ post.description | strip_html }}</p>
+                      </a>
+                   </div>
+                   {% endif %}
+                {% endfor %}
+              </div>
+              {% endif %}
+            {% endfor %}
+            
+        </div>
+    </section>
+
+    <section class="download bg-primary text-center" style="padding: 20px 0">
+        <div class="container">
+            <div class="row">
+            </div>
+        </div>
+    </section>
