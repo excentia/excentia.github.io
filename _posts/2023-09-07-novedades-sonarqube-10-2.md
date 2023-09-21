@@ -17,7 +17,7 @@ cover: /img/posts/2023-09-07-novedades-sonarqube-10-2.png
 
 ---
 
-<img width="90%" src="img/posts/2023-09-07-novedades-sonarqube-10-2.png" alt="Novedades SonarQube 10.2">
+<img width="100%" src="img/posts/2023-09-07-novedades-sonarqube-10-2.png" alt="Novedades SonarQube 10.2">
 
 Sonar lanza la **versión 10.2 de SonarQube**. Más seguridad, nuevas reglas y la actualización de su interfaz, son algunas de las mejoras que encontraremos en esta versión. Desde **excentia** como partners exclusivos de Sonar en España y Lationamérica te contamos todas novedades en este artículo. 
 

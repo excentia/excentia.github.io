@@ -14,9 +14,10 @@ cover: /img/posts/2023-09-04-excentia-gold-marketplace-partner.png
 
 ---
 
-Estamos muy emocionad@s de compartir con vosotr@s esta noticia: **¡Somos Gold Marketplace Partner de Atlassian!**. El verano nos ha dejado esta gran noticia para todo el **equipo de excentia**, gracias a nuestra experiencia como desarrolladores de aplicaciones para Atlassian. Esta insignia es fruto de la excelente labor de nuestro equipo de desarrollo y representa la confianza que tienen **los usuarios de productos Atlassian en nuestras aplicaciones** y la eficiencia de las mismas. 
+<img width="100%" src="/img/posts/2023-09-04-excentia-gold-marketplace-partner.png" alt="excentia nombrado Gold Marketplace Partner de Atlassian">
 
-<img width="100%" src="/img/atlassian-addons/banner-excentia-logo-gold-marketplace-partner.png" alt="excentia Gold Marketplace Partner de Atlassian">
+
+Estamos muy emocionad@s de compartir con vosotr@s esta noticia: **¡Somos Gold Marketplace Partner de Atlassian!**. El verano nos ha dejado esta gran noticia para todo el **equipo de excentia**, gracias a nuestra experiencia como desarrolladores de aplicaciones para Atlassian. Esta insignia es fruto de la excelente labor de nuestro equipo de desarrollo y representa la confianza que tienen **los usuarios de productos Atlassian en nuestras aplicaciones** y la eficiencia de las mismas. 
 
 Nuestro trabajo, el del resto de socios y el del equipo de Atlassian ha permitido, tal y como [indica el propio proveedor](https://blog.developer.atlassian.com/july-2023-marketplace-partner-program-tier-membership-update/), lograr un "hito significativo: superar los 3 millones de dólares en ventas" del Marketplace. 
 

@@ -16,6 +16,9 @@ cover: /img/posts/2023-08-29-PMO-assessment-jira-server-data-center.png
 
 ---
 
+<img width="100%" src="/img/posts/2023-08-29-PMO-assessment-jira-server-data-center.png" alt="Actualización de PMO Assessment for Jira">
+
+
 ¡Ya está aquí! La versión de la aplicación **PMO Assessment and Reports para Jira Server y Data Center** ya está disponible en el Marketplace de Atlassian.
 
 <img width="100%" src="/img/atlassian-addons/PMO-assessment-jira-data-center-marketplace.png" alt="PMO disponible en el marketgplace de atlassian">
