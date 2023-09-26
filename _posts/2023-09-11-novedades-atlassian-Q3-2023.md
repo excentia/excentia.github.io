@@ -17,6 +17,9 @@ cover: /img/posts/2023-09-11-novedades-atlassian-Q3-2023.png
 
 ---
 
+<img width="100%" src="img/posts/2023-09-11-novedades-atlassian-Q3-2023.png" alt="Novedades ediciones Data Center y Cloud Atlassian">
+
+
 Cómo cada trimestre, Atlassian lanza **nuevas funcionalidades para sus herramientas** en las ediciones Cloud y Data Center. Desde excentia, como **Gold Partner de Atlassian**, te las explicamos en este artículo. 
 
 <h2>Actualizaciones para la versión Cloud</h2>

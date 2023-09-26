@@ -16,6 +16,8 @@ cover: /img/posts/2023-09-06-seguridad-clean-code-sonar.png
 
 ---
 
+<img width="100%" src="img/posts/2023-09-06-seguridad-clean-code-sonar.png" alt="Clean Code de SonarQube">
+
 La entrega de código seguro es esencial para garantizar el <strong>éxito de tu software</strong> y va más allá de corregir vulnerabilidades. Las soluciones de Sonar (SonarQube, SonarCloud y SonarLint) permiten a los equipos de desarrollo aplicar <strong>prácticas de Clean Code</strong> y pruebas de seguridad de aplicaciones estáticas (SAST) para detectar errores antes de que se conviertan en un problema de seguridad. 
 
 Por ello, a lo largo de este artículo, vamos a hablar de lo que aportan estas soluciones de Sonar para <strong>entregar código limpio</strong> y los beneficios que tienen para <strong>mantener la seguridad de tus proyectos</strong>.
