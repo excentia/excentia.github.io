@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JQL: la forma más flexible de buscar en Jira'
-description: Jira Query Language -JQL- es la forma más potente y flexible de buscar tus asuntos en Jira. Aquí te enseñamos cómo hacerlo.
+description: Jira Query Language (JQL) es la forma más potente y flexible de buscar tus asuntos en Jira. Aquí te enseñamos cómo hacerlo.
 
 date: '2022-07-26T08:00:00Z'
 author: Marisa Martin
@@ -15,7 +15,7 @@ cover: /img/posts/2022-07-26-jql-la-forma-de-buscar-en-jira-thumb.png
 
 ---
 
-JQL significa Jira Query Language (Lenguaje de consulta de Jira) y es la forma más potente y flexible de buscar tus
+JQL son las siglas de Jira Query Language (Lenguaje de consulta de Jira) y es la forma más potente y flexible de buscar tus
 asuntos en Jira. JQL es para todo el mundo: desarrolladores, evaluadores, gestores de proyectos ágiles y usuarios
 empresariales. 
 
@@ -53,13 +53,9 @@ También puedes buscar asuntos desde la sección "Issues" del menú desplegable.
 <img width="100%" src="/img/posts/2022-07-26-jql-la-forma-de-buscar-en-jira-seccion-busqueda.png">
 
 En la pantalla que se acaba de abrir podrás filtrar fácilmente en función de los valores de 
-determinados campos. Un ejemplo de búsqueda rápida:
+determinados campos. Puedes filtrar en cualquier campo disponible en Jira (en función de los proyectos seleccionados).
 
-<video width="100%" controls="" loop="" src="https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/jql-blog-screen-recording.mp4"></video>
-
-Puedes filtrar en cualquier campo disponible en Jira (en función de los proyectos seleccionados).
-
-<br><br>
+<br>
 ## Búsquedas básicas y avanzadas
 
 Hay dos tipos de búsquedas en Jira: básicas y avanzadas. 
@@ -135,7 +131,7 @@ Encuentra todas las cuestiones que tienen el estado "Por hacer", "En curso" o "C
 
 - **NOT IN**
 
-<br><br>
+<br>
 ## Poniéndolo en práctica
 
 Empecemos con un ejemplo sencillo. Digamos que quieres ver qué asuntos ha reportado tu compañero de equipo en un 
@@ -170,13 +166,8 @@ un día de antigüedad.
 Visita la [guía del producto de Jira Software](https://www.atlassian.com/software/jira/guides/expand-jira/jql) para obtener más información sobre JQL, la búsqueda avanzada con casos de 
 uso y mucho más.
 
-También tenemos una tarjeta de consejos descargable para tenerla a mano mientras realizas búsquedas con JQL. Copia y 
-pega campos, operadores y funciones en la barra de búsqueda de Jira, y así irás aprendiendo más consultas avanzadas.
+También hemos diseñado una infografía resumen de todo lo que explicamos en este artículo para realizar búsquedas con JQL, que la puedes encontrar a continuación. 
 
-<img width="100%" src="/img/posts/2022-07-26-jql-la-forma-de-buscar-en-jira-cheat-sheet.png">
+¡Nos vemos en próximos artículos!
 
-<div class="text-center">
-<a href="https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/atlassian-jql-cheat-sheet-2.pdf" target="_blank"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.6em; font-weight: bold;" >Descarga la tarjeta de ayuda de JQL</span></a>
-</div>
-
-<br><br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3ul8viYXa0Kf4u" width="856" height="585" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BelnCasanovasBabilon/infografa-jql-el-lenguaje-para-buscar-en-jirapdf" target="_blank">Infografía - JQL, el lenguaje para buscar en Jira.pdf</a></strong>
