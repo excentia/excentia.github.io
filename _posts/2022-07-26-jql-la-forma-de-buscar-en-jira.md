@@ -11,7 +11,7 @@ categories:
 - atlassian
 - jira cloud
 
-cover: /img/posts/2022-07-26-jql-la-forma-de-buscar-en-jira-thumb.png
+cover: /img/posts/2022-07-26-jql-la-forma-de-buscar-en-jira.png
 
 ---
 
