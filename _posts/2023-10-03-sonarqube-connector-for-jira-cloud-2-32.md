@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Release | SonarQube/SonarCloud Connector for Jira Cloud 2.32
+title: SonarQube/SonarCloud Connector for Jira Cloud 2.32
 description: ¡Nueva versión del conector más popular para Jira! Mejoras de rendimiento e inclusión del año 2023 en el Top 25 CWE.
 author: Belén Casanovas
 categories:
@@ -18,7 +18,7 @@ cover: /img/posts/2023-10-03-sonarqube-connector-for-jira-cloud-2-32.png
 
 Si eres usuario de nuestro producto **SonarQube/SonarCloud Connector for Jira Cloud** te interesa este post porque vamos a contar la **última actualización** que hemos sacado: la versión 2.32. En concreto, esta release se basa en mejoras de **rendimiento** y la inclusión del **CWE Top 25 del año 2023**. 
 
-Pero si aún no eres usuario de este conector, te contamos que se trata del producto que hemos desarrollado para Atlassian que permite **conectar tu SonarQube con tu instancia de Jira**. Gracias a este producto podrás consultar la información de tu código (code smells, vulnerabilidades, deuda técnica, etc.) directamente desde tu **panel de proyectos de Jira**, como puedes ver en la siguiente imagen: 
+Pero si aún no eres usuario de este conector, te contamos que se trata del producto que hemos desarrollado para Atlassian que permite **conectar tu SonarQube/SonarCloud con tu instancia de Jira**. Gracias a este producto podrás consultar la información de tu código (code smells, vulnerabilidades, deuda técnica, etc.) directamente desde tu **panel de proyectos de Jira**, como puedes ver en la siguiente imagen: 
 
 <img width="90%" src="img/atlassian-addons/atlassian-app-sonarqube-connector-jira-calidad-codigo.png" alt="SonarQube Connector for Jira Cloud 2.32">
 
