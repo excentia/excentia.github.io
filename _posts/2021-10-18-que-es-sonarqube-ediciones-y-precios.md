@@ -13,7 +13,7 @@ cover: /img/posts/2021-10-18-que-es-sonarqube-planes-precios.png
 modified_time: '2021-10-18T08:00:00.000+01:00'
 ---
 
-[**SonarQube**](https://www.sonarqube.org) es la herramienta líder para inspeccionar de manera continua la calidad y seguridad del código a través del análisis estático.
+[**SonarQube**](https://www.sonarqube.org) es la herramienta líder para inspeccionar la calidad y seguridad del código a través del análisis estático.
 
 SonarQube, además de ofrecer su propio **motor de análisis estático** de código, permite integrarlo con herramientas externas (como GitHub, GitLab, Jenkins o Bitbucket), permitiéndote así tener todo en un único cuadro de mandos.
 
@@ -26,8 +26,7 @@ A continuación te dejamos el video del proveedor de Sonar para que veas cómo l
 
 En la siguiente infografía, te mostramos un resumen de las principales caracaterísticas de SonarQube y sus beneficios: 
 <div style="text-align:center">
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/HxtQzuYXumRZ2E?hostedIn=slideshare&page=upload" width="670" height="1000" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:1px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:1px" ><strong><a href="https://es.slideshare.net/BelnCasanovasBabilon/qu-es-sonarqube" title="Infografía - ¿Qué es SonarQube?" target="_blank">¿Qué es SonarQube?</a></strong></div></div>
-
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/JOzy5Tob5E27Je?hostedIn=slideshare&page=upload" width="670" height="1000" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <h2>Multilingüe</h2>
 
