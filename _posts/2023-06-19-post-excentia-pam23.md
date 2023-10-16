@@ -9,7 +9,7 @@ categories:
 - eventos
 
 
-cover: /img/posts/2023-06-19-antonio-hugo-evento-pam23.jpg"
+cover: /img/posts/2023-06-19-antonio-hugo-evento-pam23.png"
 
 ---
 
@@ -18,7 +18,7 @@ El pasado 15 de junio, el **equipo de excentia** estuvo presente en el **'People
 Esta novena edición, que se celebró en el WIZink Center de Madrid, también contó con la modalidad online, ampliando las opciones de asistencia a esta cita indispensable para los equipos ágiles. 
 
 <figure>
-<img width="100%" src="/img/posts/2023-06-19-antonio-hugo-evento-pam23.jpg"/>
+<img width="100%" src="/img/posts/2023-06-19-antonio-hugo-evento-pam23.png"/>
 <figcaption>Antonio Calero y Hugo Mora, de excentia, durante el evento PAM23</figcaption>
 </figure>
 
