@@ -7,7 +7,7 @@ author: Anna Torres
 categories: 
 - atlassian
 
-cover: /img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-thumb.jpg
+cover: /img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto.png
 modified_time: '2020-10-27T08:00:00.000+01:00'
 ---
 
@@ -16,12 +16,16 @@ modified_time: '2020-10-27T08:00:00.000+01:00'
 
 **Confluence**, desarrollada por [**Atlassian**](https://www.excentia.es/atlassian) - la compañía detrás de otras herramientas populares como Trello y Jira - ofrece un **producto gratuito para equipos pequeños** y una suscripción de pago para organizaciones más grandes.
 
-## Entonces ¿qué es lo que hace Confluence?
+Con la siguiente **infografía** puedes hacerte una idea de lo que es Confluence:
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/bVqSwzj9juMpUd?hostedIn=slideshare&page=upload" width="795" height="548" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+<h2>Entonces ¿qué es lo que hace Confluence?</h2>
 
 
 Atlassian describe **Confluence** como "**un espacio de trabajo en equipo donde el conocimiento y la colaboración se encuentran**". En otras palabras, es una plataforma en línea donde las personas pueden trabajar desde una serie de documentos compartidos en el Cloud.
 
-<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-organiza.png" alt="Organiza el trabajo de tu equipo remoto">
+<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-escritorio.png" width="90%" alt="Escritorio general de Confluence">
 
 La característica principal desde la que trabajan los usuarios son las **páginas**. Estos son documentos que los miembros del equipo crean en Confluence Cloud y qué se pueden **editar en tiempo real**, con **comentarios** y **notificaciones** de colegas.
 
@@ -34,7 +38,7 @@ De forma predeterminada, cualquier persona que tenga acceso a una página public
 
 Cuando edita una página, se incluyen una serie de características, como poder agregar una **imagen**, agregar varios **archivos** adjuntos o cambiar el formato. También hay una serie de comandos y atajos de teclado disponibles.
 
-<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-macro.jpg" alt="Agrega imagenes, archivos, diagramas, macros en tu espacio de Confluence ">
+<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-okr-template.png" width="90%" alt="Confluence OKR template">
 
 **Hasta 12 personas pueden editar una página al mismo tiempo** y los cambios se guardan y **sincronizan automáticamente**, en tiempo real, para que todos los que editen vean lo mismo. Los avatares de los miembros de su equipo cerca del botón de publicación pueden indicarle quién está editando una página, y el símbolo más junto a los avatares le permite invitar a más personas.
 
@@ -47,11 +51,11 @@ De la misma manera que una pizarra en una oficina podría decirle a un equipo d�
 
 Se pueden establecer **fechas de vencimiento** y una **lista de verificación** de tareas para ayudar a administrar los cronogramas del proyecto, mientras que las personas se pueden etiquetar para que todos las vean.
 
-<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-documentacion.jpg" alt="Toda la documentación en un unico sitio">
-
 En lugar de enviar correos electrónicos, los empleadores pueden usar Confluence para publicar **actualizaciones periódicas** a través de un mensaje o video publicado. A través de la aplicación, los empleados también pueden responder a preguntas en tiempo real.
 
-<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-notificaciones.jpg" alt="Notificaciones en Confluence" width="70%">
+También, para facilitar la colaboración y la representación de ideas, Confluence incluye una pizarra en blanco para plasmas esa información. Esta pantalla la puedes ver en la siguiente imagen: 
+
+<img src="/img/posts/2020-09-07-que-es-confluence-y-que-aporta-al-trabajo-remoto-colaborate-ideas.png" width="90%" alt="Pantalla de ideas de Confluence">
 
 Existen otras herramientas de colaboración que sin duda ha utilizado en algún momento en el pasado, como Google Docs o OneDrive, pero **Confluence** es la que mejor herramienta para desatar el potencial de los equipos que trabajan de forma remota satisfaciendo toda las necesidades (y brechas) de comunicación.
 
