@@ -8,6 +8,7 @@ categories:
 - atlassian
 - sonarqube
 - marketplace
+- jira
 
 
 cover: /img/posts/2023-10-03-sonarqube-connector-for-jira-server-data-center-2-28.png
