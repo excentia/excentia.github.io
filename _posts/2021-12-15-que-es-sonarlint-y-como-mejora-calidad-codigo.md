@@ -14,6 +14,8 @@ cover: /img/posts/2021-12-15-que-es-sonarlint-y-como-mejora-calidad-codigo.png
 modified_time: '2021-12-15T08:00:00.000+01:00'
 ---
 
+<img src="/img/posts/2021-12-15-que-es-sonarlint-y-como-mejora-calidad-codigo.png" width="100%" alt="Que es SonarLint">
+
 ## Clean Code comienza en su IDE
 
 
