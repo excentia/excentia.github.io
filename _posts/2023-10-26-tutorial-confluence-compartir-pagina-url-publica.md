@@ -49,7 +49,7 @@ Esta nueva funcionalidad también incluye controles de acceso y seguridad para q
 
 - Si tu sitio se creó o migró a Cloud **después del 16 de octubre de 2023**, tendrás esta funcionalidad de forma predeterminada.
 
-- Por último, Atlassian asegura que motores de búsqueda **no indexan los enlaces públicos** de Confluence.
+- Por último, Atlassian asegura que los motores de búsqueda **no indexan los enlaces públicos** de Confluence.
 
 Seguiremos contándote más funcionalidades en futuros artículos. 
 
