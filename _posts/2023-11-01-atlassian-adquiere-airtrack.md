@@ -16,11 +16,11 @@ cover: /img/posts/2023-11-01-atlassian-adquiere-airtrack.png
 
 <img width="100%" src="img/posts/2023-11-01-atlassian-adquiere-airtrack.png" alt="Atlssian adquiere Aitrack">
 
-Atlassian ha anunciado la compra de AirTrack, empresa y fabricante de una solución porpia líder en la gestión de la calidad de los datos TI. En **excentia** como Gold partners de Atlassian te contamos todo lo que sabemos sobre esta compra. ¡Empezamos!
+Atlassian ha anunciado la compra de AirTrack, empresa y fabricante de una solución propia líder en la gestión de la calidad de los datos TI. En **excentia** como Gold partners de Atlassian te contamos todo lo que sabemos sobre esta compra. ¡Empezamos!
 
 <h2>¿Qué es AirTrack</h2>
 
-En primer lugar vamos a definir esta solución. AirTrack es una **softwre que recopila, agrega y analiza múltiples fuentes de datos** que utiliza las áreas de TI. Con esta solución, los usuarios pueden tomar decisiones basadas en datos de TI completos. AirTrack **permite a las organizaciones supervisar continuamente la exactitud de sus fuentes de datos** y garantizar que cualquier aplicación o sistema posterior como ITAM, ITSM, HR, sistemas financieros, etc. cuenten con la información precisa basada en datos de entrada completos, actualizados y correctos.
+En primer lugar, vamos a definir esta solución. AirTrack es una **software que recopila, agrega y analiza múltiples fuentes de datos** que utilizan las áreas de TI. Con esta solución, los usuarios pueden tomar decisiones basadas en datos de TI completos. AirTrack **permite a las organizaciones supervisar continuamente la exactitud de sus fuentes de datos** y garantizar que cualquier aplicación o sistema posterior como ITAM, ITSM, HR, sistemas financieros, etc. cuenten con la información precisa basada en datos de entrada completos, actualizados y correctos.
 
 <h2>¿Cuál es el objetivo de la compra de AirTrack por Atlassian?</h2>
 

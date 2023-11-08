@@ -27,6 +27,7 @@ A continuación te dejamos el video del proveedor de Sonar para que veas cómo l
 En la siguiente infografía, te mostramos un resumen de las principales caracaterísticas de SonarQube y sus beneficios: 
 <div style="text-align:center">
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/JOzy5Tob5E27Je?hostedIn=slideshare&page=upload" width="670" height="1000" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div>
 
 <h2>Multilingüe</h2>
 
