@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'Comparte enlaces públicos con Confluence Cloud'
+title: 'Tutorial: Comparte páginas de Confluence de forma pública'
 description: Atlassian lanza una nueva funcionalidad para compartir páginas de Confluence. ¡Te lo contamos!
 date: '2023-10-26T08:00:00Z'
 author: Belén Casanovas
 categories:
 - atlassian
 - confluence
+- tutorial
 
 
 cover: /img/posts/2023-10-26-enlaces-publicos-confluence.jpg
