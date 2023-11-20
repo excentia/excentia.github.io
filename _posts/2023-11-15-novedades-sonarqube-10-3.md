@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube 10.3: Novedades de la nueva versión'
-description: Detección de secretos en la fuente, informe CWE Top 25 de 2023, nueva taxonomia de Clean Code... Te contamos todas las novedades de la versión 10.3.
+description: Actualizaciones en la taxonomía de Clean Code, añadido el informe 2023 CWE Top 25,abre issues directamente en tu IDE... Te contamos todas las novedades de la versión 10.3.
 date: '2023-11-15T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -18,22 +18,22 @@ cover: /img/posts/2023-11-15-novedades-sonarqube-10-3.png
 
 <img width="100%" src="img/posts/2023-11-15-novedades-sonarqube-10-3.png" alt="Novedades SonarQube 10.3">
 
-SonarQube 10.3 ya está disponible. Como cada actualización que lanzan desde Sonar, en este artículo te vamos a explicar en qué consisten las nuevas funcionalidades. ¡Empezamos!
+SonarQube 10.3 ya está disponible. Como cada actualización que lanzan desde Sonar, te vamos a explicar en qué consisten las nuevas funcionalidades. ¡Empezamos!
 <br>
 <br>
 
 ## Actualizaciones de taxonomía de Clean Code 
 
-Sonar ha lanzado más actualizaciones para la taxonomía de Clean Code. Esta taxonomia es un framework que reúne la tecnología más moderna para hacer que tu código sea lo mejor posible. 
+Sonar ha lanzado más actualizaciones para la **taxonomía de Clean Code**. Esta taxonomia es un framework que reúne la tecnología más moderna para hacer que tu código sea lo mejor posible. 
 Veamos a continuación las actualizaciones correspondientes a este apartado:
 <br>
 <br>
 
 ### Simplificación del atributo de Clean Code en las Pull Requests para todas las plataformas CI Platforms 
 
-Para indicar que tu código puede que no esté limpio, en PR *In-product Summary* y *PR Decoration* se indicará únicamente la condición *issues* para la taxonomía Clean Code. Que sustituye a *reliability*, *security*, and *maintainability*.
+Para indicar que tu código puede que no esté limpio, en *PR In-product Summary* y *PR Decoration* se indicará únicamente la condición *issues* para la taxonomía Clean Code, que sustituye a *reliability*, *security*, and *maintainability*.
 
-Este cambio se ve reflejado en todas las plataformas CI platforms: GitHub, GitLab, Bitbucket, and Azure DevOps. 
+Este cambio se ve reflejado en **todas las plataformas CI**: GitHub, GitLab, Bitbucket, and Azure DevOps. 
 
 Developer Edition | Enterprise Edition | Data Center Edition
 
@@ -45,17 +45,17 @@ Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Las actualizaciones de las reglas de taxonomía de Clean Code se aplican a todos los proyectos y a todas las issues
 
-La nueva taxonima de Clean Code y las correspondientes actualizaciones de las reglas publicadas se aplican automáticamente a **todos los problemas en todos los proyectos**, tanto para analizar el código antiguo y como el recién escrito.
+La nueva taxonomía de Clean Code y las correspondientes actualizaciones de las reglas publicadas se aplican automáticamente a **todos los problemas en todos los proyectos**, tanto para analizar el código antiguo y como el nuevo.
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Excluir una regla heredada de un perfil de un Quality Profile
 
-Ahora tienes la opción de excluir reglas que no quieras de un Quality Profile heredado. 
+Ahora tienes la opción de **excluir reglas** que no quieras de un *Quality Profile* heredado. 
 
-Recordemos que, antes de esta actualización, tenías que usar todas las reglas del Quality Profile heredado en SonarQube. Por lo que, si una o varias reglas heredadas no eran relevantes para tu proyecto, la única solución era copiar el Quality Profile principal y eliminar las reglas que no eran necesarias. De esta forma se perdian todos los beneficios de un perfil heredado. 
+Recordemos que, antes de esta actualización, tenías que usar todas las reglas del *Quality Profile* heredado en SonarQube. Por lo que, si una o varias reglas heredadas no eran relevantes para tu proyecto, la única solución era **copiar el *Quality Profile* principal y eliminar las reglas** que no eran necesarias. De esta forma, se perdían todos los beneficios de un perfil heredado. 
 
-Recuerda que para poder utilizar esta nueva funcionalidad, tienes que habilitar la opción de *Enable deactivation of inherited rules* en el área de Administración. 
+Recuerda que para poder utilizar esta nueva funcionalidad, tienes que habilitar la opción de *Enable desactivation of inherited rules* en el área de Administración. 
 
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
@@ -68,7 +68,7 @@ Ya sabes que con la **metodología Clean as You Code** todo el código recién d
 
 The *Sonar way Quality Gate* ya no muestra de forma individual las categorías de *bugs, vulnerabilities*, and *code smells*. La nueva categoría individual que muestra es la de *issues*.
 
-<img width="100%" src="img/posts/" alt="FALTA IMAGEN">
+<img width="100%" src="img/posts/quality-gate-sonar-way-legacy.png" alt="Quality Gate Sonar Way">
 
 Recuerda también que el nuevo *Sonar way Quality Gate* y el *Sonar way Legacy* Quality Gate, pueden configurarse como predeterminados. 
 
@@ -76,41 +76,44 @@ Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Abre una issue en tu IDE
 
-Cuando estés conectado con SonarLint podrás abrir una *issue* desde SonarQube directamente en tu IDE.
+Cuando estés conectado con [SonarLint](/sonarlint.html) podrás abrir una *issue* desde SonarQube directamente en tu IDE.
 
-Todos las *issues* que muestra SonarQube tendrán un botón que, al hacer clic, abrirá SonarLint en tu IDE y te mostrará el código que está causando el problema
+Todas las *issues* que muestra SonarQube tendrán un botón que, al hacer clic, abrirá SonarLint en tu IDE y te mostrará el **código que está causando el problema**. Te dejamos a continuación esta imagen para que lo veas: 
 
-<img width="100%" src="img/posts/" alt="FALTA IMAGEN">
+<img width="100%" src="img/posts/abrir-issue-IDE.png" alt="Abrir issue en IDE">
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Resuelve issues externas en SonarQube
 
-Ahora puede resolver issues externas dentro de SonarQube en el mismo lugar donde aparecen las issues planteados por SonarQube. 
+Ahora puede resolver *issues* externas dentro de SonarQube en el mismo lugar donde aparecen las *issues* planteados por SonarQube. 
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
-## Stronger SonarQube Security Capabilities
+## Mejoras en las funciones de SonarQube
 
 ### Detección de secretos
 
-El **nuevo motor de detección de secretos** de Sonar te ayuda a mantenerlos fuera de tu código mientras desarrollas en tu IDE con SonarLint. 
-A diferencia de otras herramientas que solo escanean tu repositorio, SonarQube elimina esos secretos en un enfoque de shift left en la fuente, protegiéndo tu canalización de CI/ CD. 
-Sonar detecta el top 100+ patrones comunes que contienen los secretos más sensibles/ tokens. Para las empresas que quieren protegerse contra fugas de secretos exclusivos de su empresa, en la edición Enterprise Edition y Data Center Edition, podrás crear tus propias reglas personalizadas.
+El **nuevo motor de detección de secretos** de Sonar te ayuda a mantenerlos fuera de tu código mientras desarrollas en tu IDE con SonarLint.
+
+A diferencia de otras herramientas que solo escanean tu repositorio, SonarQube **elimina los secretos en un enfoque de shift left en la fuente**, protegiendo tu canalización de CI/ CD. 
+Sonar detecta el top 100 patrones comunes que contienen los secretos más sensibles/tokens.
+
+Además, las empresas que quieran protegerse contra fugas de secretos exclusivos de su organización, en la edición **Enterprise Edition y Data Center Edition**, podrán crear sus propias reglas personalizadas.
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
-### Evalúe el riesgo en relación con el informe CWE Top 25 de 2023 
+### Evalúe el riesgo en relación con el informe 2023 CWE Top 25 
 
-La página de informes de seguridad de SonarQube ahora contiene los datos de **2023 del informe CWE Top 25**. 
+La página de informes de seguridad de SonarQube ahora contiene los datos del **informe 2023 CWE Top 25**. 
 
-<img width="100%" src="img/posts/" alt="FALTA IMAGEN">
+<img width="100%" src="img/posts/report-cwe-top-25-2023.png" alt="Abrir issue en IDE">
 
 Enterprise Edition | Data Center Edition
 
 ### Sincronización de informes entre GitLab y SonarQube
 
-Con esta actualización, los **cambios de estado de las *issues* en el informe de vulnerabilidad de GitHub** se replican automáticamente a la *issues* correspondiente en SonarQube en el análisis posterior, eliminando cualquier discrepancia entre los dos sistemas.
+Con esta actualización, los **cambios de estado de las *issues* en el informe de vulnerabilidad de GitLab** se replican automáticamente a la *issues* correspondiente en SonarQube en el análisis posterior, eliminando cualquier discrepancia entre los dos sistemas.
 
 Esta funcionalidad completa una **sincronización automática bidireccional** de las *issues* de problemas entre Sonar y el informe de vulnerabilidad de GitLab.
 
@@ -118,13 +121,15 @@ Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Soporte mejorado para Dockerfiles
 
-Sonar te ayuda a crear Dockerfiles claros y consistentes mediante la ampliación de la cobertura de las reglas de Dockerfiles. El soporte para Dockerfiles ahora incluye más seguridad y otros atributos de Clean Code gracias a las 20 nuevas reglas añadidas. 
+Sonar te ayuda a **crear Dockerfiles** claros y consistentes mediante la ampliación de la cobertura de las reglas de Dockerfiles. 
+
+El soporte para Dockerfiles ahora incluye más seguridad y otros atributos de Clean Code gracias a las **20 nuevas reglas añadidas**. 
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
-### Top Security Issue Requests 
+### Principales solicitudes de problemas de seguridad
 
-A continuación, indicamos las principales solicitudes de mejora de la seguridad que se incluyen en la versión de SonarQube 10.3.
+A continuación, indicamos las **principales solicitudes de mejora** de la seguridad que se incluyen en la versión de SonarQube 10.3.
 
 1. El seguimiento de alias se mejora durante la ramificación para evitar la pérdida de un alias. <br>
 2. El análisis de contenido de código PHP se mejora mediante el soporte de variables globales.<br>
@@ -148,14 +153,15 @@ Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Sincronizar equipos entre GitHub y SonarQube
 
-Para las empresas con permisos de proyectos complejos, pueden configurar SonarQube para **sobrescribir la asignación de permisos predeterminada** y sincronizar automáticamente los usuarios, permisos y grupos de GitHub. 
+Para las empresas con permisos de proyectos complejos, podrán configurar SonarQube para **sobrescribir la asignación de permisos predeterminada** y sincronizar automáticamente los usuarios, permisos y grupos de GitHub. 
 
 Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Soporte para Blazor Framework
 
-Sonar ha añadido soporte para el **Blazor front-end web framework** para la construcción de interfaz de usuario web interactiva del lado del cliente en .NET.
-Al aprovechar **.NET, C#, HTML, plantillas de Razor y SonarQube** de forma conjunta se puede construir aplicaciones web que contengan código limpio. Al añadir el soporte para Blazor en SonarQube ya se puede analizar css, html y archivos Razor para la construcción de aplicaciones front-end y C# para aplicaciones back-end en proyectos .NET.
+Sonar ha añadido soporte para el **Blazor front-end web framework** para la el desarrollo de aplicaciones front-end y C# para aplicaciones back-end en proyectos .NET.
+
+Al aprovechar **.NET, C#, HTML, plantillas de Razor y SonarQube** de forma conjunta se pueden construir aplicaciones web que contengan código limpio. 
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
@@ -163,17 +169,17 @@ Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Mensajes informativos
 
-Después de actualizar a la nueva versión y con las nuevas reglas, es posible que existan cambios en los resultados de los análisis. Para ayudarte a que los entiendas, los detalles de cada cambio **aparecerán en la secuencia de actividades** para explicar lo que ha pasado como resultado de la actualización.
+Después de actualizar a la nueva versión y con las nuevas reglas, es posible que existan cambios en los resultados de los análisis. Para ayudarte a entenderlos, los detalles de cada cambio **aparecerán en la secuencia de actividades** para explicar lo que ha pasado como resultado de la actualización.
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### UI Actualizaciones  
 
 Con respecto a la **interfaz de usuario** se han actualizado las siguientes áreas:
-1. Página de Quality Gate 
-2. Página de reglas 
-3. Página de perfiles de calidad 
-4. La configuración modal de la plataforma DevOps será visible durante el proyecto onboarding
+1. Página de *Quality Gate*. 
+2. Página de reglas. 
+3. Página de perfiles de calidad. 
+4. La configuración modal de la plataforma DevOps será visible durante el proyecto onboarding.
 
 Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
