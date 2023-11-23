@@ -24,11 +24,13 @@ En esta cita indispensable, los distintos/as invitados/as explicarán cómo es p
 
 A continuación, te mostramos la agenda del evento que arrancará a las 18:00 horas y finalizará a las 21:00 horas:
 
-<li><strong>Bienvenida</strong>: Líderes de la Comunidad de eventos de Atlassian en Madrid.</li>
-<li><strong>ITSM Transformation and Modernization</strong>: Anand Unadkat, Senior Technical Architect, ITSM Channel Partners en Atlassian.</li>
-<li><strong>Jira Service Management as an ESM solution</strong>: Patricia Jezeh, ITSM Solution Engineer en Atlassian.</li>
-<li><strong>Getting the most out of Jira Service Management</strong>: Khaled Zaier, Customer Success Manager en Atlassian.</li>
-<li><strong>Mesa redonda de preguntas y respuestas</strong>:  Atlassian + Partners de Atlassian en España.</li><br>
+<li><strong>18:00 - 18:20 horas - Bienvenida y presentación</strong>: Líderes de la Comunidad de eventos de Atlassian en Madrid.</li>
+<li><strong>18:30 - 18:45 horas -ITSM Transformation and Modernization</strong>: Anand Unadkat, Senior Technical Architect, ITSM Channel Partners en Atlassian.</li>
+<li><strong>18:50 - 19:05 horas - Jira Service Management as an ESM solution</strong>: Patricia Jezeh, ITSM Solution Engineer en Atlassian.</li>
+<li><strong>19:10 - 19:25 horas - Getting the most out of Jira Service Management</strong>: Khaled Zaier, Customer Success Manager en Atlassian.</li>
+<li><strong>19:30 - 19:55 horas - Mesa redonda: Q&A</strong>: Atlassian + Partners de Atlassian en España.</li>
+<li><strong>20:00 - 21:00 horas -  High Velocity ITSM vídeos + Networking </strong></li><br>
+
 El lugar elegido para celebrar este evento es la **Sala Utopicus de Príncipe de Vergara**.
 
 No olvides reservar tu plaza a través de [este enlace](https://ace.atlassian.com/events/details/atlassian-madrid-presents-high-velocity-itsm-madrid/)
