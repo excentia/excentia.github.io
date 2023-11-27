@@ -15,6 +15,8 @@ cover: /img/posts/2023-11-10-que-es-git-flow.jpg
 
 <img width="100%" src="img/posts/2023-11-10-que-es-git-flow.jpg" alt="¿Que es Gitflow?">
 
+¡Hola! Me presento, soy **Mario Bastardo, Sonar Bug Hunter en excentia** y he decidido escribir este post porque creo que, como desarrollador/a, te puede ayudar en tu día a día. En concreto, en este artículo voy a hablar del modelo Gitflow. ¡Empecemos!
+
 <h2>¿Qué es Gitflow?</h2>
  
  Gitflow es un modelo de utilización de ramas para Git y que fue creado en 2010 por **Vincent Driessen**. 
@@ -149,4 +151,8 @@ La rama se eliminará tras haber *mergeado* contra *develop*.
 
 Existen utilidades, [como git-flow](https://github.com/nvie/gitflow) del propio Vincent Dreissel que de alguna forma automatiza la creación de todas estas ramas. Personalmente no las recomiendo por aportar una complejidad añadida que, aunque es mínima, es innecesaria. Una vez acostumbrado al sistema Gitflow, el funcionamiento y creación de ramas manualmente es realmente intuitivo.
 
-Y hasta aquí mi artículo sobre Gitflow. Recuerda que si tienes dudas o quieres realizarnos alguna consulta, puedes ponerte en [contacto con nosotros](https://www.excentia.es/contacto)
+Y hasta aquí mi artículo sobre Gitflow. 
+
+Recuerda que si quieres realizarnos alguna consulta, no dudes en [contactarnos.](https://www.excentia.es/contacto)
+
+¡Hasta pronto!
