@@ -1,14 +1,13 @@
-<!-- Portfolio Grid Section -->
-    <section id="blog-grid">
-        <div class="container">
-            {% assign rows = 21 | divided_by: 3.0 | ceil %}
-            {% assign totalPosts = 0 %}
-            {% for i in (1..rows) %}
-              {% assign offset = forloop.index0 | times: 3 %}
-              <div class="row">
-                {% for post in site.posts %}
-                {% unless post.path contains '_en' %}
-                <div class="col-md-4 portfolio-item">
+<<!-- Portfolio Grid Section -->
+<section id="blog-grid">
+    <div class="container">  
+
+        {% assign rows = 1 | divided_by: 3.0 | ceil %}
+        {% for i in (1..rows) %}
+          {% assign offset = forloop.index0 | times: 3 %}
+          <div class="row">
+            {% for post in site.posts limit:3 offset:offset %}
+              <div class="col-md-4 portfolio-item">
                                 <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
                                   <img width="100%" src="{{ post.cover }}"/>
                                   <h5>
@@ -40,15 +39,9 @@
                                     <p class="list-group-item-text" style="padding-bottom: 10px;">{{ post.description | strip_html }}</p>
                                 </a>
                             </div>
-                {% assign totalPosts = totalPosts | plus: 1 %}
-                {% endunless %}
-                {% if totalPosts == 3 %}
-                  {% break %}
-                {% endif %}
-                {% endfor %}
-              </div>
-            {% endfor %}
-            
+                            {% endfor %}
+                        </div>
+                      {% endfor %}
         </div>
     </section>
 <!--
