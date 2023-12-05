@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube/SonarCloud Connector for Jira Server/Data Center 2.30'
-description: Crea issues de Jira a partir de las evidencias del reporte de OWASP ASVS.
+description: Nueva funcionalidad para nuestro conector de Sonar y Jira.
 date: '2023-11-12T08:00:00Z'
 author: Belén Casanovas
 categories:
