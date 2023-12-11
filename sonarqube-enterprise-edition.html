@@ -12,33 +12,85 @@ description: Solicita la licencia SonarQube Enterprise Edition
     </div>
     <div class="row">
       <div class="col-md-6 text-left">
-        <img src="img/sonarsource-products/licencia-sonarqube-enterprise-edition.png" alt="Solicita tu licencia SonarQube Enterprise Edition" height="180px">
-        <p class="header-text" style="font-size:40px; line-height:60px">
-          <strong>Diseñado para cumplir los requisitos empresariales</strong></p>
         <p class="header-text">
-          Gestionar la calidad y la seguridad del código a escala empresarial.
+          <strong>Diseñado para cumplir los requisitos empresariales</strong>
         </p>
-        <p><img src="img/sonarsource-products/portfolio.svg" alt="Portfolio Management" style="color:#fff"> Portfolio Management
-        </p> 
-        <p><img src="img/sonarsource-products/branch.svg" alt="Branch &amp; Pull Request Analysis" style="color:#fff"> Branch &amp; Pull Request Analysis
-        </p> 
-        <p><img src="img/sonarsource-products/security.svg" alt="Security Vulnerabilities" style="color:#fff"> Vulnerabilidades de Seguridad
-        </p> 
-        <p><img src="img/sonarsource-products/language.svg" alt="27 Languages" style="color:#fff"> 27 Lenguajes
+        <p>
+          Gestiona la calidad y la seguridad del código a escala empresarial.<br><br>
+          <img src="img/sonarsource-products/portfolio.svg" alt="Portfolio Management" style="color:#fff"> Portfolio Management<br>
+          <img src="img/sonarsource-products/branch.svg" alt="Branch &amp; Pull Request Analysis" style="color:#fff"> Branch &amp; Pull Request Analysis<br>
+          <img src="img/sonarsource-products/security.svg" alt="Security Vulnerabilities" style="color:#fff"> Vulnerabilidades de Seguridad<br>
+          <img src="img/sonarsource-products/language.svg" alt="27 Languages" style="color:#fff"> 27 Lenguajes<br>
         </p> 
       </div>
       <div class="col-md-6">
-        <h3>Solicita tu licencia de evaluación de 14 días</h3>
-        <!--SonarQube Enterprise Edition License Form-->
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-  region: "na1",
-  portalId: "7892756",
-  formId: "83af9138-97c2-4e8d-82f2-44ae9fbee5dc"
-});
-</script>
+        <h3>Solicita tu licencia de evaluación</h3><br>
+        <form action="https://formspree.io/f/xeqbypal" method="POST">
+          <div class="col-md-12 col-sm-12">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label for="size"><span>Selecciona tu rango de líneas de código</span></label>
+                <select id="size" name="size" required >
+                  <option disabled="" value="">Selecciona</option>
+                  <option value="1 millón">hasta 1 millón de líneas</option>
+                  <option value="2 millones">hasta 2 millones de líneas</option>
+                  <option value="5 millones">hasta 5 millones de líneas</option>
+                  <option value="10 millones">hasta 10 millones de líneas</option>
+                  <option value="20 millones">hasta 20 millones de líneas</option>
+                  <option value="30 millones">hasta 30 millones de líneas</option>
+                  <option value="50 millones">hasta 50 millones de líneas</option>
+                  <option value="100 millones">hasta 100 millones de líneas</option>
+                </select>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div>
+              <input type="text" name="sonarqube-edition" style="display:none" value="Solicitud de licencia SonarQube Developer Edition"/>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="text" name="name" class="form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="email" name="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="text" name="server-id" class="form-control" placeholder="Server ID de tu instancia de SonarQube (opcional)" id="server-id">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div>
+              <input type="text" name="_gotcha" style="display:none"/>
+            </div>
+            <div class="row control-group">
+              <div class="form-group-2 col-xs-12 floating-label-form-group controls">
+                <textarea name="message" class="form-control" rows="3" placeholder="Indícanos información adicional (opcional)" id="message"></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <p style="font-size: 1em;"><strong>excentia</strong> se compromete a respetar tu privacidad, y solo usaremos tu información para proporcionar productos, servicios y contenido que pueda ser de interés para tí.</p>
+                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Por favor lee y acepta la política de privacidad y los términos y condiciones">
+                <label class="form-check-label" for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
+              </div>
+            </div>
+            <div id="success"></div>
+            <div class="block">
+              <button type="submit" class="btn btn-warning btn-xl">Solicitar evaluación</button>
+            </div>
+          </div>
+        </form>
+
+
       </div>
+
     </div>
   </div>
 </section>

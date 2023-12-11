@@ -1230,3 +1230,18 @@ img.center {
       background-color: #FF8200;
       border-color: black;
 }
+
+.help-block {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: red;
+  font-size: 1em;
+  text-align: left;
+}
+
+.help-block ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
