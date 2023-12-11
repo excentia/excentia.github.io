@@ -72,7 +72,7 @@ Para el control de acceso, Data Center ofrece **SAML 2.0**, lo que te permite us
 
 Son siempre muchos los aspectos a valorar antes de afrontar una migración, y si necesitas asesoramiento nosotros estaremos encantados de ayudarte a tomar la mejor decisión y en la forma más transparente posible.
 
-<a href="#contact-form-hubspot"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.8em; font-weight: bold;" > Contáctanos </span></a>
+<a href="#contact-form"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.8em; font-weight: bold;" > Contáctanos </span></a>
 
 <br/>
 <div style="border:1px solid #37394f; padding:20px 20px;background:#fff; color:#000; ">
@@ -83,7 +83,7 @@ Son siempre muchos los aspectos a valorar antes de afrontar una migración, y si
 <p><img src="/img/posts/2021-04-26-ventajas-migrar-atlassian-data-center-ebook.png" width="20%" style="padding:0 30px" alt="Los 4 motivos por los que es hora de probar Atlassian Data Center">
 </p>
 <br/>
-<a href="https://excentia.hubspotpagebuilder.com/ventajas-de-atlassian-data-center" class="btn btn-outline-white btn-xl" target="_blank" style="background:#37394f;border:none; font-weight: bold; font-size:0.8em" >Descarga el PDF > </a>
+<a href="https://www.excentia.es/pdf/atlassian/whitepaper/4_reasons_it_is_time_to_try_data_center_ES.pdf" class="btn btn-outline-white btn-xl" target="_blank" style="background:#37394f;border:none; font-weight: bold; font-size:0.8em" >Descarga el PDF > </a>
 
 <br/>
 <br/>

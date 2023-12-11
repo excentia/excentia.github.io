@@ -86,7 +86,7 @@ Nuestro equipo de expertos lleva años asesorando sobre temas relacionados con l
 <p><img src="/img/pdf/planificacion-migracion-atlassian-cloud-checklist.png" width="20%" style="padding:0 30px" alt="Como migrar a Atlassian Cloud con exito">
 </p>
 <br/>
-<a href="https://excentia.hubspotpagebuilder.com/planificacion-de-la-migracion-a-atlassian-cloud" class="btn btn-outline-white btn-xl" target="_blank" style="background:#37394f;border:none; font-weight: bold; font-size:0.8em" >Descarga el PDF > </a>
+<a href="https://www.excentia.es/pdf/atlassian/whitepaper/planificacion-migracion-atlassian-cloud-checklist.pdf" class="btn btn-outline-white btn-xl" target="_blank" style="background:#37394f;border:none; font-weight: bold; font-size:0.8em" >Descarga el PDF > </a>
 
 <br/>
 <br/>
