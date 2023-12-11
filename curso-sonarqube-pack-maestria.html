@@ -278,27 +278,45 @@ description: Curso SonarQube Pack Maestría | Bundle Curso SonarQube para Usuari
         <h3 style="text-transform: uppercase;"><strong>CURSO SONARQUBE PACK Maestría</strong></h3>
         <p class="header-text">Incluye dos cursos:<br/>Curso Sonarqube para Usuarios + Curso SonarQube para
           Administradores</p>
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-        <!-- formulario para proximas convocatorias -->
-        <!--
-        <script>
-          hbspt.forms.create({
-            region: "na1",
-            portalId: "7892756",
-            formId: "4d3b219f-e566-40ac-9485-c379c3b4a059",
-            version: "V2_PRERELEASE"
-          });
-        </script> -->
-
-        <!-- formulario para comprar -->
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-        <script>
-          hbspt.forms.create({
-            region: "na1",
-            portalId: "7892756",
-            formId: "f49b2411-5630-4fe5-9338-052f374b69d2"
-          });
-        </script>
+        <form action="https://formspree.io/f/xyyqrdwy" method="POST">
+          <div class="col-md-12 col-sm-12">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="text" name="name" class="form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="email" name="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div>
+              <input type="text" name="curso" style="display:none" value="Pack Maestría de SonarQube"/>
+            </div>
+            <div>
+              <input type="text" name="_gotcha" style="display:none"/>
+            </div>
+            <div class="row control-group">
+              <div class="form-group-2 col-xs-12 floating-label-form-group controls">
+                <textarea name="message" class="form-control" rows="3" placeholder="Tu mensaje" id="message" required data-validation-required-message="Por favor escribe un mensaje.">¡Quiero apuntarme al Pack de Maestría de SonarQube!</textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <p><strong>excentia</strong> se compromete a respetar tu privacidad, y solo usaremos tu información para proporcionar productos, servicios y contenido que pueda ser de interés para tí.</p>
+                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Por favor lee y acepta la política de privacidad y los términos y condiciones">
+                <label class="form-check-label" for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
+              </div>
+            </div>
+            <div id="success"></div>
+            <div class="block">
+              <button type="submit" class="btn btn-warning btn-xl">INSCRIBIRME</button>
+            </div>
+          </div>
+        </form>
       </div>
     </div>
   </div>
@@ -361,8 +379,15 @@ description: Curso SonarQube Pack Maestría | Bundle Curso SonarQube para Usuari
             </div>
             <div class="enlace-curso">
               <div class="row">
-                <a href="https://share.hsforms.com/1htMnP86zRFylsE9KnIzbQA4p638" target="_blank"
-                   class="btn btn-warning btn-xl sonarsource-background" style="border-radius: 4px;">Subscríbete</a>
+                <form action="https://eepurl.com/dJkEiv" method="get" target="_blank" name="newsletter-signup-form" id="newsletter-signup-form" novalidate="" data-hs-cf-bound="true">
+                  <div class="row control-group">
+                    <div class="form-group floating-label-form-group" style="padding-left:0px;">
+                      <div class="block">
+                        <button type="submit" style="border-radius:4px; color: white;" class="btn btn-warning">SUSCRIBIRME</button>
+                      </div>
+                    </div>
+                  </div>
+                </form>
               </div>
             </div>
           </div>

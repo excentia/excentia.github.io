@@ -12,32 +12,84 @@ description: Request your trial licence for SonarQube Developer Edition here. Tr
     </div>
     <div class="row">
       <div class="col-md-6 text-left">
-        <center>
-        <img src="/img/sonarsource-products/licencia-sonarqube-developer-edition.png" height="180px" alt="Request your trial license SonarQube Developer Edition">
-      </center>
-        <p class="header-text" style="font-size:40px; line-height:60px">
-          <strong> Built for Developers By Developers</strong></p>
         <p class="header-text">
-          Features to track and improve code quality and code security in your applications.
-        </p>
-        <p><img src="/img/sonarsource-products/branch.svg" alt="Branch &amp; Pull Request Analysis" style="color:#fff"> Branch &amp; Pull Request Analysis
-        </p> 
-        <p><img src="/img/sonarsource-products/security.svg" alt="Security Vulnerabilities" style="color:#fff"> Security Vulnerabilities
-        </p> 
-        <p><img src="/img/sonarsource-products/language.svg" alt="22 Languages" style="color:#fff"> 22 Languages
+          <strong> Built for Developers By Developers</strong></p>
+        <p>
+          Features to track and improve code quality and code security in your applications.<br><br>
+          <img src="/img/sonarsource-products/branch.svg" alt="Branch &amp; Pull Request Analysis" style="color:#fff"> Branch &amp; Pull Request Analysis<br>
+          <img src="/img/sonarsource-products/security.svg" alt="Security Vulnerabilities" style="color:#fff"> Security Vulnerabilities<br>
+          <img src="/img/sonarsource-products/language.svg" alt="22 Languages" style="color:#fff"> 22 Languages<br>
         </p> 
       </div>
       <div class="col-md-6">
-        <h3>Request your trial license for 14 days</h3>
+        <h3>Request your trial license</h3><br>
         <!--SonarQube Developer Editon License Form ENG-->
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-hbspt.forms.create(
-{ region: "na1", portalId: "7892756", formId: "7c66ac45-5005-4444-a8a4-3eb3260650f4" }
-
-);
-</script>
-</script>
+        <form action="https://formspree.io/f/xeqbypal" method="POST">
+          <div class="col-md-12 col-sm-12">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label for="size"><span>Select your source code size</span></label>
+                <select id="size" name="size" required >
+                  <option disabled="" value="">Select</option>
+                  <option value="100k" selected="">up to 100k</option>
+                  <option value="250k">up to 250k</option>
+                  <option value="500k">up to 500k</option>
+                  <option value="1M">up to 1M</option>
+                  <option value="2M">up to 2M</option>
+                  <option value="5M">up to 5M</option>
+                  <option value="10M">up to 10M</option>
+                  <option value="20M">up to 20M</option>
+                </select>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div>
+              <input type="text" name="sonarqube-edition" style="display:none" value="Solicitud de licencia SonarQube Developer Edition"/>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="text" name="name" class="form-control" placeholder="Your name" id="name" required data-validation-required-message="Please, enter your name.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="email" name="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Please, enter your email address.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="text" name="server-id" class="form-control" placeholder="SonarQube Server ID (optional)" id="server-id">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div>
+              <input type="text" name="_gotcha" style="display:none"/>
+            </div>
+            <div class="row control-group">
+              <div class="form-group-2 col-xs-12 floating-label-form-group controls">
+                <textarea name="message" class="form-control" rows="3" placeholder="Additional information (optional)" id="message"></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <p style="font-size: 1em"><strong>excentia</strong> is committed to respecting your privacy, and we’ll use your information
+                  to provide products, services and content that may be of interest to you.</p>
+                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Please read and agree with privacy policy and terms and conditions">
+                <label class="form-check-label" for="agreement">I agree to excentia <a
+                    href="https://www.excentia.es/en/privacy" target="_blank">privacy policy</a> and <a
+                    href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">terms
+                  and conditions</a></label>
+              </div>
+            </div>
+            <div id="success"></div>
+            <div class="block">
+              <button type="submit" class="btn btn-warning btn-xl">Request Trial</button>
+            </div>
+          </div>
+        </form>
       </div>
     </div>
   </div>
