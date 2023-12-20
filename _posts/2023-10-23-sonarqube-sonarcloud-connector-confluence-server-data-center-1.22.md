@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube/SonarCloud Connector For Confluence Server/Data Center 1.22'
-description: Nueva versión 1.22 para nuestro conector de SonarQube y SonarCloud con Confluence para las ediciones Server o Data Center.
+description: Mejoras en la interfaz y más velocidad en la nueva versión de este conector. 
 date: '2023-10-23T08:00:00Z'
 author: Belén Casanovas
 categories:
