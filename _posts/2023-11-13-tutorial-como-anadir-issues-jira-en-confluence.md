@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'Tutorial: ¿Cómo añadir issues de Jira en Confluence?'
-description: Crea issues de Jira a partir de las evidencias del reporte de OWASP ASVS.
+description: En este tutorial te vamos a enseñar a añadir issues de Jira Cloud en Confluence Cloud. 
 date: '2023-11-12T08:00:00Z'
 author: Belén Casanovas
 categories:
 - tutorial
 - confluence
 - jira
-
 
 cover: /img/posts/2023-11-13-tutorial-como-anadir-issues-jira-en-confluence.jpg
 

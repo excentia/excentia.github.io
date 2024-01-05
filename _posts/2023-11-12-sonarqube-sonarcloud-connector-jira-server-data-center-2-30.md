@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube/SonarCloud Connector for Jira Server/Data Center 2.30'
-description: Nueva funcionalidad para nuestro conector de Sonar y Jira.
+description: Nueva funcionalidad para nuestro conector de SonarQube/SonarCloud y Jira Software.
 date: '2023-11-12T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -9,7 +9,6 @@ categories:
 - sonarcloud
 - jira
 - marketplace
-
 
 cover: /img/posts/2023-11-12-sonarqube-sonarcloud-connector-jira-server-data-center-2-30.png
 
