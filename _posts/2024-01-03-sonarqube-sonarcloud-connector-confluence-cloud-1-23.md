@@ -35,6 +35,10 @@ Por último, mostramos una imagen de un reporte de **Rating**
 
 <img width="80%" src="img/posts/2024-01-03-reporte-rating-sonarqube.png" alt="SonarQube Connector Confluence Report Rating">
 
-Si eres usuario de la aplicación SonarQube/SonarCloud Connector for Confluence **no tendrás que hacer nada**, ya que tu instancia Cloud se actualiza sola. 
+Y aquí te dejamos un video demostración para que veas como obtener estos reportes en directo, en una instancia de Confluence Cloud: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BDb21g1O5Ds?si=YP5M_uVrd4hn-9nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Esta nueva funcionalidad ya está disponible para las **instancias de Confluence Cloud, Server y Data Center**. 
 
 Si todavía no has probado esta aplicación, puedes obtener su prueba gratuita a través del **Marketplace de Atlassian**. Te dejamos [aquí el enlace](https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?tab=overview&hosting=cloud) de descarga.
