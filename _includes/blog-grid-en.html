@@ -8,7 +8,6 @@
               {% if i > 1 %}
               <div class="row">
                 {% for post in site.posts limit:3 offset:offset %}
-                   {% if post.path contains '_en' %}
                   <div class="col-md-4 portfolio-item">
                      <a href="{{ post.url }}" class="list-group-item" style="border: 0px">
                                   <img width="100%" src="{{ post.cover }}"/>

@@ -39,14 +39,11 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://facebook.com/excentia
+
   - title: twitter
     url: https://twitter.com/excentia
   - title: linkedin
     url: https://www.linkedin.com/company/excentia
-  - title: instagram
-    url: https://www.instagram.com/instaexcentia
   - title: youtube-play
     url: https://www.youtube.com/user/eXcentiaTube
   - title: feed
