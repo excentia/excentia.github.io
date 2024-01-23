@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonar se alza con el oro en los Globee Awards 2023'
-description: Consigue el máximo galardon en la categoría de Herramientas para desarrolladores
+description: SonarQube ha conseguido el máximo galardon en la categoría de Herramientas para desarrolladores de los Globee Awards 2023.
 
 date: '2023-06-15T08:00:00Z'
 author: Belén Casanovas

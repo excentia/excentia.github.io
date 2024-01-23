@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '5 razones por las que asistir al #vlctesting17'
-description: Descubre por qué deberías asistir al evento de calidad y testeo de software más esperado del año.
+description: Descubre las razones por las que deberías asistir al evento de calidad y testeo de software más esperado del año.
 date: '2017-11-03T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 

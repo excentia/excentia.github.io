@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Qué es DevOps?'
-description: ¡Bienvenidos al primer artículo de excentiaDevOps! Empecemos por lo fundamental - ¿qué es DevOps?
+description: En este artículo te vamos a explicar que significa el término DevOps y de las herramientas que ayudan a este perfil.
 date: '2017-11-17T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
