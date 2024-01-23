@@ -67,23 +67,6 @@ Elegir la nube es mirar al futuro y apuntar por la seguridad, la velocidad, la p
 
 ## Quieres saber más sobre las razones para migrar a Cloud?
 
-Descarga el informe técnico detallado.
+Descarga el informe técnico detallado haciendo tu solicitud a través de [este enlace](https://www.excentia.es/contacto).
 
-<center>
-<img src="/img/pdf/atlassian-whitepaper-5_motivos_para_migrar_a_la_nube.png" width="30%" alt="Descubre las razones para migrar a cloud"></a>
-<br/>
-<br/>
-<a href="/contacto.html" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold; font-size:0.8em" >Solicitar descarga> </a>
-
-</center>
-
-<br/>
-<div style="border:1px solid #FF8200; padding:20px 20px; ">
-<h3>¿Tienes dudas sobre sobre la solución ideal para tu empresa?</h3> 
-<p style="font-size:1.1em;">Contacta con nosotros y te asesoraremos para que puedas encontrar la solución perfecta.
-</p>
-<span id="contact-button" class="btn btn-outline-white btn-xl" style="background:#1D252; border:none" >Contáctanos</span>
-<br>
-</div>
-
-<br>
+<img width="30%" src="/img/pdf/atlassian-whitepaper-5_motivos_para_migrar_a_la_nube.png" alt="Descubre las razones para migrar a cloud">
