@@ -70,10 +70,10 @@ Elegir la nube es mirar al futuro y apuntar por la seguridad, la velocidad, la p
 Descarga el informe técnico detallado.
 
 <center>
-<a href="https://excentia.hubspotpagebuilder.com/5-motivos-para-migrar-a-la-nube"><img src="/img/pdf/atlassian-whitepaper-5_motivos_para_migrar_a_la_nube.png" alt="Descubre las razones para migrar a cloud"></a>
+<img src="/img/pdf/atlassian-whitepaper-5_motivos_para_migrar_a_la_nube.png" width="30%" alt="Descubre las razones para migrar a cloud"></a>
 <br/>
 <br/>
-<a href="https://excentia.hubspotpagebuilder.com/5-motivos-para-migrar-a-la-nube" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold; font-size:0.8em" >Descarga ahora > </a>
+<a href="/contacto.html" class="btn btn-outline-white btn-xl" style="background:#FF8200;border:none; font-weight: bold; font-size:0.8em" >Solicitar descarga> </a>
 
 </center>
 
