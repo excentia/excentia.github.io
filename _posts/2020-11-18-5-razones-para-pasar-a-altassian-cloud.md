@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: '5 razones para elegir la nube'
-description: Y los riesgos de quedarse atrás
+
+description: Te explicamos por qué deberías migrar tus soluciones a la nube y los riesgos de quedarse en una instancia server. ¡No te lo pierdas! 
 date: '2020-11-18T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
@@ -69,4 +70,4 @@ Elegir la nube es mirar al futuro y apuntar por la seguridad, la velocidad, la p
 
 Descarga el informe técnico detallado haciendo tu solicitud a través de [este enlace](https://www.excentia.es/contacto).
 
-<img width="30%" src="/img/pdf/atlassian-whitepaper-5_motivos_para_migrar_a_la_nube.png" alt="Descubre las razones para migrar a cloud">
+<img width="30%" src="/img/pdf/atlassian-whitepaper-5_motivos_para_migrar_a_la_nube.png" alt="Descubre las razones para migrar a cloud">.
