@@ -59,7 +59,7 @@ Más detalles sobre el <a href="https://confluence.excentia.es/display/SQCON/Son
 <hr>
 <br/>
 
-<div id="contact-form-hubspot">
+<div id="contact-form">
 	<h1>¿Necesitas soporte para tus productos de Atlassian?</h1>
 	<p>Si necesitas un desarrollo personalizado, asesoramiento con componentes de terceros, migración de datos, unificación de instancias, o otra gestión contactanos sin compromiso y te responderemos en menos de 24 horas.</p>
 <br/>

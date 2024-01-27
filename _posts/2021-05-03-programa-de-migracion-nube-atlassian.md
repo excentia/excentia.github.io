@@ -39,7 +39,7 @@ Parte de una migración exitosa a la Nube es obtener una comprensión detallada 
 <h3>¿Quieres pedir tu prueba gratuita de la Nube de Atlassian?</h3> 
 <p style="font-size:1.1em;">Contactanos sin compromiso para evaluar juntos la solución más idónea a tus necesidades.
 </p>
-<a href="#contact-form-hubspot"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.8em; font-weight: bold;" > Contáctanos </span></a>
+<a href="#contact-form"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.8em; font-weight: bold;" > Contáctanos </span></a>
 <br/>
 <br/>
 </div>
@@ -83,7 +83,7 @@ Por esto nuestro equipo, **certificado por Atlassian**, te brindará la ayuda y 
 <hr>
 <br/>
 <!--Atlassian Contact Form-->
-<div id="contact-form-hubspot">
+<div id="contact-form">
 	<h1>¿Necesitas ayuda con los productos o planes de Atlassian?</h1>
 	<p>Contactanos sin compromiso y te responderemos en menos de 24 horas.</p>
 <br/>

@@ -74,7 +74,7 @@ La mayoría de los profesionales de DevOps están de acuerdo, citando a las **pe
 <p><img src="/img/pdf/mejores-herramientas-devops-atlassian.png" width="20%" style="padding-left:10px" alt="Herramientas DevOps de Atlassian">
 </p>
 <br/>
-<a href="http://excentia.hubspotpagebuilder.com/herramientas-devops-atlassian" target="_blank" class="btn btn-warning btn-xl" target="_blank" style="background:#37394f;border:none;" >Descarga la guía > </a>
+<a href="https://www.excentia.es/pdf/atlassian/whitepaper/mejores-herramientas-devops-atlassian.pdf" target="_blank" class="btn btn-warning btn-xl" target="_blank" style="background:#37394f;border:none;" >Descarga la guía > </a>
 
 <br/>
 <br/>

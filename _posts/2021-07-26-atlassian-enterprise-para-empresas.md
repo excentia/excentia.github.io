@@ -65,7 +65,7 @@ La solución a largo plazo que estaba buscando, para cubrir tus necesidades de h
 </p>
 <br/>
 <br/>
-<a href="https://excentia.hubspotpagebuilder.com/atlassian-cloud-enterprise" target="_blank" class="btn btn-warning btn-xl" target="_blank" style="background:#37394f;border:none;" >Descarga la guía > </a>
+<a href="https://www.excentia.es/pdf/atlassian/whitepaper/atlassian-cloud-enterprise-funcionalidades.pdf" target="_blank" class="btn btn-warning btn-xl" target="_blank" style="background:#37394f;border:none;" >Descarga la guía > </a>
 
 <br/>
 <br/>
