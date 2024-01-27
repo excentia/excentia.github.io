@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarSource City Tour Madrid 2017'
-description: SonarSource City Tour llega a Madrid de la mano de excentia
+description: El tour de eventos de SonarSource City Tour llega a Madrid de la mano de excentia. Te contamos aquí todos los detalles. 
 date: '2017-10-13T09:00:00.000+01:00'
 author: Andrea Crespo
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '5 pasos para crear un cuadro de mando excelente en el software Jira'
-description: Descubre cómo potenciar tus prácticas ágiles con este cuadro de mando ágil en Jira Software
+description: Te explicamos en 5 pasos cómo puedes hacer un cuadro de mandos en Jira Software y potenciar tus prácticas ágiles.
 
 date: '2022-05-03T08:00:00Z'
 author: Marisa Martín

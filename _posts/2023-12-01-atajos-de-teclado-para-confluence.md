@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18 atajos de teclado para Confluence'
-description: Te enseñamos cuáles son los atajos de teclado para Confluence para que trabajes más rápido
+description: En este artículo te enseñamos cuáles son los atajos de teclado para Confluence para que trabajes más rápido. ¿Los conocías?
 date: '2023-12-01T08:00:00Z'
 author: Belén Casanovas
 categories:

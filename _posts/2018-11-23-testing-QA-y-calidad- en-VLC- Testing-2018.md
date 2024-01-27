@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Testing, QA y calidad en VLC Testing 2018'
-description: Repasamos el evento referente en calidad de software Ocho ediciones de éxito en QA y Testing.    
+description: Repasamos el evento referente en calidad de software CON Ocho ediciones de éxito en QA y Testing.¡No te lo pierdas!    
 date: '2018-11-23T08:00:00.000+01:00'
 author: Andrea Crespo  
 categories: 
