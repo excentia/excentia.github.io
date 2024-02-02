@@ -7,6 +7,7 @@ author: Belén Casanovas
 categories:
 - jira software
 - atlassian
+- tutorial
 
 
 cover: /img/posts/2023-12-11-que-son-los-sprints-jira-software.png
