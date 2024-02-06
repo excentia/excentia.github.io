@@ -7,6 +7,7 @@ author: Belén Casanovas
 categories:
 - confluence
 - atlassian
+- tutorial
 
 
 cover: /img/posts/2023-12-01-atajos-de-teclado-para-confluence.png
