@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sonar, Silver Winner por Best in Biz Awards en Enterprise Product of the Year'
+title: 'Sonar, premiado por Best in Biz Awards'
 description: Nuevo renocimiento para la gama de productos de Sonar. ¡Te lo contamos!
 date: '2023-12-13T08:00:00Z'
 author: Belén Casanovas
