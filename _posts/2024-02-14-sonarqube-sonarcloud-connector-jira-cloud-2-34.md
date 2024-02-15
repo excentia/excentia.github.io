@@ -25,7 +25,7 @@ Esta novedad la puedes encontrar dentro de las tarjetas de los proyectos.
 
 A continuación, te mostramos un video dónde puedes encontrar esta nueva funcionalidad:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4iL5A7s6qoI?si=4_0JtVkSUtn9Xp54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-NUc76vaYGU?si=JkaKfwVlkX0rXjtV" title="Release Conector Sonar y Jira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Aquí te dejamos algunos **enlaces de interés** sobre el conector de SonarQube y SonarCloud con tu instancia de Jira: 
 
