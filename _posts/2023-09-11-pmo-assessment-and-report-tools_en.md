@@ -6,6 +6,7 @@ description: It's all about priorities!
 date: '2023-09-11T08:00:00Z'
 author: Hugo Mora
 categories:
+
 - productos
 - atlassian
 - apps
