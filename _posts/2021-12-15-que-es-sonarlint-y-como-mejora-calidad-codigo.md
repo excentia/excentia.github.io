@@ -71,17 +71,15 @@ El análisis de alta precisión sobre la marcha significa **menos falsos positiv
 
 ## Mejora la calidad tu código con SonarLint
 
-¿Que estas esperando? Descarga gratuitamente [**SonarLint**](https://www.sonarlint.org/) y comienza a mejorar la calidad y la seguridad de tu código.
+¿A qué estas esperando? Descarga gratuitamente [**SonarLint**](https://www.sonarlint.org/) y comienza a mejorar la calidad y la seguridad de tu código.
+
+Por cierto, aquí te dejamos los cursos que tenemos en la **actualidad de SonarQube** donde también hablamos de cómo puedes aprovechar el potencial de **SonarLint**: 
 
 
-Por cierto, aquí te dejamos los curso que tenemos en la actualidad de SonarQube por si quieres inscribirte: 
+<a href="https://www.excentia.es/formacion?utm_source=blog&utm_medium=web&utm_campaign=Cursos+SonarQube/" title="Cursos SonarQube">
+	<img alt="imagen html de ejemplo" src="img/formacion/banner-cursos-sonarqube.png" width="50%"/>
+</a>
 
-
-- Curso SonarQube para usuarios. [Más información aquí.](https://www.excentia.es/curso-sonarqube-usuarios?utm_source=SonarLint&utm_medium=web&utm_campaign=Cursos+SonarQube)
-- Curso SonarQube para administradores. [Más información aquí.](https://www.excentia.es/curso-sonarqube-administradores?utm_source=SonarLint&utm_medium=web&utm_campaign=Cursos+SonarQube)
-- Pack Maestría de SonarQube. [Más información aquí.](https://www.excentia.es/curso-sonarqube-pack-maestria?utm_source=SonarLint&utm_medium=web&utm_campaign=Cursos+SonarQube)
-<br/>
-<br/>
 <!--Calidad de Software Contact Form-->
 <div id="contact-form">
 <p>Si necesitas ayuda con SonarQube o quieres conseguir un desarrollo de software sostenible y de calidad, ¡contáctanos y te responderemos en menos de 24 horas.</p>
