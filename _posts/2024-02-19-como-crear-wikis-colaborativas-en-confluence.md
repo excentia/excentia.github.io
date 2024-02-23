@@ -65,6 +65,11 @@ Ese espacio que has creado lo puedes **compartir con quien tú quieras**. En la 
 
 Tienes otra opción para compartir una página de Confluence con un enlace y que este sea público o no.
 
+
+Aquí te dejamos un video resumen de cómo puedes crear una wiki colaborativa en Confluence para que no pierdas detalle: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hb3NaTsGDaQ?si=eh7vyzV7nNsNJjIx" title="Cómo crear una wiki en Confluence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h3>Beneficios de una wiki en Confluence</h3>
 
 En este apartado te enumeramos algunos **beneficios de trabajar con Confluence**: 
