@@ -16,7 +16,7 @@ cover: /img/posts/2022-07-21-sonarcloud-vs-sonarqube-thumb.png
 
 <img width="100%" src="/img/posts/2022-07-21-sonarcloud-vs-sonarqube.png">
 
-Tanto **SonarCloud**&trade; y **SonarQube**&trade; son herramientas válidas para ayudarte a escribir un código seguro y de calidad en tus 
+Tanto **SonarCloud**&trade; y **SonarQube**&trade; son herramientas válidas para ayudarte a escribir un código seguro y de calidad enS tus 
 proyectos. Pero siempre pueden surgir la duda, ¿qué producto es mejor para ti y tu equipo?
 
 En este artículo, desglosaremos algunos de los aspectos más importantes de cada producto para que puedas tomar la 
@@ -122,3 +122,5 @@ obtener todos los detalles sobre cómo empezar.
 
 El objetivo de este artículo no era enumerar exhaustivamente todas las diferencias de productos, ya que cada entorno 
 es único. Sin embargo, ahora tienes la información que es relevante para la mayoría de los casos. 
+
+Por si te interesa, te dejamos este enlace donde puedes encontrar [nuestros cursos de SonarQube](/formacion.html) y este otro donde te hablamos de la filosofía [Clean as You Code de Sonar](/whitepaper-clean-code-sonar.html). 
