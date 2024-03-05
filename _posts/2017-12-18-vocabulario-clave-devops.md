@@ -11,7 +11,7 @@ modified_time: '2017-12-18T08:00:00.000+01:00'
 cover: /img/posts/2017-12-18-Integración continua, automatización, entrega continua... El vocabulario clave en DevOps.png
 ---
 
-<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt=" Integración continua, automatización, entrega continua...El vocabulario clave en DevOps" title="Vocabulario clave en DevOps" src="/img/posts/2017-12-18-Integración continua, automatización, entrega continua... El vocabulario clave en DevOps.png"></a>
+<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt=" Integración continua, automatización, entrega continua...El vocabulario clave en DevOps" title="Vocabulario clave en DevOps" src="/img/posts/2017-12-18-vocabulario-clave-devops.png"></a>
 
 ¡Hemos regresado con nuestra saga DevOps! #excentiaDevOps vuelve un mes después tras el primer [artículo](http://www.excentia.es/que-es-DevOps), en el que se sentaron las bases y definimos [qué es DevOps](http://www.excentia.es/que-es-DevOps). Hoy, nos metemos de lleno en la terminología propia de esta filosofía. Todas las corrientes tienen su argot y lenguajes y… ¡DevOps no iba a ser menos! Así que si ya dominas el *élfico*, *parsel*, *dothraki* y *klingon*, **es hora de ponerse con la integración continua, la automatización, el despliegue continuo…** Lo que todavía no tenemos es un nombre para toda esta terminología… ¿Nos ayudas a buscarle uno? Propón tus ideas usando el hashtag #excentiaDevOps y, ¡no olvides mencionar a [excentia](https://twitter.com/excentia?lang=es)! A nosotros se nos han ocurrido varios… *“contdev”*, *“infinite”*… No somos muy originales, hay cosas que se nos dan mejor…  
 
