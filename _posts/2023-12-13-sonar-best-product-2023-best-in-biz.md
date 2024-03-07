@@ -5,7 +5,7 @@ description: Nuevo renocimiento para la gama de productos de Sonar. ¡Te lo cont
 date: '2023-12-13T08:00:00Z'
 author: Belén Casanovas
 categories:
-- tutorial
+- premio
 - sonarqube
 
 
