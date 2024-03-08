@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atlassian limita a 10 los colaboradores de espacios gratuitos de Trello
-description: Te contamos qué opciones tienes antes este cambio anunciado por Atlassian para la versión gratuita de Trello. 
+description: Te contamos qué opciones tienes ante este cambio anunciado por Atlassian para la versión gratuita de Trello. 
 date: '2024-03-02T08:00:00Z'
 author: Belén Casanovas
 categories:
