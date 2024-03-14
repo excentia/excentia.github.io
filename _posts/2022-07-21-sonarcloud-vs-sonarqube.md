@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SonarCloud&trade; vs SonarQube&trade;'
+title: 'SonarCloud vs SonarQube'
 description: ¿Dudas entre elegir SonarCloud o SonarQube? Desde excentia te ayudamos a detectar cuál necesitas con esta guía.
 
 date: '2022-07-21T08:00:00Z'
@@ -23,6 +23,10 @@ En este artículo, desglosaremos algunos de los aspectos más importantes de cad
 decisión correcta antes de empezar. En este recorrido abordaremos las consideraciones relacionadas con la puesta en 
 marcha así como todos los elementos relacionados con la funcionalidad y la extensibilidad. También cubriremos el soporte 
 a los distintos lenguajes y el motor de análisis estático subyacente.
+
+Pero, antes de entrar en materia, te dejamos esta **infografía donde encontrarás las diferencias básicas entre SonarCloud y SonarQube**. 
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/mY8PwyEMPkzbNC?startSlide=1" width="670" height="715" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://es.slideshare.net/slideshows/cules-son-las-diferencias-entre-sonarqube-y-sonarcloud/266787164" title="¿Cuáles son las diferencias entre SonarQube y SonarCloud?" target="_blank">¿Cuáles son las diferencias entre SonarQube y SonarCloud?</a></strong> from <strong><a href="https://www.slideshare.net/BelnCasanovasBabilon" target="_blank">Belén Casanovas Babiloni</a></strong></div>
 
 
 ## La base: análisis de código estático para más de 25 lenguajes
