@@ -28,13 +28,13 @@ Temario:
 
 ### Speakers
 
-<img src="img/posts/2021-07-12-novedades-confluence-cloud-Avinoam.png" alt="Avinoam Zelenko - Atlassian" width="100px">
+<img src="/img/posts/2021-07-12-novedades-confluence-cloud-Avinoam.png" alt="Avinoam Zelenko - Atlassian" width="100px">
 
 #### Avinoam Zelenko
 ##### Principal Product Manager, Confluence Cloud
 Avinoam ha sido gerente de producto durante 10 años. Ha dedicado tiempo a crear productos de análisis y chat empresarial B2B y ha estado trabajando en la nueva experiencia de edición en Confluence durante dos años. Avinoam es el orgulloso padre de dos hijos: un niño de cinco años y una niña de tres.
 
-<img src="img\posts\2021-07-12-novedades-confluence-cloud-hilary.png" alt="Hilary Dubin - Atlassian" width="100px">
+<img src="/img/posts/2021-07-12-novedades-confluence-cloud-hilary.png" alt="Hilary Dubin - Atlassian" width="100px">
 
 #### Hilary Dubin
 ##### Product Manager, Confluence Cloud
