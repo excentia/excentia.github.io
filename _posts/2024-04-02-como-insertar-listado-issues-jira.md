@@ -17,9 +17,9 @@ cover: img/posts/2024-04-02-como-insertar-listado-issues-jira.png
 <img width="100%" src="img/posts/2024-04-02-como-insertar-listado-issues-jira.png" alt="Diferencias entre Jira Work Management y Trello">
 
 
-¡Nueva **funcionalidad disponible** para los usuarios de Jira Cloud! En el Atlassian Community se anuncian muchas nuevas funcionaldiades y esta es una de ellas. Así que en este tutorial, te vamos a explicar rápidamente cómo puedes añadir una lista de issues creadas en Jira en Jira Cloud. 
+¡Nueva **funcionalidad disponible** para los usuarios de Jira Cloud! En el Atlassian Community se anuncian muchas [nuevas funcionaldiades](https://community.atlassian.com/) y esta es una de ellas. Así que en este tutorial, te vamos a explicar rápidamente cómo puedes añadir una lista de issues creadas en Jira en Jira Cloud. 
 
-Lo primero que tendrás que hacer es acceder a la issue de Jira donde quieras añadir ese listado de issues. Una vez dentro de ella, dentro del apartado 'Descripción' tendrás que introducir la **siguiente macro**: //jira. A continuación, se te abrirá un desplegable y deberás seleccionar la opción 'Jira Issues'. En la siguiente imagen te enseñamos este punto: 
+Lo primero que tendrás que hacer es acceder a la issue de Jira donde quieras añadir ese listado de issues. Una vez dentro de ella, dentro del apartado 'Descripción' tendrás que introducir la **siguiente macro**: /jira. A continuación, se te abrirá un desplegable y deberás seleccionar la opción 'Jira Issues'. En la siguiente imagen te enseñamos este punto: 
 
 <img width="80%" src="img/atlassian-products/jira-issues-macro.png" alt="macro Jira issues">
 
@@ -34,7 +34,7 @@ Una vez estés satisfecho/a con el resultado, tan solo tendrás que clicar sobre
 <h2>Videotutorial</h2>
 
 Para que entiendas bien estos pasos, te dejamos aquí el **videotutorial** que hemos grabado de cómo insertar un listado de issues de Jira en Jira Cloud: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IkOG9auMz5o?si=eO9DAgJlRUUsZPo_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/oDgIgSo8uR0?si=4oSCsA-EtaVWM4P9" title="Insert Jira issues en Jira Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 Y hasta aquí este tutorial de hoy. En [este enlace](https://www.excentia.es/archivo-tutorial.html) podrás encontrar más tutoriales sobre estas herramientas. Y recuerda, que si tienes alguna pregunta puedes ponerte en contacto con nosotros a través del formulario que encontrarás a continuación.
