@@ -56,6 +56,11 @@ Esta nueva funcionalidad también la puedes aplicar a **un proyecto en concreto*
 
 <img width="100%" src="img/atlassian-addons/atlassian-app-sonarqube-connector-jira-cloud-check.png" alt="SonarQube Connector for Jira Cloud Check">
 
+Aquí te dejamos un vídeo donde podrás ver esta release: 
+
+<iframe width="760" height="515" src="https://www.youtube.com/embed/1GVGZuLlnwo?si=-q3TLB52MO_Z3Xiv" title="SonarQube/SonarCloud Connector for Jira Cloud 2.35" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 **Recordatorio**: Tu aplicación SonarQube/SonarCloud Connector for Jira Cloud se actualiza de forma automática, así que no tienes que hacer nada más. 
 
