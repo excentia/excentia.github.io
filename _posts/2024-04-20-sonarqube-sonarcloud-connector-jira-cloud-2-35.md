@@ -58,7 +58,7 @@ Esta nueva funcionalidad también la puedes aplicar a **un proyecto en concreto*
 
 Aquí te dejamos un vídeo donde podrás ver esta release: 
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/1GVGZuLlnwo?si=-q3TLB52MO_Z3Xiv" title="SonarQube/SonarCloud Connector for Jira Cloud 2.35" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/1GVGZuLlnwo?si=-q3TLB52MO_Z3Xiv" title="SonarQube/SonarCloud Connector for Jira Cloud 2.35" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
