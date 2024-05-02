@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlassian unifica Jira Software y Jira Work Management en Jira'
 description: Atlassian fusiona sus herramientas en una. Te contamos cómo te pueden afectar estos cambios. 
-date: '2024-04-28T08:00:00Z'
+date: '2024-05-01T08:00:00Z'
 author: Belén Casanovas
 categories:
 
