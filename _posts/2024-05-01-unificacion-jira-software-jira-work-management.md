@@ -8,6 +8,7 @@ categories:
 
 - atlassian
 - eventos
+- jira
 
 cover: img/posts/2024-04-29-unificacion-jira-software-jira-work-management.png
 
