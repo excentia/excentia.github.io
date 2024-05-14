@@ -14,7 +14,12 @@ cover: /img/posts/2022-07-21-sonarcloud-vs-sonarqube-thumb.png
 
 ---
 
+📢 Antes de empezar, si quieres **conocer más sobre SonarQube** te invitamos a [este webinar](https://survs.com/survey/kwwsxgr3yf){:target="_blank"}, que realizaremos el **11 de junio a las 13:00 horas**, donde hablaremos de buenas prácticas que puedes aplicar desde ya con estas soluciones de Sonar. ¡Regístrate!
+
+Y ahora si, empezamos con la comparativa:
+
 <img width="100%" src="/img/posts/2022-07-21-sonarcloud-vs-sonarqube.png">
+
 
 Tanto **SonarCloud**&trade; y **SonarQube**&trade; son herramientas válidas para ayudarte a escribir un código seguro y de calidad enS tus 
 proyectos. Pero siempre pueden surgir la duda, ¿qué producto es mejor para ti y tu equipo?
