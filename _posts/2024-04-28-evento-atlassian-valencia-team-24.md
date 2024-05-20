@@ -29,17 +29,17 @@ A continuación te dejamos la agenda provisional del evento que se celebra en Va
 
 **10.30 h** - Bienvenida. <br>
 **10:40 h** - 'Cerrando el círculo de Atlassian: Soluciones Cloud para todos los equipos', por Hugo Mora, de excentia. <br>
-**11:00 h** - 'Consolidate and Conquer: Simplifying Your Work with Atlassian', por el equipo de Atlassian. <br>
-**11:30 h** - Coffe break. <br>
-**12:00 h** - Comunidad de eventos Trello de Alicante, '¿Cómo organizarte con Trello?'. <br>
+**11:00 h** - 'Consolidate and Conquer: Simplifying Your Work with Atlassian', por Kamila Czubaj, Product Manager en Atlassian.<br>
+**11:20 h** - Coffe break. <br>
+**12:00 h** - '¿Cómo organizarte con Trello?', por Alicia Filíu Birlanga, líder de la Comunidad de eventos de Trello en Alicante. <br>
 **12:20 h** - 'Atlas y Jira Product Discovery: Alineamiento de la Innovación y los OKR de negocio', por Inlogiq. <br>
-**12:40 h** - 'Don't just migrate, transform!', por el equipo de Atlassian. <br>
+**12:40 h** - 'Don't just migrate, transform!', por Ana Retamal Ortiz & Marlon Aguiar, parte del equipo de Cloud Migrations de Atlassian. <br>
 **13:00 h** - Pendiente de confirmar. <br>
 **13:20 h** - 'Novedades del Atlassian Team'24', por el equipo de Atlassian. <br>
 **13:45 h** - Q&A.<br>
 **14:15 h** - Cierre <br>
 **14:25 h** - Networking.<br>
 
-Si estás interesado/a en asistir puedes reservar tu plaza a través de [este evento](https://ace.atlassian.com/events/details/atlassian-valencia-presents-reserva-la-fecha-30-de-mayo-team-24-valencia/cohost-madrid) publicado en la Comunidad de Atlassian.
+Si estás interesado/a en asistir puedes reservar tu plaza a través de [este evento](https://ace.atlassian.com/events/details/atlassian-valencia-presents-reserva-la-fecha-30-de-mayo-team-24-valencia/) publicado en la Comunidad de Atlassian.
 
 ¡Nos vemos el 30 de mayo!
