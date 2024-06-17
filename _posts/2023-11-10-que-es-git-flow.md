@@ -15,7 +15,7 @@ cover: /img/posts/2023-11-10-que-es-git-flow.jpg
 
 <img width="100%" src="img/posts/2023-11-10-que-es-git-flow.jpg" alt="¿Que es Gitflow?">
 
-📢 Antes de empezar, si quieres **conocer más sobre SonarLint, SonarQube y SonarCloud** te invitamos a [este webinar](https://survs.com/survey/kwwsxgr3yf){:target="_blank"}, que realizaremos el **11 de junio a las 13:00 horas**, donde hablaremos de buenas prácticas que puedes aplicar desde ya con estas soluciones de Sonar. ¡Regístrate!
+📢 Antes de empezar, si quieres **conocer más sobre SonarLint, SonarQube y SonarCloud** te invitamos a [este webinar](/webinar-mejores-practicas-reducir-costes-software.html){:target="_blank"}, que realizaremos el **11 de junio a las 13:00 horas**, donde hablaremos de buenas prácticas que puedes aplicar desde ya con estas soluciones de Sonar. ¡Regístrate!
 
 Y ahora si, empezamos con Gitflow:
 
