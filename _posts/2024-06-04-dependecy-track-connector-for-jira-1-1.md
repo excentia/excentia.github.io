@@ -35,7 +35,11 @@ Hasta ahora, los usuarios únicamente podía configurar la aplicación para most
 
 <img width="100%" src="img/atlassian-addons/atlassian-app-dependency-track-for-jira-general.png" alt="General Dependency Track Connector For Jira 1.1">
 
+Aquí te dejamos un video demostración de esta nueva release: 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YrvpPZmmTXs?si=b48_X40hbvRHlG4t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 ¿No conocías esta aplicación? Accede a su **versión gratuita de 30 días** a través de [este enlace](https://marketplace.atlassian.com/apps/1229166/dependency-track-connector-for-jira?tab=overview&hosting=cloud&utm_source=post&utm_medium=web&utm_campaign=Marketplace).
 
 Y hasta aquí este artículo de release del Dependecy Track Connector for Jira. Si necesitas soporte o tienes alguna duda, puedes ponerte en contacto con nosotros a través de [este formulario](https://www.excentia.es/contacto?utm_source=post&utm_medium=post&utm_campaign=Contacto).
