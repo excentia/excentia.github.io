@@ -64,4 +64,4 @@ La transformación digital no es una campaña con una fecha de inicio y de fin. 
 ## ¿Llego tarde a la industria 4.0? 
 No, no llegas tarde, porque esto es innovación constante. Depende del grado de madurez tecnológica, depende de cuántos de esos requisitos previos de los que hemos hablado cumplas, te costara más o menos ponerte al día, pero no es tarde todavía así que,  ¡no tires la toalla! 
 
-En excentia te ayudamos a asumir la transformación digital de tu negocio, así que no dudes en [contactar](https://excentia.atlassian.net/servicedesk/customer/portal/14) con nosotros si quieres empezar. Aunque nunca es tarde si la dicha es buena, mejor que no dejes para mañana lo que puedes hacer hoy. 
+En excentia te ayudamos a asumir la transformación digital de tu negocio, así que no dudes en [contactar](https://excentia.atlassian.net/servicedesk/customer/portal/12) con nosotros si quieres empezar. Aunque nunca es tarde si la dicha es buena, mejor que no dejes para mañana lo que puedes hacer hoy. 

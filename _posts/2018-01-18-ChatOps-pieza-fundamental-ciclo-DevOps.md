@@ -50,5 +50,5 @@ En la última fase, la filosofía ChatOps ha madurado. Existen integraciones com
 
 **El futuro y el presente son las comunicaciones en tiempo real**. ChatOps implementa la integración de todos los equipos de trabajo y, mediante la transparencia, fomenta el aprendizaje de  las personas en una compañía.
 
-Y hasta aquí nuestra tercera entrega de *#excentiaDevOps*. Si nos has descubierto hoy, no dudes en leer nuestras entradas previas [aquí](http://www.excentia.es/search?query=DevOps). Y sí estás impaciente por adoptar DevOps, no dudes en [contactarnos](https://excentia.atlassian.net/servicedesk/customer/portal/14). ¡En [excentia](http://www.excentia.es/) estamos impacientes por ver como entre todos logramos un proceso de trabajo mejor! 
+Y hasta aquí nuestra tercera entrega de *#excentiaDevOps*. Si nos has descubierto hoy, no dudes en leer nuestras entradas previas [aquí](http://www.excentia.es/search?query=DevOps). Y sí estás impaciente por adoptar DevOps, no dudes en [contactarnos](https://excentia.atlassian.net/servicedesk/customer/portal/12). ¡En [excentia](http://www.excentia.es/) estamos impacientes por ver como entre todos logramos un proceso de trabajo mejor! 
 

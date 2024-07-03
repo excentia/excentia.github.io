@@ -108,7 +108,7 @@ Hay algunas otras mejoras, además de las obvias actualizaciones de reglas y mé
 
 Esperamos haberte convencido y que estes ya preparando el upgrade de tu versión, o incluso decidido a incorporar SonarQube en tu organización si es que aún no lo tienes. 
 
-Para ambos casos y mucho más, no dudes en [ponerte en contacto con nosotros](https://excentia.atlassian.net/servicedesk/customer/portal/14). 
+Para ambos casos y mucho más, no dudes en [ponerte en contacto con nosotros](https://excentia.atlassian.net/servicedesk/customer/portal/12). 
 
 Por cierto, ya que lo hemos mencionado varias veces y es algo que todavía genera dudas, [aquí tenéis los planes de licenciamiento](https://www.sonarsource.com/plans-and-pricing/) por ediciones. Beneficiate de un descuento o de licencias de evaluación al ponerte en contacto con nosotros. 
 

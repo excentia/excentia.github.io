@@ -64,7 +64,7 @@
 				url += '&customerSurnames=' + surnameval;
 				url += '&customerCompany=' + companyval;
 				parent.$.fancybox.close();
-				parent.$.fancybox.open('<div class="message text-center"><p class="text-center">Thanks for your download! Your download should start automatically.</p><p>If you encounter any issues, please <a target=blank_ href="https://excentia.atlassian.net/servicedesk/customer/portal/14">reach out to us!</a></p></div>');
+				parent.$.fancybox.open('<div class="message text-center"><p class="text-center">Thanks for your download! Your download should start automatically.</p><p>If you encounter any issues, please <a target=blank_ href="https://excentia.atlassian.net/servicedesk/customer/portal/12">reach out to us!</a></p></div>');
 				window.location.href=url;
 			  }
 		}

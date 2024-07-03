@@ -24,6 +24,6 @@ Desde aquel primer [*Atlassian Experts*](http://www.excentia.es/excentia-organiz
 
 Lo prometido es deuda y por eso os dejamos esta [encuesta](https://survs.com/survey/nyh3n3nj76 ). Nuestro lema y motivación es la mejora continua, y eso no es posible sin vosotros.  Además, una vez completada la encuesta podréis acceder a las transparencias que usamos ayer.
 
-Especialmente interesantes y aclamadas fueron las sesiones sobre La nueva **Atlassian** y las mejoras en sus productos, además de la introducción a la cultura y filosofía **DevOps**. No dudéis en poneros en [contacto](https://excentia.atlassian.net/servicedesk/customer/portal/14) con nosotros si queréis conocer un poco más sobre estos temas o cualquier otro. 
+Especialmente interesantes y aclamadas fueron las sesiones sobre La nueva **Atlassian** y las mejoras en sus productos, además de la introducción a la cultura y filosofía **DevOps**. No dudéis en poneros en [contacto](https://excentia.atlassian.net/servicedesk/customer/portal/12) con nosotros si queréis conocer un poco más sobre estos temas o cualquier otro. 
 
 Siguiendo la filosofía de la que hablamos cerramos esta entrada al [blog](http://www.excentia.es/blog) como la empezamos, al igual que el ciclo infinito y continuo de **DevOps**, empezamos y terminamos igual: ¡Gracias por asistir al *Atlassian VLC Day*! 

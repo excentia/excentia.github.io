@@ -38,7 +38,7 @@ How are we making it work on the [Atlassian Marketplace](https://marketplace.atl
 
 * [Versions history page](https://marketplace.atlassian.com/apps/1219118/excentia-admin-tools-for-jira/version-history): Download last version and avoid going through the process of licensing. This way you'll only install free features. 
 
-If you have any questions about our freemium model, you are more than welcome to [ask us](https://excentia.atlassian.net/servicedesk/customer/portal/14). 
+If you have any questions about our freemium model, you are more than welcome to [ask us](https://excentia.atlassian.net/servicedesk/customer/portal/17). 
 
 
 
