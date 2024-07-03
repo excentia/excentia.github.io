@@ -8,7 +8,7 @@ url: "https://www.excentia.es" # the base hostname & protocol for your site
 
 google_analytics: "UA-24343033-1"
 disqus_account: excentia
-support_url: https://jira.excentia.es/servicedesk/customer/portal/12
+support_url: https://excentia.atlassian.net/servicedesk/customer/portal/12
 
 share:
     twitter: excentia

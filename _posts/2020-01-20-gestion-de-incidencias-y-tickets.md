@@ -89,12 +89,12 @@ Una licencia de Jira Service Desk para 3 agentes cuesta 10 dólares al año. Si 
 - Tienes un concepto erróneo de lo que es un agente de servicio y no estás gestionando bien los usuarios, los agentes y los colaboradores.
 
 Recuerda que esto es un post general, para aquellos que se encuentran con los propósitos de año nuevo y con fuerzas de cambiar y ser mejores.
-En el primer caso, siempre hay situaciones excepcionales. No me lances a la hoguera, por favor. En lugar de eso, [contacta](https://jira.excentia.es/servicedesk/customer/portal/12) con nosotros para que podamos ofrecerte toda la ayuda, las razones por las que la inversión merece la pena, etc.
+En el primer caso, siempre hay situaciones excepcionales. No me lances a la hoguera, por favor. En lugar de eso, [contacta](https://excentia.atlassian.net/servicedesk/customer/portal/12) con nosotros para que podamos ofrecerte toda la ayuda, las razones por las que la inversión merece la pena, etc.
 
 El segundo caso es extremadamente común, mucho más de lo que nos gustaría. Te recomendamos que antes de comprar una licencia, preguntes a un especialista, te asegures y leas [esta explicación](https://confluence.atlassian.com/confeval/jira-service-desk-evaluator-resources/jira-service-desk-agents-customers-and-roles) de Atlassian. 
 
 <a target="_blank" href="https://confluence.atlassian.com/confeval/jira-service-desk-evaluator-resources/jira-service-desk-agents-customers-and-roles"><img class="center" width="80%" alt="Representación gráfica de los roles que existen en Jira Service Desk" title="Roles en Jira Service Desk" src="/img/posts/2020-01-20-roles-jira-service-desk.png"></a>
 
-Puedes [probar Jira Service Desk gratis](https://www.atlassian.com/software/jira/service-desk/try), de manera sencilla, o si lo prefieres, puedes [pedirnos ayuda](https://jira.excentia.es/servicedesk/customer/portal/12). Estaremos encantados de enseñarte sus bondades y de resolver todas las dudas con la transparencia que nos caracteriza. Nuestro único objetivo y nuestro lema es ayudarte a mejorar. 
+Puedes [probar Jira Service Desk gratis](https://www.atlassian.com/software/jira/service-desk/try), de manera sencilla, o si lo prefieres, puedes [pedirnos ayuda](https://excentia.atlassian.net/servicedesk/customer/portal/12). Estaremos encantados de enseñarte sus bondades y de resolver todas las dudas con la transparencia que nos caracteriza. Nuestro único objetivo y nuestro lema es ayudarte a mejorar. 
 
 ¡Hasta la próxima!
