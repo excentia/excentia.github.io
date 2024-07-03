@@ -52,4 +52,4 @@ El objetivo final, la guinda del pastel, el sueño DevOps. **[La calidad de soft
 
 
 <h2> ¡DevOps es mucho más! </h2>
-Muchos son los conceptos que faltan por definir, y mucho más lo que nos queda por contarte acerca del movimiento DevOps. La saga #excentiaDevOps continuará en 2018 y estaremos encantados de recibir [propuestas](https://jira.excentia.es/servicedesk/customer/portal/12) y contaros todo aquello que os resulte interesante. Así que no lo dudes y [¡envíanos tus ideas!](https://jira.excentia.es/servicedesk/customer/portal/12). 
+Muchos son los conceptos que faltan por definir, y mucho más lo que nos queda por contarte acerca del movimiento DevOps. La saga #excentiaDevOps continuará en 2018 y estaremos encantados de recibir [propuestas](https://excentia.atlassian.net/servicedesk/customer/portal/14) y contaros todo aquello que os resulte interesante. Así que no lo dudes y [¡envíanos tus ideas!](https://excentia.atlassian.net/servicedesk/customer/portal/14). 

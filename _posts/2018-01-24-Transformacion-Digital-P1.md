@@ -20,7 +20,7 @@ En [excentia](http://www.excentia.es/) nos encanta estar al día, ser consciente
 ## ¿Qué es la transformación digital?
 Empecemos por el principio: mucho se habla, se debate y se generaliza acerca de la transformación digital. No nos engañemos, es una buena señal: la industria, incluso la más *clásica*, la menos innovadora, está al loro de lo que sucede a su alrededor. Es un principio básico de la estrategia empresarial. Pero querer informarse no significa que efectivamente sepamos qué es eso de la transformación digital.  
 
-Este es el punto, en el que quizás decepcionemos a muchos… Si no estás preparado, no sigas leyendo, mejor [escríbenos](https://jira.excentia.es/servicedesk/customer/portal/12) y empecemos de cero. 
+Este es el punto, en el que quizás decepcionemos a muchos… Si no estás preparado, no sigas leyendo, mejor [escríbenos](https://excentia.atlassian.net/servicedesk/customer/portal/14) y empecemos de cero. 
 
 **Implantar un CRM, instalar el ERP más moderno, tener una página web y vender por internet, NO es transformación digital**. Así que cuando el vecino te comente super orgulloso que han implantado SAP y contratado a una agencia que les hace publicidad en internet, no te dejes impresionar. Tan solo han adquirido tecnologías, pero no necesariamente han iniciado una transformación digital. 
 Hagamos un símil para entendernos todos: puedes ir al gimnasio, entrenar cada día, aumentar el ritmo de las pachangas del domingo, pero querido, eso no garantiza que seas Cristiano Ronaldo. Obviamente no está mal que lo hagas y Cristianito tuvo que empezar haciendo eso para ser quien es hoy, pero no son los únicos factores que han influido en su éxito. 
@@ -63,7 +63,7 @@ Como resultado surge la iniciativa [Industria Conectada 4.0](http://www.industri
 Con esta primera entrada queríamos sentar las bases, el punto de partida de la transformación y empezar a cuestionarnos y a reflexionar acerca de la necesidad de las organizaciones, grandes y pequeñas, de asumir el cambio, de usar las tecnologías para mejorar, continuamente. 
 
 Sin embargo, aún queda mucho por contar: volveremos con una segunda parte dónde entraremos de lleno en las fases del plan de transformación y analizaremos casos de éxito. 
-¿Qué os ha parecido esta entrada?, ¿queréis que hagamos una tercera parte?, ¿de qué más podemos hablar? No dudes en dejar un comentario. Estamos [aquí](https://jira.excentia.es/servicedesk/customer/portal/12) para escucharte. 
+¿Qué os ha parecido esta entrada?, ¿queréis que hagamos una tercera parte?, ¿de qué más podemos hablar? No dudes en dejar un comentario. Estamos [aquí](https://excentia.atlassian.net/servicedesk/customer/portal/14) para escucharte. 
 
 
 

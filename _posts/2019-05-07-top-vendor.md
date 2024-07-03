@@ -28,7 +28,7 @@ Todo gran poder conlleva una gran responsabilidad.
 
 * Trazabilidad de las aplicaciones: Atlassian mide cuántas instancias de clientes activos tienen instaladas las aplicaciones de los distintos vendedores.  Las apps tienen que estar instaladas en un número mínimo de de productos activos para que un proveedor sea eligible a optar al reconocimiento Top Vendor. 
 
-* Soporte: los Top Vendors nos adherimos a acuerdos de nivel de servicios y proporcionamos servicios de [soporte web](https://jira.excentia.es/servicedesk/customer/portal/14). El soporte se ofrece al menos 8 horas al día, 5 días a la semana. 
+* Soporte: los Top Vendors nos adherimos a acuerdos de nivel de servicios y proporcionamos servicios de [soporte web](https://excentia.atlassian.net/servicedesk/customer/portal/14). El soporte se ofrece al menos 8 horas al día, 5 días a la semana. 
 
 * Fiabilidad y confianza en el proveedor: Atlassian examina de forma rutinaria a los Top Vendors para garantizar que ofrecen un excelente servicio al cliente y siguen cumpliendo con los requisitos para ser reconocidos. 
 

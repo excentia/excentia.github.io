@@ -122,5 +122,5 @@ Para cerrar este “Todo sobre SonarSource” os dejamos a continuación enlaces
 
 * [Comunidad oficial](https://community.sonarsource.com/) mantenida por SonarSource 
 
-Si se ha quedado alguna duda pendiente, no dudes en [escribirnos](https://jira.excentia.es/servicedesk/customer/portal/12). Esperamos impacientes nuestras nominaciones a los Goya y a los Oscar, y tener claro que en el largo agradecimiento (tan largo como este post) cuando recojamos el premio, estaréis todos incluidos. 
+Si se ha quedado alguna duda pendiente, no dudes en [escribirnos](https://excentia.atlassian.net/servicedesk/customer/portal/14). Esperamos impacientes nuestras nominaciones a los Goya y a los Oscar, y tener claro que en el largo agradecimiento (tan largo como este post) cuando recojamos el premio, estaréis todos incluidos. 
 
