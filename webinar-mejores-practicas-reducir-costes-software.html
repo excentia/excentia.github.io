@@ -16,8 +16,7 @@ description: Realizamos un webinar en directo junto a Sonar
           <hr>
 
           <br><br>
-          <a href="/contacto.html" target="_blank"
-             class="btn btn-warning btn-xl">SOLICITAR VIDEO</a>
+          <a href="#solicitud-webinar" class="btn btn-warning btn-xl">SOLICITAR VIDEO</a>
           <hr>
         </div> 
       </div>
@@ -147,4 +146,56 @@ description: Realizamos un webinar en directo junto a Sonar
     </div>
     </div>
   </div>
+</section>
+
+<section id="solicitud-webinar" class="text-center">
+  <div class="container" style="color: black; background-color:white">
+      <div class="col-md-8 col-md-offset-2">
+      <h2>Solicita el video completo</h2>
+      <p>Déjanos tus datos y te enviaremos el vídeo completo del webinar</p>
+      <br/>
+        <form action="https://formspree.io/f/xyyqrdwy" method="POST">
+          <div class="col-md-12 col-sm-12">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="text" name="name" class="form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div>
+                <input type="hidden" name="_subject" value="Solicitud webinar SonarQube"/>
+                       </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <input type="email" name="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div>
+              <input type="text" name="curso" style="display:none" value="Solicitud de información para formación de empresas"/>
+            </div>
+            <div>
+              <input type="text" name="_gotcha" style="display:none"/>
+            </div>
+            <div class="row control-group">
+              <div class="form-group-2 col-xs-12 floating-label-form-group controls">
+                <textarea name="message" class="form-control" rows="3" placeholder="Cuéntanos que necesitas" id="message" required data-validation-required-message="Por favor cuéntanos que necesitas."></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <p><strong>excentia</strong> se compromete a respetar tu privacidad, y solo usaremos tu información para proporcionar productos, servicios y contenido que pueda ser de interés para tí.</p>
+                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Por favor lee y acepta la política de privacidad y los términos y condiciones">
+                <label class="form-check-label" for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
+              </div>
+            </div>
+            <div id="success"></div>
+            <div class="block">
+              <button type="submit" class="btn btn-warning btn-xl">Enviar mensaje</button>
+            </div>
+          </div>
+        </form>
+  </div>
+</div>
 </section>
