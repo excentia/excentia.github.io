@@ -80,18 +80,14 @@ SonaQube ofrece una versión gratuita y open-source (disponible [aquí](https://
 
 <a href="https://www.excentia.es/sonarqube-datacenter-edition"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none; font-size:0.5em; font-weight: bold;" >Solicita una licencia de prueba</span></a>
 
-
 Para más información visita [www.sonarqube.org](https://www.sonarqube.org/).
 
+También te recomendamos que veas [este webinar](/webinar-mejores-practicas-reducir-costes-software) que realizamos junto a SonarQube. Te explicamos buena prácticas para reducir costes e impulsar el desarrollo del software y realizamos una demo de SonarQube. 
 
 
-<br/>
-<hr>
-<br/>
 <!--Calidad de Software Contact Form-->
 <div id="contact-form">
-	<h1>Contáctanos</h1>
-	<p>Si necesitas ayuda con SonarQube o el desarrollo de software sostenible y de calidad, rellena el formulario y te responderemos en menos de 24 horas.</p>
+<p>Si necesitas </strong>ayuda con SonarQube</strong> o el desarrollo de software sostenible y de calidad, puedes ponerte en contacto con nosotros a través de este formulario.</p>
 <br/>
         <form action="https://formspree.io/f/xaygrdqg" method="POST">
           <div class="col-md-12 col-sm-12">
