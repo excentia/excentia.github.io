@@ -1,23 +1,37 @@
 ---
-layout: evento-landing
-fecha: 24 de octubre del 2024
-lugar: Veles e Vents
+layout: front
 title: 15 aniversario. 15 años gracias a ti
-eslogan: ¿Nos acompañas?
-logo: /img/logo-15-aniversario.png
-cover: /img/eventos/edificio-veles-e-vents.png
-inscripcion: https://survs.com/survey/92nborgski
 description: Te contamos cómo puedes participar en el evento celebración del décimo aniversario de excentia. ¿Nos acompañas?
 ---
 
-<section id="call-to-action" class="features">
+<section id="call-to-action" style=" align-items: center; background-image: url(/img/eventos/edificio-veles-e-vents.png);">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 text-center">
+      <div class="col-md-12 text-left">
+          <div style="display: inline-block; background-color: rgba(255, 255, 255, 0.400); padding:10px;">
+            <p style="font-size: 20px; font-weight: bold; color: rgb(0, 0, 0);">EVENTO PRESENCIAL</p></h2>
+            <img style="float:left; max-width: 200px; padding: 20px"
+                 src="/img/logo-15-aniversario.png" alt="Logo 15 aniversario excentia"/>     
+            <p style="font-size: 50px; margin: 50px 0px 20px; line-height: normal; font-weight: bold; color:rgb(0, 0, 0);">15 aniversario. 15 años gracias a ti.</p>
+            <p style="font-size: 20px; font-weight: bold; color:rgb(0, 0, 0);">24 de octubre | 9:00 h. | Veles e Vents, Valencia</p>
+            <br>
+            <a href="#reservar-plaza" class="btn btn-warning btn-xl">>> RESERVAR PLAZA</a>
+            <hr>
+            </div>
+        </div> 
+      </div>
+
+    </div>
+   </div>
+</section>
+
+<section id="reservar-plaza" class="features">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 text-left">
         <div class="section-heading">
           <h2>Imposible perdértelo</h2>
           <hr>
-          <br>
           <br>
           <p style="font-size: 22px;">El próximo 24 de octubre tienes una cita con excentia porque vamos a celebrar, por todo lo alto, nuestro <strong>15 aniversario</strong>. 
           Y como dice nuestro lema, 15 años han sido posibles <strong>gracias a ti</strong>. Así que no te lo puedes perder. 
@@ -33,34 +47,64 @@ description: Te contamos cómo puedes participar en el evento celebración del d
           <br>
           <strong>¿Nos vemos el 24 de octubre?</strong>
           <br>
-          <br>
-
-          </p>
-
-          <br><br>
-          <a href="https://survs.com/survey/92nborgski" target="_blank"
-             class="btn btn-outline btn-xl page-scroll">¡REGÍSTRAME YA!</a>
-             <hr>
+          <hr>
       </div>
     </div>
-  </div>
-    <div class="row">
-        <div class="col-md-3">
-            <img style="vertical-align:middle; margin-top: 40px; margin-bottom: 30px" alt="Logo Atlassian" width=100% src="/img/atlassian-products/atlassian.png">
-          </div>
-          <div class="col-md-1">
-          </div>
-          <div class="col-md-4">
-            <img width=100% alt="Logo excentia" src="/img/excentia/logo-horizontal-500px.png">
-          </div>
-          <div class="col-md-1">
-          </div>
-          <div class="col-md-3">
-            <img style="vertical-align:middle; margin-top: 20px" alt="Logo Sonar" width=100% src="/img/sonarsource-products/sonarsource.png">
-        </div>
+
+    <div class="col-lg-5 text-left" style="background-color: #f0f0f0;">
+      <br>
+      <br>
+          <p>Si quieres asistir al evento, reserva tu plaza a través de este formulario: </p>
+          <br/>
+            <form action="https://formspree.io/f/xyyqrdwy" method="POST">
+              <div class="col-md-12 col-sm-12">
+                <div class="row control-group">
+                  <div class="form-group col-xs-12 floating-label-form-group controls">
+                    <input type="text" name="name" class="form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div>
+                    <input type="hidden" name="_subject" value="Solicitud webinar SonarQube"/>
+                           </div>
+                </div>
+                <div class="row control-group">
+                  <div class="form-group col-xs-12 floating-label-form-group controls">
+                    <input type="email" name="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div>
+                  <input type="text" name="curso" style="display:none" value="Reserva plaza 15 aniversario excentia"/>
+                </div>
+                <div>
+                  <input type="text" name="_gotcha" style="display:none"/>
+                </div>
+                <div class="row control-group">
+                  <div class="form-group col-xs-12 floating-label-form-group controls">
+                    <input type="company" name="company" class="form-control" placeholder="Empresa" id="company" required data-validation-required-message="Por favor escribe tu empresa.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="row control-group">
+                  <div class="form-group col-xs-12 floating-label-form-group controls">
+                    <p style="font-size: 12px;"><strong>excentia</strong> se compromete a respetar tu privacidad, y solo usaremos tu información para proporcionar productos, servicios y contenido que pueda ser de interés para tí.</p>
+                    <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Por favor lee y acepta la política de privacidad y los términos y condiciones">
+                    <label class="form-check-label" for="agreement" style="font-size: 13px;">Leo y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones.</a></label>
+                  </div>
+                </div>
+                <div id="success"></div>
+                <div class="block">
+                  <button type="submit" class="btn btn-warning btn-xl">Enviar mensaje</button>
+                  <br>
+                  <br>
+                  <br>
+                </div>
+              </div>
+            </form>
     </div>
   </div>
 </section>
+
 <section id="programa-titulo" class="download bg-primary text-center" style="padding: 50px 0">
   <div class="container">
     <div class="row">
@@ -247,7 +291,7 @@ description: Te contamos cómo puedes participar en el evento celebración del d
       <div class="col-lg-12 text-center">
         <br><br>
         <h3>Si quieres ser el primero en enterarte de las confirmaciones, reserva tu plaza aquí</h3><br>
-        <a href="https://survs.com/survey/92nborgski" target="_blank" class="btn btn-outline btn-xl page-scroll">¡QUIERO IR!</a>
+        <a href="#reservar-plaza" target="_blank" class="btn btn-outline btn-xl page-scroll"> >> RESERVAR PLAZA</a>
       </div>
     </div>
   </div>
