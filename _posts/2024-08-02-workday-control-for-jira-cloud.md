@@ -42,6 +42,11 @@ Aquí tienes un ejemplo de la pantalla que podrá ver el administrador:
 
 <img width="100%" src="img/atlassian-addons/atlassian-app-work-day-control-pantalla-admin.png" alt="WorkDay Control for Jira Cloud">
 
+Y por último, aquí te dejamos un video demostración de la aplicación WorkDay Control for Jira Cloud: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nd77HDusBfo?si=2Oid97bIGoxvR1A9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Si quieres **probar el WorkDay Control** en tu instancia, puedes descargar la versión gratuita a través de [este enlace.](https://marketplace.atlassian.com/apps/1220580/workday-control-for-jira)
 
