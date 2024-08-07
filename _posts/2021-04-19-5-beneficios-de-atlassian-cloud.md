@@ -30,7 +30,7 @@ Atlassian tienen equipos de seguridad dedicados y requisitos estrictos. Los equi
 
 ## 2. Velocidad y accesibilidad
 
-En 2018, el 76% de los líderes dijo que la velocidad de la prestación de servicios de TI era [una de las principales razones para pasar a Cloud](https://www.idg.com/tools-for-marketers/2018-cloud-computing-survey/).
+En 2018, el 76% de los líderes dijo que la velocidad de la prestación de servicios de TI era una de las principales razones para pasar a Cloud.
 
 La velocidad y la accesibilidad son los segundos beneficios más citado de la migración a la nube. Las garantías de tiempo de actividad, las actualizaciones automáticas de rendimiento y el escalado automático contribuyen a que los sistemas sean más rápidos, más disponibles y más accesibles. Sin mencionar que la **mejora de la productividad en el Cloud** significa que no solo los sistemas son más rápidos, sino que los equipos también lo son.
 

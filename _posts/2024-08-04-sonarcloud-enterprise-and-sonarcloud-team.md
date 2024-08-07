@@ -21,7 +21,7 @@ Sonar amplía la oferta de planes para la contratación de uno de sus productos:
 <h2>¿Qué incluye SonarCloud Enterprise?</h2>
 
 
-El **plan SonarCloud Enterprise** ofrece el inicio de sesión único (SSO) a través de SAML, jerarquía empresarial, informes de gestión, carteras, configuración de proyectos para toda la organización, compatibilidad con lenguajes específicos de la empresa, como COBOL y acceso a soporte comercal y un acuerdo de nivel de servicio dedicado. Vamos punto por punto desarrollando cada característica. 
+El **plan SonarCloud Enterprise** ofrece el inicio de sesión único (SSO) a través de SAML, jerarquía empresarial, informes de gestión, carteras, configuración de proyectos para toda la organización, compatibilidad con lenguajes específicos de la empresa, como COBOL y acceso a soporte comercial y un acuerdo de nivel de servicio dedicado. Vamos punto por punto desarrollando cada característica. 
 
 **Inicio de sesión único**
 
