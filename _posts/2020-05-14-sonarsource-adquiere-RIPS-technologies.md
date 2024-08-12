@@ -53,4 +53,4 @@ Y eso no es todo, SonarSource va a crear un equipo de investigación de segurida
 por Johannes Dahse, CEO y cofundador de RIPS Technologies, para desarrollar y liderar este mercado, 
 pero también para innovar, y nosotros estamos seguros de que lo van a conseguir.
 
-[Aquí puedes leer el comunicado oficial.](https://www.prnewswire.com/news-releases/sonarsource-acquires-rips-technologies-and-accelerates-in-the-application-security-market-301058514.html)
+[Aquí puedes leer el comunicado oficial.](https://www.prnewswire.com/news-releases/sonarsource-acquires-rips-technologies-and-accelerates-in-the-application-security-market-30105851)

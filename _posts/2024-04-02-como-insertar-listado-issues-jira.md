@@ -37,7 +37,7 @@ Para que entiendas bien estos pasos, te dejamos aquí el **videotutorial** que h
 <iframe width="660" height="415" src="https://www.youtube.com/embed/oDgIgSo8uR0?si=4oSCsA-EtaVWM4P9" title="Insert Jira issues en Jira Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
-Y hasta aquí este tutorial de hoy. En [este enlace](https://www.excentia.es/archivo-tutorial.html) podrás encontrar más tutoriales sobre estas herramientas. Y recuerda, que si tienes alguna pregunta puedes ponerte en contacto con nosotros a través del formulario que encontrarás a continuación.
+Y hasta aquí este tutorial de hoy. En [este enlace](https://www.excentia.es/archivo-tutorial) podrás encontrar más tutoriales sobre estas herramientas. Y recuerda, que si tienes alguna pregunta puedes ponerte en contacto con nosotros a través del formulario que encontrarás a continuación.
 
 <form action="https://formspree.io/f/xaygrdqg" method="POST">
  <div class="col-md-12 col-sm-12">

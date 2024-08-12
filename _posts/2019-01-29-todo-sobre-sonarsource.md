@@ -40,7 +40,7 @@ Aclarados estos primeros términos, repasemos la historia y evolución de la her
 
 * En Junio de 2010, Sonar tenía un ritmo de descarga de más de 2.000 veces al mes. Gracias al éxito tanto de la plataforma Open-Source como de los plugins comerciales, SonarSource crecía tanto en tamaño como en servicios comerciales, con la salida de los plugins para C# y para PL/SQL, en junio y septiembre de 2011 respectivamente.
 
-* En abril de 2013, [Sonar pasa a llamarse SonarQube](http://sonar.15.x6.nabble.com/SONAR-is-becoming-SONARQUBE-td5010134.html) y su salida al mercado comercial se profesionaliza con distintas "ediciones" – logrando así satisfacer las necesidades de las grandes empresas en las que SonarQube se había convertido en la herramienta crítica para asegurar la calidad de su código y realizar análisis estático sobre el mismo. Este fue el primer gran cambio en el modelo comercial de SonarSource.
+* En abril de 2013, [Sonar pasa a llamarse SonarQube](http://sonar.15.x6.nabble.com/SONAR-is-becoming-SONARQUBE-td5010134) y su salida al mercado comercial se profesionaliza con distintas "ediciones" – logrando así satisfacer las necesidades de las grandes empresas en las que SonarQube se había convertido en la herramienta crítica para asegurar la calidad de su código y realizar análisis estático sobre el mismo. Este fue el primer gran cambio en el modelo comercial de SonarSource.
 
 * 2015 fue un año significativo para SonarQube. Si dos años antes cambiaba el modelo comercial, ahora era la propia herramienta la que volvía a adaptarse a las necesidades del mercado. Los análisis se estructuran de una manera más sencilla y clara gracias a la introducción de mantenibilidad, confiabilidad y seguridad. Un movimiento necesario para estandarizar la plataforma, pues ya se cubría entonces el análisis de 24 tecnologías diferentes.
 
@@ -101,7 +101,7 @@ Una de las características que hacen de SonarQube una herramienta flexible son 
 
 ¡Nota importante! Con plugins, no caigamos en el error de pensar que nos referimos a lenguajes. Ese modelo cambió como hemos dicho al principio, aunque sigamos instalando plugins de lenguajes. Es algo confuso, pero quedemonos con que SonarQube se vende por ediciones a las que se les pueden añadir plugins. 
 
-Los plugins son desarrollos que permiten ampliar la funcionalidad de la herramienta, bien sea mediante la introducción de antiguas funcionalidades ([SQALE](https://www.bitegarden.com/sonarqube-sqale.html)), la [gamificación](https://quboo.tpd.io/), [idiomas](https://github.com/acalero/sonar-l10n-es), [seguridad](https://github.com/stevespringett/dependency-check-sonar-plugin)... Y un largo etcétera.
+Los plugins son desarrollos que permiten ampliar la funcionalidad de la herramienta, bien sea mediante la introducción de antiguas funcionalidades ([SQALE](https://www.bitegarden.com/sonarqube-sqale)), la [gamificación](https://quboo.tpd.io/), [idiomas](https://github.com/acalero/sonar-l10n-es), [seguridad](https://github.com/stevespringett/dependency-check-sonar-plugin)... Y un largo etcétera.
 
 Momento de publicitarnos un poco y animaros a que probéis los plugins que excentia ha desarrollado.
 

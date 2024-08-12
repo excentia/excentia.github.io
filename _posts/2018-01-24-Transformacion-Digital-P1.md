@@ -46,7 +46,7 @@ Definir la estrategia digital implica que todos los departamentos se sumen al ca
 Para lograr todos esos cambios, esa reinvención y transformación, **la clave son las personas y no las tecnologías como se tiende a asumir**. 
 
 Todos los departamentos están implicados en el proceso, y el éxito de la transformación recae principalmente en las personas – nosotros, el equipo, los que trabajamos día a día somos los que tenemos que asumir en nuestro ADN el cambio digital. 
-Este [artículo](https://retina.elpais.com/retina/2017/11/28/tendencias/1511848293_101779.html) de Daniel Marote lo resume muy bien. Os animamos a que lo leáis, en [excentia](http://www.excentia.es/) lo suscribimos completamente. 
+Este [artículo](https://retina.elpais.com/retina/2017/11/28/tendencias/1511848293_101779) de Daniel Marote lo resume muy bien. Os animamos a que lo leáis, en [excentia](http://www.excentia.es/) lo suscribimos completamente. 
 
 Por otra parte también hay que recordar, que la generación del milenio (los millenials como nos gusta llamarlos) no sólo son clientes sino trabajadores, parte del equipo. **Sus necesidades, expectativas y procesos son diferentes y la transformación digital también implica adaptarse a ellos. Los nuevos empleados interactúan, se comunican y están motivados por agentes diferentes**. No adaptarse a este perfil laboral también es significado de negación del cambio. Las organizaciones y directivos han de hacer el esfuerzo también por sacar el máximo partido a lo que todos sus trabajadores, incluidos los más jóvenes, tienen que ofrecer. 
 

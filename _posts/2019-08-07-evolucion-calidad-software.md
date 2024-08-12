@@ -25,7 +25,7 @@ SonarQube, antes llamado simplemente Sonar, andaba en Marzo de 2009 por su versi
 <a target="_blank" href="https://www.sonarqube.org/downloads/"><img class="center" width="80%" alt="Screenshot de la primera versión de SonarQube" title="SonarQube en sus inicios" src="/img/posts/2019-08-07-sonarqube-primera-version.jpg"></a>
 
 
-En cuanto a calidad de procesos, Jira anunciaba en 2010 su versión 4.2, en la que entre sus características destacaban: el gestor universal de plugins para poder gestionarlos todos [(UPM)](https://confluence.atlassian.com/upm/about-the-universal-plugin-manager-305759439.html), los tableros con interesantes métricas de cada *issue*, o la inclusión de los diálogos para establecer parámetros de éstos. 
+En cuanto a calidad de procesos, Jira anunciaba en 2010 su versión 4.2, en la que entre sus características destacaban: el gestor universal de plugins para poder gestionarlos todos [(UPM)](https://confluence.atlassian.com/upm/about-the-universal-plugin-manager-305759439), los tableros con interesantes métricas de cada *issue*, o la inclusión de los diálogos para establecer parámetros de éstos. 
 
 En 2011, la comunidad de Hudson aprobó por mayoría [la decisión](https://www.infoq.com/news/2011/01/jenkins/) de renombrar el proyecto a Jenkins, tal y como lo conocemos hoy en día. Considerada por muchos [la mejor herramienta de integración continua](https://www.cloudbees.com/blog/five-reasons-why-developers-choose-jenkins-over-hudson-continuous-integration), por aquel entonces ya contaba con casi 400 plugins que ampliaban sus funcionalidades, pero seguían siendo casi la mitad de hoy en día, pues actualmente cuenta con más de 1000.
 
@@ -51,7 +51,7 @@ Sin embargo, no todo ha sido negativo en estos 10 años. Organizaciones como ISO
 
 ISO, cuenta con la certificación ISO 25000, conocida como SQuaRE (System and Software Quality Requirements and Evaluation), actualizada  en 2014. Te lo contamos todo en [este artículo](https://www.excentia.es/iso-25000).
 
-ISTQB, ha seguido ampliando sus certificaciones, adaptándose a los nuevos tiempos, incluyendo por ejemplo la *Advanced Agile Technical Tester* o [*Advanced Level Test Automation Engineer*](https://www.istqb.org/certification-path-root/test-automation-engineer.html).
+ISTQB, ha seguido ampliando sus certificaciones, adaptándose a los nuevos tiempos, incluyendo por ejemplo la *Advanced Agile Technical Tester* o [*Advanced Level Test Automation Engineer*](https://www.istqb.org/certification-path-root/test-automation-engineer).
 
 Mientras que el CCMI publicó en 2018 la [versión 2.0](https://cmmiinstitute.com/cmmi) de su programa.
 
