@@ -16,7 +16,7 @@ cover: /img/posts/2017-11-11-novedades-sonar.png
 <a href="http://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="novedades importantes en SonarSource" title="Novedades importantes en SonarSource" src="/img/posts/2017-11-11-novedades-sonar.png"></a>
 
 
-El pasado miércoles fue un día muy importante para la comunidad [SonarSource](https://www.sonarsource.com/). Coincidiendo con la celebración del noveno aniversario de la empresa, y el inicio del ciclo de eventos [City Tour](https://www.sonarsource.com/company/events/) por Estados Unidos en Nueva York, el líder en calidad de código anunció dos de sus novedades más importantes hasta el momento: el [lanzamiento](https://www.sonarsource.com/resources/product-news/news.html#6.7-lts-released) de **SonarQube 6.7** (LTS) y un cambio estratégico en su cartera de productos. 
+El pasado miércoles fue un día muy importante para la comunidad [SonarSource](https://www.sonarsource.com/). Coincidiendo con la celebración del noveno aniversario de la empresa, y el inicio del ciclo de eventos [City Tour](https://www.sonarsource.com/company/events/) por Estados Unidos en Nueva York, el líder en calidad de código anunció dos de sus novedades más importantes hasta el momento: el lanzamiento de **SonarQube 6.7** (LTS) y un cambio estratégico en su cartera de productos. 
 
 
 ## SonarQube 6.7

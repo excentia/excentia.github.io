@@ -83,7 +83,7 @@ Aquí están las bases del cálculo del OWASP Benchmark Report:
 
 Para obtener una puntuación de 100, tienes que encontrar todos los problemas sin marcar ningún falso positivo.
 
-Si miras la puntuación oficial publicada por [OWASP para el "Plugin de Java de SonarQube"](https://rawgit.com/OWASP/Benchmark/master/scorecard/OWASP_Benchmark_Home.html), verás que está lejos de ser buena, pues muestra un 33%. Esta mala puntuación está relacionada con el hecho de que el OWASP Benchmark fue medido por última vez con el SonarJava 3.14, que fue publicado en septiembre de 2016 - hace casi tres años, en el momento de escribir este artículo - y en ese momento nadie en SonarSource buscaba mejorar esta puntuación porque el desarrollo de reglas de seguridad no era nuestra principal preocupación.
+Si miras la puntuación oficial publicada por OWASP para el "Plugin de Java de SonarQube", verás que está lejos de ser buena, pues muestra un 33%. Esta mala puntuación está relacionada con el hecho de que el OWASP Benchmark fue medido por última vez con el SonarJava 3.14, que fue publicado en septiembre de 2016 - hace casi tres años, en el momento de escribir este artículo - y en ese momento nadie en SonarSource buscaba mejorar esta puntuación porque el desarrollo de reglas de seguridad no era nuestra principal preocupación.
 
 Las cosas han cambiado mucho desde esa versión. Si consideras sólo los 1200 casos de pruebas de vulnerabilidad de inyección, la edición para desarrolladores de SonarQube obtiene una puntuación OWASP de 84 con un índice de positivo de 85% y un índice de falso positivo de 1%.
 

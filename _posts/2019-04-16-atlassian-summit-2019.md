@@ -49,7 +49,7 @@ Durante distintos workshops del Summit 2019, pudimos ver en marcha las versiones
 
 Sin embargo, hablando de Data Center la cosa cambia y aquí sí se han introducido una serie de mejoras significativas, que por supuesto han tomado una relevancia destacada en las conclusiones del Summit: 
 
-* [Smart Mirror Farms para Bitbucket](https://confluence.atlassian.com/bitbucketserver/smart-mirroring-776640046.html) : el *Smart Mirroring* mejora en gran medida las velocidades de clonación de Git para equipos distribuidos que trabajan con grandes repositorios. Los grandes repositorios que tardan horas en clonarse desde una instancia de Bitbucket a través de Internet desde el otro lado del mundo pueden tardar sólo unos minutos cuando se clonan desde un *smart mirror* en una red rápida.
+* [Smart Mirror Farms para Bitbucket](https://confluence.atlassian.com/bitbucketserver/smart-mirroring-776640046) : el *Smart Mirroring* mejora en gran medida las velocidades de clonación de Git para equipos distribuidos que trabajan con grandes repositorios. Los grandes repositorios que tardan horas en clonarse desde una instancia de Bitbucket a través de Internet desde el otro lado del mundo pueden tardar sólo unos minutos cuando se clonan desde un *smart mirror* en una red rápida.
 
 * Soporte CDN (Content Delivery Network) para Jira Software, Confluence, Bitbucket y Jira Service Desk
 

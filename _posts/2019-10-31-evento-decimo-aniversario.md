@@ -50,7 +50,7 @@ Antes del almuerzo, Víctor Gómez Adán e Ignacio Carrillo, realizaban una inge
 
 <a target="_blank"><img class="center" width="80%" alt="Nicolas en el décimo aniversario de excentia" title="Nicolas en el décimo aniversario de excentia" src="/img/posts/2019-10-30-victor-ignacio-qa-evento.jpeg"></a>
 
-Tras dar buena cuenta del café y los bollos, Javier Garzás iniciaba su ponencia. Como era de esperar, no dejó indiferente a nadie. Claro, honesto y directo, Javier repasó el agilismo, la calidad y las metodologías de estos últimos años. Tienes un [breve resumen en su blog](https://www.javiergarzas.com/2019/10/fases-en-la-historia-de-la-evolucion-de-la-agilidad.html) 
+Tras dar buena cuenta del café y los bollos, Javier Garzás iniciaba su ponencia. Como era de esperar, no dejó indiferente a nadie. Claro, honesto y directo, Javier repasó el agilismo, la calidad y las metodologías de estos últimos años. Tienes un [breve resumen en su blog](https://www.javiergarzas.com/2019/10/fases-en-la-historia-de-la-evolucion-de-la-agilidad) 
 
 Nos alegra muchísimo ver que de esta ponencia, ha surgido una nueva temática para su blog. Lo seguiremos muy de cerca. 
 
