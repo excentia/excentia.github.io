@@ -23,21 +23,21 @@ Sonar amplía la oferta de planes para la contratación de uno de sus productos:
 
 El **plan SonarCloud Enterprise** ofrece el inicio de sesión único (SSO) a través de SAML, jerarquía empresarial, informes de gestión, carteras, configuración de proyectos para toda la organización, compatibilidad con lenguajes específicos de la empresa, como COBOL y acceso a soporte comercial y un acuerdo de nivel de servicio dedicado. Vamos punto por punto desarrollando cada característica. 
 
-**Inicio de sesión único**
+**Inicio de sesión único (Single Sign On)**
 
 La autenticación SSO (inicio de sesión único) a través de SAML ofrece **mayor seguridad**. Esta opción estará disponible para Microsoft Entra ID, Okta y JumpCloud, lo que permitirá que los usuarios se conecten a través del proveedor de identidad centralizado de su empresa. La autenticación a través de la plataforma DevOps seguirá estando disponible.
 
-**Jerarquía empresarial**
+**Estructura jerárquica empresarial**
 
-La jerarquía empresarial permitirá agrupar organizaciones en una empresa, independientemente de las **plataformas DevOps** que utilicen. Esta característica facilita la administración para grandes empresas que tienen múltiples organizaciones y necesitan una forma de administrarlas.
+La jerarquía empresarial permitirá agrupar organizaciones en una única cuenta Enterprise, independientemente de las **plataformas DevOps** que utilicen. Esta característica facilita la administración para grandes empresas que tienen múltiples organizaciones, multiples plataformas DevOps y necesitan una forma centralizada de administrarlas.
 
-**Carteras**
+**Portfolios**
 
-Las carteras permiten a los responsables agrupar proyectos en una cartera e identificar cuáles necesitan atención y en qué aspectos. Al ofrecer una **vista panorámica** de los proyectos que pueden abarcar organizaciones dentro de una empresa, los gerentes pueden orientarse hacia los proyectos que necesitan más atención.
+Los portfolios permiten a los responsables agrupar proyectos y visualizar las métricas de forma conjunta para identificar cuáles necesitan atención y en qué aspectos. Al ofrecer una **vista panorámica** de los proyectos que pueden abarcar organizaciones dentro de una empresa, los gerentes pueden orientarse hacia los proyectos que necesitan más atención y tenter una visión más ejecutiva del estado de la calidad del código.
 
 **Informes**
 
-Este plan incluye **informes de proyectos y seguridad** similares a los de SonarQube. Ahora el usuario podrá contar con una visión del estado de los proyectos y ver cualquier problema que pueda tener desde el punto de vista de una variedad de **métricas de seguridad** (PCI DSS, OWASP y CWE Top 25).
+Este plan incluye **informes de proyectos y seguridad** similares a los de SonarQube Enterprise Edition. Ahora el usuario podrá contar con una visión resumen del estado de los proyectos y ver cualquier problema que pueda tener desde el punto de vista de una variedad de **métricas de seguridad** (PCI DSS, OWASP y CWE Top 25).
 
 **Configuración de proyectos para toda la organización**
 
@@ -52,6 +52,8 @@ Tal y como ha anunciado el equipo de Sonar en su blog, este plan está disponibl
 
 
 El **plan SonarCloud Team** ofrece funcionalidades esenciales para pequeños equipos de desarrollo, tanto desde una perspectiva de integración del ecosistema como de colaboración. Proporciona una solución SaaS fiable que incluyen análisis de ramas, pull request y es compatibilidad con **28 lenguajes y marcos de trabajo**. Además, los usuarios podrán analizar proyectos públicos y privados y tendrán el control para definir el estándar de calidad que deseen.
+
+Este plan es el equivalente al que ya existía previamente a través de la suscripción existente.
 
 El **plan gratuito de SonarCloud** seguirá estando disponible para su uso. 
 
