@@ -18,7 +18,7 @@ Si trabajas en **desarrollo**, **software**, o alguna de sus variantes, **agile*
 
 **Agile** y las **metodologías ágiles** forman parte de la vida, la cultura, y el mundillo informático-tecnológico desde hace un tiempo. Sin embargo, estamos observando no sólo una adopción masiva en este sector, sino en cualquier sector y equipo de negocio. Para muestra un botón, ¿alguna vez has escuchado hablar de los **tableros kanban**?
 
-En [excentia](http://www.excentia.es/), hemos querido resumir en un post las claves de esta cultura de trabajo tan extendida y exitosa, ya no sólo para que todo esto deje de sonarte a chino sino también para que consigas ser todo un **agile master**. ¡Vamos allá!
+En [excentia](https://www.excentia.es/), hemos querido resumir en un post las claves de esta cultura de trabajo tan extendida y exitosa, ya no sólo para que todo esto deje de sonarte a chino sino también para que consigas ser todo un **agile master**. ¡Vamos allá!
 
 ## ¿Qué son las metodologías ágiles?
 

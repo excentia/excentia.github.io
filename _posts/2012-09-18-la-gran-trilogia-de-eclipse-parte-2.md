@@ -7,7 +7,6 @@ categories:
 - plugins
 - desarrollo
 modified_time: '2012-09-24T09:22:16.732+02:00'
-thumbnail: http://1.bp.blogspot.com/-DAJphjMZiJY/UCoNUS0uSZI/AAAAAAAAAGA/NG_G5j4cDCY/s72-c/eclipse.png
 blogger_id: tag:blogger.com,1999:blog-6299073294914176200.post-7072227880446068107
 redirect_from: /2012/09/la-gran-trilogia-de-eclipse-parte-2.html
 ---
