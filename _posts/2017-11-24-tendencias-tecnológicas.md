@@ -11,11 +11,11 @@ modified_time: '2017-11-24T08:00:00.000+01:00'
 cover: /img/posts/2017-11-24 - tendencias-tecnológicas.png
 ---
 
-<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="tendencias tecnológicas 2018" title="Tendencias Tecnológicas en el 2018" src="/img/posts/2017-11-24 - tendencias-tecnológicas.png"></a>--
+<a href="https://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="tendencias tecnológicas 2018" title="Tendencias Tecnológicas en el 2018" src="/img/posts/2017-11-24 - tendencias-tecnológicas.png"></a>--
 
 Que la revolución tecnológica está aquí y ha venido para quedarse no es ningún secreto. Sin embargo, en ocasiones parece que lo dejemos para el cine y las películas de ciencia ficción, cuando deberían estar en la agenda y plan de ruta de todas las organizaciones, sin excepción… Si no, que se lo pregunten a Nokia… Pero es que si además eres un **profesional TI** o a punto de serlo, estas tendencias marcaran completamente tu futuro: cuando menos te des cuenta ya no será una tendencia sino una realidad a la que llegas tarde para engancharte. Por eso, *infoempleo* y *Deloitte* afirman que la **formación continua** será [requisito imprescindible](https://www.revistacloudcomputing.com/2017/11/la-formacion-continua-sera-requisito-imprescindible-para-cubrir-las-profesiones-del-futuro-el-75-de-las-cuales-aun-no-existen/) para cubrir las profesiones del futuro, ¡el 75% de las cuales ni siquiera existen!
 
-Así que, es momento de ponerse las pilas. En [excentia](http://www.excentia.es/) te contamos las **tendencias tecnológicas** que más impacto tendrán en este 2018 según la consultora *Gartner*. No digas que no te avisamos… 
+Así que, es momento de ponerse las pilas. En [excentia](https://www.excentia.es/) te contamos las **tendencias tecnológicas** que más impacto tendrán en este 2018 según la consultora *Gartner*. No digas que no te avisamos… 
 
 
 ## Inteligencia artifical

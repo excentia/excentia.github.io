@@ -17,11 +17,11 @@ cover: /img/posts/2017-10-13-SonarSource-City-Tour-Madrid.png
 
 ¡**SonarSource** vuelve a Madrid! La empresa referente en [**calidad de código**](https://www.sonarsource.com/) regresa a España con su ya habitual tour de eventos por más de 10 ciudades europeas y estadounidenses: Londres, Nueva York, Paris, Frankfurt o Washington, junto con Madrid, son algunos de sus destinos para el 2017. 
 
-El 29 de noviembre **SonarSource** aterrizará en Madrid de la mano de [**excentia**](http://www.excentia.es/sonarsource) para traerte las últimas novedades y avances en el ecosistema de **SonarSource**. 
+El 29 de noviembre **SonarSource** aterrizará en Madrid de la mano de [**excentia**](https://www.excentia.es/sonarsource) para traerte las últimas novedades y avances en el ecosistema de **SonarSource**. 
 
 Durante el *SonarSource City Tour Madrid 2017* podrás aprender más sobre la **mejora de código** sistemática para tus aplicaciones, además de integrarla completamente con tu cadena de procesos **DevOps**.
 
-Los equipos de [excentia](http://www.excentia.es/) y [SonarSource](https://www.sonarsource.com/) estaremos encantados de compartir nuevas características, trucos y lecciones aprendidas de nuestro conocimiento experto en **SonarQube**, **SonarLint** y **SonarCloud**. 
+Los equipos de [excentia](https://www.excentia.es/) y [SonarSource](https://www.sonarsource.com/) estaremos encantados de compartir nuevas características, trucos y lecciones aprendidas de nuestro conocimiento experto en **SonarQube**, **SonarLint** y **SonarCloud**. 
 
 ¿Qué podremos ver durante el evento? Te adelantamos algunos de los contenidos:
 

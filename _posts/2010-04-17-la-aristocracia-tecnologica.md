@@ -7,7 +7,6 @@ categories:
 - opinion 
 - tecnologia
 modified_time: '2010-05-07T10:48:28.637+02:00'
-thumbnail: http://3.bp.blogspot.com/_3Zzvv_2cI1k/S82Prt8h2LI/AAAAAAAAABo/MAouuU26W7s/s72-c/clases+sociales_1.jpg
 blogger_id: tag:blogger.com,1999:blog-6299073294914176200.post-6999707948898757420
 redirect_from: /2010/04/la-aristocracia-tecnologica.html
 ---

@@ -11,12 +11,12 @@ modified_time: '2018-01-18T08:00:00.000+01:00'
 cover: /img/posts/2018-01-18- ChatOps-pieza-fundamental-ciclo-DevOps.png
 ---
 
-<a href="http://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera ChatOps: pieza fundamental del ciclo DevOps" title="ChatOps: pieza fundamental del ciclo DevOps" src="/img/posts/2018-01-18- ChatOps-pieza-fundamental-ciclo-DevOps.png"></a>
+<a href="https://www.excentia.es/" target="_blank"><img class="center" width="100%" alt="Cabecera ChatOps: pieza fundamental del ciclo DevOps" title="ChatOps: pieza fundamental del ciclo DevOps" src="/img/posts/2018-01-18- ChatOps-pieza-fundamental-ciclo-DevOps.png"></a>
 
 
-¡Regresamos con *#excentiaDevOps*! En nuestra nueva entrega mensual sobre la [cultura DevOps](http://www.excentia.es/que-es-DevOps) nos centramos en una parte fundamental dentro de esta filosofía: ChatOps. ¿Estás preparado para saber un poco más? ¿Crees en la comunicación cómo un elemento crucial en el éxito de los equipos de desarrollo y operaciones? Si es así, ¡sigue leyendo!
+¡Regresamos con *#excentiaDevOps*! En nuestra nueva entrega mensual sobre la [cultura DevOps](https://www.excentia.es/que-es-DevOps) nos centramos en una parte fundamental dentro de esta filosofía: ChatOps. ¿Estás preparado para saber un poco más? ¿Crees en la comunicación cómo un elemento crucial en el éxito de los equipos de desarrollo y operaciones? Si es así, ¡sigue leyendo!
 
-Hey! Pero antes, para los olvidadizos, [¿qué es DevOps?](http://www.excentia.es/que-es-DevOps) Podríamos resumirlo así: **la cultura DevOps une a los equipos de desarrollo con los equipos de operaciones o sistemas, favoreciendo la colaboración, comunicación, transparencia y trabajo en equipo entre ambos departamentos**. En la propia definición, entra en juego el término o concepto ChatOps: colaboración entre departamentos. 
+Hey! Pero antes, para los olvidadizos, [¿qué es DevOps?](https://www.excentia.es/que-es-DevOps) Podríamos resumirlo así: **la cultura DevOps une a los equipos de desarrollo con los equipos de operaciones o sistemas, favoreciendo la colaboración, comunicación, transparencia y trabajo en equipo entre ambos departamentos**. En la propia definición, entra en juego el término o concepto ChatOps: colaboración entre departamentos. 
 
 
 ## ¿Qué es ChatOps?
@@ -35,7 +35,7 @@ Vamos a la práctica, ¿cómo funciona? Desde que se notifica una incidencia en 
 
 ## Desde la semilla hasta el árbol: las etapas del ciclo ChatOps. 
 
-Al principio, los equipos de trabajo se crean grupos de chat para hablar de temas de diversa índole. HipChat empieza a ser utilizado por gran parte de las personas aunque el correo electrónico sigue siendo el principal [medio de comunicación](http://www.enter.co/especiales/claro-negocios/las-mejores-aplicaciones-de-chat-para-tu-empresa/).
+Al principio, los equipos de trabajo se crean grupos de chat para hablar de temas de diversa índole. HipChat empieza a ser utilizado por gran parte de las personas aunque el correo electrónico sigue siendo el principal [medio de comunicación](https://www.enter.co/especiales/claro-negocios/las-mejores-aplicaciones-de-chat-para-tu-empresa/).
 
 A continuación, los usuarios se conciencian de la utilidad de las salas de chat para abordar reuniones, debates y resolver dudas e incidencias. Se dan cuenta de que **usar una sala de chat brinda transparencia al proceso y genera confianza a los demás usuarios y equipos**. El uso de la herramienta de chat comienza a incrementarse y los beneficios educativos y culturales de ChatOps se pueden vislumbrar.
 
