@@ -17,7 +17,7 @@ De todos es conocido que en este mundo existen dos tipos de trabajadores: los qu
 
 El mundo de las tecnologías de la información no se escapa de esta diferenciación. En el evento <a
         href="https://www.vlctesting.es/" target="_blank">VLC Testing</a> 2014 jornada sobre <a
-        href="https://www.excentia.es/calidad-del-software.html" target="_blank">Calidad</a> y Testeo de Software, Domingo Gaitero Gordillo dijo algo como que en todos los trabajos hay “un triste”, esa persona que solamente ve problemas donde el resto ve soluciones y oportunidades.
+        href="https://www.excentia.es/calidad-de-software" target="_blank">Calidad</a> y Testeo de Software, Domingo Gaitero Gordillo dijo algo como que en todos los trabajos hay “un triste”, esa persona que solamente ve problemas donde el resto ve soluciones y oportunidades.
 
 Yo desde mi humilde posición propongo convertirnos a nosotros mismos en personas alegres, en trabajadores alegres, y que nos encarguemos de crear los motivos para levantarnos con una sonrisa cada mañana.
 
