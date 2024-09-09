@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SonarQube Connector For Jira Cloud 2.39'
+title: 'SonarQube Connector For Jira versiones 2.40 (Cloud) y 2.39 (Data Center)'
 description: Nuevo botón para descargar un informe en PDF del CWE Top 25. ¡No te pierdas esta actualización!
 date: '2024-09-05T08:00:00Z'
 author: Belén Casanovas
@@ -18,7 +18,7 @@ cover: img/posts/2024-09-06-sonarqube-sonarcloud-connector-jira-2-39.png
 
 <img width="100%" src="img/posts/2024-09-06-sonarqube-sonarcloud-connector-jira-2-39.png" alt="SonarQube Connector for Jira Cloud 2.39">
 
-Nueva funcionalidad en la **versión 2.39** de nuestra aplicación SonarQube/SonarCloud Connector for Jira para las instancias Cloud y Data Center. 
+Nueva funcionalidad para nuestro SonarQube/SonarCloud Connector for Jira para las instancias Cloud (versión 2.40) y Data Center (versión 2.39). 
 
 Nuestro equipo de desarrollo ha añadido un **nuevo botón en el panel del CWE Top 25** para que puedas descargar un informe en formato PDF sobre las 
 vulnerabilidades de los proyectos configurados que afectan a dicho estándar. 
