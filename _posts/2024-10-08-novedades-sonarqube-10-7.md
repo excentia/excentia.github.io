@@ -39,7 +39,7 @@ cover: img/posts/2024-10-08-novedades-sonarqube-10-7.png
 
 **Sonar AI Code Assurance** es un proceso robusto y simplificado para **validar el código generado por IA** a través de un análisis estructurado y completo. Los desarrolladores pueden identificar y etiquetar fácilmente proyectos que contienen código generado por la IA, iniciando el flujo de trabajo de Sonar AI Code Assurance. Esta funcionalidad **asegura** que cada nueva pieza de código cumpla con los más altos estándares de calidad y seguridad antes de pasar a producción.
 
-Mas información sobre Sonar AI Code Assurance (aquí)[www.excentia.es/que-es-sonar-ai-codefix]
+*Mas información sobre Sonar AI Code Assurance [aquí](www.excentia.es/que-es-sonar-ai-code-assurance).*
 
 <h2>Soluciona rápidamente los problemas encontrados</h2>
 
@@ -47,7 +47,7 @@ Con **SonarQube 10.7** tendrás acceso anticipado a **Sonar AI CodeFix**, una nu
 
 Con Sonar AI CodeFix automatizarás la resolución de problemas y aumentarás significativamente la velocidad y productividad de los desarrolladores.
 
-Mas información sobre Sonar AI CodeFix (aquí)[www.excentia.es/que-es-sonar-ai-codefix]
+*Mas información sobre Sonar AI CodeFix [aquí](www.excentia.es/que-es-sonar-ai-codefix).*
 
 <h2>Nuevos informes de seguridad STIG y CASA</h2>
 
@@ -73,5 +73,5 @@ Este sistema consiste en un conjunto de **45 KPIs de seguridad**, un método par
 
 Sonar ha anunciado que en la **versión 10.7 de SonarQube**, han elevado su cobertura de seguridad del Spring Framework al 92%, obteniendo una calificación de "cobertura completa". Los desarrolladores de Java que utilizan el Spring Framework pueden estar seguros de que SonarQube es una de las herramientas de prueba de seguridad de aplicaciones estáticas (SAST) más completas y avanzadas, con más de 200 reglas para el popular marco Java. SonarQube ayudará a los desarrolladores a garantizar que sus aplicaciones basadas en Spring Framework funcionen sin problemas y tengan pocas o ninguna vulnerabilidad de seguridad.
 
-Y hasta aquí todas las novedades de esta nueva versión. Este artículo es una traducción del (post de Sonar)[https://www.sonarsource.com/blog/sonarqube-10-7-release-announcement/] de su blog. 
+Y hasta aquí todas las novedades de esta nueva versión. Este artículo es una traducción del [post de Sonar](https://www.sonarsource.com/blog/sonarqube-10-7-release-announcement/) de su blog. 
 
