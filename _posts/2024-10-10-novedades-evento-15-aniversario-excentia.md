@@ -35,15 +35,15 @@ Como no podía ser de otra forma contaremos con **Atlassian y Sonar**, amigos/as
 
 **13:00 horas - Caso práctico: Impulsando la calidad del código**, por Marta López Reyes, Responsable de Calidad en la [UOC](https://www.uoc.edu/es). Compartirá cómo su equipo utiliza nuestro SonarQube Connector for Jira para mejorar la gestión de proyectos y asegurar la calidad del código.
 
-**13:15 horas - Caso práctico: Migrar a la nube... ¿Estás "seguro"?**, por Marta Rodríguez de Gestión de servicios TIC, soporte y aplicaciones [CASER](https://www.caser.es/) nos hablará sobre su experiencia en la migración a Jira Cloud. Un tema relevante para muchas empresas en la actualidad, donde la seguridad y la eficiencia son clave. Conocerás las mejores prácticas y consideraciones para una migración exitosa.
+**13:20 horas - Caso práctico: Migrar a la nube... ¿Estás "seguro"?**, por Marta Rodríguez de Gestión de servicios TIC, soporte y aplicaciones [CASER](https://www.caser.es/) nos hablará sobre su experiencia en la migración a Jira Cloud. Un tema relevante para muchas empresas en la actualidad, donde la seguridad y la eficiencia son clave. Conocerás las mejores prácticas y consideraciones para una migración exitosa.
 
-**13:30 horas - Jira Service Management para la Autoridad Portuaria de Valencia**, por Miguel Ángel Portugués, Head Innovation de [INFOPORT](https://www.infoport.es/), presentará cómo la Autoridad Portuaria ha implementado Jira Service Management. Este caso práctico resaltará cómo la innovación puede transformar servicios públicos.
+**13:40 horas - Jira Service Management para la Autoridad Portuaria de Valencia**, por Miguel Ángel Portugués, Head Innovation de [INFOPORT](https://www.infoport.es/), presentará cómo la Autoridad Portuaria ha implementado Jira Service Management. Este caso práctico resaltará cómo la innovación puede transformar servicios públicos.
 
 Y para terminar...
 
 ¡Cierre con Sorpresas!
 
-**13:45 horas - Despedida, sorteos y cierre**: Cerraremos la jornada con reflexiones sobre el futuro y nuestro sorteo. No solo tendrás la oportunidad de llevarte a casa un "gadget", sino también la satisfacción de haber compartido un día lleno de aprendizaje y networking.
+**14:00 horas - Despedida, sorteos y cierre**: Cerraremos la jornada con reflexiones sobre el futuro y nuestro sorteo. No solo tendrás la oportunidad de llevarte a casa un "gadget", sino también la satisfacción de haber compartido un día lleno de aprendizaje y networking.
 
 Este evento no solo es una celebración, sino una escusa para el crecimiento profesional y la innovación. ¡No te lo pierdas! Inscríbete ahora y asegúrate un lugar en esta experiencia única. La historia de excentia sigue escribiéndose y queremos que seas parte de ella.
 
