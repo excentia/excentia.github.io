@@ -21,7 +21,7 @@ El **próximo 24 de octubre**, el Edificio Veles e Vents de la Marina de Valenci
 
 Como no podía ser de otra forma contaremos con **Atlassian y Sonar**, amigos/as, clientes y colaboradores porque hemos caminado juntos durante estos 15 años. Así que, a continuación, encontrarás la agenda y te la desglosamos paso por paso para que veas cuál va a ser la programación de este día tan importante para el equipo de excentia. 
 
-**9:00 horas - Recepción y café**: Comenzaremos la jornada recibiendo a todos los asistentes con un café recién hecho. Comprovaremos tu registro y te daremos tu acreditación y tu número para entrar en nuestro sorteo. ¡No llegues tarde!
+**9:00 horas - Recepción y café**: Comenzaremos la jornada recibiendo a todos los asistentes con un café recién hecho. Comprobaremos tu registro y te daremos tu acreditación y tu número para entrar en nuestro sorteo. ¡No llegues tarde!
 
 **9:30 horas - Bienvenida por Hugo Mora y Antonio Calero**: Los fundadores de excentia, Hugo Mora y Antonio Calero, abrirán el evento compartiendo su visión y reflexiones sobre el pasado y el futuro de la empresa. Esta es una oportunidad para conocer, de primera mano, cómo hemos llegado hasta aquí y qué nos depara el futuro. Sus historias y anécdotas te inspirarán y motivarán a ser parte de nuestra próxima etapa.
 
