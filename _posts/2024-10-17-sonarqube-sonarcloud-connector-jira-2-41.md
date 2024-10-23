@@ -2,7 +2,7 @@
 layout: post
 title: 'SonarQube/SonarCloud Connector for Jira Cloud versión 2.41'
 description: Ahora puedes personalizar los informes con el logotipo que quieras. ¡Te lo contamos!
-date: '2024-10-14T08:00:00Z'
+date: '2024-10-17T08:00:00Z'
 author: Belén Casanovas
 categories:
 
@@ -15,7 +15,7 @@ cover: img/posts/2024-10-14-sonarqube-sonarcloud-connector-jira-2-41.png
 
 ---
 
-<img width="100%" src="img/posts/2024-10-14-sonarqube-sonarcloud-connector-jira-2-41.png" alt="SonarQube Connector for Jira Cloud 2.41">
+<img width="100%" src="img/posts/2024-10-17-sonarqube-sonarcloud-connector-jira-2-41.png" alt="SonarQube Connector for Jira Cloud 2.41">
 
 
 ¡Tenemos una nueva release de nuestro producto estrella! Lanzamos la **versión 2.41** del **SonarQube Connector for Jira Cloud** y además, con una nueva funcionalidad. Ahora, podrás **añadir el logotipo de tu empresa** en el footer de los infomes en PDF. Te contamos aquí paso a paso cómo configurarlo. 
