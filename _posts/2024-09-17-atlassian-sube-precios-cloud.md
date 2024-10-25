@@ -22,19 +22,44 @@ Tal y como ha informado la compañía, este incremento se ve justicado por "la i
 
 A continuación compartimos el incremento por producto que va a realizar Atlassian: 
 
-- Jira (5‑10%)
+- **Jira & Confluence**
+
+- Standard (5%)
+
+- Premium (6 – 10%)
+
+- Enterprise (10%)
+
  
-- Confluence (5‑10%)
+- **Jira Service Management**
+
+- Standard, Premium, y Enterprise 1–250 usuarios (8%)
+
+- Standard, Premium, y Enterprise 251+ (20%)
+
  
-- Jira Service Management (7‑9%) [1‑250 usuarios]
+- **Opsgenie**
+
+- Essentials y Standard (5%)
+
+- Enterprise (10%)
+
  
-- Opsgenie (5‑10%)
+- **Atlassian Guard (Access)**
+
+- Standard 1-999 usuarios (5%)
+
+- Standard 1000+ usuarios (8%)
+
  
-- Atlassian Guard (5‑8%)
+- **Bitbucket**
+
+- Standard y Premium (10%)
+
  
-- Bitbucket (10%)
- 
-- Compass (14%)
+- **Compass**
+
+- Standard (14%)
 
 Los rangos de precios que se indican arriba dependen del nivel y del plan. Puedes ponerte en contacto con nosotros para conocer cómo afectará esta subida de precios en tu instancia.
 
