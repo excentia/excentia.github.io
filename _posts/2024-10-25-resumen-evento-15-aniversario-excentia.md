@@ -14,7 +14,7 @@ cover: img/posts/2024-10-25-resumen-evento-15-aniversario-excentia.png
 
 ---
 
-<img width="100%" src="img/posts/2024-10-25-resumen-evento-15-aniversario-excentia.png" alt="SonarQube Connector for Jira Cloud 2.41">
+<img width="100%" src="img/posts/2024-10-25-resumen-evento-15-aniversario-excentia.png" alt="Resumen 15 aniversario excentia">
 
 
 ¡Menudo día pasamos para **celebrar nuestro 15 aniversario**! El **24 de octubre** nos reunimos todo el equipo de excentia, clientes, amigos/as y colaboradores/as para celebrar estos 15 años de calidad de código y de procesos. Gracias a ti pudimos disfrutar de una jornada amena y repleta de experiencias. Tuvimos una [agenda](/evento-15-aniversario-excentia.html) muy interesante y, si no pudiste venir al evento o quieres recordarlo, te lo vamos a contar en este artículo. 
