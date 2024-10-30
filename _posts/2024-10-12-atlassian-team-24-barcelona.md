@@ -33,6 +33,8 @@ La IA se convierte en una funcionalidad clave en todas las herramientas de Altas
 
 Rovo ya está disponible para todos los equipos. Fue en el Atlassian Team'24 de Las Vegas donde dieron a conocer esta nueva solución y ha sido, esta semana, cuando han anunciado la disponibilidad general de Rovo. En este artículo ya te explicamos las [tres áreas principales](/que-es-atlassian-rovo) de esta solución, también llamado como tu "compañero de trabajo inteligente". 
 
+Recuerda que **Rovo utiliza la inteligencia artificial** para mejorar "la colaboración y la productividad del equipo". Esta solución permite convertir los datos en información instantánea para ayudar a los equipos a tomar mejores decisiones. Aprovecha a los Agentes de Rovo para abordar problemas dificiles y para agilizar las tareas repetitivas.
+
 Rovo permite automatizar tareas, revisar el contenido, hace **recomendaciones en tiempo real** a partir de la **información registrada en Jira** e **incluso incluye un chat inteligente**. Toda una revolución de IA para los que trabajan con las herramientas de Atlassian. 
 
 <h2>Lanzamiento de Atlassian Focus</h2>
@@ -45,4 +47,6 @@ Por supuesto, Atlassian Focus estará **integrado con Jira y Confluence**, las p
 
 <br>
 
-Y para terminar, te contamos que en el evento que celebramos el próximo **24 de octubre** tendremos a **Gerson Gutierrez, Senior Support Engineer en Atlassian** que nos hablará en directo de todas estas novedades en su ponencia. ¿Te lo vas a perder? Regístrate de de forma gratuita a través del [siguiente enlace](https://www.excentia.es/evento-15-aniversario-excentia).
+Esta **última innovación de Atlassian** para la estrategia y planificación empresarial ayudará a los líderes a mejorar su estrategia empresarial. Los directivos podrán definir, visualizar, comunicar, implementar y monitorizar sus prioridades estratégicas. Con Focus, las organizaciones podrán aplicar estrategias de manera efectiva y traducirlas en planes, acciones y mejores resultados.
+
+¡Y hasta aquí este resumen!¡Nos leemos en el siguiente evento!
