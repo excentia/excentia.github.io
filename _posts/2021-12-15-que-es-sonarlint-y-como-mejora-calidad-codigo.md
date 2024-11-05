@@ -13,26 +13,24 @@ categories:
 cover: /img/posts/2021-12-15-que-es-sonarlint-y-como-mejora-calidad-codigo.png
 modified_time: '2021-12-15T08:00:00.000+01:00'
 ---
+📢 <strong>Ahora SonarLint es SonarQube ide. Te lo contamos en [esta noticia](/nueva-marca-productos-sonarqube){:target="_blank"}.</strong>
 
-📢 Antes de empezar, si quieres **conocer más sobre SonarLint, SonarQube y SonarCloud** te invitamos a ver [este webinar](/webinar-mejores-practicas-reducir-costes-software){:target="_blank"}, que realizaremos el **11 de junio**, donde hablamos de buenas prácticas que puedes aplicar desde ya con estas soluciones de Sonar. ¡Regístrate!
-
-Y ahora si, empezamos con SonarLint:
-
+Y ahora si, empezamos con SonarQube ide:
 
 ## Clean Code comienza en su IDE
 
 
-**SonarLint** es una extensión IDE gratuita y open-source que identifica y te ayuda a solucionar los problemas de calidad y seguridad mientras escribes el código.
+**SonarQube ide** (anteriormente SonarLint) es una extensión IDE gratuita y open-source que identifica y te ayuda a solucionar los problemas de calidad y seguridad mientras escribes el código.
 
-Piensa en Sonarlint como un **corrector ortográfico** que te proporciona comentarios en tiempo real y una guía de corrección para que puedas entregar código limpio (desde el principio). Con SonarLint tendrás una única herramienta para abordar los problemas de calidad y seguridad de tu código. 
+Piensa en SonarQube ide como un **corrector ortográfico** que te proporciona comentarios en tiempo real y una guía de corrección para que puedas entregar código limpio (desde el principio). Con SonarQube ide tendrás una única herramienta para abordar los problemas de calidad y seguridad de tu código. 
 
-En la **siguiente infografía** plasmamos un resumen de SonarLint y sus características principales: 
+En la **siguiente infografía** plasmamos un resumen de SonarQube ide y sus características principales: 
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/nhyUBKAkt21CwB?startSlide=1" width="800" height="585" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/BelnCasanovasBabilon/qu-es-sonarlint" title="¿Qué es SonarLint?" target="_blank">Infografía - ¿Qué es SonarLint?</a></strong></div>
 
 <br>
 
-**¿Dónde está disponible SonarLint?**
+**¿Dónde está disponible SonarQube ide?**
 
 Las extensiones **IDE de Sonar** están disponibles para IntelliJ (y otros IDE de JetBrains), Visual Studio, VS Code y Eclipse, y se pueden instalar directamente desde el mercado de complementos de su IDE.
 
@@ -50,13 +48,13 @@ SonarLint es un gran aliado en la entrega de código sin errores. Gracias a esta
 
 SonarLint es la [herramienta perfecta](https://www.excentia.es/sonarlint) para ayudar a los desarrolladores de todos los niveles a mejorar y entregar un código limpio y seguro.
 
-## Cómo funciona SonarLint
+## Cómo funciona SonarQube ide
  
 Se adapta perfectamente a tu IDE y es fácil de usar. Descárgalo, instálalo y no te preocupes de nada más, escribe tu código y SonarLint hará su trabajo.
 
 <img src="img/posts/2021-12-15-que-es-sonarlint-y-como-mejora-calidad-codigo-ejemplo.png" width="100%" alt="SonarLint ejemplo">
 
-## Cómo te ayuda SonarLint
+## Cómo te ayuda SonarQube ide
 
 ### Orientación clara
 
@@ -72,16 +70,9 @@ Resaltar todas las ubicaciones afectadas en tu código te permite **tener una vi
 El análisis de alta precisión sobre la marcha significa **menos falsos positivos** y resultados consistentes y confiables.
 <br>
 
-## Mejora la calidad tu código con SonarLint
+## Mejora la calidad tu código con SonarQube ide
 
-¿A qué estas esperando? Descarga gratuitamente [**SonarLint**](https://www.sonarlint.org/) y comienza a mejorar la calidad y la seguridad de tu código.
-
-Por cierto, aquí te dejamos los cursos que tenemos en la **actualidad de SonarQube** donde también hablamos de cómo puedes aprovechar el potencial de **SonarLint**: 
-
-
-<a href="https://www.excentia.es/formacion?utm_source=blog&utm_medium=web&utm_campaign=Cursos+SonarQube/" title="Cursos SonarQube">
-	<img alt="imagen html de ejemplo" src="img/formacion/banner-cursos-sonarqube.png" width="50%"/>
-</a>
+¿A qué estas esperando? Descarga gratuitamente [**SonarQube ide**](https://www.sonarlint.org/) y comienza a mejorar la calidad y la seguridad de tu código.
 
 <!--Calidad de Software Contact Form-->
 <div id="contact-form">
