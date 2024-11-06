@@ -30,9 +30,9 @@ Los nuevos nombres de las soluciones de Sonar son los siguientes:
 
 <img width="50%" src="/img/sonarsource-products/logo-sonarqube-cloud.webp" alt="Logo SonarQube cloud">
 
-**SonarLint** pasa a llamarse **SonarQube ide**
+**SonarLint** pasa a llamarse **SonarQube for ide**
 
-<img width="50%" src="/img/sonarsource-products/logo-sonarqube-ide.webp" alt="Logo SonarQube ide">.
+<img width="50%" src="/img/sonarsource-products/logo-sonarqube-ide.webp" alt="Logo SonarQube for ide">.
 
 Como puedes observar, también han cambiado la tipografía en los logotipos y elimina el color naranja y rojo de las soluciones cloud y para el IDE. 
 
@@ -43,7 +43,7 @@ Desde Sonar, también **han comunicado los motivos del cambio**: "Creemos que un
 
 <h2>¿Cuando se podrán ver las nuevas marcas de Sonar?</h2>
 
-**SonarQube server, SonarQube cloud y SonarQube ide** podrán empezar a visualizarse en los productos a **principios de diciembre**. De **forma inmediata**, los nuevos nombres y los logotipos estarán disponibles en los recursos de marketing y redes sociales. 
+**SonarQube server, SonarQube cloud y SonarQube for ide** podrán empezar a visualizarse en los productos a **principios de diciembre**. De **forma inmediata**, los nuevos nombres y los logotipos estarán disponibles en los recursos de marketing y redes sociales. 
 
 <h2>¿Las nuevas marcas afectan a los clientes?</h2>
 
