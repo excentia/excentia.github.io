@@ -37,4 +37,4 @@ Víctor Gómez Adán nos presentará el día 30 su taller “La calidad empieza 
 
 5.	Y por último, pero no menos importante… El evento se celebra en Valencia, con su sol, su clima cálido, su paella y su agua de Valencia…
 
-¿Ya te hemos convencido? Pues regístrate [aquí](https://vlctesting.es/reserva-tu-entrada/). Nos vemos en el #vlctesting2017
+¿Ya te hemos convencido? Pues regístrate [a través de tu web](https://vlctesting.es/reserva-tu-entrada/). Nos vemos en el #vlctesting2017
