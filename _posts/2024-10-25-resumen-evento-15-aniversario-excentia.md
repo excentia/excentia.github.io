@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celebración del 15 aniversario de excentia ¡Conoce todos los detalles!'
+title: 'Celebración del 15 aniversario de excentia'
 description: Te contamos todo lo que pasó el 24 de octubre en el evento de celebración del 15 aniversario de excentia
 date: '2024-10-25T08:00:00Z'
 author: Belén Casanovas
