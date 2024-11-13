@@ -11,7 +11,7 @@ categories:
 - aws
 
 
-cover: img/posts/2024-11-12-sonar-colaboracion-amazon-web-services
+cover: img/posts/2024-11-12-sonar-colaboracion-amazon-web-services.png
 
 ---
 
