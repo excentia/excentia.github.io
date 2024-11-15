@@ -43,7 +43,7 @@ Los equipos de [excentia](https://www.excentia.es/) y [SonarSource](https://www.
 
 El evento tendrá lugar en el Hotel NH Madrid Nacional, el miércoles 29 de noviembre de 9:30 a 15:30.
 
-Será una gran oportunidad de conocer a los fundadores de **SonarSource** y compartir tus impresiones con ellos. El aforo es limitado y las plazas se están ocupando rápidamente, así que asegúrate de registrarte pronto [aquí](https://www.eventbrite.com/e/madrid-city-tour-2017-spain-tickets-35073223957). 
+Será una gran oportunidad de conocer a los fundadores de **SonarSource** y compartir tus impresiones con ellos. El aforo es limitado y las plazas se están ocupando rápidamente, así que asegúrate de registrarte pronto [a través de la web oficial](https://www.eventbrite.com/e/madrid-city-tour-2017-spain-tickets-35073223957). 
 
 Y si no puedes venir a Madrid, que sepas que al día siguiente en el marco del **VLCTesting 2017** llevaremos un resumen de todo lo presentado a todos los que estáis en Valencia. Próximamente más novedades acerca del **VLC Testing**.
 
