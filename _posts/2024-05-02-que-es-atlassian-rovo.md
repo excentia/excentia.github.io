@@ -40,14 +40,18 @@ Rovo Search es la parte encargada de **realizar búsquedas contextuales** y rele
 
 Además, los resultados de las búsquedas que realices podrán ser personalizados para que la información obtenida **solo puede ser vista** por quien tú consideres. Los datos restringidos seguirán siendo privados y si un usuario no debe tener acceso a una información, aunque realice la búsqueda, no podrá ver esos datos. 
 
+En este artículo te [enseñamos a utilizar Rovo Search](/primeros-pasos-rovo-search-atlassian)
+
 
 <h2>¿Qué es Rovo Chat?</h2>
 
-Rovo Chat es la parte **interactiva** de esta solución. Este chat está representado en "tarjetas de conocimiento" que te darán **información instantánea y específica** sobre los proyectos, conceptos, objetivos y/o usuarios, por ejemplo.
+Rovo Chat es la parte **interactiva** de esta solución. Este chat te permite tener conversaciones en tiempo real con el objetivo de encontrar **información instantánea y específica** sobre los proyectos, conceptos, objetivos y/o usuarios, por ejemplo.
 
 <img width="100%" src="img/atlassian-products/rovo-chat.png" alt="Qué es Rovo Chat">
 
 También podrás participar en conversaciones interactivas, a través del chat, para obtener **respuestas, generar nuevas ideas, obtener comentarios útiles y/o resolver problemas**. Este chat obtiene la información a través de los datos registrados en tus herramientas. Por último, tal y como confirma Atlassian, Rovo Chat se **volverá más inteligente cuanto más se utiliza**. Esta es la parte de **aprendizaje y construcción de patrones de la IA** que mencionábamos anteriormente. 
+
+En este artículo te [enseñamos a utilizar Rovo Chat](/primeros-pasos-rovo-chat-atlassian)
 
 
 <h2>¿Qué son los Agentes de Rovo?</h2>
