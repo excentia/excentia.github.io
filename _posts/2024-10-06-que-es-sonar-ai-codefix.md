@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '¿Qué es Sonar AI CodeFix?'
-description: Manish Kapur nos explica cómo funciona Sonar AI CodeFix. ¡No te lo pierdas!
+title: '¿Qué es AI CodeFix de Sonar?'
+description: Manish Kapur nos explica la nueva funcionalidad de Sonar AI CodeFix. ¡No te lo pierdas!
 date: '2024-10-06T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -22,14 +22,14 @@ En la actualidad, los desarrolladores se enfrentan a una presión constante para
 
 <h2>¿Qué es Sonar AI CodeFix?</h2>
 
-Sonar AI CodeFix es una funcionalidad que ofrece soluciones para problemas detectados por los **análisis de SonarQube y SonarCloud**. Al automatizar la resolución de problemas comunes de codificación, AI CodeFix aumenta significativamente la velocidad y productividad del desarrollador. Con **solo un clic** en la interfaz del usuario, se podrán recibir sugerencias sobre cómo resolver problemas, agilizando el proceso de depuración.
+Sonar AI CodeFix es una funcionalidad que ofrece correcciones para las issues detectadas por SonarQube Server y SonarQube cloud. Al automatizar la resolución de problemas comunes de codificación, AI CodeFix aumenta significativamente la velocidad y productividad del desarrollador. Con **solo un clic** en la interfaz del usuario se podrán recibir sugerencias sobre cómo resolver problemas, agilizando el proceso de depuración.
 
 
 <h2>¿Cómo funciona Sonar AI CodeFix?</h2>
 
-El **análisis de código estático de SonarQube y SonarCloud** escanea los repositorios para detectar **bugs, vulnerabilidades de seguridad y problemas de calidad del código en lenguajes y frameworks populares**. El análisis de código se activa durante eventos como la solicitudes de inserción o una solicitud pull. Cuando se identifica un problema, se presenta al usuario como un bug, vulnerabilidad o problema de calidad del código. 
+El **análisis de código estático de SonarQube server y SonarQube cloud** escanea los repositorios para detectar **bugs, vulnerabilidades de seguridad y problemas de calidad del código en lenguajes y frameworks populares**. El análisis de código se activa durante eventos como la solicitudes de inserción o una solicitud pull. Cuando se identifica un problema, se presenta al usuario como un bug, vulnerabilidad o problema de calidad del código. 
 
-Basándose en esta detección, Sonar AI CodeFix puede ir un paso más allá al **utilizar un modelo de lenguaje grande (LLM)** para generar una solución de código impulsada por IA para los problemas detectados por el análisis de código estático. El principio básico detrás de AI CodeFix es sencillo: cuando se solicita una solución para un problema, se envía el fragmento de código afectado junto con una descripción del problema a un LLM. Las revisiones de código propuestas generadas por el LLM están diseñadas para resolver el problema sin alterar la funcionalidad existente del código.
+Basándose en esta detección, Sonar AI CodeFix puede ir un paso más allá al **utilizar un modelo extenso de lenguaje (LLM)** para generar una solución de código impulsada por IA para los problemas detectados por el análisis de código estático. El principio básico detrás de AI CodeFix es sencillo: cuando se solicita una corrección para un problema, se envía el fragmento de código afectado junto con una descripción del problema a un LLM. Las revisiones de código propuestas generadas por el LLM están diseñadas para resolver el problema sin alterar la funcionalidad existente del código.
 
 
 <h2>Características principales de Sonar AI CodeFix</h2>
@@ -46,7 +46,7 @@ Basándose en esta detección, Sonar AI CodeFix puede ir un paso más allá al *
 
 <h2>¿Cómo utilizar Sonar AI CodeFix?</h2>
 
-Por tiempo limitado, Sonar AI CodeFix está disponible de **forma gratuita en Early Access en SonarQube y SonarCloud**. AI CodeFix se puede habilitar en la interfaz de usuario de administración para cualquier organización, desde los ajustes de la organización.
+Por tiempo limitado, Sonar AI CodeFix está disponible de **forma gratuita en Early Access en SonarQube server y SonarQube cloud**. AI CodeFix se puede habilitar en la interfaz de usuario de administración para cualquier organización, desde los ajustes de la organización.
 
 <img width="100%" src="img/sonarsource-products/AI-generated-fix-suggestions.webp" alt="AI Generated Fix Suggestions">
 
@@ -56,4 +56,11 @@ Al hacer clic en este botón se activa AI CodeFix para analizar el problema y ge
 
 <img width="100%" src="img/sonarsource-products/AI-CodeFix-Example.webp" alt="Ejemplo AI CodeFix">
 
-AI CodeFix ya está disponible con acceso anticipado para todos los clientes de **SonarQube 10.7 y SonarCloud**. Se incluye en los planes Team y Enterprise de SonarCloud y en la edición Enterprise y Data Center de SonarQube.
+AI CodeFix ya está disponible con acceso anticipado para todos los clientes de **SonarQube server 10.7 y SonarQube cloud**. Se incluye en los planes Team y Enterprise de SonarQube cloud y en la edición Enterprise y Data Center de SonarQube server.
+
+Aquí te dejamos un vídeo para que puedas ver en acción AI CodeFix en una instancia de SonarQube server. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WdUmuQ7us4?si=w8OHDsxJKNiJ31uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Y hasta aquí el artículo de Sonar sobre AI CodeFix. ¡No dudes en testear esta nueva funcionalidad!
+
