@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gestión de SLAs en Jira Service Desk'
-description: Los SLAs (Service Level Agreements) o en castellano ANS (Acuerdos de Nivel de Servicio) son acuerdos o contratos que realiza un proveedor de servicios con un cliente interno o externo. Este compromiso entre servicio y cliente ayuda a medir la calidad de los servicios contratados. 
+description: Alberto nos habla de los SLAs, su objetivo y posibles configuraciones. ¡No te lo pierdas!
 date: '2018-03-07T08:00:00.000+01:00'
 author: Alberto Alós
 categories: 

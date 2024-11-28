@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Gamificamos?'
-description: La gamificación es el uso de la mecánica de jugabilidad en contextos ajenos a los juegos, con el fin de potenciar la motivación, la concentración, el esfuerzo y muchas más cosas favorables que fomentan el desarrollo de tareas.
+description: La gamificación es el uso de la mecánica de jugabilidad en contextos ajenos a los juegos. ¡Aquí hablamos sobre ello!
 date: '2018-02-05T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
