@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sí, calidad, calidad, pero... ¿cuánto cuesta?
+description: En este artículo hablamos sobre la calidad centrada en los procesos de mejora contínua. ¡No te lo pierdas!
 date: '2010-11-01T11:26:00.000+01:00'
 author: excentia
 categories:

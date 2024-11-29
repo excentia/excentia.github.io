@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Analizamos la nueva versión LTS de SonarQube.'
-description: La versión 7.9 es la nueva LTS de SonarQube. Recoge muchas de las novedades aportadas en el último año y da un gran peso a la seguridad de las aplicaciones. Descubre las novedades y el análisis en este artículo.  
+description: La versión 7.9 es la nueva LTS de SonarQube y recoge las novedades del último año, dando un gran peso a la seguridad de las aplicaciones.  
 date: '2019-07-18T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 

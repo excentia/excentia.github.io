@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Por qué adoptar DevOps? Beneficios de introducir DevOps en tu organización'
-description: DevOps reporta beneficios directa y tangiblemente porque contribuye a aumentar tu margen de beneficios y lo hace indirectamente porque ayuda a tus trabajadores a sentirse motivados, escuchados y a hacer su tarea mucho más fácil, lo que se traducirá en un aumento de su productividad.
+description: DevOps contribuye a aumentar tu margen de beneficios y lo hace indirectamente porque ayuda a tus trabajadores a sentirse motivados. 
 date: '2018-02-12T08:00:00.000+01:00'
 author: Andrea Crespo
 categories: 
