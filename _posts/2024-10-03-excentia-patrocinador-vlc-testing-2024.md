@@ -27,7 +27,7 @@ Nuestro **CEO Antonio Calero**, participó en un directo de LinkedIn junto a **L
 
 <img width="80%" src="img/eventos/excentia-vlc-2024-performo.png" alt="Antonio Calero y Señor Performo en el VLC Testing 2024">
 
-También hubo tiempo para el networking y para visitar los distintos **stands de los patrocinadores**. En el de excentia, invitamos a los asistentes a nuestro evento de [15 aniversario](/_posts/2024-10-25-resumen-evento-15-aniversario-excentia.md) que celebramos el próximo 24 de octubre, cuya invitación también estaba en las mochilas del welcome pack. También pudimos hablar sobre los servicios que ofrecemos con **SonarQube** y **Atlassian** (implantación, desarrollos, soporte, gestión de licencias, etc.).
+También hubo tiempo para el networking y para visitar los distintos **stands de los patrocinadores**. En el de excentia, invitamos a los asistentes a nuestro evento de [15 aniversario](/resumen-evento-15-aniversario-excentia) que celebramos el próximo 24 de octubre, cuya invitación también estaba en las mochilas del welcome pack. También pudimos hablar sobre los servicios que ofrecemos con **SonarQube** y **Atlassian** (implantación, desarrollos, soporte, gestión de licencias, etc.).
 
 ¡Aquí te dejamos una imagen del equipo de excentia en el stand!
 

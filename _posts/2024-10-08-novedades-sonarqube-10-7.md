@@ -39,7 +39,7 @@ cover: img/posts/2024-10-08-novedades-sonarqube-10-7.png
 
 **Sonar AI Code Assurance** es un proceso robusto y simplificado para **validar el código generado por IA** a través de un análisis estructurado y completo. Los desarrolladores pueden identificar y etiquetar fácilmente proyectos que contienen código generado por la IA, iniciando el flujo de trabajo de Sonar AI Code Assurance. Esta funcionalidad **asegura** que cada nueva pieza de código cumpla con los más altos estándares de calidad y seguridad antes de pasar a producción.
 
-*Mas información sobre Sonar AI Code Assurance [aquí](www.excentia.es/que-es-sonar-ai-code-assurance).*
+*Mas información sobre Sonar AI Code Assurance [aquí](/que-es-sonar-ai-code-assurance).*
 
 <h2>Soluciona rápidamente los problemas encontrados</h2>
 
@@ -47,7 +47,7 @@ Con **SonarQube 10.7** tendrás acceso anticipado a **Sonar AI CodeFix**, una nu
 
 Con Sonar AI CodeFix automatizarás la resolución de problemas y aumentarás significativamente la velocidad y productividad de los desarrolladores.
 
-*Mas información sobre Sonar AI CodeFix [aquí](www.excentia.es/que-es-sonar-ai-codefix).*
+*Mas información sobre Sonar AI CodeFix [aquí](/que-es-sonar-ai-codefix).*
 
 <h2>Nuevos informes de seguridad STIG y CASA</h2>
 

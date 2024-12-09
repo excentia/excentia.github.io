@@ -76,7 +76,7 @@ Community Edition | Developer Edition | Enterprise Edition | Data Center Edition
 
 ### Abre una issue en tu IDE
 
-Cuando estés conectado con [SonarLint](/sonarlint.html) podrás abrir una *issue* desde SonarQube directamente en tu IDE.
+Cuando estés conectado con [SonarLint](/sonarlint) podrás abrir una *issue* desde SonarQube directamente en tu IDE.
 
 Todas las *issues* que muestra SonarQube tendrán un botón que, al hacer clic, abrirá SonarLint en tu IDE y te mostrará el **código que está causando el problema**. Te dejamos a continuación esta imagen para que lo veas: 
 
