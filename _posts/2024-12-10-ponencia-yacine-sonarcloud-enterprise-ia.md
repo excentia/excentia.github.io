@@ -44,7 +44,7 @@ En el siguiente video puedes ver la introducción a la sesión de Yacine Maghezz
 Si quieres ver la ponencia al completo con la **demo de SonarCloud Enterprise** puedes solicitarla a través del siguiente botón. 
 
  <div class="text-left">
-    <a class="btn btn-warning btn-xl sonarsource-background" style="padding: 10px 18px;font-size: 0.8em;" href="/ponencia-sonarcloud-enterpise-ia" target="_blank">VER PONENCIA</a>
+    <a class="btn btn-warning btn-xl sonarsource-background" style="padding: 10px 18px;font-size: 0.8em;" href="/ponencia-sonarcloud-enterprise-ia" target="_blank">VER PONENCIA</a>
          </div>
 
 <br>
