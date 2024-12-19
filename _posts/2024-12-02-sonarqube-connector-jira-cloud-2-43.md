@@ -6,8 +6,10 @@ date: '2024-12-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
+- sonarqube server
 - sonarqube cloud
+- jira cloud
+- marketplace
 
 
 cover: img/posts/2024-12-02-sonarqube-connector-jira-cloud-2-43.png

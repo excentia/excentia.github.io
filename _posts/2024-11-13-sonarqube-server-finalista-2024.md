@@ -37,7 +37,7 @@ Los galardones de DevOps Dozen reconocen aquellas soluciones que priorizan **la 
 
 Este 2024 se está convirtiendo en un año muy importante para Sonar. Además, el pasado mes de mayo SonarQube fue nombrado **líder en la categoría de Static Code Analysis** de G2 Grid.
 
-<img width="90%" src="img/posts/g2-grid-sonar-2024.webp" alt="Sonar aparece en el cuadrante de G2 Grid">
+<img width="90%" src="img/posts/g2-grid-sonar-2024.png" alt="Sonar aparece en el cuadrante de G2 Grid">
 <br>
 
 ¡Estaremos muy atentos al desenlace final de estos premios!

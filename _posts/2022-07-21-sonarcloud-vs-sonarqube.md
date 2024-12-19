@@ -14,14 +14,15 @@ cover: /img/posts/2022-07-21-sonarcloud-vs-sonarqube-thumb.png
 
 ---
 
-📢 Antes de empezar, si quieres **conocer más sobre SonarQube** te invitamos a [este webinar](/webinar-mejores-practicas-reducir-costes-software.html){:target="_blank"}, que realizaremos el **11 de junio a las 13:00 horas**, donde hablaremos de buenas prácticas que puedes aplicar desde ya con estas soluciones de Sonar. ¡Regístrate!
+📢 <strong>Ahora SonarQube es SonarQube Server y SonarCloud es SonarQube Cloud. Te lo contamos en [esta noticia](/nueva-marca-productos-sonarqube){:target="_blank"}.</strong>
+
 
 Y ahora si, empezamos con la comparativa:
 
 <img width="100%" src="/img/posts/2022-07-21-sonarcloud-vs-sonarqube.png">
 
 
-Tanto **SonarCloud**&trade; y **SonarQube**&trade; son herramientas válidas para ayudarte a escribir un código seguro y de calidad enS tus 
+Tanto **SonarCloud** y **SonarQube** son herramientas válidas para ayudarte a escribir un código seguro y de calidad enS tus 
 proyectos. Pero siempre pueden surgir la duda, ¿qué producto es mejor para ti y tu equipo?
 
 En este artículo, desglosaremos algunos de los aspectos más importantes de cada producto para que puedas tomar la 
