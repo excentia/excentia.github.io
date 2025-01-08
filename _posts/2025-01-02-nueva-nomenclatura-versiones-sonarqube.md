@@ -1,15 +1,13 @@
 ---
 layout: post
 title: 'Nuevas nomenclaturas para las versiones de SonarQube'
-description: Ya puedes descargar un PDF con la información del estándar de seguridad OWASP ASVS 
+description: Ahora las LTS serán LTA y decimos adios a los números. ¡Te lo explicamos aquí!
 date: '2025-01-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 
 - sonarqube server
-- sonarqube cloud
-
-
+- sonarsource
 
 cover: img/posts/2025-01-02-nueva-nomenclatura-versiones-sonarqube.png
 
@@ -29,4 +27,4 @@ Recuerda que las releases son los lanzamientos frecuentes que realiza el equipo 
 
 Por otro lado, **SonarQube Community** tendrá diferentes versiones según el mes de lanzamiento y el número de build. Por ejemplo, para un lanzamiento de diciembre del 2024 se denomina así 'SonarQube Community Build 24.12.0.100206' lo que significa lo siguiente: SonarQube Community Build **[Año].[Mes].[Patch].[Build]**. 
 
-Y hasta aquí las novedades sobre estas nuevas denominaciones. No dudes en escribírnos si tienes alguna duda. 
+Y hasta aquí las novedades sobre estas nuevas denominaciones. No dudes en escribirnos si tienes alguna duda. 
