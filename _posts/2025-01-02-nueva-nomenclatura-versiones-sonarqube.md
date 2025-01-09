@@ -19,9 +19,9 @@ cover: img/posts/2025-01-02-nueva-nomenclatura-versiones-sonarqube.png
 
 <h2> Hola LTA, adiós LTS</h2>
 
-Damos bienvenida a la LTA. ¿Qué es el **Long-term Active (LTA)**? Este término hace referencia a la **versión de SonarQube Server** que se lanza cada **12 meses** y que conocías, hasta ahora, como **LTS** (que se lanzaban cada 18 o 24 meses). Se trata de una versión del producto que está funcionalmente completa y permanece activa durante un período de tiempo más largo. Estas versiones suelen ser utilizadas por aquellas empresas que no pueden actualizar con tanta frecuencia sus instancias. 
+Damos la bienvenida a la LTA. ¿Qué es el **Long-term Active (LTA)**? Este término hace referencia a la **versión de SonarQube Server** que se lanza cada **12 meses** y que conocías, hasta ahora, como **LTS** (que se lanzaban cada 18 o 24 meses). Se trata de una versión del producto que está funcionalmente completa y permanece activa durante un período de tiempo más largo. Estas versiones suelen ser utilizadas por aquellas empresas que no pueden actualizar con tanta frecuencia sus instancias. 
 
-Por lo tanto, primeros cambios:las LTS pasan a ser LTA y en lugar de 18 a 24 meses se lanzarán cada 12 meses. 
+Por lo tanto, primeros cambios: las LTS pasan a ser LTA y en lugar de 18 a 24 meses se lanzarán cada 12 meses. 
 
 ¡Seguímos! ¿Sabes cuál es la última LTA? La **versión LTA actual es SonarQube 9.9** que fue lanzada en febrero de 2023. ¿Sabes cuál será la próxima LTA? **SonarQube Server 2025 Release 1 LTA**. Así que aquí tenemos otro cambio: se le añade el año de lanzamiento y el número de release. Sonar elimina los números (9.9, 10.9) y los sustituye por la palabra 'Release'. 
 
