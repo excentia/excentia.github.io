@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '¿Cuál es la diferencia entre una issue y un Security Hotspot'
+title: '¿Cuál es la diferencia entre una issue y un Security Hotspot?'
 description: Te contamos las diferencias entre estos dos tipos de problemas y cómo gestionarlos en una instancia de SonarQube
 date: '2025-01-06T08:00:00Z'
 author: Belén Casanovas
