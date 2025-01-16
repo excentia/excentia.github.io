@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atlassian sube los precios para las instancias Data Center
-description: Tambien añade cambios en los tramos de usuarios. ¡Te lo detallamos en este blog!
+description: También añade cambios en los tramos de usuarios. ¡Te lo detallamos en este blog!
 date: '2025-01-14T08:00:00Z'
 author: Belén Casanovas
 categories:
