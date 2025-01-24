@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novedades de SonarQube Server 2025.1 LTA'
-description: Planificación, supervisar equipos, colaboración en tiempo real, informes... Conoce qué puedes hacer con Jira aquí. 
+description: Menores tiempos de escaneo, innovaciones de seguridad, mejoras en el soporte de varios idiomas... ¡Te contamos todas las mejoras de esta LTA!
 date: '2025-01-23T08:00:00Z'
 author: Belén Casanovas
 categories:
