@@ -58,7 +58,7 @@ Also, think of subtasks of this project element as your project phases if you ne
 
 The 'Project' entity will facilitate high-level management, and with the new Atlassian Jira business project features, we will be able to visualize this information in modern cards, lists without losing context, or the highly requested Gantt charts.
 
-<img width="100%" src="/img/atlassian-products\project-management-jira-pmo.png" alt="Project Management Jira PMO">
+<img width="100%" src="/img/atlassian-products/project-management-jira-pmo.png" alt="Project Management Jira PMO">
 
 <h2>Reports Used by a PMO</h2>
 
