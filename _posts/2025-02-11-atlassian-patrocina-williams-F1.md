@@ -35,9 +35,8 @@ Este acuerdo no solo es en materia de patrocinio. Atlassian también se conviert
 
 Este compromiso se convierte en el mayor acuerdo de asociación en los **48 años de historia de Williams** y reconoce "su posición como icono en uno de los deportes más populares y de más rápido crecimiento del planeta".
 
-El **18 de febrero** se realizará la presentación oficial del equipo, junto con los otros nueve equipos. La marca **Atlassian estará presente tanto en los monoplazas** del equipo, como en la indumentaria oficial de los pilotos y el equipo. 
+La marca **Atlassian estará presente tanto en los monoplazas** del equipo, como en la indumentaria oficial de los pilotos y el equipo. 
 
-Y por supuesto... ¡Te contaremos todos los detalles en este blog!
-
+¡Nos leemos en siguientes artículos!
 
 
