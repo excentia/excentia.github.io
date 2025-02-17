@@ -48,4 +48,4 @@ Si has seguido todos estos pasos ya habrás **creado un sprint en Jira Software 
 
 <img width="100%" src="img/posts/2023-12-11-completar-sprint-jira-software.png" alt="Que son los sprints">
 
-Y hasta aquí este artículo sobre los sprints en Jira Software. Recuerda que, si tienes alguna pregunta o duda, puedes ponerte en contacto con nosotros a través de [este formulario](/contacto.html).
+Y hasta aquí este artículo sobre los sprints en Jira Software. Recuerda que, si tienes alguna pregunta o duda, puedes ponerte en contacto con nosotros a través de [este formulario](/contacto).

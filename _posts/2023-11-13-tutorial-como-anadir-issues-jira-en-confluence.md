@@ -58,4 +58,4 @@ Aquí te dejamos el **videotutorial** correspondiente de [nuestro canal de YouTu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lrBb-GlBuE4?si=x-ktTeKRUFQGz0HR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
-Nos leemos en próximos tutoriales. No dudes en seguir navegando por nuestra web si quieres más información sobre las funcionalidades de [Jira](/jira-software.html) o [Confluence](/confluence.html).
+Nos leemos en próximos tutoriales. No dudes en seguir navegando por nuestra web si quieres más información sobre las funcionalidades de [Jira](/jira-software) o [Confluence](/confluence).

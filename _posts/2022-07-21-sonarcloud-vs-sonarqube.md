@@ -133,4 +133,4 @@ obtener todos los detalles sobre cómo empezar.
 El objetivo de este artículo no era enumerar exhaustivamente todas las diferencias de productos, ya que cada entorno 
 es único. Sin embargo, ahora tienes la información que es relevante para la mayoría de los casos. 
 
-Por si te interesa, te dejamos este enlace donde puedes encontrar [nuestros cursos de SonarQube](/formacion.html) y este otro donde te hablamos de la filosofía [Clean as You Code de Sonar](/whitepaper-clean-code-sonar.html). 
+Por si te interesa, te dejamos este enlace donde puedes encontrar [nuestros cursos de SonarQube](/formacion) y este otro donde te hablamos de la filosofía [Clean as You Code de Sonar](/whitepaper-clean-code-sonar). 

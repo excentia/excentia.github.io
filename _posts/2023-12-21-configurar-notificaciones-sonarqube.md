@@ -52,4 +52,4 @@ Estas notificaciones están configuradas de forma predeterminada y se puede alte
 
 <img width="100%" src="img/posts/2023-12-21notifications-quality-gates.png" alt="Notifications Quality Gates">
 
-Y hasta aquí este post sobre las **notificaciones de SonarQube**. Si quieres más información sobre nuestros servicios o sobre SonarQube, puedes ponerte en contacto con nosotros a través de [este formulario](/contacto.html).
+Y hasta aquí este post sobre las **notificaciones de SonarQube**. Si quieres más información sobre nuestros servicios o sobre SonarQube, puedes ponerte en contacto con nosotros a través de [este formulario](/contacto).
