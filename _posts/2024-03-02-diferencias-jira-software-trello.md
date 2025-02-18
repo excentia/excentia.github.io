@@ -39,7 +39,7 @@ Ahora vamos a comentar las **principales diferencias** entre estas dos herramien
 | **Funcionalidades** | Seguimiento detallado de <br>problemas, flujos de trabajo <br>personalizables e integraciones <br>con herramientas de desarrollo.             | Utiliza tableros kanban <br>para visualizar tareas y proyectos,<br>colaboración en tiempo real y algunas <br>integraciones con aplicaciones externas. |
 | **Personalización** | Gran flexibilidad y personalización <br>mediante flujos de trabajo personalizados<br>y campos configurables.                                  | Menos opciones de personalización, pero <br>ofrece cierta flexibilidad para <br>adaptarse a diferentes casos.                                         |
 | **Colaboración**    | Funciones avanzadas de colaboración<br>y comunicación entre equipos de <br>desarrollo y gestión de proyectos.                                 | Facilita la colaboración en tiempo <br>real a través de comentarios, archivos<br>adjuntos y asignaciones de tareas.                                   |
-| **Integraciones**   | Se integra con una amplia variedad <br>de herramientas de desarrollo como <br>Bitbucket, GitHub o [SonarQube](/sonarqube-connector-jira.html).                                  | Ofrece algunas integraciones con aplicaciones<br>externas como Slack y Google Drive.                                                                  |
+| **Integraciones**   | Se integra con una amplia variedad <br>de herramientas de desarrollo como <br>Bitbucket, GitHub o [SonarQube](/sonarqube-connector-jira).                                  | Ofrece algunas integraciones con aplicaciones<br>externas como Slack y Google Drive.                                                                  |
 
 <br>
 

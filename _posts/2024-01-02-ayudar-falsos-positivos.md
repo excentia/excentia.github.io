@@ -143,4 +143,4 @@ Cuando encuentres uno, puedes marcarlo como tal e informar. Y al mismo tiempo, t
 
 Y hasta aquí este post sobre los falsos positivos traducido de [este artículo de Sonar](https://www.sonarsource.com/blog/false-positives-our-enemies-but-maybe-your-friends/). 
 
-Si quieres más información sobre este tema, puedes ponerte en contacto con nosotros a través de [este formulario](/contacto.html).
+Si quieres más información sobre este tema, puedes ponerte en contacto con nosotros a través de [este formulario](/contacto).

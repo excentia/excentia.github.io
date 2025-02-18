@@ -24,7 +24,7 @@ Por ello, a lo largo de este artículo, vamos a hablar de lo que aportan estas s
 <br>
 <br>
 
-Antes de empezar, si quieres conocer más sobre la **filosofía del Cleas as You Code de Sonar**, te recomendamos [este documento](/whitepaper-clean-code-sonar.html) que realizamos donde profundizamos en este concepto.
+Antes de empezar, si quieres conocer más sobre la **filosofía del Cleas as You Code de Sonar**, te recomendamos [este documento](/whitepaper-clean-code-sonar) que realizamos donde profundizamos en este concepto.
 
 <h2>¿Qué ofrece Sonar al desarrollo de código limpio?</h2>
 

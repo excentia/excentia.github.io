@@ -62,4 +62,4 @@ Recuerda que estos atajos de teclado son solo el punto de partida. Con la práct
 
 ¡Explora estos atajos y lleva tu colaboración a un nuevo nivel!
 
-¿Preguntas frecuentes? No dudes en ponerte en contacto con nosotros a través de [este formulario](/contacto.html). 
+¿Preguntas frecuentes? No dudes en ponerte en contacto con nosotros a través de [este formulario](/contacto). 

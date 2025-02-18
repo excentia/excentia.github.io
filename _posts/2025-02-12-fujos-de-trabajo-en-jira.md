@@ -42,6 +42,9 @@ Gracias a este editor visual de flujos de trabajo de Jira, personalizarlos es un
 5 - A partir de aquí, ya puedes añadir los estados y transiciones que quieras. 
 <br>
 
+Aquí te dejamos un vídeo para que sigas paso a paso la creación de un flujo de trabajo en Jira básico: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36LfNMU5yL0?si=dR_im7ei87H1bN0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Automatiza los flujos de trabajo</h2>
 

@@ -81,4 +81,4 @@ Esta potente capacidad **reduce la carga de trabajo de los agentes** y resuelve 
 
 Aunque nos repetimos, queremos recordarte que Atlassian Intelligence únicamente está disponible en la **versión Cloud** y en las ediciones **Premium y Enterprise**.
 
-Hasta aquí llega este artículo sobre Atlassian. Si quieres más información sobre este tema, puedes seguir navegando por nuestro o blog o preguntarnos directamente a través de [este formulario](/contacto.html). 
+Hasta aquí llega este artículo sobre Atlassian. Si quieres más información sobre este tema, puedes seguir navegando por nuestro o blog o preguntarnos directamente a través de [este formulario](/contacto). 

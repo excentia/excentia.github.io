@@ -26,4 +26,4 @@ Best in Biz Awards (North America) celebra este año su **decimotercera edición
 
 Desde aquí, damos nuestra **más sincera enhorabuena a Sonar** por este reconocimiento y por su gran trabajo.
 
-y recuerda, si quieres más información sobre SonarQube o SonarCloud, no dudes en pedírnoslo a través de [este formulario](/contacto.html). 
+y recuerda, si quieres más información sobre SonarQube o SonarCloud, no dudes en pedírnoslo a través de [este formulario](/contacto). 
