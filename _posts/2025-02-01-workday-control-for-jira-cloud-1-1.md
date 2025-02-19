@@ -26,7 +26,7 @@ cover: img/posts/2025-02-01-workday-control-for-jira-cloud-1-1.png
 
 Aquí tienes una imagen donde podrás ver dónde se seleccionan los grupos y la ubicación de este nuevo botón.
 
-<img width="100%" src="/img/atlassian-products\workday-control-nuevas-funcionalidades.png" alt="WorkDay Control for Jira Cloud pantalla">
+<img width="100%" src="/img/atlassian-products/workday-control-nuevas-funcionalidades.png" alt="WorkDay Control for Jira Cloud pantalla">
 
 
 También se han realizado otras mejoras de rendimiento y corrección de errores. 
