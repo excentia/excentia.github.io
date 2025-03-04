@@ -75,7 +75,7 @@ Otro caso. Si un miembro del equipo **da accidentalmente su información de inic
 
 A medida que la nube se vuelve más accesible para las empresas, gracias a la expansión de la residencia de datos, las organizaciones de todo el mundo continúan migrando desde Server a Atlassian Cloud para preparar su negocio para el futuro. Los equipos que migran se benefician de muchas herramientas exclusivas de la plataforma en la nube, como Atlassian Intelligence y Rovo.
 
-Así que el **próximo 6 de mayo, a las 13:30 horas** realizaremos un webinar para hablar de todos estos temas y sobre cómo es un proceso de migración. Si quieres asistir, puedes registrarte a través de [esta página de evento](/webinar-migracion-nube-atlassian.){:target="_blank"}.
+Así que el **próximo 6 de mayo, a las 13:30 horas** realizaremos un webinar para hablar de todos estos temas y sobre cómo es un proceso de migración. Si quieres asistir, puedes registrarte a través de [esta página de evento](/webinar-migracion-nube-atlassian){:target="_blank"}.
 
 
 
