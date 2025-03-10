@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 'Migración a Atlassian Cloud'
-description: Nuestros servicio de migración a Atlassian Cloud desde Valencia
+description: Te contamos en que consisten nuestros servicios de migración a Atlassian Cloud desde Valencia para instancias de Jira, Confluence o Jira Service Management. 
 date: '2020-12-21T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 

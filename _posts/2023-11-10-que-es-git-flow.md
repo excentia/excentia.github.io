@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Qué es Gitflow y para qué sirve?'
-description: Hablamos sobre Gitflow y de sus ventajas para los equipos de desarrollo.
+description: Hablamos sobre el modelo de creación de ramas Gitflow y de las ventajas para los proyectos de los equipos de desarrollo. 
 date: '2023-11-10T08:00:00Z'
 author: Mario Bastardo
 categories:

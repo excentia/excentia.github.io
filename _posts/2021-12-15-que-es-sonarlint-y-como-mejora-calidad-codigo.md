@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Qué es SonarLint y cómo mejora la calidad de tu código'
-description: La herramienta que te ayuda a detectar y corregir problemas de calidad y seguridad del codigo
+description: Conoce esta herramienta que te ayuda a detectar y corregir problemas de calidad y seguridad del codigo. Ahora se conoce como SonarQube for IDE.
 date: '2021-12-15T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
