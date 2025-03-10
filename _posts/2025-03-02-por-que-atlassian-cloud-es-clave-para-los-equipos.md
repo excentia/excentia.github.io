@@ -2,7 +2,7 @@
 layout: post
 title: '¿Por qué Atlassian Cloud es clave para los equipos?'
 description: Descubre las últimas funcionalidades de Atlassian Cloud y conoce cómo es el viaje de la migración
-date: '2025-02-20T08:00:00Z'
+date: '2025-03-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 

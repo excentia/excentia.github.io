@@ -2,7 +2,7 @@
 layout: post
 title: 'Guía completa: Aprovecha al máximo la API de SonarQube'
 description: Aprende a utilizar la API de SonarQube con esta guía que te hemos preparado. 
-date: '2025-02-20T08:00:00Z'
+date: '2025-03-04T08:00:00Z'
 author: Belén Casanovas
 categories:
 
@@ -15,11 +15,11 @@ cover: img/posts/2025-03-04-guia-completa-uso-api-sonarqube.png
 
 <img width="100%" src="img/posts/2025-03-04-guia-completa-uso-api-sonarqube.png" alt="Guía completa: Aprovecha al máximo la API de SonarQube">
 
-SonarQube es una de las herramientas más poderosas para el **análisis del código**. Te permite identificar problemas, te sugiere cómo puedes resolverlos y, sobre todo, te ayuda a mantener la calidad y seguridad de tus proyectos. A través de su API, los usuarios puede realizar peticiones e integrar su instancia en su flujo de trabajo, más allá de utilizar su interfaz gráfica. Así que en este artículo, te vamos a realizar una guía para que utilices la API de SonarQube correctamente. 
+SonarQube es la herramienta más poderosa para el **análisis del código**. Te permite identificar problemas, te sugiere cómo puedes resolverlos y, sobre todo, te ayuda a mantener la calidad y seguridad de tus proyectos. A través de su API, los usuarios pueden realizar peticiones e integrar su instancia en su flujo de trabajo, más allá de utilizar su interfaz gráfica. En este artículo te mostramos una guía para que utilices la API de SonarQube correctamente.
 
 <h2>¿Qué es la API de SonarQube?</h2>
 
-La **API de SonarQube** es un método que permite a los usuarios comunicarse con su instancia de SonarQube. Gracias a esta API, los desarrolladores pueden integrar SonarQube en sus flujos de trabajo y obtener la información que necesitan. Este mecanismo es muy útil, ya que permite **extraer información de interés** sin la necesidad de interactuar con la interfaz de usuario. 
+La **API de SonarQube** permite a los usuarios comunicarse con su instancia. Gracias a la API, los desarrolladores pueden integrar SonarQube en sus flujos de trabajo y obtener la información que necesitan. Este mecanismo es muy útil, ya que permite **extraer información de interés** sin la necesidad de interactuar con la interfaz de usuario.
 
 
 <h2>¿Cómo utilizar la API de SonarQube?</h2>
