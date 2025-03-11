@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Qué es Atlassian Intelligence?'
-description: Te explicamos en qué consiste esta nueva funcionalidad basatada en la Inteligencia Artificial.
+description: Te explicamos en qué consiste Atlassian Intelligence y como están integradas sus funcionalidades en Jira y Confluence
 date: '2023-12-18T08:00:00Z'
 author: Belén Casanovas
 categories:
