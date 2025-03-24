@@ -15,8 +15,6 @@ cover: img/posts/2025-02-20-sonar-compra-autocoderover.png
 
 ---
 
-<img width="100%" src="img/posts/2025-02-20-sonar-compra-autocoderover.png" alt="Sonar compra AutoCodeRecover">
-
 Sonar anuncia que **ha comprado AutoCodeRover**, una solución de agentes de IA para el desarrollo de software. Esta nueva adquisición confirma el compromiso de Sonar de invertir en IA para ayudar a los equipos a desarrollar código seguro y de calidad.
 
 <h2>¿Qué es AutoCodeRover?</h2>
