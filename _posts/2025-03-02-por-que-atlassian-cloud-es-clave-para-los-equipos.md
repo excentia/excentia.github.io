@@ -15,9 +15,6 @@ cover: img/posts/2025-03-02-por-que-atlassian-cloud-es-clave-para-los-equipos.pn
 
 ---
 
-<img width="100%" src="img/posts/2025-03-02-por-que-atlassian-cloud-es-clave-para-los-equipos.png" alt="Atlassian Cloud clave para los equipos">
-
-
 Atlassian desarrolla soluciones para **satisfacer las necesidades de los equipos ágiles**, ayuda a sortear los **desafíos de seguridad** y el **aumento exponencial de la IA**. Gracias a su experiencia con todo tipo de equipos, Atlassian continúa innovando y mejorando el valor de sus ofertas en la nube. Si todavía no estás en Cloud o estás pensando en dar el salto, te vamos a explicar por qué ahora es el mejor momento para **migrar a Atlassian Cloud**. 
 
 <h2>¿Cuáles son los fundamentos de Atlassian Cloud?</h2>

@@ -34,7 +34,7 @@ Ofrecer un software con un **código limpio, eficiente y de calidad** no solo po
 
 
 
-<h2>¿Qué es Sonar AI CodeFix </h2>
+<h2>¿Qué es Sonar AI CodeFix?</h2>
 
 Sonar AI CodeFix es una función, incluida en SonarQube Server y SonarQube Cloud, que ofrece soluciones de corrección de código para las issues detectadas tras un análisis. **Gracias a los LLM** AI CodeFix comprende el **contexto de la issue** y ofrece una solución que puedes aplicar con tan solo un clic. Además, gracias al aprendizaje automático las sugerencias van mejorando en función de los comentarios de los usuarios o la inclusión de nuevos datos. 
 
