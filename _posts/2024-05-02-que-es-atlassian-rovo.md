@@ -40,7 +40,7 @@ Rovo Search es la parte encargada de **realizar búsquedas contextuales** y rele
 
 Además, los resultados de las búsquedas que realices podrán ser personalizados para que la información obtenida **solo puede ser vista** por quien tú consideres. Los datos restringidos seguirán siendo privados y si un usuario no debe tener acceso a una información, aunque realice la búsqueda, no podrá ver esos datos. 
 
-En este artículo te [enseñamos a utilizar Rovo Search](/primeros-pasos-rovo-search-atlassian)
+En este artículo te [enseñamos a utilizar Rovo Search](/primeros-pasos-rovo-search-atlassian){:target="_blank"}
 
 
 <h2>¿Qué es Rovo Chat?</h2>
@@ -51,7 +51,7 @@ Rovo Chat es la parte **interactiva** de esta solución. Este chat te permite te
 
 También podrás participar en conversaciones interactivas, a través del chat, para obtener **respuestas, generar nuevas ideas, obtener comentarios útiles y/o resolver problemas**. Este chat obtiene la información a través de los datos registrados en tus herramientas. Por último, tal y como confirma Atlassian, Rovo Chat se **volverá más inteligente cuanto más se utiliza**. Esta es la parte de **aprendizaje y construcción de patrones de la IA** que mencionábamos anteriormente. 
 
-En este artículo te [enseñamos a utilizar Rovo Chat](/primeros-pasos-rovo-chat-atlassian)
+En este artículo te [enseñamos a utilizar Rovo Chat](/primeros-pasos-rovo-chat-atlassian){:target="_blank"}
 
 
 <h2>¿Qué son los Agentes de Rovo?</h2>
@@ -69,9 +69,12 @@ Los Agentes de Rovo **funcionan dentro de los flujos de trabajo** y se adaptan s
 
 Además, los Agentes de Rovo pueden ser configurados en función de **un desencadentante específico**. Por ejmplo, cuando se crea un problema o cuando se genera un comentario. 
 
-Por el momento, Atlassian Rovo solo está disponible para una serie de "clientes", tal y como han [informado en su blog](https://www.atlassian.com/blog/announcements/introducing-atlassian-rovo-ai) y han abierto una lista de espera para aquellos usuarios que quieran utilizarlo. 
+En este artículo te enseñamos a trabajar con los [Agentes de Rovo](/primeros-pasos-agentes-rovo-atlassian){:target="_blank"}
 
-Y hasta aquí todas las novedades de este nuevo [producto](/atlassian.html) de Atlassian. Como siempre te decimos, si tienes alguna duda o consulta, puedes ponerte en contacto con nosotros a través del siguiente formulario. 
+
+Por el momento, Atlassian Rovo solo está disponible para una serie de "clientes", tal y como han [informado en su blog](https://www.atlassian.com/blog/announcements/introducing-atlassian-rovo-ai){:target="_blank"} y han abierto una lista de espera para aquellos usuarios que quieran utilizarlo. 
+
+Y hasta aquí todas las novedades de este nuevo [producto](/atlassian){:target="_blank"} de Atlassian. Como siempre te decimos, si tienes alguna duda o consulta, puedes ponerte en contacto con nosotros a través del siguiente formulario. 
 
 <form action="https://formspree.io/f/xaygrdqg" method="POST">
  <div class="col-md-12 col-sm-12">
