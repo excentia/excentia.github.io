@@ -83,6 +83,10 @@ Si lo que quieres es crear un Agente de Rovo tendrás que seguir los siguientes 
 
 5 - Cuando ya estés satisfecho/a de tu descripción pulsa el **botón 'Siguiente'** y ya lo tendrás creado. 
 
+Aquí te dejamos un video para que veas cómo puedes crear un Agente de Rovo de forma sencilla: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDcBEwMfRP8?si=pcOdEbGIT9I5XM4N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Y ahora te vamos a explicar cómo crear un Agente de Rovo **a través de la configuració manual**: 
 
 1 - Después de cliclar sobre el **botón 'Crear'** podrás acceder a una ventana emergente. Aquí tienes una imagen de ejemplo de la pantalla que verás en este tipo de configuración: 
