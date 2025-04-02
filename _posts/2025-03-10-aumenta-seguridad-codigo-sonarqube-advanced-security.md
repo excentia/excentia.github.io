@@ -27,11 +27,13 @@ Gracias a esta nueva solución de Sonar, los desarrolladores aumentarán su visi
 
 Esta integración es el primer paso después de la adquisición de [Tidelift por parte de Sonar](https://www.sonarsource.com/company/press-releases/sonar-to-acquire-tidelift/){:target="_blank"} y su enfoque único y proactivo para mejorar la calidad y la seguridad del código de terceros.
 
+
+
 <h2>Características de SonarQube Advanced Security</h2>
 
 Esta nueva oferta de seguridad avanzada de Sonar refuerza el conjunto de funcionalidades ya existentes, que seguirán estando disponibles en las herramientas de SonarQube. A continuación, describimos las principales **características de SonarQube Advanced Security**: 
 
-**Análisis de composición de software (SCA)**:
+- **Análisis de composición de software (SCA)**: En [este artículo](/software-composition-analisis-sonarqube){:target="_blank"} ampliamos cómo se añadirá el análisis SCA a SonarQube. 
 
 - **Identificación de vulnerabilidades en dependencias de terceros**: Ahora puedes rastrear, administrar y mitigar vulnerabilidades conocidas (incluidos los CVE) en dependencias de código abierto de terceros. <br>
 
@@ -44,7 +46,7 @@ Esta nueva oferta de seguridad avanzada de Sonar refuerza el conjunto de funcion
 
 Estas características se suman a las capacidades de seguridad del código de SonarQube siguientes: 
 
-- **SAST**: identifica debilidades y vulnerabilidades de seguridad en el propio código. <br>
+- **SAST**: identifica debilidades y vulnerabilidades de seguridad en el propio código.<br>
 
 - **Análisis de vulnerabilidades**: Descubrimiento de vulnerabilidades de inyección que abarcan varios archivos para garantizar que la entrada del usuario se utiliza de forma segura en toda la aplicación. <br>
 
@@ -56,6 +58,9 @@ Estas características se suman a las capacidades de seguridad del código de So
 
 - **Configuración personalizada del motor de seguridad**: Ajusta las configuraciones de seguridad según las necesidades específicas de la organización. <br>
 
+<h2>Disponibilidad de SonarQube Advanced Security</h2>
+
+Tal y como ha informado el equipo de Sonar, esta solución estará disponible a **finales de mayo de 2025**. ¿En qué formato? Como una **nueva licencia** para SonarQube Server Enterprise Edition 2025 Release 3 y, después, para SonarQube Cloud Enterprise. 
 
 ¡Hasta aquí este artículo sobre SonarQube Advanced Security! Recuerda que si tienes dudas sobre servicios o licencias de SonarQube puedes ponerte en contacto con nuestro equipo a través de [este enlace](/contacto){:target="_blank"}. 
 
