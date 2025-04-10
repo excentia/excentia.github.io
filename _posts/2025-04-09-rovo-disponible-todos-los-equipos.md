@@ -16,7 +16,7 @@ cover: img/posts/2025-04-09-rovo-disponible-todos-los-equipos.png
 
 ---
 
-Si ya tienes un **plan Premium o Enterprise** de **Jira, Jira Service Management, Confluence** o **Teamwork Collection**... ¡Tendrás también **Rovo** 🎉! Como lo lees. Una de las novedades del Team '25 es que Atlassian elimina la venta de Rovo como un producto de IA independiente con un coste mensual. ¡Menuda noticia! Pero es que además, han anunciado una nueva funcionalidad llamada **Rovo Studio**. ¡Te lo contamos todo en este artículo!
+Si ya tienes un **plan Premium o Enterprise** de **Jira, Jira Service Management, Confluence** o **Teamwork Collection**... ¡Tendrás también **Rovo** 🎉! Como lo lees. Una de las novedades del Team '25 es que Atlassian elimina la venta de Rovo como una aplicación de IA independiente con un coste mensual. ¡Menuda noticia! Pero es que además, han anunciado una nueva funcionalidad llamada **Rovo Studio**. ¡Te lo contamos todo en este artículo!
 
 Primero te vamos a explicar qué es lo que ha cambiado en Rovo en materia de licenciamiento y, después, te explicaremos **qué es Rovo Studio**. 
 
@@ -27,7 +27,7 @@ Primero te vamos a explicar qué es lo que ha cambiado en Rovo en materia de lic
 
 Hasta el día de hoy, la solución de [IA de Atlassian](/que-es-atlassian-rovo){:target="_blank"} se vendía como un producto independiente con un coste mensual por usuario. Este coste, incluía las tres funcionalidades: Rovo Search, Rovo Chat y los Agentes de Rovo. 
 
-A partir de ahora, Rovo estará incluido para cualquier persona que tenga contratados un **plan Premium o Enterprise** de Jira Service Management, Jira, Confluence o la [nueva colección Teamwork Collection](/que-es-teamwork-collection-atlassian){:target="_blank"}. Para un futuro, también está previsto que Rovo esté disponible para aquellos usuarios que tengan **contratado un plan Estándar**. 
+A partir de ahora, Rovo estará incluido para cualquier persona que tenga contratados un **plan Premium o Enterprise** de Jira Service Management, Jira, Confluence o la [nueva colección Teamwork Collection](/que-es-teamwork-collection-atlassian){:target="_blank"}. Para un futuro, también está previsto que Rovo esté disponible para aquellos usuarios que tengan **contratado un plan Estándar**, pero no hay fecha confirmada. 
 
 Así lo han anunciado durante la **celebración del Team '25 de Atlassian** en Anaheim, California. Pero, ¿A qué se debe este cambio? Tal y como informan desde Atlassian "la IA ya no es solo una tecnología emergente, es la base de la próxima ola de transformación empresarial y tenemos la oportunidad de proporcionar esta base a nuestros clientes". 
 
