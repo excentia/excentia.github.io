@@ -16,7 +16,7 @@ cover: img/posts/2025-04-09-atlassian-lanza-teamwork-collection.png
 
 ---
 
-Atlassian ha sorprendido a su comunidad en el **evento anual Team'25** con el lanzamiento de **Teamwork Collection**. Es una nueva propuesta que promete revolucionar la colaboración de los equipos ágiles. Esta colección **incluye distintas herramientas de Atlassian** diseñadas para mejorar la productividad y la automatización de los usuarios. Desde excentia, como **Gold Parnter de Atlassian** presente en el Team'25, te vamos a explicar en este artículo cómo puedes transformar la forma en la que trabajas gracias al Teamwork Collection. 
+Atlassian ha sorprendido a su comunidad en el **evento anual Team'25** con el lanzamiento de la **Teamwork Collection**. Es una nueva propuesta que promete revolucionar la colaboración de los equipos ágiles. Esta colección **incluye distintas herramientas de Atlassian** diseñadas para mejorar la productividad y la automatización de los usuarios. Desde excentia, como **Gold Parnter de Atlassian** presente en el Team'25, te vamos a explicar en este artículo cómo puedes transformar la forma en la que trabajas gracias a la Teamwork Collection. 
 
 <img width="90%" src="/img/eventos/featured-team-25.png" alt="Lanzamientos del Team '25 de Atlassian">
 <br>
@@ -25,7 +25,7 @@ Atlassian ha sorprendido a su comunidad en el **evento anual Team'25** con el la
 
 Teamwork Collection es un **conjunto de herramientas de Atlassian** que reinventan la forma en que los equipos trabajan. Los productos que incluyen son **Jira, Confluence, Loom y agentes de Rovo**. Individualmente, cada una de estas aplicaciones y los agentes aportarán un valor significativo, pero la máxima productividad surge cuando se usan juntos. Teamwork Collection únicamente se ejecuta en Atlassian Cloud. 
 
-**Jira, Confluence, Loom y los agentes Rovo** están integrados en un **solo producto** llamado **Teamwork Collection**. Esta solución maximiza la eficiencia de los equipos al **conectar metas, trabajo, conocimiento e Inteligencia Artificial** en una experiencia de trabajo unificada. Además, esta novedad elimina las barreras de los equipos al proporcionar **visibilidad compartida de todo el trabajo, los objetivos y los datos**, garantizando la transparencia y el contexto.
+**Jira, Confluence, Loom y los Agentes Rovo** están integrados en un **solo producto** llamado **Teamwork Collection**. Esta solución maximiza la eficiencia de los equipos al **conectar metas, trabajo, conocimiento e Inteligencia Artificial** en una experiencia de trabajo unificada. Además, esta novedad elimina las barreras de los equipos al proporcionar **visibilidad compartida de todo el trabajo, los objetivos y los datos**, garantizando la transparencia y el contexto.
 
 Atlassian ha anunciado en el Team'25 que está **preparando una serie de colecciones** para plasmar la filosofía de [System of Work](/que-es-atlassian-system-of-work){:target="_blank"}. Por el momento, solo está disponible el Teamwork Collection, que es la base de todas estas colecciones. Aquí te dejamos una imagen donde se recogen las colecciones en las que Atlassian está trabajando: 
 
@@ -36,7 +36,7 @@ La otra colección que está disponible es **Teamwork Strategy** que incluye las
 
 Estas colecciones brindan claridad a los usuarios sobre cómo aprovechar al máximo  **el porfolio de soluciones de Atlassian**. Es un grupo cuidadosamente seleccionado de aplicaciones orientadas al resultado que entregan y a los tipos de equipo que sirven.
 
-Te  **presentamos un ejemplo** de lo que puedes alcanzar con la Teamwork Collection. Con solo unos clics, puedes configurar un espacio centralizado que incluye: 
+Aquí te **presentamos un ejemplo** de lo que puedes alcanzar con la Teamwork Collection. Con solo unos clics, puedes configurar un espacio centralizado que incluye: 
 
 ▶️ Un **proyecto de Jira** para planificar y supervisar el trabajo. <br>
 
@@ -51,7 +51,7 @@ Y todos estos lugares los podrás personalizar integrando el canal de Slack, añ
 
 <h2>¿Qué incluye la Teamwork Collection?</h2>
 
-Como indicamos anteriormente la Teamwork Collection incluye Jira, Confluence, Loom y Agentes de Rovo. A continuación te explicamos en qué consisten estas soluciones. 
+Como indicamos anteriormente la Teamwork Collection incluye Jira, Confluence, Loom y Agentes de Rovo. A continuación, te explicamos en qué consisten estas soluciones. 
 
 <h3>Jira y Cofluence para todos los equipos</h3>
 
@@ -73,9 +73,9 @@ En el Team '25 también hemos podido escuchar novedades para Rovo, como su nuevo
 
 <h3>Colaboración con videos con Loom</h3>
 
-Loom es una solución que permite **grabar videos de la pantalla de tu ordenador** y compartirlos de forma rápida y sencilla. Está totalmente **integrada con el resto de herramientas de Atlassian** y facilita la comunicación para los equipos. 
+Loom es una solución que permite **grabar videos en la pantalla de tu ordenador** y compartirlos de forma rápida y sencilla. Está totalmente **integrada con el resto de aplicaciones de Atlassian** y facilita la comunicación para los equipos. 
 
-Graba un video en lugar de escribir la información y envíalo por email o intégralo en una tarea de Jira para ahorrar tiempo. Además, con el Asistente de Reuniones de Loom tendrás la transcripción en un resumen de la llamada, las ideas clave y recursos vinculados compartidos. 
+Graba un video en lugar de escribir la información y envíalo por email, o intégralo en una tarea de Jira para ahorrar tiempo. Además, con el **Asistente de Reuniones de Loom** tendrás la transcripción en un resumen de la llamada, las ideas clave y recursos vinculados compartidos. 
 
 <h3>Conclusiones Teamwork Collection </h3>
 
