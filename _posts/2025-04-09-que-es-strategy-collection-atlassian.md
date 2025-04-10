@@ -64,7 +64,7 @@ Jira Align es la aplicación actual para la **planificación de los proyectos** 
 
 **📢¡Ojo! Si ya eres usuario de Jira Align tendrás acceso a la Strategy Collection sin costes adicionales.**
 
-Hata aquí todo lo que sabemos sobre esta nueva colección. Si quieres más información o probar la Strategy Collection puedes ponerte en contacto con nuestro equipo a través del siguiente formulario: 
+Hasta aquí todo lo que sabemos sobre esta nueva colección. Si quieres más información o probar la Strategy Collection puedes ponerte en contacto con nuestro equipo a través del siguiente formulario: 
 
 <form action="https://formspree.io/f/xaygrdqg" method="POST">
  <div class="col-md-12 col-sm-12">

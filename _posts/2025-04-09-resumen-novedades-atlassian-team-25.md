@@ -30,7 +30,7 @@ Y ahora si... ¡Empezamos a contar las **novedades del Atlassian Team '25**!
 
 Rovo está disponible para los planes **Premium y Enterprise Cloud** y, en un futuro, para los clientes de **planes Estándar**. Por lo tanto, si eres usuario de Jira, Confluence y Jira Service Management en alguno de estos planes ya no tendrás que pagar un coste extra por utilizar Rovo. 
 
-El objetivo de Atlassian con este cambio es **ayudar a los equipos a que aprovechen** todo el potencial de la IA en su día a día. Así que el principio de esta adopción pasa por hacer accesible este producto de IA a todo el equipo. 
+El objetivo de Atlassian con este cambio es **ayudar a los equipos a que aprovechen** todo el potencial de la IA en su día a día. Así que el principio de esta adaptación pasa por hacer accesible este producto de IA a todo el equipo. 
 
 Además, en el Atlassian Team'25 también se ha anunciado una nueva aplicación relacionada con Rovo. Se llama **Rovo Studio** y permite crear agentes de IA, automatizaciones y otra serie de experiencias utilizando herramientas de desarrollo low-code/no-code. Otro lanzamiento son los Dev Agents que son agentes para generación automática de código a partir de issues (Code Generation), para revisión de pull requests (Code Reviewer), para hacer un plan de trabajo, para solucionar problemas en los pipelines, etc.
 
@@ -73,7 +73,7 @@ El plan Premium de **Jira Product Discovery** incluye tres características clav
 
 <h2>Nuevo producto: Customer Service Management </h2>
 
-Nueva aplicacion orientada a gestionar el servicio de atención al cliente. Unifica a los servicios en una única plataforma para brindar un servicio de soporte más rápido. Por supuesto, la IA también está presente aquí y conectará a los equipos con puntos clave de la IA. Por el momento, está en versión Beta y ya puedes solicitar la prueba en [este enlace](https://www.atlassian.com/software/customer-service-management){:target="_blank"}. 
+Nueva aplicacion orientada a gestionar el servicio de atención al cliente. Unifica a los equipos en una única plataforma para brindar un servicio de soporte más rápido. Por supuesto, la IA también está presente aquí y conectará a los usuarios con puntos clave de la IA. Por el momento, está en versión Beta y ya puedes solicitar la prueba en [este enlace](https://www.atlassian.com/software/customer-service-management){:target="_blank"}. 
 
 
 <h2>Atlassian Command Line Interface (ACLI)</h2>
