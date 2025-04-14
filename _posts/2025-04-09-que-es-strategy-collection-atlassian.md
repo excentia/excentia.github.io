@@ -53,7 +53,7 @@ Este **centro de control** facilita la visualización de los siguiente aspectos 
 
 Talent es la **nueva aplicación de Atlassian** que ofrece una vista, en tiempo real, de cómo está funcionando el capital humano en la empresa. Muestra en qué está trabajando cada uno, la zona horaria en la que se encuentra, el nivel en el que está dentro de un organigrama. Es una aplicación que está incluida en la Strategy Collection y que ha sido presentada esta semana en el Team '25. 
 
-<img width="90%" src="/img/atlassian-products\dashboard-talent-atlassian.gif" alt="Pantalla de Atlassian Talent">
+<img width="90%" src="/img/atlassian-products/dashboard-talent-atlassian.gif" alt="Pantalla de Atlassian Talent">
 <br>
 
 Además, Talent tiene **funcionalidades de IA** como el **Talent Finder**. Esta función te ayuda a buscar a un empleado/a que se ajuste al conjunto de habilidades y requisitos que necesites para un proyecto en concreto. Por ejemplo, si en un proyecto necesitas a un "perfil de desarrollador que se encuentre en Estados Unidos" simplemente tienes que acceder al **Talent Finder** y filtrar por ese tipo de cualidades. 
