@@ -45,3 +45,34 @@ $text-color: #000000;
         "mixins",
         "base"
 ;
+
+.mb-sm-5 { margin-bottom: 5px; }
+.mb-sm-10 { margin-bottom: 10px; }
+.mb-sm-15 { margin-bottom: 15px; }
+.mb-sm-20 { margin-bottom: 20px; }
+.mb-sm-30 { margin-bottom: 30px; }
+.mb-sm-40 { margin-bottom: 40px; }
+.mb-sm-50 { margin-bottom: 50px; }
+.excentia-logo-atl-size {
+  height: 30px;
+}
+
+
+@media (min-width: 992px) {
+  // Estilos con pantalla normal (grande)
+  .mb-sm-5,
+  .mb-sm-10,
+  .mb-sm-15,
+  .mb-sm-20,
+  .mb-sm-30,
+  .mb-sm-40,
+  .mb-sm-50 {
+    margin-bottom: 0 !important;
+  }
+
+  .excentia-logo-atl-size {
+    height: 40px;
+  }
+
+  // Fin estilos con pantalla normal (grande)
+}
