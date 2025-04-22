@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Novedades de Atlassian Cloud Platform
-description: Los productos ahora son aplicaciones, nuevas apps para Cloud, una nueva modalidad de alojamiento en la nube... ¡Te cotnamos todos los detalles!
+description: Los productos ahora son aplicaciones, nuevas apps para Cloud, una nueva modalidad de alojamiento en la nube... ¡Te contamos todos los detalles!
 date: '2025-04-09T08:01:00Z'
 author: Belén Casanovas
 categories:
