@@ -2,7 +2,7 @@
 layout: post
 title: '¿Qué es el Modo MQR de SonarQube?'
 description: Te contamos en qué consiste el modo de análisis MQR de SonarQube y qué diferencias tiene frente al Modo Estándar
-date: '2025-04-12T08:04:00Z'
+date: '2025-05-01T08:04:00Z'
 author: Belén Casanovas
 categories:
 
