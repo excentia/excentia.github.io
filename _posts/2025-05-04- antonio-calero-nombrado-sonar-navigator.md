@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antonio Calero es nombrado Sonar Navigator'
-description: Te explicamos en qué consiste el nuevo modelo de facturación de Atlassian en función de los usuarios que tengas.
+description: Sonar lanza un nuevo programa que resalta a los especialistas en conocimientos en Sonar. ¿Quieres saber de qué se trata?
 date: '2025-05-02T08:04:00Z'
 author: Belén Casanovas
 categories:
