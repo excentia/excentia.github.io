@@ -12,7 +12,7 @@ cover: img/posts/2025-05-02-actualizacion-facturacion-cantidad-maxima-atlassian.
 
 ---
 
-Atlassian implementará un **nuevo modelo de facturación** con el objetivo de alinearse con los estándares de la industria y reflejar con mayor precisión el uso real de las instancias por parte de sus clientes. Este nuevo enfoque se basa en la **facturación según la cantidad máxima de usuarios** de tu aplicacion. Desde excentia, para ayudarte a comprender fácilmente en qué consiste este cambio, hemos preparado este artículo en formato de pregunta y respuesta.
+Atlassian implementará un **nuevo modelo de facturación** con el objetivo de alinearse con los estándares de la industria y reflejar con mayor precisión el uso real de las instancias por parte de sus clientes. Este nuevo enfoque se basa en la **facturación según la cantidad máxima de usuarios** de tu aplicación. Desde excentia, para ayudarte a comprender fácilmente en qué consiste este cambio, hemos preparado este artículo en formato de pregunta y respuesta.
 <br><br>
 
 <h2>¿Qué es la facturación por cantidad máxima?</h2>
@@ -78,13 +78,13 @@ Cargos adicionales por usuarios añadidos en abril (prorrateo):
 
 - 5 usuarios añadidos el 12 de abril, con acceso durante 18 días: 15€ × 18/30 = 9€ por usuario → 45 €
 
-- 2 usuarios añadidos el 17 de abril, con acceso durante 12 días: 15€ × 12/30 = 6€ por usuario → 12 €
+- 2 usuarios añadidos el 17 de abril, con acceso durante 13 días: 15€ × 13/30 = 6,49€ por usuario → 12,98 €
 
-- Total adicional por abril: 57 €
+- Total adicional por abril: 57,98€
 
 ✅ Total en la factura del 1 de mayo:
 
-180 € (mayo) + 57 € (uso adicional de abril) = 237 €
+180 € (mayo) + 57,98 € (uso adicional de abril) = 237.98 €
 
 Este sistema asegura que pagas en función del uso real, sin retrasos ni sorpresas en ciclos futuros.
 

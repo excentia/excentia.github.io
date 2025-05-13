@@ -8,7 +8,7 @@ categories:
 
 - atlassian
 
-cover: img/posts/2025-05-02-actualizacion-facturacion-cantidad-maxima-atlassian.png
+cover: img/posts/2025-05-04- antonio-calero-nombrado-sonar-navigator.png
 
 ---
 
@@ -32,11 +32,11 @@ Los **Sonar Navigators** destacan por:
 - Contribuir a **proyectos open-source** relacionados con Sonar.
 <br><br>
 
-<h2>¿Qué beneficios tendrá excentia</h2>
+<h2>¿Qué beneficios tendrá Antonio y excentia?</h2>
 
-**Antonio Calero** ha participado activamente en iniciativas de la comunidad, compartiendo su conocimiento y apostando por la mejora continua en calidad y seguridad del software entre los clientes de excentia. Por ello, ha sido nombrado **miembro fundador del programa Sonar Navigator**.
+**Antonio Calero** ha participado activamente en iniciativas de la comunidad, compartiendo su conocimiento y apostando por la mejora continua en calidad y seguridad del software entre los clientes de excentia. Por ello, ha sido nombrado **miembro fundador del programa Sonar Navigator**, lo que también representa una oportunidad para excentia, que se beneficiará directamente del conocimiento, la visibilidad y las sinergias que este reconocimiento conlleva.
 
-Esta noticia significa un plus como partners ya que **Antonio Calero** tendrá los siguientes beneficios como **Sonar Navigator**: 
+A continuación, desglosamos los beneficios que obtendremos como **Sonar Navigator**: 
 
 - **Reconocimiento oficial** en los canales de Sonar y un título distintivo.
 
