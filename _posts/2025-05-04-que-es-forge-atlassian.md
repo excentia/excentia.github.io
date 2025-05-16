@@ -3,7 +3,7 @@
 layout: post
 title: ¿Qué es Forge? La solución de Atlassian para desarrolladores
 description: Descubre qué es Atlassian Forge, cómo se compara con Connect y qué ventajas ofrece para desarrollar apps seguras en Cloud.
-date: '2025-05-06T08:04:00Z'
+date: '2025-05-04T08:04:00Z'
 author: Belén Casanovas
 categories:
 
