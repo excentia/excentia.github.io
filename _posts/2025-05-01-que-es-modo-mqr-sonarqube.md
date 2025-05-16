@@ -32,6 +32,7 @@ A continuación, se muestra una comparación detallada entre los dos modos de an
 | **Info**  | 📘 Sin impacto esperado. Solo con fines informativos   | **Info** | 📘 Sin impacto esperado. Solo con fines informativos. |
 
 
+<br><br>
 Los siguientes datos que desglosamos pertenecen a la **terminología en el tipo de issues**: 
 
 
@@ -49,5 +50,9 @@ Los siguientes datos que desglosamos pertenecen a la **terminología en el tipo 
 🔐 Security <br>
 🔥 Security Hotspot <br>
 
+Aquí te dejamos un vídeo donde hacemos una comparativa entre los dos modos y te enseñamos a activar el MQR:
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WYksFNBRHZ8?si=jZKaczPpaBNKiKpB&amp;controls=0" title="Activate MQR on SonarQube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br><br>
 ¿Estás listo para mejorar la calidad de tu código con **Modo MQR**? Si necesitas ayuda no dudes en ponerte en contacto con nuestro equipo a través de [nuestro formulario](/contacto). 
