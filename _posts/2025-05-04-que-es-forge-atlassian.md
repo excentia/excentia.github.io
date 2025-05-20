@@ -14,7 +14,7 @@ cover: img/posts/2025-05-04-que-es-forge-atlassian.png
 
 ---
 
-
+¿Eres desarrollador en el ecosistema Atlassian? Entonces Forge te interesa. En este artículo **vamos a descubrir Forge**, la plataforma de desarrollo cloud de Atlassian que está transformando la forma en que se crean apps para Jira, Confluence y otros productos. Más seguridad, despliegues simplificados y una autonomía total para los equipos de desarrollo. 
 
 <h2>¿Qué es Forge?</h2>
 
