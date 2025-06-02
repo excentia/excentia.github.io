@@ -2,7 +2,7 @@
 layout: post
 title: 'SonarQube Advanced Security ya está disponible'
 description: La nueva solución de seguridad ya está disponible para las ediciones de SonarQube Enterprise y Data Center. 
-date: '2025-05-29T08:00:00Z'
+date: '2025-05-30T08:00:00Z'
 author: Belén Casanovas
 categories:
 
