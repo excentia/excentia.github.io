@@ -27,7 +27,7 @@ Los beneficios de **Sonar Advanced Security** son los siguientes:
 
 - Análisis de Composición de Software (SCA)
 
-- Detección detallada de vulnerabildiad
+- Detección detallada de vulnerabilidad
 
 - Verificación de cumplimiento de licencias
 
@@ -38,7 +38,7 @@ El paquete de Sonar Advanced Security **solo se puede adquirir** por los cliente
 
 <h2>Avances adicionales de seguridad</h2>
 
-- **Pruebas de seguridad de aplicaciones estáticas (SAST) para Kotlin**: Ahora el análisis se extiende a proyectos Kotlin. Esta funcionalidad es útil sobre todo para desarrolladores Android que podrán detectar vulnerabildiades de inyección de forma eficiente. 
+- **Pruebas de seguridad de aplicaciones estáticas (SAST) para Kotlin**: Ahora el análisis se extiende a proyectos Kotlin. Esta funcionalidad es útil sobre todo para desarrolladores Android que podrán detectar vulnerabilidades de inyección de forma eficiente. 
 
 - **Más patrones de detección de secretos**: La cobertura para la detección de secretos incluye ahora más de 300 patrones. Detecta claves, tokens y otra serie de secretos que ayudan a prevenir exposiciones accidentales y a reducir los riesgos de seguridad. 
 <br><br>

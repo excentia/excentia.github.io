@@ -45,7 +45,7 @@ Sí, para utilizar **SonarQube Advanced Security** necesitas una licencia adicio
 
 ### Resumen de disponibilidad
 
-**SonarQube Advanced Security** está disponible como licencia adicional adicional para SonarQube Server Enterprise o Data Center Edition [2025.3](/sonarqube-server-2025-release-3){:target="_blank"}. Próximamente, también estará disponible para **SonarQube Cloud Enterprise**, pero tendremos que esperar unos meses más. <br>
+**SonarQube Advanced Security** está disponible como licencia adicional para SonarQube Server Enterprise o Data Center Edition [2025.3](/sonarqube-server-2025-release-3){:target="_blank"}. Próximamente, también estará disponible para **SonarQube Cloud Enterprise**, pero tendremos que esperar unos meses más. <br>
 
 
 Y hasta aquí este artículo sobre **SonarQube Advanced Security**. Recuerda que en la página oficial de Sonar tienes una [sección de documentación](https://docs.sonarsource.com/sonarqube-server/latest/){:target="_blank"} donde se amplía la información técnica sobre esta solución.
