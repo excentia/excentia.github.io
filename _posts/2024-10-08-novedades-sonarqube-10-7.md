@@ -6,10 +6,9 @@ date: '2024-10-06T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- productos
-- sonar
 - sonarqube
-- release
+- calidad
+- devops
 
 
 cover: img/posts/2024-10-08-novedades-sonarqube-10-7.png

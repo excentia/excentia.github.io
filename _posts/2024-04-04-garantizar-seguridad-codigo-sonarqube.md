@@ -6,9 +6,9 @@ date: '2024-04-04T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- seguridad
 - sonarqube
-- sonar
+- calidad
+- devops
 
 
 cover: img/posts/2024-04-04-garantizar-seguridad-codigo-sonarqube.png

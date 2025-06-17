@@ -5,8 +5,10 @@ description: Herramienta de migración para el SonarQube Connector for Jira
 date: '2021-12-21T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
-- productos
-- novedades
+
+- sonarqube
+- calidad
+- devops
 - atlassian
 
 cover: /img/posts/2021-12-22-nueva-version-sonarqube-connector-for-jira-cloud-2-14-thumb.png

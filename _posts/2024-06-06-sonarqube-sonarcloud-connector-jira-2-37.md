@@ -7,10 +7,9 @@ author: Belén Casanovas
 categories:
 
 - sonarqube
-- sonarcloud
-- jira cloud
-- jira data center
-- marketplace
+- calidad
+- devops
+- atlassian
 
 cover: img/posts/2024-06-06-sonarqube-sonarcloud-connector-jira-2-37.png
 

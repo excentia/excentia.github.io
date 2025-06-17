@@ -6,8 +6,10 @@ date: '2025-03-25T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonarqube server
-- IA
+- sonarqube
+- calidad
+- devops
+- noticia
 
 cover: img/posts/2025-03-25-sonarqube-server-2025-release-2.png
 

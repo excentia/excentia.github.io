@@ -6,9 +6,9 @@ date: '2025-01-01T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- sonarqube server
+- calidad
+- devops
 
 cover: img/posts/2025-01-01-gestionar-issues-sonarqube.png
 

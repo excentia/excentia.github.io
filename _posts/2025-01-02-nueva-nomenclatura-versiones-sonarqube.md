@@ -6,8 +6,9 @@ date: '2025-01-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonarqube server
-- sonarsource
+- sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-01-02-nueva-nomenclatura-versiones-sonarqube.png
 

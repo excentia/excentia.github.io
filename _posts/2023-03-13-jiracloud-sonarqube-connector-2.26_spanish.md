@@ -6,9 +6,11 @@ description: ¡Nuevo reporte ISO 5055!
 date: '2023-03-13T08:00:00Z'
 author: Juanvi Bolufer
 categories:
-- productos
+
+- sonarqube
+- calidad
+- devops
 - atlassian
-- apps
 
 cover: /img/posts/2023-03-13-jiracloud-sonarqube-connector-2.26-breakdown.png
 

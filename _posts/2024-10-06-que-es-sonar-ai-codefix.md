@@ -7,9 +7,8 @@ author: Belén Casanovas
 categories:
 
 - sonarqube
-- sonarcloud
-- sonar
-- ia
+- calidad
+- devops
 
 
 cover: img/posts/2024-10-06-que-es-sonar-ai-codefix.png

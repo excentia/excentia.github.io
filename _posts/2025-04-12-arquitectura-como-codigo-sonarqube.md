@@ -6,8 +6,9 @@ date: '2025-04-12T08:04:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-04-12-arquitectura-como-codigo-sonarqube.png
 

@@ -6,9 +6,11 @@ description: Nueva macro disponible para visualizar los hotspots de seguridad y 
 date: '2022-04-21T08:00:00.000+01:00'
 author: Marisa Martín
 categories: 
-- productos
-- atlassian
+
 - sonarqube
+- calidad
+- devops
+- atlassian
 
 cover: /img/posts/2022-04-21-sonarqube-connector-confluence-cloud.png
 modified_time: '2022-04-21T08:00:00.000+01:00'

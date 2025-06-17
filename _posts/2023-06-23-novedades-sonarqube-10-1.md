@@ -6,10 +6,10 @@ description: Te contamos las novedades de la última versión que ha lanzado Son
 date: '2023-06-23T08:00:00Z'
 author: Belén Casanovas
 categories:
-- productos
-- sonar
+
 - sonarqube
-- release
+- calidad
+- devops
 
 cover: /img/posts/2023-06-23-novedades-sonarqube-10-1.png
 

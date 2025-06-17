@@ -5,11 +5,10 @@ description: ¡Nueva versión del conector más popular para Jira! Mejoras de re
 author: Belén Casanovas
 categories:
 
-- atlassian
 - sonarqube
-- marketplace
-- jira
-
+- calidad
+- devops
+- atlasian
 
 cover: /img/posts/2023-10-03-sonarqube-connector-for-jira-cloud-2-32.png
 

@@ -7,9 +7,9 @@ date: '2025-05-06T08:04:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- eventos
+- calidad
+- devops
 
 cover: img/posts/2025-05-06-evento-sonnar-connect-madrid-2025.png
 

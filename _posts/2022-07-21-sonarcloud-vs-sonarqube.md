@@ -6,9 +6,11 @@ description: ¿Dudas entre elegir SonarCloud o SonarQube? Desde excentia te ayud
 date: '2022-07-21T08:00:00Z'
 author: Marisa Martin
 categories:
-- productos
+
 - sonarqube
-- sonarcloud
+- calidad
+- devops
+
 
 cover: /img/posts/2022-07-21-sonarcloud-vs-sonarqube-thumb.png
 

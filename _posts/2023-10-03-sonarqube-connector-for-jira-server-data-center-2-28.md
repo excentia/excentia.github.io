@@ -5,10 +5,10 @@ description: Nuevas funcionalidades y mejoras en la interfaz. ¡Te lo contamos e
 author: Belén Casanovas
 categories:
 
-- atlassian
 - sonarqube
-- marketplace
-- jira
+- calidad
+- devops
+- atlassian
 
 
 cover: /img/posts/2023-10-03-sonarqube-connector-for-jira-server-data-center-2-28.png

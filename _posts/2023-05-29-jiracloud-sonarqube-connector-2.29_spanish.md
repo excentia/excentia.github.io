@@ -6,9 +6,11 @@ description: ¡Ahora con creación de asuntos para OWASP Top 10!
 date: '2023-05-29T08:00:00Z'
 author: Juanvi Bolufer
 categories:
-- productos
+
+- sonarqube
+- calidad
+- devops
 - atlassian
-- apps
 
 cover: /img/posts/2023-05-29-jiracloud-sonarqube-connector-2.29-cover.png
 

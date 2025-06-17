@@ -7,9 +7,9 @@ date: '2023-07-17T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- lts
+- calidad
+- devops
 
 cover: /img/posts/2023-07-17-post-sonarqube-lts-portada.jpg
 

@@ -6,8 +6,9 @@ date: '2024-11-16T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
-- sonarqube cloud
+- sonarqube
+- calidad
+- devops
 
 
 cover: img/posts/2024-11-16-nuevo-plan-comercial-sonarqube-cloud.png

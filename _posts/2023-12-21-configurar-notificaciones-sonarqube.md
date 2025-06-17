@@ -5,8 +5,10 @@ description: Te enseñamos a recibir notificaciones de "tus issues" de SonarQube
 date: '2023-12-21T08:00:00Z'
 author: Belén Casanovas
 categories:
+
 - sonarqube
-- tutorial
+- calidad
+- devops
 
 cover: /img/posts/2023-12-21-configurar-notificaciones-sonarqube.png
 

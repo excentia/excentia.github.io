@@ -6,10 +6,9 @@ date: '2024-03-06T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
-- ia
 - sonarqube
-- sonarcloud
+- calidad
+- devops
 
 
 

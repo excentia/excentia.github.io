@@ -6,8 +6,9 @@ date: '2025-02-04T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
-- sonarqube server
+- sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-02-04-mejora-calidad-codigo-ia-sonar.png
 

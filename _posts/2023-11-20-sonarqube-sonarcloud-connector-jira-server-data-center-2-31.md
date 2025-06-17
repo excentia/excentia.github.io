@@ -5,10 +5,11 @@ description: Crea issues de Jira a partir desde el reporte ISO 5055.
 date: '2023-11-20T08:00:00Z'
 author: Belén Casanovas
 categories:
+
 - sonarqube
-- sonarcloud
-- jira
-- marketplace
+- calidad
+- devops
+- atlassian
 
 
 cover: /img/posts/2023-11-20-sonarqube-sonarcloud-connector-jira-server-data-center-2-31.png

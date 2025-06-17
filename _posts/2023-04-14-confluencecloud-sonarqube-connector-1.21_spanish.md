@@ -6,9 +6,11 @@ description: Nueva macro disponible para visualizar las vulnerabilidades del est
 date: '2023-04-14T08:00:00.000+01:00'
 author: Carlos Sánchez
 categories:
-- productos
-- atlassian
+
 - sonarqube
+- calidad
+- devops
+- atlassian
 
 cover: /img/posts/2023-04-14-confluencecloud-sonarqube-connector-1.21.png
 modified_time: '2023-04-14T08:00:00.000+01:00'

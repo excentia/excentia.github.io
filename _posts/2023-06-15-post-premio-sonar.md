@@ -6,9 +6,10 @@ description: SonarQube ha conseguido el máximo galardon en la categoría de Her
 date: '2023-06-15T08:00:00Z'
 author: Belén Casanovas
 categories:
-- productos
+
 - sonarqube
-- sonarcloud
+- calidad
+- devops
 
 cover: /img/posts/2023-06-15-post-premio-sonar.png
 

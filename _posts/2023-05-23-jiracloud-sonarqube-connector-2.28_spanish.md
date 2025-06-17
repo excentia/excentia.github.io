@@ -6,9 +6,11 @@ description: ¡Ahora con creación de asuntos del CWE Top 25, visualización del
 date: '2023-05-23T08:00:00Z'
 author: Juanvi Bolufer
 categories:
-- productos
+
+- sonarqube
+- calidad
+- devops
 - atlassian
-- apps
 
 cover: /img/posts/2023-05-26-jiracloud-sonarqube-connector-2.28-cover.png
 

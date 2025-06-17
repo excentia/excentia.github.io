@@ -7,8 +7,8 @@ author: Belén Casanovas
 categories:
 
 - sonarqube
-- sonarqube cloud
-- sonarqube server
+- calidad
+- devops
 
 
 cover: img/posts/2025-02-14-cinco-razones-transformar-desarrollo-sonarqube.png
