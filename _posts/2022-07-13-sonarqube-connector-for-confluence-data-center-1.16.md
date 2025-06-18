@@ -6,9 +6,11 @@ description: Nueva macro mostrar la información de un perfil de calidad en Conf
 date: '2022-07-13T08:00:00Z'
 author: Marisa Martín
 categories: 
-- productos
-- atlassian
+
 - sonarqube
+- calidad
+- devops
+- atlassian
 
 cover: /img/posts/2022-07-13-sonarqube-connector-for-confluence-data-center-1.16-rules.png
 

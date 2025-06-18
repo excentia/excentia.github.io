@@ -7,6 +7,8 @@ author: Belén Casanovas
 categories:
 
 - sonarqube
+- calidad
+- devops
 
 
 cover: img/posts/2025-03-04-guia-completa-uso-api-sonarqube.png

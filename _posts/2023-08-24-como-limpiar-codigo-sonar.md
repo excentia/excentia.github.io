@@ -7,9 +7,9 @@ date: '2023-08-24T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- sonarcloud
+- calidad
+- devops
 
 cover: /img/posts/2023-08-24-como-limpiar-codigo-sonar.jpg
 

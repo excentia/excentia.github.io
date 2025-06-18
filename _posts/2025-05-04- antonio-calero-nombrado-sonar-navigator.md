@@ -6,7 +6,9 @@ date: '2025-05-02T08:04:00Z'
 author: Belén Casanovas
 categories:
 
-- atlassian
+- sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-05-04- antonio-calero-nombrado-sonar-navigator.png
 

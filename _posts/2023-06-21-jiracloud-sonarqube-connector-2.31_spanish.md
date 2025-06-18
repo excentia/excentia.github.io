@@ -6,9 +6,11 @@ description: ¡Ahora con creación de asuntos y desglose de reglas incumplidas e
 date: '2023-06-21T08:00:00Z'
 author: Juanvi Bolufer
 categories:
-- productos
+
+- sonarqube
+- calidad
+- devops
 - atlassian
-- apps
 
 cover: /img/posts/2023-06-21-jiracloud-sonarqube-connector-2.31-cover.png
 

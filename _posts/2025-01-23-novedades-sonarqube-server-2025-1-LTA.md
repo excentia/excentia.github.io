@@ -6,9 +6,9 @@ date: '2025-01-23T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
-- sonarqube server
-- LTA
+- sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-01-23-novedades-sonarqube-server-2025-1-LTA.png
 

@@ -5,7 +5,10 @@ description: Te explicamos cómo aprovechar los distintos tipos de falsos positi
 date: '2024-01-02T08:00:00Z'
 author: Loïc Joly
 categories:
+
 - sonarqube
+- calidad
+- devops
 
 
 cover: img/posts/2024-01-02-ayudar-falsos-positivos.png

@@ -6,9 +6,11 @@ description: Mejoras significativas en migración, gráficas de históricos, cre
 date: '2022-09-20T08:00:00Z'
 author: Carlos Sánchez
 categories: 
-- productos
-- atlassian
+
 - sonarqube
+- calidad
+- devops
+- atlassian
 
 cover: /img/posts/2022-09-20-create_jira_issue_type.png
 

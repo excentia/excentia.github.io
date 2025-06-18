@@ -6,9 +6,11 @@ description: Te explicamos en qué consiste la nueva macro disponible para visua
 date: '2023-02-02T08:00:00.000+01:00'
 author: Carlos Sánchez
 categories:
-- productos
-- atlassian
+
 - sonarqube
+- calidad
+- devops
+- atlassian
 
 cover: /img/posts/2023-02-02-confluencecloud-sonarqube-connector-1.20.png
 modified_time: '2022-04-21T08:00:00.000+01:00'

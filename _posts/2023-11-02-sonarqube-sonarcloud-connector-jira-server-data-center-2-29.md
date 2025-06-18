@@ -5,10 +5,11 @@ description: Te contamos las nuevas funcionalidades de nuestro conector para Son
 date: '2023-11-02T08:00:00Z'
 author: Belén Casanovas
 categories:
+
 - sonarqube
-- sonarcloud
-- jira
-- marketplace
+- calidad
+- devops
+- atlassian
 
 
 cover: /img/posts/2023-11-02-sonarqube-sonarcloud-connector-jira-server-data-center-2-29.png

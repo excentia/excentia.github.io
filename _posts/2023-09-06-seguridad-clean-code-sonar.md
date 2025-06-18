@@ -7,10 +7,9 @@ date: '2023-09-06T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- sonarcloud
-- SATS
+- calidad
+- devops
 
 cover: /img/posts/2023-09-06-seguridad-clean-code-sonar.png
 

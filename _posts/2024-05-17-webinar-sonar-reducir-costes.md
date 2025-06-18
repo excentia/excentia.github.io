@@ -6,11 +6,9 @@ date: '2024-05-17T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- eventos
-- webinar
 - sonarqube
-- sonarcloud
-- sonarlint
+- calidad
+- devops
 
 cover: img/posts/2024-05-17-webinar-sonar-reducir-costes.png
 

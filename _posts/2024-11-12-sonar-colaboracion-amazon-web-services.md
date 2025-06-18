@@ -6,9 +6,9 @@ date: '2024-11-12T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- aws
+- calidad
+- devops
 
 
 cover: img/posts/2024-11-12-sonar-colaboracion-amazon-web-services.png

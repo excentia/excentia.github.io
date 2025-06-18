@@ -5,10 +5,10 @@ description: Ahora puedes crear reportes breakdown, summary y rating con esta nu
 date: '2024-01-03T08:00:00Z'
 author: Belén Casanovas
 categories:
+
 - sonarqube
-- sonarcloud
-- confluence
-- marketplace
+- calidad
+- devops
 
 
 cover: img/posts/2024-01-03-sonarqube-sonarcloud-connector-confluence-cloud-1-23.png

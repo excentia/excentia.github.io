@@ -6,9 +6,9 @@ date: '2025-05-30T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonarqube server
-- sonarqube advanced security
-- IA
+- sonarqube
+- calidad
+- devops
 
 
 cover: img/posts/2025-05-30-sonarqube-advanced-security.png

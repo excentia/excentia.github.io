@@ -6,8 +6,9 @@ date: '2025-05-01T08:04:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-05-01-que-es-modo-mqr-sonarqube.png
 

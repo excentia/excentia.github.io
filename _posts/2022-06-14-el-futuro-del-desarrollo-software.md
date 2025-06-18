@@ -7,8 +7,9 @@ date: '2022-06-14T08:00:00Z'
 author: Marisa Martín<br><br>(artículo original de Robert Krohn)
 categories:
 
-- productos
-- atlassian
+- sonarqube
+- calidad
+- devops
 
 cover: /img/posts/2022-06-14-el-futuro-del-desarrollo-software.png
 

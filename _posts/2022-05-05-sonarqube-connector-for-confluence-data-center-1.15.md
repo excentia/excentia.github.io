@@ -6,9 +6,11 @@ description: Nueva macro para seguimiento de hotspots de seguridad y evolución 
 date: '2022-05-05T08:00:00Z'
 author: Marisa Martín
 categories: 
-- productos
-- atlassian
+
 - sonarqube
+- calidad
+- devops
+- atlassian
 
 cover: /img/posts/2022-05-05-sonarqube-connector-for-confluence-data-center-1.15.png
 

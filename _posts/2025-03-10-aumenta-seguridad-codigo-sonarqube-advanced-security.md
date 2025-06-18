@@ -6,7 +6,8 @@ author: Belén Casanovas
 categories:
 
 - sonarqube
-- sonar
+- calidad
+- devops
 
 
 cover: img/posts/2025-03-10-aumenta-seguridad-codigo-sonarqube-advanced-security.png

@@ -6,8 +6,9 @@ date: '2025-01-06T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-01-06-diferencias-issues-security-hotspot.png
 

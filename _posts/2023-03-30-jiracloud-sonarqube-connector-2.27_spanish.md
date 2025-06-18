@@ -6,9 +6,11 @@ description: ¡Ahora con inteligencia artificial!
 date: '2023-03-30T08:00:00Z'
 author: Juanvi Bolufer
 categories:
-- productos
+
+- sonarqube
+- calidad
+- devops
 - atlassian
-- apps
 
 cover: /img/posts/2023-03-30-jiracloud-sonarqube-connector-2.27-cover.png
 

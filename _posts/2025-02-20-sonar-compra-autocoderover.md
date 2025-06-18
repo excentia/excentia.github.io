@@ -6,9 +6,9 @@ date: '2025-02-20T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
 - sonarqube
-- IA
+- calidad
+- devops
 
 
 cover: img/posts/2025-02-20-sonar-compra-autocoderover.png

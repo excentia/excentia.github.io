@@ -7,8 +7,9 @@ date: '2022-06-21T08:00:00Z'
 author: Sonsoles Cabrera<br><br>(white paper original G. Ann Campbell)
 categories:
 
-- productos
-- sonarsource
+- sonarqube
+- calidad
+- devops
 
 cover: /img/posts/2022-06-21-complejidad-cognitiva.jpg
 

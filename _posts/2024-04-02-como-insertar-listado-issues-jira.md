@@ -6,8 +6,9 @@ date: '2024-04-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- tutorial
-- jira
+- sonarqube
+- calidad
+- devops
 - atlassian
 
 

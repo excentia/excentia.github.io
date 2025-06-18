@@ -6,9 +6,10 @@ description: Abrimos las inscripciones para los cursos de SonarQube para usuario
 date: '2023-07-11T08:00:00Z'
 author: Belén Casanovas
 categories:
-- formacion
-- sonar
+
 - sonarqube
+- calidad
+- devops
 
 cover: /img/posts/2023-07-11-fechas-escuela-excentia-2023.jpg
 

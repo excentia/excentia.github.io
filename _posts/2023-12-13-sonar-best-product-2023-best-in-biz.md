@@ -5,8 +5,10 @@ description: Nuevo renocimiento para la gama de productos de Sonar. ¡Te lo cont
 date: '2023-12-13T08:00:00Z'
 author: Belén Casanovas
 categories:
-- premio
+
 - sonarqube
+- calidad
+- devops
 
 
 cover: /img/posts/2023-12-13-sonar-best-product-2023-best-in-biz.png

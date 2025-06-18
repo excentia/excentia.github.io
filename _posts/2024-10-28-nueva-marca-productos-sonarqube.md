@@ -7,7 +7,8 @@ author: Belén Casanovas
 categories:
 
 - sonarqube
-- sonar
+- calidad
+- devops
 
 
 cover: img/posts/2024-10-28-nueva-marca-productos-sonarqube.png

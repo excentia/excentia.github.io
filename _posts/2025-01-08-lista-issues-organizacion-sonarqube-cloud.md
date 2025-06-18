@@ -6,9 +6,9 @@ date: '2025-01-08T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonar
-- sonarqube cloud
-- sonarcloud
+- sonarqube
+- calidad
+- devops
 
 cover: img/posts/2025-01-08-lista-issues-organizacion-sonarqube-cloud.png
 

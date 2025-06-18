@@ -6,8 +6,9 @@ date: '2024-12-10T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- atlassian
-- jira cloud
+- sonarqube
+- calidad
+- devops
 
 
 cover: img/posts/2024-12-10-ponencia-sonarcloud-enterprise-ia.png

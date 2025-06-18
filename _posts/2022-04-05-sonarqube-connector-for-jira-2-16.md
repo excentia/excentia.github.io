@@ -5,10 +5,12 @@ description: ¡Ahora con evolución temporal para las métricas principales!
 date: '2022-04-05T08:00:00.000+01:00'
 author: Marisa Martín
 categories: 
-- productos
+
 - sonarqube
+- calidad
+- devops
 - atlassian
-- 
+
 cover: /img/posts/2022-04-05-sonarqube-connector-for-jira-2-16.png
 modified_time: '2022-03-31T08:00:00.000+01:00'
 ---
