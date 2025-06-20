@@ -32,6 +32,6 @@ Con esta funcionalidad se pueden generar informes filtrados de control horario, 
 
 <h2>Cómo obtener la nueva versión</h2>
 
-Accede a la sección **Manage apps** y dirígete a la app **Work Day Control** y pulsa el botón de **actualizar**.
+Accede a la sección **Manage apps** o **Gestiona tus aplicaciones**  y dirígete a la app **Work Day Control** y pulsa el botón de **actualizar**.
 
 No olvides que puedes contactar con [nuestro equipo aquí](/contacto){:target="_blank"} para resolver tus dudas o consultas. ¡Nos leemos en el siguiente artículo!
