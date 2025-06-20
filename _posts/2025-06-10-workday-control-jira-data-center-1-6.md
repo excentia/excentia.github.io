@@ -19,13 +19,13 @@ El equipo de desarrollo de excentia ha lanzado una nueva versión del **Work Day
 
 La **versión 1.6** de Work Day Control es completamente compatible con **Jira Data Center 10.6**, la última versión estable de la plataforma de **Atlassian**. Esto asegura que las organizaciones que han actualizado Jira o están en proceso de hacerlo puedan seguir utilizando la app sin problemas de compatibilidad o rendimiento.
 
-Con esta actualización, los administradores podrán **integrar Work Day Control** de forma segura en entornos con **Jira Data Center 10.6**, garantizando el cumplimiento normativo y la continuidad de las operaciones.
+Con esta actualización, los administradores podrán **integrar el Work Day Control** de forma segura en entornos con **Jira Data Center 10.6**, garantizando el cumplimiento normativo y la continuidad de las operaciones.
 
 <h2>Nueva funcionalidad:exportación a XLS por usuarios seleccionados</h2>
 
-Esta versión incluye una nueva funcionalidad **avanzada para la exportación de datos**. Con la versión 1.6 podrás exportar los registros de tiempo de los **usuarios seleccionados** a un archivo en formato **.xls**, fácilmente integrable en herramientas externas como Excel o plataformas de business intelligence (BI).
+Esta versión incluye una nueva funcionalidad **avanzada para la exportación de datos**. Con la versión 1.6 podrás exportar los registros de tiempo de los **usuarios seleccionados** a un archivo en formato **.xls**, para poder abrirlo en herramientas externas como Excel.
 
-Con esta funcionalidad se pueden generar informes personalizados de control horario, adaptados a las necesidades de cada equipo o departamento.
+Con esta funcionalidad se pueden generar informes filtrados de control horario, adaptados a las necesidades de cada equipo o departamento.
 
 <img width="90%" src="/img/atlassian-addons\workday-control-jira-data-center-export.png" alt="Export data Work Day Control">
 <br>
