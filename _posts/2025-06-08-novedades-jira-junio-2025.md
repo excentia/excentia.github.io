@@ -13,12 +13,14 @@ cover: img/posts/2025-06-08-novedades-jira-junio-2025.png
 
 ---
 
-El equipo de Atlassian sigue trabajando para añadir **nuevas funcionalidades en Jira**. En los últimos meses, se han lanzado nuevas funcionalidades que permiten sacar aún más partido de Jira: desde plantillas personalizadas de proyectos para estandarizar procesos, hasta integraciones mejoradas con Confluence y Gmail, y potentes herramientas como el Atlassian Command Line Interface (ACLI). Desde excentia, como **Gold Partners de Atlassian** te resumimos en este artículo las principales funcionalidades que se han lanzado en los últimos meses. 
+En este artículo te contamos las últimas funcionalidades de Jira lanzadas en junio de 2025: plantillas personalizadas, integración con Gmail, nuevas opciones en Confluence y el potente Atlassian Command Line Interface (ACLI).
 
 
-<h2>Plantillas personalizadas de proyectos en Jira Enterprise</h2>
+<h2>Plantillas personalizadas en Jira Enterprise</h2>
 
 Si eres administrador de una **instancia de Jira Enterprise**, podrás crear plantillas personalizadas que reflejen cómo usan Jira tus equipos y **ayudar a escalar los sistemas de trabajo** únicos en toda la organización. Por otro lado, **Atlassian** también ha lanzado una nueva API de creación de proyectos que permite la personalización completa de proyectos **mediante una única llamada a la API**.
+
+<h3>Ventajas principales</h3>
 
 A continuación podrás conocer los beneficios de trabajar con plantillas personalizadas:
 
@@ -31,12 +33,12 @@ A continuación podrás conocer los beneficios de trabajar con plantillas person
 - Impulsar formas de trabajo diferenciadas a gran escala. <br>
 
 
-En la siguiente imagen puedes ver la pantalla inicial de creación de plantillas personalizadas: 
+En la siguiente imagen se muestra la pantalla inicial para crear plantillas personalizadas:
 
 <img width="90%" src="/img/atlassian-products/plantillas-personalizadas-jira.png" alt="Plantillas personalizadas de proyectos en Jira">
 <br>
 
-<h2>Conecta tus equipos con tus proyectos de Jira y Confluence</h2>
+<h2>Conexión de equipos en Jira y Confluence</h2>
 
 Esta nueva funcionalidad permite vincular el trabajo de los equipos en un solo lugar, facilita la búsqueda de proyectos y espacios relacionados, e identifica fácilmente a los responsables y permite navegar entre perfiles de equipo de forma rápida y sencilla.
 
@@ -44,7 +46,7 @@ Esta nueva funcionalidad permite vincular el trabajo de los equipos en un solo l
 
 - **Identificar otros equipos responsables de diferentes trabajos**: Encuentra fácilmente el equipo asociado dentro de un proyecto de Jira o espacio de Confluence y navega sin problemas a su perfil para obtener más información. <br> 
 
-Y, a continuación, te respondemos a algunas preguntas: 
+<h3>Preguntas frecuentes</h3>
 
 **¿Puedes conectar tu equipo directamente desde el proyecto de Jira o el espacio de Confluence?** Por ahora, solo puedes conectar un proyecto de Jira o un espacio de Confluence desde el perfil del equipo.  <br>
 
@@ -60,6 +62,8 @@ En la siguiente imagen puedes ver un ejemplo de cómo es este nuevo espacio en J
 <h2>Atlassian Command Line Interface (ACLI)</h2>
 
 Atlassian Command Line Interface, en adelante ACLI, es una herramienta de línea de comandos que te permite interactuar utilizando comandos y scripts basados en texto para completar tareas. Está incluida en **todos los planes de Jira** y ofrece velocidad y precisión para operar de manera eficiente a gran escala.
+
+<h3>Beneficios destacados</h3>
 
 En concreto, con ACLI podrás obtener los siguientes beneficios:
 
