@@ -9,7 +9,7 @@ categories:
 - eventos
 
 
-cover: /img/posts/2023-06-19-antonio-hugo-evento-pam23.png"
+cover: /img/posts/2023-06-19-antonio-hugo-evento-pam23.png
 
 ---
 
