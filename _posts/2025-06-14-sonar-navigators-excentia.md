@@ -14,7 +14,7 @@ cover: img/posts/2025-06-14-sonar-navigators-excentia.png
 
 ---
 
-¡En excentia estamos de enhorabuena! El compromiso y la especialización de nuestro equipo han vuelto a ser reconocidos por Sonar. Tras el nombramiento de **Antonio Calero** como **miembro fundador** del programa Sonar Navigators, ahora son Mario, María José y Belén quienes se unen a este prestigioso grupo de expertos, consolidando aún más a excentia como **Gold Partner de SonarSource** y referente en calidad y seguridad del software.
+¡En excentia estamos de enhorabuena! El compromiso y la especialización de nuestro equipo han sido de nuevo reconocidos por Sonar. Tras el nombramiento de **Antonio Calero** como **miembro fundador** del programa Sonar Navigators, ahora son Mario, María José y Belén quienes se unen a este prestigioso grupo de expertos, consolidando aún más a excentia como **Gold Partner de SonarSource** y referente en calidad y seguridad del software.
 
 <h2>¿Qué es el programa Sonar Navigators?</h2>
 
@@ -39,11 +39,11 @@ Los Sonar Navigators:
 
 <h2>Mario y María José: Sonar Bug Hunters</h2>
 
-**Mario y Maríaa José**, Sonar Bug Hunters en excentia, han sido reconocidos como Sonar Navigators gracias a su labor en la detección de incidencias y aportación de mejoras a las herramientas de Sonar. Su participación activa en la comunidad y su implicación en el **perfeccionamiento continuo de productos como SonarQube Server y SonarQube Cloud** les han hecho merecedores de esta distinción. Además, hay que recordar que Maríaa José ya fue nombrada **Community Hero** de la Comunidad de Sonar gracias a su labor proactiva en ayudar a resolver problemas de los usuarios. 
+**Mario y María José**, Sonar Bug Hunters en excentia, han sido reconocidos como Sonar Navigators gracias a su labor en la detección de incidencias y aportación de mejoras a las herramientas de Sonar. Su participación activa en la comunidad y su implicación en el **perfeccionamiento continuo de productos tales como SonarQube Server y SonarQube Cloud** les han hecho merecedores de esta distinción. Además, hay que recordar que María José ya fue nombrada **Community Hero** de la Comunidad de Sonar gracias a su labor proactiva en ayudar a resolver problemas de los usuarios. 
 
 <h2>Belén: Sonar Navigator - Content Creator</h2>
 
-Una servidora, se incorpora al programa de Sonar Navigator como **Content Creator**, reconociendo mi trabajo en la creación de contenido calidad como artículos y videotutoriales. De esta forma, desde excentia creamos contenido de valor que ayuda a acercar las mejores prácticas de calidad y seguridad de código a organizaciones y desarrolladores.
+Una servidora se incorpora al programa gide Sonar Navigator como **Content Creator**, reconociendo mi trabajo en la creación de contenido de calidad como artículos y videotutoriales. De esta forma, desde excentia creamos contenido de valor que ayuda a acercar las mejores prácticas de calidad y seguridad de código a organizaciones y desarrolladores.
 
 <h2>¿Qué significa para excentia?</h2>
 
@@ -63,5 +63,5 @@ Estos nuevos reconocimientos refuerzan el compromiso de excentia con la **excele
 
 En [este artículo](https://www.excentia.es/antonio-calero-nombrado-sonar-navigator){:target="_blank"} te dejamos el reconocimiento de Antonio Calero, como miembro fundador del programa Sonar Navigator. 
 
-En excentia seguimos trabajando para ofrecer soluciones de calidad y valor añadido a quienes confían en nosotros. Asi que si tienes dudas o quieres empezar a utilizar algunas de las soluciones de SonarQube, no dudes en ponerte en contacto con nuestro equipo a través de [este formulario](/contacto){:target="_blank"}. 
+En excentia seguimos trabajando para ofrecer soluciones de calidad y valor añadido a quienes confían en nosotros. Así que, si tienes dudas o quieres empezar a utilizar algunas de las soluciones de SonarQube, no dudes en ponerte en contacto con nuestro equipo a través de [este formulario](/contacto){:target="_blank"}. 
 
