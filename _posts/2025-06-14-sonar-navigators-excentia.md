@@ -43,7 +43,7 @@ Los Sonar Navigators:
 
 <h2>Belén: Sonar Navigator - Content Creator</h2>
 
-Una servidora se incorpora al programa de Sonar Navigator como **Content Creator**, reconociendo mi trabajo en la creación de contenido de calidad como artículos y videotutoriales. De esta forma, desde excentia creamos contenido de valor que ayuda a acercar las mejores prácticas de calidad y seguridad de código a organizaciones y desarrolladores.
+Una servidora se incorpora al programa gide Sonar Navigator como **Content Creator**, reconociendo mi trabajo en la creación de contenido de calidad como artículos y videotutoriales. De esta forma, desde excentia creamos contenido de valor que ayuda a acercar las mejores prácticas de calidad y seguridad de código a organizaciones y desarrolladores.
 
 <h2>¿Qué significa para excentia?</h2>
 
