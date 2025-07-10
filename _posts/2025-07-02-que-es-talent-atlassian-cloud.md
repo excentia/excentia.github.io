@@ -13,11 +13,11 @@ cover: img/posts/2025-07-02-que-es-talent-atlassian-cloud.png
 
 ---
 
-¿Te imaginas poder **alinear fácilmente el talentos con las prioridades estratégicas** de tu empresa? Con Atlassian Talent, ahora es posible. Esta nueva solución en la nube de Atlassian está diseñada para ayudarte a planificar, gestionar y optimizar tus equipos de forma ágil y visual. Así que en este artículo te voy a contar en qué consiste Talent, sus características, beneficios y casos de uso. 
+¿Te imaginas poder **alinear fácilmente el talento con las prioridades estratégicas** de tu empresa? Con Atlassian Talent, ahora es posible. Esta nueva solución en la nube de Atlassian está diseñada para ayudarte a planificar, gestionar y optimizar tus equipos de forma ágil y visual. Así que en este artículo te voy a contar en qué consiste Talent, sus características, beneficios y casos de uso. 
 
 <h2>¿Qué es Talent?</h2>
 
-Atlassian Talent es una nueva solución de planificación de fuerza laboral **incluida en la Strategy Collection de Atlassian**, que permite a las organizaciones gestionar, alinear y optimizar sus equipos en función de sus objetivos estratégicos. Gracias a Talent, es posible tener una visión clara de las habilidades disponibles, las personas implicadas en cada proyecto y los riesgos relacionados con la asignación de talento.
+Atlassian Talent es una nueva solución de planificación del personal **incluida en la Strategy Collection de Atlassian**, que permite a las organizaciones gestionar, alinear y optimizar sus equipos en función de sus objetivos estratégicos. Gracias a Talent, es posible tener una visión clara de las habilidades disponibles, las personas implicadas en cada proyecto y los riesgos relacionados con la asignación de talento.
 
 <img src="/img/atlassian-products/dashboard-talent-atlassian.gif" alt="Interfaz de Atlassian Talent para planificación de equipos" style="margin: 20px auto; display: block; max-width: 90%;">
 
