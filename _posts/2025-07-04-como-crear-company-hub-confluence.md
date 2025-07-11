@@ -13,7 +13,7 @@ cover: img/posts/2025-07-04-como-crear-company-hub-confluence.png
 
 ---
 
-¿Necesitas un espacio para que tu equipo acceda a toda la información interna de forma rápida y organizada? Confluence ahora incluye Company Hub, una funcionalidad que te permite **compartir la información de forma interna**. Es un espacio personalizable que **centraliza la información y facilita el acceso** a los empleados de información clave de la empresa. Esta solución te permite agilizar la comunicación de tu organización. Así que en este artículo te vamos a explicar en **qué consiste esta funcionalidad** y cómo puedes **crear un espacio de comunicación** y acceso a recursos internos. 
+¿Necesitas un espacio para que tu equipo acceda a toda la información interna de forma rápida y organizada? Confluence ahora incluye Company Hub, una funcionalidad que te permite **compartir la información de forma interna**. Es un espacio personalizable para los empleados que **facilita el acceso y centraliza la información clave de la empresa**. Esta solución te permite agilizar la comunicación de tu organización. Así que en este artículo te vamos a explicar en **qué consiste esta funcionalidad** y cómo puedes **crear un espacio de comunicación** y acceso a recursos internos. 
 
 
 <h2>¿Qué es Company Hub en Confluence?</h2>
