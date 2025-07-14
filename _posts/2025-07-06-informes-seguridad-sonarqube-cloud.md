@@ -43,6 +43,6 @@ En este artículo te explicamos **cómo puedes descargar un informe de seguridad
 </div>
 <br><br>
 
-¿Quieres conocer todo lo que ofrece la edición Enterprise de SonarQube Cloud? Descarga [nuestra guía gratuita](/guias-sonarqube) con todas las funcionalidades y descubre cómo sacarle el máximo partido:   
+¿Quieres conocer todo lo que ofrece la edición Enterprise de SonarQube Cloud? Descarga [nuestra guía gratuita](/guias-sonarqube){:target="_blank"} con todas las funcionalidades y descubre cómo sacarle el máximo partido. 
 
 
