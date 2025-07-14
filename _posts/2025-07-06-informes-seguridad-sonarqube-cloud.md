@@ -36,7 +36,7 @@ En este artículo te explicamos **cómo puedes descargar un informe de seguridad
 
  <h2>¿Cómo utilizar los informes de seguridad en SonarQube Cloud?</h2>
 
- Simplemente tendrás que acceder al proyecto con el que estés trabajando y dirigirte a la **pestaña Security Reports**. Ahí, verás la opción para descargar el informe en la parte superior derecha con un botón. En la siguiente imágen puedes ver dónde se encuentra esta funcionalidad:
+ Simplemente tendrás que acceder al proyecto con el que estés trabajando y dirigirte a la **pestaña Security Reports**. Ahí, verás la opción para descargar el informe en la parte superior derecha con un botón. En la siguiente imagen puedes ver dónde se encuentra esta funcionalidad:
 
 <div style="text-align: center;">
 <img src="/img/sonarsource-products/sonarqubecloud-informes-seguridad.jpg" alt="Security Reports en SonarQube Cloud" width="600">
