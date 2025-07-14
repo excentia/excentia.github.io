@@ -23,7 +23,7 @@ En este artículo te explicamos **cómo puedes descargar un informe de seguridad
 
 - **Informes de seguridad en PDF descargables**: Genera un informe de seguridad en PDF detallado para cualquier proyecto, con el estado general de su seguridad. <br>
 
-- **Personalización por estándar de seguridad**: Puedes personalizar el informe seleccionando los estándares de seguridad que quieres incluir, como Sonar, OWASP Top 10 2021, CWE, entre otros. <br>
+- **Personalización por estándar de seguridad**: Puedes personalizar el informe seleccionando los estándares de seguridad que quieres incluir como OWASP Top 10 2021, CWE, entre otros. <br>
 
 - **Información procesable**: La plantilla del informe PDF destaca la información más relevante según el feedback de nuestros usuarios, incluyendo:
 

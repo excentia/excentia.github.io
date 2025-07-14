@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El estado del código: Informes sobre la calidad del código de Sonar'
-description: Anirban Chatterjee escríbe este post para Sonar sobre el lanzamiento de una serie de informes que realiza Sonar sobre la calidad del código
+description: Anirban Chatterjee escríbe este post sobre el lanzamiento de una serie de informes que realiza Sonar sobre la calidad del código
 date: '2025-07-08T08:00:00Z'
 author: Anirban Chatterjee
 categories:
@@ -22,7 +22,7 @@ Hoy lanzamos "The State of Code", una **nueva serie de informes** en varias entr
 
 - Más de 7.900 millones de líneas de código. <br>
 
-- Código de más de 970.000 desarrolladores de más de 40.000 organizaciones. <br>
+- Código de más de 970.000 desarrolladores de 40.000 organizaciones. <br>
 
 - Análisis de los lenguajes Java, JavaScript, TypeScript, Python, C#, C++ y PHP. <br>
 
@@ -62,7 +62,7 @@ Un ejemplo reciente fue el **apagón de Google Cloud** en junio de 2025. Un camb
 
 A medida que los **asistentes de IA** generan cada vez más código, la calidad del software existente cobra aún más relevancia, ya que este código sirve como base para entrenar a esos sistemas. Corregir estos errores comunes no solo es importante para la estabilidad actual, sino también para el futuro del desarrollo de software.
 
-Y esto es solo el principio. [Descarga](/pdf/sonar/whitepaper/the-state-of-code-reliability.pdf) el informe completo The State of Code: Reliability y descubre:
+Y esto es solo el principio. [Descarga](/pdf/sonar/whitepaper/the-state-of-code-reliability.pdf) el informe completo "The State of Code: Reliability" y descubre:
 
 - El bug crítico más común.
 
