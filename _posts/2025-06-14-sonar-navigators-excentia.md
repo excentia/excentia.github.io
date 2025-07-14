@@ -63,5 +63,7 @@ Estos nuevos reconocimientos refuerzan el compromiso de excentia con la **excele
 
 En [este artículo](https://www.excentia.es/antonio-calero-nombrado-sonar-navigator){:target="_blank"} te dejamos el reconocimiento de Antonio Calero, como miembro fundador del programa Sonar Navigator. 
 
+Y en este enlace puedes consultar a todos los miembros del programa [Sonar Navigators](https://community.sonarsource.com/pub/navigators){:target="_blank"}
+
 En excentia seguimos trabajando para ofrecer soluciones de calidad y valor añadido a quienes confían en nosotros. Así que, si tienes dudas o quieres empezar a utilizar algunas de las soluciones de SonarQube, no dudes en ponerte en contacto con nuestro equipo a través de [este formulario](/contacto){:target="_blank"}. 
 
