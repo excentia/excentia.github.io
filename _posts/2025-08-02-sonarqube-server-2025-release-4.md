@@ -96,7 +96,7 @@ Actualización disponible para las siguientes ediciones: **Developer, Enterprise
 
 **Análisis más rápido en C/C++**
 <br>
-Sonar ha mejorado significativamente la **velocidad de análisis de C y C++** con un nuevo mecanismo de almacenamiento en caché de ejecución simbólica (SE) basado en funciones. Esta mejora está diseñada para reducir drásticamente los tiempos de reanálisis, especialmente para cambios menores en archivos de encabezado muy utilizados o unidades de compilación grandes. Además, Sonar también confirma que reduce en un 33% en el tiempo medio de análisis para las pull request de C/C++.
+Sonar ha mejorado significativamente la **velocidad de análisis de C y C++** con un nuevo mecanismo de almacenamiento en caché de ejecución simbólica (SE) basado en funciones. Esta mejora está diseñada para reducir drásticamente los tiempos de reanálisis, especialmente para cambios menores en header files muy utilizados o unidades de compilación grandes. Además, Sonar también confirma que reduce en un 33% en el tiempo medio de análisis para las pull request de C/C++.
 
 **Compatibilidad con Java 23 y Java 24 y Dart 3.8**
 <br>
