@@ -65,7 +65,7 @@ Cuando solo conoces algunas de las palabras que contiene el contenido al que des
 
 - **NOT**: Para buscar contenido que tenga un término pero no otro, utiliza el operador NOT. Por ejemplo: vacaciones NOT permisos. Esta búsqueda te dará resultados de contenido que tenga la palabra vacaciones y que no tenga la palabra permisos. 
 
-- **Búsqueda de grupo**: Para hacer una búsqueda más complicada puedes utilizar los paréntesis y utilizar más de un operador. Por ejemplo: (vacaciones OR permisos) AND festivos. 
+- **Búsqueda de grupo**: Para hacer una búsqueda más complicada puedes utilizar los paréntesis y utilizar más de un operador. Por ejemplo si buscas (vacaciones OR permisos) AND festivos te devolverá el contenido que incluya la palabra vacaciones o permisos y la palabra festivos. 
 
 <h2>Busca palabras clave utilizando comodines</h2>
 
@@ -75,7 +75,7 @@ Los comodines son signos que te permiten ampliar la búsqueda si no tienes clara
 
 - Para reemplazar más de un carácter, utiliza el símbolo * . Por ejemplo, si escribes regla* te dará resultados como reglas o reglamento.  <br>
 
-- Puedes utilizar estos dos comodines conjuntamente. Por ejemplo, si buscas **p*r?** te dará resultados como parar o picar, pero no te dará resultados como por ejemplo paraguas.  <br>
+- Puedes utilizar estos dos comodines conjuntamente. Por ejemplo, si buscas **p*r?** te dará resultados como para o pera, pero no te dará resultados como por ejemplo paraguas.  <br>
 
 <h3>Consejos extra para encontrar más rápido en el futuro</h3>
 
@@ -88,7 +88,6 @@ A continuación, te dejo **algunas claves** que tienes que tener en cuenta a la 
 - Organiza los espacios por tema (marketing, rrhh, operaciones, etc.). <br>
 
 - Añade resúmenes claros en cada página para que salgan en snippets. <br>
-
 
 Saber buscar en Confluence es clave para no perder tiempo. Con estos trucos podrás localizar páginas, adjuntos y manuales en segundos, incluso en instancias enormes. 
 

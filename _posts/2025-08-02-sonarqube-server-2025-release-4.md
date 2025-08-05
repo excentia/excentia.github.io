@@ -28,9 +28,9 @@ Si trabajas en DevSecOps, lideras un equipo de desarrollo o buscas cumplir está
 
 - Mayor cobertura y reglas MISRA C++:2023: cumplimiento acelerado en IDEs. <br>
 
-- Análisis más rápido de C/C++: reducción del 33 % en tiempos de reanálisis. <br>
+- Análisis más rápido de C/C++: reducción del 33% en tiempos de análisis de pull request. <br>
 
-- Compatibilidad con Java 23/24 y Dart 3.8: soporte para nuevas características del lenguaje. <br>
+- Compatibilidad con Java 23 y Java 24 y Dart 3.8: soporte para nuevas características del lenguaje. <br>
 
 <h2>Seguridad reforzada en el núcleo</h2>
 
@@ -96,10 +96,9 @@ Actualización disponible para las siguientes ediciones: **Developer, Enterprise
 
 **Análisis más rápido en C/C++**
 <br>
+Sonar ha mejorado significativamente la **velocidad de análisis de C y C++** con un nuevo mecanismo de almacenamiento en caché de ejecución simbólica (SE) basado en funciones. Esta mejora está diseñada para reducir drásticamente los tiempos de reanálisis, especialmente para cambios menores en archivos de encabezado muy utilizados o unidades de compilación grandes. Además, Sonar también confirma que reduce en un 33% en el tiempo medio de análisis para las pull request de C/C++.
 
-Sonar ha mejorado significativamente la **velocidad de análisis de C y C++** con un nuevo mecanismo de almacenamiento en caché de ejecución simbólica (SE) basado en funciones. Esta mejora está diseñada para reducir drásticamente los tiempos de reanálisis, especialmente para cambios menores en archivos de encabezado muy utilizados o unidades de compilación grandes, y tiene como objetivo una reducción del 33 % en el tiempo medio de análisis para las solicitudes de extracción de C/C++. 
-
-**Compatibilidad con Java 23/24 y Dart 3.8**
+**Compatibilidad con Java 23 y Java 24 y Dart 3.8**
 <br>
 Esta versión incluye **compatibilidad de primer nivel con Dart 3.8**, lo que garantiza la compatibilidad sintáctica total y la aplicación adecuada de las reglas existentes y nuevas, lo que permite a los desarrolladores crear aplicaciones Flutter aprovechando el análisis automatizado. 
 
