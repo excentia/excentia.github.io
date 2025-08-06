@@ -16,7 +16,7 @@ cover: img/posts/2024-02-15-pmo-assessment-and-report-tools-1-1-data-center.jpg
 
 <img width="100%" src="img/posts/2024-02-15-pmo-assessment-and-report-tools-1-1-data-center.jpg" alt="PMO Assessment and Reports for Jira Data Center">
 
-¡PMO Assessment and Reports for Jira Data Center 1.1 ya está aquí! Como **Gold Marketplace Partner de Atlassian** estamos constantemente trabajando para sacar nuevas funcionalidades de nuestras aplicaciones para Jira y Confluence. Por ello, en este artículo, te vamos a contar qué vas a poder hacer ahora con esta app. ¡Empezamos!
+¡PMO Assessment and Reports for Jira Data Center 1.1 ya está aquí! Como **Silver Marketplace Partner de Atlassian** estamos constantemente trabajando para sacar nuevas funcionalidades de nuestras aplicaciones para Jira y Confluence. Por ello, en este artículo, te vamos a contar qué vas a poder hacer ahora con esta app. ¡Empezamos!
 
 Tal y como ya se hizo anteriormente para **Jira Cloud**, ahora la versión para [Data Center](/pmo-assessment-and-reports) también incluye la página de detalle y resumen de la información de tiempo, costes y calidad de los proyectos. En la siguiente imagen puedes ver esta **nueva pantalla**:
 
