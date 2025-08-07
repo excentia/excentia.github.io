@@ -15,7 +15,7 @@ cover: /img/posts/2023-11-11-pmo-assessment-and-reports-jira-cloud-1.2.png
 
 <img width="100%" src="img/posts/2023-11-11-pmo-assessment-and-reports-jira-cloud-1.2.png" alt="Nueva versión de PMO Assessment and Reports for Jira Cloud">
 
-Lanzamos una nueva actualización de nuestra aplicación PMO Assesment and Reports for Jira Cloud: la **versión 1.2**. Como ya sabrás, somos **Gold Marketplace Partner de Atlassian** y, en este artículo, te vamos a contar en qué consiste esta release. 
+Lanzamos una nueva actualización de nuestra aplicación PMO Assesment and Reports for Jira Cloud: la **versión 1.2**. Como ya sabrás, somos **Silver Marketplace Partner de Atlassian** y, en este artículo, te vamos a contar en qué consiste esta release. 
 
 Esta nueva versión de la aplicación **para la edición Jira Cloud** incluye una nueva funcionalidad. Ahora, los usuarios de esta app contarán con una **nueva página de detalle y resumen** de la información relativa al tiempo, costes y calidad de los proyectos registrados, con el objetivo de facilitar la **visualización y comprensión** de la información.
 
