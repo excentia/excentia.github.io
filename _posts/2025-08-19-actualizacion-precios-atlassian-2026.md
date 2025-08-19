@@ -2,7 +2,7 @@
 layout: post
 title: Actualizaciones de precios y paquetes de Atlassian Cloud 2026
 description: Descubre todos los cambios en precios y paquetes de Atlassian Cloud 2026 para Jira, Confluence, Bitbucket y más.
-date: '2025-08-18T08:00:00Z'
+date: '2025-08-19T08:00:00Z'
 author: Belén Casanovas
 categories:
 
