@@ -19,7 +19,7 @@ Si usas Jira, Confluence, Bitbucket o cualquier otra aplicación de Atlassian Cl
 ## Fechas clave de los cambios en Atlassian Cloud
 
 ### Comunicación a los clientes
-Hoy, 19 de agosto, [Atlassian](/atlassian) ha enviado un email informando de los cambios a todos los clientes.
+[Atlassian](/atlassian) ha enviado un email informando de los cambios a todos los clientes.
 
 ### Fecha de entrada en vigor
 Los nuevos precios y paquetes se aplicarán oficialmente el **15 de octubre de 2025**.
@@ -100,7 +100,7 @@ Los ajustes de precios y paquetes de Atlassian Cloud 2026 son significativos, pe
 ## Preguntas frecuentes (FAQ)
 
 1. ¿Cuándo entran en vigor los nuevos precios de Atlassian Cloud?
-El 15 de octubre de 2025, hora del Pacífico.
+El 15 de octubre de 2025.
 
 2. ¿Qué productos tendrán aumento de precio?
 Jira, Confluence, Jira Service Management, Bitbucket, Atlassian Guard, Teamwork Collection y Atlassian Government Cloud.
