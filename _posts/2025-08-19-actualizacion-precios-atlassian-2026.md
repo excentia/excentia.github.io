@@ -19,7 +19,7 @@ Si usas Jira, Confluence, Bitbucket o cualquier otra aplicación de Atlassian Cl
 ## Fechas clave de los cambios en Atlassian Cloud
 
 ### Comunicación a los clientes
-El 19 de agosto, [Atlassian](/atlassian) envió un email informando de los cambios a todos los clientes.
+[Atlassian](/atlassian) ha enviado un email informando de los cambios a todos los clientes.
 
 ### Fecha de entrada en vigor
 Los nuevos precios y paquetes se aplicarán oficialmente el **15 de octubre de 2025**.
