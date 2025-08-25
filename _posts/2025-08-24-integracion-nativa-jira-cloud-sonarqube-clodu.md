@@ -13,7 +13,7 @@ categories:
 - noticia
 
 
-cover: /img/posts/2025-08-24-integracion-nativa-jira-cloud-sonarqube-clodu.png
+cover: /img/posts/2025-08-24-integracion-nativa-jira-cloud-sonarqube-cloud.png
 
 ---
 
@@ -47,11 +47,11 @@ La actividad creada en Jira se rellena automáticamente con toda la información
 
 <h2>Widget de lanzamiento de Jira Cloud en SonarQube Cloud</h2>
 
-Para quienes usan lanzamientos basados en versiones en Jira Cloud, una vez que un proyecto de SonarQube Cloud se conecta a un proyecto de Jira, aparece un nuevo **widget de lanzamiento de Jira**. Incluye una vista rápida y unificada de su disponibilidad para el lanzamiento, mostrando el **número de elementos de trabajo de Jira Cloud** abiertos vinculados a su próxima versión, sin tener que salir de SonarQube Cloud. 
+Para quienes usan lanzamientos basados en versiones en Jira Cloud, una vez que un proyecto de SonarQube Cloud se conecta a un proyecto de Jira, aparece un nuevo **widget de lanzamiento de Jira**. Incluye una vista rápida y unificada de su disponibilidad para el lanzamiento, mostrando el **número de actividades de Jira Cloud** vinculadas a su próxima versión, sin tener que salir de SonarQube Cloud. 
 
 Este widget incluye:
 
-- La cantidad de elementos de trabajo de Jira abiertos vinculados a su primera versión no publicada.  <br>
+- El número de actividades de Jira vinculadas a su primera versión no publicada.  <br>
 
 - La próxima fecha de lanzamiento y el número de versión.  <br>
 
