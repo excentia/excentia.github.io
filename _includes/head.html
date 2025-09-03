@@ -7,7 +7,9 @@
     <!-- Twitter -->
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:image" content="{{ page.cover | site.url }}">
+    <meta name=“twitter:image” content="{{ site.url }}{{ page.cover }}">
+    <meta name=“twitter:card” content="summary_large_image">
+
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
