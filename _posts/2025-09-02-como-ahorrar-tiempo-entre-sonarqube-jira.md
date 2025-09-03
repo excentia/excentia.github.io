@@ -26,7 +26,7 @@ En **excentia** sabemos que los developers quieren pasar más tiempo desarrollan
 
 SonarQube Connector for Jira es una **aplicación que integra** los resultados de análisis de SonarQube Server y SonarQube Cloud dentro de los proyectos de Jira Cloud y Jira Data Center. Esta app, disponible en el [Marketplace de Atlassian](/apps-atlassian-marketplace), permite consultar el estado de calidad de código y Quality Gates sin salir de Jira. Y lo mejor, te permite crear tareas en Jira con solo un clic. ¿Cómo lo hace?
 
-1 - Consultas el listado de issues detectadas por el análisis de SonarQube.   <br> 
+1 - Consulta el listado de reglas incumplidas por el análisis de SonarQube.   <br> 
 
 2 - Te diriges a la regla de la que quieras crear la tarea y clicas sobre el botón + . Fíjate en esta imagen:  <br> 
 
