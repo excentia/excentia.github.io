@@ -10,7 +10,7 @@ categories:
 - cloud
 - IA
 
-cover: img/posts/2025-04-09-novedades-atlassian-cloud-platform-team-25.png
+cover: /img/posts/2025-04-09-novedades-atlassian-cloud-platform-team-25.png
 
 ---
 

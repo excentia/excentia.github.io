@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-01-02-ayudar-falsos-positivos.png
+cover: /img/posts/2024-01-02-ayudar-falsos-positivos.png
 
 ---
 

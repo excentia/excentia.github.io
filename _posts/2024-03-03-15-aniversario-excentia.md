@@ -12,7 +12,7 @@ categories:
 - sonar
 
 
-cover: img/posts/2024-03-03-15-aniversario-excentia.png
+cover: /img/posts/2024-03-03-15-aniversario-excentia.png
 
 ---
 <img width="100%" src="img/posts/2024-03-03-15-aniversario-excentia-white.png" alt="15º aniversario de excentia">

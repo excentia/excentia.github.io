@@ -11,7 +11,7 @@ categories:
 - confluence
 - data center
 
-cover: img/posts/2025-01-14-atlassian-sube-precios-data-center-2025.png
+cover: /img/posts/2025-01-14-atlassian-sube-precios-data-center-2025.png
 
 ---
 

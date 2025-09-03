@@ -10,7 +10,7 @@ categories:
 - atlassian
 - forge
 
-cover: img/posts/2025-05-04-que-es-forge-atlassian.png
+cover: /img/posts/2025-05-04-que-es-forge-atlassian.png
 
 ---
 

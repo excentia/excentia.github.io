@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-08-19-actualizacion-precios-atlassian-2026.png
+cover: /img/posts/2025-08-19-actualizacion-precios-atlassian-2026.png
 
 ---
 

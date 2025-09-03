@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-10-06-que-es-sonar-ai-codefix.png
+cover: /img/posts/2024-10-06-que-es-sonar-ai-codefix.png
 
 ---
 

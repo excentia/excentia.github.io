@@ -10,7 +10,7 @@ categories:
 - jira data center
 - atlassian marketplace
 
-cover: img/posts/2024-02-15-pmo-assessment-and-report-tools-1-1-data-center.jpg
+cover: /img/posts/2024-02-15-pmo-assessment-and-report-tools-1-1-data-center.jpg
 
 ---
 

@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-06-12-workday-control-jira-cloud-2-1.png
+cover: /img/posts/2025-06-12-workday-control-jira-cloud-2-1.png
 
 ---
 

@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-07-08-informes-calidad-codigo-sonar.png
+cover: /img/posts/2025-07-08-informes-calidad-codigo-sonar.png
 
 ---
 

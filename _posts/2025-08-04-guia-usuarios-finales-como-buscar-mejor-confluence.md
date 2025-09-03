@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-08-04-guia-usuarios-finales-como-buscar-mejor-confluence.png
+cover: /img/posts/2025-08-04-guia-usuarios-finales-como-buscar-mejor-confluence.png
 
 ---
 

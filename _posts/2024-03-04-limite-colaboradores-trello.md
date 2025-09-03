@@ -10,7 +10,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-03-04-limite-colaboradores-trello.png
+cover: /img/posts/2024-03-04-limite-colaboradores-trello.png
 
 ---
 <img width="100%" src="img/posts/2024-03-04-limite-colaboradores-trello.png" alt="Diferencias entre Jira Software y Trello">

@@ -10,7 +10,7 @@ categories:
 - sonar
 - aniversario
 
-cover: img/posts/2024-10-25-resumen-evento-15-aniversario-excentia.png
+cover: /img/posts/2024-10-25-resumen-evento-15-aniversario-excentia.png
 
 ---
 

@@ -12,7 +12,7 @@ categories:
 - rovo 
 - IA
 
-cover: img/posts/2025-04-09-rovo-disponible-todos-los-equipos.png
+cover: /img/posts/2025-04-09-rovo-disponible-todos-los-equipos.png
 
 ---
 

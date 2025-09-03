@@ -9,7 +9,7 @@ categories:
 - eventos
 
 
-cover: img/posts/2024-10-03-excentia-patrocinador-vlc-testing-2024.png
+cover: /img/posts/2024-10-03-excentia-patrocinador-vlc-testing-2024.png
 
 ---
 

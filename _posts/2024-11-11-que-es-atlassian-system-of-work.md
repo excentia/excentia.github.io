@@ -9,7 +9,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-11-11-que-es-atlassian-system-of-work.png
+cover: /img/posts/2024-11-11-que-es-atlassian-system-of-work.png
 
 ---
 

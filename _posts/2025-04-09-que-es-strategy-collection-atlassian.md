@@ -12,7 +12,7 @@ categories:
 - rovo 
 - IA
 
-cover: img/posts/2025-04-09-que-es-strategy-collection-atlassian.png
+cover: /img/posts/2025-04-09-que-es-strategy-collection-atlassian.png
 
 ---
 

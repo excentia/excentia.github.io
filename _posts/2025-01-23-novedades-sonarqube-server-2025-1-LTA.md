@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-01-23-novedades-sonarqube-server-2025-1-LTA.png
+cover: /img/posts/2025-01-23-novedades-sonarqube-server-2025-1-LTA.png
 
 ---
 

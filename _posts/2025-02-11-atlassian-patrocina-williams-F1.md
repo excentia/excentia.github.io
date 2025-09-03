@@ -9,7 +9,7 @@ categories:
 - atlassian
 - 
 
-cover: img/posts/2025-02-11-atlassian-patrocina-williams-F1.png
+cover: /img/posts/2025-02-11-atlassian-patrocina-williams-F1.png
 
 ---
 

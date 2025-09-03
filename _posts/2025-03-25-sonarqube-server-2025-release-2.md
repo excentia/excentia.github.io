@@ -11,7 +11,7 @@ categories:
 - devops
 - noticia
 
-cover: img/posts/2025-03-25-sonarqube-server-2025-release-2.png
+cover: /img/posts/2025-03-25-sonarqube-server-2025-release-2.png
 
 ---
 

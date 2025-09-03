@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-07-06-informes-seguridad-sonarqube-cloud.png
+cover: /img/posts/2025-07-06-informes-seguridad-sonarqube-cloud.png
 
 ---
 

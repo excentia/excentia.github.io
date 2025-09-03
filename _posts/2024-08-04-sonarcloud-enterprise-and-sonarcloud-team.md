@@ -11,7 +11,7 @@ categories:
 
 
 
-cover: img/posts/2024-08-04-sonarcloud-enterprise-and-sonarcloud-team.png
+cover: /img/posts/2024-08-04-sonarcloud-enterprise-and-sonarcloud-team.png
 
 ---
 <img width="100%" src="img/posts/2024-08-04-sonarcloud-enterprise-and-sonarcloud-team.png" alt="SonarCloud Enterprise y SonarCloud Team Plan">

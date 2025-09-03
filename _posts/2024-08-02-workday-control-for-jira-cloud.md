@@ -12,7 +12,7 @@ categories:
 
 
 
-cover: img/posts/2024-08-02-workday-control-for-jira-cloud.png
+cover: /img/posts/2024-08-02-workday-control-for-jira-cloud.png
 
 ---
 <img width="100%" src="img/posts/2024-08-02-workday-control-for-jira-cloud.png" alt="WorkDay Control for Jira Cloud">

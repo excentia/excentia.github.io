@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2025-05-30-sonarqube-advanced-security.png
+cover: /img/posts/2025-05-30-sonarqube-advanced-security.png
 
 ---
 

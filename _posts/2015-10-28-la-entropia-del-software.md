@@ -9,7 +9,7 @@ categories:
 - calidad
 - desarrollo
 
-cover: img/posts/2015-10-28-la-entropia-del-software.png
+cover: /img/posts/2015-10-28-la-entropia-del-software.png
 
 ---
 <img width="100%" src="img/posts/2015-10-28-la-entropia-del-software.png" alt="¿Qué es la entropía del software">

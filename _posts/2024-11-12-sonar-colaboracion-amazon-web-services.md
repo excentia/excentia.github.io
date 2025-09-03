@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-11-12-sonar-colaboracion-amazon-web-services.png
+cover: /img/posts/2024-11-12-sonar-colaboracion-amazon-web-services.png
 
 ---
 

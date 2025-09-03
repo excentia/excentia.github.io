@@ -11,7 +11,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-03-12-diferencias-jira-work-management-vs-trello.png
+cover: /img/posts/2024-03-12-diferencias-jira-work-management-vs-trello.png
 
 ---
 <img width="100%" src="img/posts/2024-03-12-diferencias-jira-work-management-vs-trello.png" alt="Diferencias entre Jira Work Management y Trello">

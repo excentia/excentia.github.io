@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-05-01-que-es-modo-mqr-sonarqube.png
+cover: /img/posts/2025-05-01-que-es-modo-mqr-sonarqube.png
 
 ---
 Las soluciones de SonarQube incluyen **dos modos de análisis: el Modo Estándar y el Multi-Quality Rule (Modo MQR)**. En este artículo nos adentramos en la definición de este último modo y te contaremos los diferentes tipos de severidades, issues y su comparación con respecto al modo estándar. 

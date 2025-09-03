@@ -12,7 +12,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-04-02-como-insertar-listado-issues-jira.png
+cover: /img/posts/2024-04-02-como-insertar-listado-issues-jira.png
 
 ---
 <img width="100%" src="img/posts/2024-04-02-como-insertar-listado-issues-jira.png" alt="Diferencias entre Jira Work Management y Trello">

@@ -11,7 +11,7 @@ categories:
 - aniversario
 
 
-cover: img/posts/2024-10-10-novedades-evento-15-aniversario-excentia.png
+cover: /img/posts/2024-10-10-novedades-evento-15-aniversario-excentia.png
 
 ---
 

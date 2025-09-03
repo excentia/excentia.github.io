@@ -9,7 +9,7 @@ categories:
 - atlassian
 - jira
 
-cover: img/posts/2025-01-16-funcionalidades-clave-jira.png
+cover: /img/posts/2025-01-16-funcionalidades-clave-jira.png
 
 ---
 

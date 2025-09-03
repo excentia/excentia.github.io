@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-01-08-lista-issues-organizacion-sonarqube-cloud.png
+cover: /img/posts/2025-01-08-lista-issues-organizacion-sonarqube-cloud.png
 
 ---
 

@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-06-08-novedades-jira-junio-2025.png
+cover: /img/posts/2025-06-08-novedades-jira-junio-2025.png
 
 ---
 

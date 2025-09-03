@@ -9,7 +9,7 @@ categories:
 - atlassian
 - rovo
 
-cover: img/posts/2024-05-01-atlassian-rovo.png
+cover: /img/posts/2024-05-01-atlassian-rovo.png
 
 ---
 

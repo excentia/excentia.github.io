@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-01-03-sonarqube-sonarcloud-connector-confluence-cloud-1-23.png
+cover: /img/posts/2024-01-03-sonarqube-sonarcloud-connector-confluence-cloud-1-23.png
 
 ---
 

@@ -11,7 +11,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-02-19-como-crear-wikis-colaborativas-en-confluence.png
+cover: /img/posts/2024-02-19-como-crear-wikis-colaborativas-en-confluence.png
 
 ---
 

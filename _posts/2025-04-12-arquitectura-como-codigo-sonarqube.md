@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-04-12-arquitectura-como-codigo-sonarqube.png
+cover: /img/posts/2025-04-12-arquitectura-como-codigo-sonarqube.png
 
 ---
 

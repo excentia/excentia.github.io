@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-10-28-nueva-marca-productos-sonarqube.png
+cover: /img/posts/2024-10-28-nueva-marca-productos-sonarqube.png
 
 ---
 

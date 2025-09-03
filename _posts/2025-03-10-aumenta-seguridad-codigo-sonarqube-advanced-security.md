@@ -10,7 +10,7 @@ categories:
 - devops
 
 
-cover: img/posts/2025-03-10-aumenta-seguridad-codigo-sonarqube-advanced-security.png
+cover: /img/posts/2025-03-10-aumenta-seguridad-codigo-sonarqube-advanced-security.png
 
 ---
 

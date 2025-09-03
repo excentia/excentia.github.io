@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2024-11-13-sonarqube-server-finalista-2024.png
+cover: /img/posts/2024-11-13-sonarqube-server-finalista-2024.png
 
 ---
 

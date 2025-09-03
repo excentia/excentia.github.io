@@ -11,7 +11,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-11-02-primeros-pasos-rovo-chat-atlassian.png
+cover: /img/posts/2024-11-02-primeros-pasos-rovo-chat-atlassian.png
 
 ---
 

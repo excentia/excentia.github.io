@@ -8,7 +8,7 @@ categories:
 
 - atlassian
 
-cover: img/posts/2025-05-02-actualizacion-facturacion-cantidad-maxima-atlassian.png
+cover: /img/posts/2025-05-02-actualizacion-facturacion-cantidad-maxima-atlassian.png
 
 ---
 

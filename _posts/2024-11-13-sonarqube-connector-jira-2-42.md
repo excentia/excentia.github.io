@@ -12,7 +12,7 @@ categories:
 - jira data center
 - marketplace
 
-cover: img/posts/2024-11-13-sonarqube-connector-jira-2-42.png
+cover: /img/posts/2024-11-13-sonarqube-connector-jira-2-42.png
 
 ---
 

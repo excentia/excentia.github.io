@@ -12,7 +12,7 @@ categories:
 - release
 
 
-cover: img/posts/2024-04-18-novedades-sonarqube-10-5.png
+cover: /img/posts/2024-04-18-novedades-sonarqube-10-5.png
 
 ---
 <img width="100%" src="img/posts/2024-04-18-novedades-sonarqube-10-5.png" alt="Novedades SonarQube 10.5">

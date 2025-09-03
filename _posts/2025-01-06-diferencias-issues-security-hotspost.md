@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-01-06-diferencias-issues-security-hotspot.png
+cover: /img/posts/2025-01-06-diferencias-issues-security-hotspot.png
 
 ---
 

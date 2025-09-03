@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2025-02-20-sonar-compra-autocoderover.png
+cover: /img/posts/2025-02-20-sonar-compra-autocoderover.png
 
 ---
 

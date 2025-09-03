@@ -9,7 +9,7 @@ categories:
 - eventos
 
 
-cover: img/posts/2024-10-29-excentia-patrocinador-wtm-zaragoza-2024.png
+cover: /img/posts/2024-10-29-excentia-patrocinador-wtm-zaragoza-2024.png
 
 ---
 

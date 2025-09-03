@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-06-14-sonar-navigators-excentia.png
+cover: /img/posts/2025-06-14-sonar-navigators-excentia.png
 
 ---
 

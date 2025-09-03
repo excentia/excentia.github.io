@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-01-02-nueva-nomenclatura-versiones-sonarqube.png
+cover: /img/posts/2025-01-02-nueva-nomenclatura-versiones-sonarqube.png
 
 ---
 
