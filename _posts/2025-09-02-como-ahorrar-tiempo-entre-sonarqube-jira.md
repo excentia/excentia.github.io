@@ -20,7 +20,7 @@ Si eres desarrollador seguro que esta escena te resulta familiar: termina un an�
 
 Pensarás que lo normal es acabar **copiando y pegando** el título de la issue, descripciones, enlaces, líneas de código... una a una. Mientras realizas todo este trabajo manual, aparte de perder tiempo, estás desviando tu foco y pueden haber errores a la hora de copiar esa información. ¡Incluso se pueden generar duplicados!
 
-En **excentia** sabemos que los developers quieren pasar más tiempo desarrollando y menos realizando tareas administrativas. Por eso lanzamos la aplicación **SonarQube Connector for Jira**, una integración que convierte este proceso manual en algo tan sencillo **como un clic**. Detectas una issue en SonarQube, pulsas un botón, y en segundos tienes una tarea perfectamente detallada en Jira, lista para priorizar y asignar. Sin pérdida de contexto y sin duplicados.
+En **excentia** sabemos que los developers quieren pasar más tiempo desarrollando y menos realizando tareas administrativas. Por eso lanzamos la aplicación **SonarQube Connector for Jira**, una integración que convierte este proceso manual en algo tan sencillo **como un clic**. Cuando termina el análisis de SonarQube te aparece la información actualizada en tiempo real desde dentro de Jira, donde puedes pulsar un botón y en segundos tienes una tarea perfectamente detallada, lista para priorizar y asignar. Sin pérdida de contexto y sin duplicados.
 
 <h2>La solución en un clic: SonarQube Connector for Jira</h2>
 
@@ -35,7 +35,7 @@ SonarQube Connector for Jira es una **aplicación que integra** los resultados d
 </div>
 <br>
 
-3 - Se crea la actividad en Jira con toda la información de la issue:   <br> 
+3 - Se crea la actividad en Jira con toda la información de la regla incumplida con los datos de las issues asociadas:   <br> 
 
 - Nombre de la regla incumplida añadido como 'Summary' del asunto de Jira.  <br> 
 
@@ -56,7 +56,7 @@ Aquí tienes un ejemplo de una actividad creada gracias al SonarQube Connector f
 <img src="/img/atlassian-addons/sonarqube-connector-for-jira-issue.png" width="600" alt="Ejemplo de actividad a partir de una issue">
 </div>
 
-Ahora la issue ya está lista para **priorizarla en el backlog o asignarla a un sprint**. 
+Ahora la actividad ya está lista para **priorizarla en el backlog o asignarla a un sprint**. 
 
 
 <h2>¿Qué gana el equipo con esta integración?</h2>
