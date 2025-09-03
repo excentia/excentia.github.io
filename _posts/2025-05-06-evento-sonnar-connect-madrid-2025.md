@@ -11,7 +11,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-05-06-evento-sonnar-connect-madrid-2025.png
+cover: /img/posts/2025-05-06-evento-sonnar-connect-madrid-2025.png
 
 ---
 

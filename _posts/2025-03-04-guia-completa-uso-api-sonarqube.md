@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2025-03-04-guia-completa-uso-api-sonarqube.png
+cover: /img/posts/2025-03-04-guia-completa-uso-api-sonarqube.png
 
 ---
 

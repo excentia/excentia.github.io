@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-08-07-alianza-atlassian-google-cloud.png
+cover: /img/posts/2025-08-07-alianza-atlassian-google-cloud.png
 
 ---
 

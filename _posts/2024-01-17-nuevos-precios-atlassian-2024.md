@@ -9,7 +9,7 @@ categories:
 - server
 - data center
 
-cover: img/posts/2024-01-17-nuevos-precios-atlassian-2024.png
+cover: /img/posts/2024-01-17-nuevos-precios-atlassian-2024.png
 
 ---
 

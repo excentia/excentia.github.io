@@ -12,7 +12,7 @@ categories:
 - noticia
 
 
-cover: img/posts/2025-08-02-sonarqube-server-2025-release-4.png
+cover: /img/posts/2025-08-02-sonarqube-server-2025-release-4.png
 
 ---
 

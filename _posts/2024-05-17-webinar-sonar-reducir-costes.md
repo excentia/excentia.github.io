@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2024-05-17-webinar-sonar-reducir-costes.png
+cover: /img/posts/2024-05-17-webinar-sonar-reducir-costes.png
 
 ---
 

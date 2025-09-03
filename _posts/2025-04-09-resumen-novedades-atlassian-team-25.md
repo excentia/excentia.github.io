@@ -9,7 +9,7 @@ categories:
 - atlassian
 - IA
 
-cover: img/posts/2025-04-09-resumen-novedades-atlassian-team-25.png
+cover: /img/posts/2025-04-09-resumen-novedades-atlassian-team-25.png
 
 ---
 

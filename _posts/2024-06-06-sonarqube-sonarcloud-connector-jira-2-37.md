@@ -11,7 +11,7 @@ categories:
 - devops
 - atlassian
 
-cover: img/posts/2024-06-06-sonarqube-sonarcloud-connector-jira-2-37.png
+cover: /img/posts/2024-06-06-sonarqube-sonarcloud-connector-jira-2-37.png
 
 ---
 

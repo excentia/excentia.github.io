@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-07-04-como-crear-company-hub-confluence.png
+cover: /img/posts/2025-07-04-como-crear-company-hub-confluence.png
 
 ---
 

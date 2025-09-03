@@ -12,7 +12,7 @@ categories:
 - marketplace
 
 
-cover: img/posts/2024-12-12-sonarqube-connector-jira-cloud-2-44.png
+cover: /img/posts/2024-12-12-sonarqube-connector-jira-cloud-2-44.png
 
 ---
 

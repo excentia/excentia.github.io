@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-10-04-confianza-codigo-ia-sonar.png
+cover: /img/posts/2024-10-04-confianza-codigo-ia-sonar.png
 
 ---
 

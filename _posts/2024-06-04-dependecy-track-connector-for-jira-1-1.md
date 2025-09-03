@@ -10,7 +10,7 @@ categories:
 - jira
 - marketplace
 
-cover: img/posts/2024-06-04-dependecy-track-connector-for-jira-1-1.png
+cover: /img/posts/2024-06-04-dependecy-track-connector-for-jira-1-1.png
 
 ---
 

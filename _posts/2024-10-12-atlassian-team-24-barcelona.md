@@ -10,7 +10,7 @@ categories:
 - aniversario
 
 
-cover: img/posts/2024-10-12-atlassian-team-24-barcelona.png
+cover: /img/posts/2024-10-12-atlassian-team-24-barcelona.png
 
 ---
 

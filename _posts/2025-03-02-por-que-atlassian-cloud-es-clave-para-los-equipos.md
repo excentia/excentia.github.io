@@ -11,7 +11,7 @@ categories:
 - IA
 
 
-cover: img/posts/2025-03-02-por-que-atlassian-cloud-es-clave-para-los-equipos.png
+cover: /img/posts/2025-03-02-por-que-atlassian-cloud-es-clave-para-los-equipos.png
 
 ---
 

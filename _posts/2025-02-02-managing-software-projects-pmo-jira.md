@@ -10,7 +10,7 @@ categories:
 - jira
 
 
-cover: img/posts/2025-02-02-managing-software-projects-pmo-jira.png
+cover: /img/posts/2025-02-02-managing-software-projects-pmo-jira.png
 
 ---
 

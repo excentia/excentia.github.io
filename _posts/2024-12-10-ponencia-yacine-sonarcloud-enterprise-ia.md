@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-12-10-ponencia-sonarcloud-enterprise-ia.png
+cover: /img/posts/2024-12-10-ponencia-sonarcloud-enterprise-ia.png
 
 ---
 

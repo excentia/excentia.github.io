@@ -11,7 +11,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2025-03-12-lo-nuevo-de-jira-marzo-2025.png
+cover: /img/posts/2025-03-12-lo-nuevo-de-jira-marzo-2025.png
 
 ---
 

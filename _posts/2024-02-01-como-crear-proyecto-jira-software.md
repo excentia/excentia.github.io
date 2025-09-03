@@ -9,7 +9,7 @@ categories:
 - jira software
 - tutorial
 
-cover: img/posts/2024-02-01-como-crear-proyecto-jira-software.png
+cover: /img/posts/2024-02-01-como-crear-proyecto-jira-software.png
 
 ---
 

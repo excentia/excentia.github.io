@@ -10,7 +10,7 @@ categories:
 - atlassian focus
 
 
-cover: img/posts/2025-03-06-que-es-atlassian-focus.png
+cover: /img/posts/2025-03-06-que-es-atlassian-focus.png
 
 ---
 

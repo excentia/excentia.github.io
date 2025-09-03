@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-10-08-novedades-sonarqube-10-7.png
+cover: /img/posts/2024-10-08-novedades-sonarqube-10-7.png
 
 ---
 

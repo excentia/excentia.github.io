@@ -10,7 +10,7 @@ categories:
 - cloud
 
 
-cover: img/posts/2024-09-17-atlassian-sube-precios-cloud.png
+cover: /img/posts/2024-09-17-atlassian-sube-precios-cloud.png
 
 ---
 

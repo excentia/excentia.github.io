@@ -10,7 +10,7 @@ categories:
 - eventos
 - jira
 
-cover: img/posts/2024-04-29-unificacion-jira-software-jira-work-management.png
+cover: /img/posts/2024-04-29-unificacion-jira-software-jira-work-management.png
 
 ---
 

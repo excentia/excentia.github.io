@@ -9,7 +9,7 @@ categories:
 - atlassian
 - eventos
 
-cover: img/posts/2024-04-28-evento-atlassian-valencia-team-24.png
+cover: /img/posts/2024-04-28-evento-atlassian-valencia-team-24.png
 
 ---
 

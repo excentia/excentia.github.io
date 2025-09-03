@@ -9,7 +9,7 @@ categories:
 - eventos
 
 
-cover: img/posts/2024-11-09-excentia-asiste-wtm-zaragoza-2024.png
+cover: /img/posts/2024-11-09-excentia-asiste-wtm-zaragoza-2024.png
 
 ---
 

@@ -9,7 +9,7 @@ categories:
 - atlassian
 - noticias
 
-cover: img/posts/2025-07-02-que-es-talent-atlassian-cloud.png
+cover: /img/posts/2025-07-02-que-es-talent-atlassian-cloud.png
 
 ---
 

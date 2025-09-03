@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-11-16-nuevo-plan-comercial-sonarqube-cloud.png
+cover: /img/posts/2024-11-16-nuevo-plan-comercial-sonarqube-cloud.png
 
 ---
 

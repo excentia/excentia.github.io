@@ -10,7 +10,7 @@ categories:
 - atlassian
 - eventos
 
-cover: img/posts/2025-05-08-team-25-atlassian-valencia.png
+cover: /img/posts/2025-05-08-team-25-atlassian-valencia.png
 
 ---
 

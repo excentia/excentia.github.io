@@ -10,7 +10,7 @@ categories:
 - calidad
 - devops
 
-cover: img/posts/2025-05-04- antonio-calero-nombrado-sonar-navigator.png
+cover: /img/posts/2025-05-04- antonio-calero-nombrado-sonar-navigator.png
 
 ---
 

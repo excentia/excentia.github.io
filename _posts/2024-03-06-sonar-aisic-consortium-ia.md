@@ -12,7 +12,7 @@ categories:
 
 
 
-cover: img/posts/2024-03-06-sonar-aisic-consortium-ia.png
+cover: /img/posts/2024-03-06-sonar-aisic-consortium-ia.png
 
 ---
 <img width="100%" src="img/posts/2024-03-06-sonar-aisic-consortium-ia.png" alt="Sonar IA AISIC">

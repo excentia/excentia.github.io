@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2024-04-04-garantizar-seguridad-codigo-sonarqube.png
+cover: /img/posts/2024-04-04-garantizar-seguridad-codigo-sonarqube.png
 
 ---
 <img width="100%" src="img/posts/2024-04-04-garantizar-seguridad-codigo-sonarqube.png" alt="Consejos para garantizar la seguridad en el">

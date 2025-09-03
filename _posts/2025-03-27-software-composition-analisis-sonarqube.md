@@ -10,7 +10,7 @@ categories:
 - security
 - sca
 
-cover: img/posts/2025-03-27-software-composition-analisis-sonarqube.png
+cover: /img/posts/2025-03-27-software-composition-analisis-sonarqube.png
 
 ---
 

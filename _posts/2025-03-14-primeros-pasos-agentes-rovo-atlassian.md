@@ -11,7 +11,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2025-03-14-primeros-pasos-agentes-rovo-atlassian.png
+cover: /img/posts/2025-03-14-primeros-pasos-agentes-rovo-atlassian.png
 
 ---
 

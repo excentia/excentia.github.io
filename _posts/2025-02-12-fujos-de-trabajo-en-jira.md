@@ -9,7 +9,7 @@ categories:
 - atlassian
 - jira
 
-cover: img/posts/2025-02-12-fujos-de-trabajo-en-jira.png
+cover: /img/posts/2025-02-12-fujos-de-trabajo-en-jira.png
 
 ---
 

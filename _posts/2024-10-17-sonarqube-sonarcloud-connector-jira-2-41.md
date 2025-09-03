@@ -11,7 +11,7 @@ categories:
 - jira cloud
 - marketplace
 
-cover: img/posts/2024-10-17-sonarqube-sonarcloud-connector-jira-2-41.png
+cover: /img/posts/2024-10-17-sonarqube-sonarcloud-connector-jira-2-41.png
 
 ---
 

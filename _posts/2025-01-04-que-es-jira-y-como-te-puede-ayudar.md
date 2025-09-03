@@ -9,7 +9,7 @@ categories:
 - atlassian
 - jira
 
-cover: img/posts/2025-01-04-que-es-jira-y-como-te-puede-ayudar.png
+cover: /img/posts/2025-01-04-que-es-jira-y-como-te-puede-ayudar.png
 
 ---
 

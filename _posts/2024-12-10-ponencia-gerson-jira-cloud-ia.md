@@ -10,7 +10,7 @@ categories:
 - jira cloud
 
 
-cover: img/posts/2024-12-10-ponencia-gerson-jira-cloud-ia.png
+cover: /img/posts/2024-12-10-ponencia-gerson-jira-cloud-ia.png
 
 ---
 

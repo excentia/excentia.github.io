@@ -11,7 +11,7 @@ categories:
 - atlassian
 
 
-cover: img/posts/2024-11-14-primeros-pasos-rovo-search-atlassian.png
+cover: /img/posts/2024-11-14-primeros-pasos-rovo-search-atlassian.png
 
 ---
 

@@ -11,7 +11,7 @@ categories:
 - devops
 
 
-cover: img/posts/2025-02-14-cinco-razones-transformar-desarrollo-sonarqube.png
+cover: /img/posts/2025-02-14-cinco-razones-transformar-desarrollo-sonarqube.png
 
 ---
 

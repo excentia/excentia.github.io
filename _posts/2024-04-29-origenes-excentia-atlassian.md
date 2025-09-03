@@ -10,7 +10,7 @@ categories:
 - atlassian
 - jira
 
-cover: img/posts/2024-04-29-origenes-excentia-atlassian.png
+cover: /img/posts/2024-04-29-origenes-excentia-atlassian.png
 
 ---
 
