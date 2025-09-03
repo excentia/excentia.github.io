@@ -28,7 +28,7 @@ SonarQube Connector for Jira es una **aplicación que integra** los resultados d
 
 1 - Consultas el listado de issues detectadas por el análisis de SonarQube.   <br> 
 
-2 - Te diriges a la línea de la issue de la que quieras crear la tarea y clicas sobre el botón + . Fíjate en esta imagen:  <br> 
+2 - Te diriges a la regla de la que quieras crear la tarea y clicas sobre el botón + . Fíjate en esta imagen:  <br> 
 
 <div style="text-align: center;">
 <img src="/img/atlassian-addons/sonarqube-connector-for-jira-crear-actividad.png" width="800" alt="Boton crear actividad Jira">
@@ -37,7 +37,7 @@ SonarQube Connector for Jira es una **aplicación que integra** los resultados d
 
 3 - Se crea la actividad en Jira con toda la información de la issue:   <br> 
 
-- Título completo de la issue.  <br> 
+- Nombre de la regla incumplida añadido como 'Summary' del asunto de Jira.  <br> 
 
 - Descripción de la regla incumplida para leer sin salir de Jira.  <br>
 
@@ -45,7 +45,7 @@ SonarQube Connector for Jira es una **aplicación que integra** los resultados d
 
 - Excepciones. <br>
 
-- Pestaña con información completa de la issue y un enlace directo a la línea de código. <br>
+- Pestaña con información completa de las issues y un enlace directo a la línea de código. <br>
 
 Aquí tienes un ejemplo de una actividad creada gracias al SonarQube Connector for Jira
 
@@ -84,7 +84,7 @@ Sí, es compatible con ambos.
 No, el conector envía toda la información de la issue a Jira.
 
 **¿Qué precio tiene?**
-El precio de SonarQube Connector for Jira es gratis hasta 10 usuarios. A partir de ese rango, tiene un coste variable según el número de usuarios.. Puedes hacer una simulación del coste en [este enlace](https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?tab=pricing)
+El precio de SonarQube Connector for Jira es gratis hasta 10 usuarios. A partir de ese rango, tiene un coste variable según el número de usuarios. Puedes hacer una simulación del coste en [este enlace](https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?tab=pricing)
 
 A veces, verlo es más fácil que explicarlo. En este vídeo te muestro cómo pasar un issue de SonarQube a una actividad de Jira en segundos, sin pérdida de contexto y con toda la información lista para trabajar.
 
