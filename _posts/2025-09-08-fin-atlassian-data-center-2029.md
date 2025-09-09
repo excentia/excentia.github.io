@@ -24,7 +24,7 @@ En este artículo te explico qué implica este anuncio, las **fechas clave** que
 
 Según Atlassian, el **99% de sus clientes ya están en la nube** o en proceso de migración, incluidos el **75% de los clientes de sectores regulados**. Este cambio permitirá a Atlassian innovar más rápido y ofrecer mejoras continuas a través de Atlassian Cloud, como Rovo, su asistente basado en IA, y integraciones avanzadas con Google Cloud y otros servicios.
 
-<h2>Productos de Atlassian se verán afectados</h2>
+<h2>Productos de Atlassian que se verán afectados</h2>
 
 Estos son los **productos que quedarán obsoletos** en su versión Data Center:
 
