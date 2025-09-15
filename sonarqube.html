@@ -431,7 +431,7 @@ description: Adquiere licencias y servicios de SonarQube Server con excentia. Ga
       <p class="header-text"> SonarQube proporciona métricas como cobertura de código, duplicaciones, bugs, "code smells" y vulnerabilidades, esenciales para evaluar la salud del software. En el modo MQR de SonarQube estas métricas son atributos de Clean Code indentificados como consistent, intentional, adaptable y responsible.</p>
       <br>
       <p style="font-size: 28px; font-weight: bold;">¿Hay empresas que ofrecen servicios de soporte para SonarQube?</p>
-      <p class="header-text">Si, excentia como partner de Sonar ofrece servicios de soporte para manter actualizadas las instancias de SonarQube y servicios de inspección continua del código con SonarQube.</p>
+      <p class="header-text">Si, excentia como partner de Sonar ofrece servicios de soporte para mantener actualizadas las instancias de SonarQube y servicios de inspección continua del código con SonarQube.</p>
 
     </div>
 </div>
@@ -448,17 +448,13 @@ description: Adquiere licencias y servicios de SonarQube Server con excentia. Ga
       {% if post.categories contains "sonarqube" %}
         <div class="col-sm-4">
           <div class="thumbnail">
-            {% if post.cover %}
-              <img src="{{ site.baseurl }}{{ post.cover }}" alt="{{ post.title }}" style="height:200px; object-fit:cover; width:100%;">
-            {% else %}
-              <img src="{{ site.baseurl }}/assets/images/default.jpg" alt="{{ post.title }}" style="height:200px; object-fit:cover; width:100%;">
-            {% endif %}
-            <div class="caption">
-              <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-              <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
-              <p><small>Publicado el {{ post.date | date: "%d %b %Y" }}</small></p>
-              <a href="{{ post.url }}" class="btn btn-primary btn-sm">Leer más</a>
-            </div>
+            <img src="{{ site.baseurl }}{{ post.cover }}" alt="{{ post.title }}" style="height:200px; object-fit:cover; width:100%;">
+              <div class="caption">
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+                <p><small>Publicado el {{ post.date | date: "%d %b %Y" }}</small></p>
+                <a href="{{ post.url }}" class="btn btn-primary btn-sm">Leer más</a>
+              </div>
           </div>
         </div>
         {% assign count = count | plus: 1 %}

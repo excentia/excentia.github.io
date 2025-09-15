@@ -238,17 +238,13 @@ description: Descubre Jira, el software líder para la gestión de proyectos ág
       {% if post.categories contains "atlassian" %}
         <div class="col-sm-4">
           <div class="thumbnail">
-            {% if post.cover %}
-              <img src="{{ site.baseurl }}{{ post.cover }}" alt="{{ post.title }}" style="height:200px; object-fit:cover; width:100%;">
-            {% else %}
-              <img src="{{ site.baseurl }}/assets/images/default.jpg" alt="{{ post.title }}" style="height:200px; object-fit:cover; width:100%;">
-            {% endif %}
-            <div class="caption">
-              <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-              <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
-              <p><small>Publicado el {{ post.date | date: "%d %b %Y" }}</small></p>
-              <a href="{{ post.url }}" class="btn btn-primary btn-sm">Leer más</a>
-            </div>
+            <img src="{{ site.baseurl }}{{ post.cover }}" alt="{{ post.title }}" style="height:200px; object-fit:cover; width:100%;">
+              <div class="caption">
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+                <p><small>Publicado el {{ post.date | date: "%d %b %Y" }}</small></p>
+                <a href="{{ post.url }}" class="btn btn-primary btn-sm">Leer más</a>
+              </div>
           </div>
         </div>
         {% assign count = count | plus: 1 %}
