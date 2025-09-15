@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cómo crear un Company Hub en Confluence para centralizar la comunicación y los recursos internos'
-description: Aprende cómo crear un portal interno con Company Hub en Confluence para conectar equipos e información.
+description: Aprende a crear un portal interno con Company Hub en Confluence.
 date: '2025-07-04T08:00:00Z'
 author: Belén Casanovas
 categories:

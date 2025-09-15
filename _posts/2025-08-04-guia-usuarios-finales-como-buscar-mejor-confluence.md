@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo buscar mejor en Confluence Cloud, guía práctica para usuarios
-description: Guía práctica para buscar mejor en Confluence Cloud filtros, operadores, trucos y ejemplos para encontrar páginas y adjuntos en segundos.
+description: Guía para buscar mejor en Confluence Cloud con filtros y trucos.
 date: '2025-08-04T08:04:00Z'
 author: Belén Casanovas
 categories:

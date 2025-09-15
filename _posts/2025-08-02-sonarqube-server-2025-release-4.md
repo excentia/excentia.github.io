@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube Server 2025 v4.1 novedades en seguridad, rendimiento y cumplimiento'
-description: Explora las mejoras de SonarQube Server 4.1 SAST para Go, análisis avanzado, informes normativos y detección continua de vulnerabilidades.
+description: Explora SonarQube Server 4.1 SAST con análisis Go y detección de vulnerabilidades.
 date: '2025-08-02T08:00:00Z'
 author: Belén Casanovas
 categories:
