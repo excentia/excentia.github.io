@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El estado del código: Informes sobre la calidad del código de Sonar'
-description: Anirban Chatterjee escríbe este post sobre el lanzamiento de una serie de informes que realiza Sonar sobre la calidad del código
+description: Anirban Chatterjee presenta la nueva serie de informes de Sonar sobre código.
 date: '2025-07-08T08:00:00Z'
 author: Anirban Chatterjee
 categories:

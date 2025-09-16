@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo modelo de facturación por cantidad máxima de usuarios de Atlassian'
-description: Te explicamos en qué consiste el nuevo modelo de facturación de Atlassian en función de los usuarios que tengas.
+description: Conoce el nuevo modelo de facturación de Atlassian según tus usuarios.
 date: '2025-05-02T08:04:00Z'
 author: Belén Casanovas
 categories:
