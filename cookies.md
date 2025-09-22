@@ -258,7 +258,7 @@ El usuario podrá revocar el consentimiento prestado de forma fácil ya que disp
        
 El plazo de conservación de los datos personales, será el menor posible de acuerdo con la finalidad para la cual se recabaron estos datos, atendiendo al principio de minimización de los datos.
 
-Para más información sobre el tratamiento de datos personales consulte nuestra [Política de Privacidad](https://www.excentia.es/corporate-privacy-policy).
+Para más información sobre el tratamiento de datos personales consulte nuestra [Política de Privacidad](/corporate-privacy-policy).
 
 ### 11. Sus Derechos
        
