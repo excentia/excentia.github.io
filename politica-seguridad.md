@@ -145,7 +145,7 @@ El marco normativo en que se desarrollan las actividades de excentia, y en parti
 
 |Responsable de la Información/Servicio|HMI|
 |Responsable de Seguridad|ACM|
-|Responsable del Sistema|ACM|
+|Responsable del Sistema|HMI|
 
 ## Roles, funciones y responsabilidades
 
