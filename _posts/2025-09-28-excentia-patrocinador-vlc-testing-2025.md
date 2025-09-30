@@ -56,7 +56,7 @@ El segundo día del **VLC Testing es en formato online**, toda la programación 
 
 - Formato: Online, en la Sala 1. <br>
 
-- Hora: De 12:00 – 12:40 horas. <br>
+- De 12:00 – 12:40 horas. <br>
 
 En [este enlace](https://vlctesting.es/ponencia/deeper-sast-y-como-utilizarlo-en-la-prevencion-de-exploits-zero-day/) tienes más información sobre la ponencia. 
 
