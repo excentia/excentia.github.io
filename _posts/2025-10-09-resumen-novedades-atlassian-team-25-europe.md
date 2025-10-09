@@ -85,11 +85,11 @@ Las principales características de este lanzamiento son las siguientes:
 
 - **Customer Service Management**: Asistencia omnicanal y a cliente externo con agentes de IA e informes. <br>
 
-- **Asistencia a los empleados impulsada por IA**: Rovo Service para la incorporación de personal de RR.HH. y los flujos de trabajo. <br
+- **Asistencia a los empleados impulsada por IA**: Rovo Service para la incorporación de personal de RR.HH. y los flujos de trabajo. <br>
 
-- **AIOps**: Agrupación de alertas, coordinación y comunicación de incidencias mejoradas. <br
+- **AIOps**: Agrupación de alertas, coordinación y comunicación de incidencias mejoradas. <br>
 
-- **Enterprise Asset Management**: Data Manager, rendimiento mejorado y plataforma. <br
+- **Enterprise Asset Management**: Data Manager, rendimiento mejorado y plataforma. <br>
 
 - **Rovo for Service & Ops**: agentes de IA para el servicio, las operaciones y el soporte al cliente. <br>
 
