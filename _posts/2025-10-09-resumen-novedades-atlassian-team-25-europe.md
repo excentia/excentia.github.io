@@ -13,7 +13,7 @@ cover: /img/posts/2025-10-09-resumen-novedades-atlassian-team-25-europe.png
 
 ---
 
-¡Menudo **Team’25 Europe** hemos vivido! Durante la keynote liderada por **Mike Cannon-Brookes**, Atlassian presentó un sinfín de novedades que marcan el futuro de la **colaboración en la nube**.
+¡Menudo **Team’25 Europe** hemos vivido! Durante la keynote liderada por **Mike Cannon-Brookes**, Atlassian presentó un sinfín de novedades que marcarán el futuro de la **colaboración en la nube**.
 
 Como ya vimos en Anaheim, quedó claro que Rovo se consolida como el eje central del ecosistema Atlassian. Es la aplicación que más evoluciona y en la que la compañía concentra todos sus esfuerzos.
 
@@ -85,11 +85,11 @@ Las principales características de este lanzamiento son las siguientes:
 
 - **Customer Service Management**: Asistencia omnicanal y a cliente externo con agentes de IA e informes. <br>
 
-- **Asistencia a los empleados impulsada por IA**: Rovo Service para la incorporación de personal de RR.HH. y los flujos de trabajo. <br
+- **Asistencia a los empleados impulsada por IA**: Rovo Service para la incorporación de personal de RR.HH. y los flujos de trabajo. <br>
 
-- **AIOps**: Agrupación de alertas, coordinación y comunicación de incidencias mejoradas. <br
+- **AIOps**: Agrupación de alertas, coordinación y comunicación de incidencias mejoradas. <br>
 
-- **Enterprise Asset Management**: Data Manager, rendimiento mejorado y plataforma. <br
+- **Enterprise Asset Management**: Data Manager, rendimiento mejorado y plataforma. <br>
 
 - **Rovo for Service & Ops**: agentes de IA para el servicio, las operaciones y el soporte al cliente. <br>
 
