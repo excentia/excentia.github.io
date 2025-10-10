@@ -72,11 +72,11 @@ Gracias a esta incorporación, ahora es posible:
 
 - Medir el uso e impacto real de la IA, identificando qué impulsa los resultados y qué genera ruido.
 
-- Obtener una visibilidad completa de la experiencia del desarrollador, combinando feedback cualitativo con métricas cuantitativas para detectar interrupciones en el flow.
+- Obtener una visibilidad completa de la experiencia del desarrollador, combinando feedback cualitativo con métricas cuantitativas para detectar interrupciones en el flujo.
 
 - Acceder a información en tiempo real sobre la productividad y el estado del sistema, ayudando a los líderes a tomar decisiones más informadas.
 
-- Potenciar a los equipos de ingeniería de primer nivel, permitiendo invertir con inteligencia y liberar el flow del desarrollador en esta nueva era impulsada por la inteligencia artificial.
+- Información en tiempo real sobre la productividad de los desarrolladores, lo que permite a los líderes descubrir puntos críticos y de mejora.
 
 Y hasta aquí las novedades de esta nueva colección.
 
