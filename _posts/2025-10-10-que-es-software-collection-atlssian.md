@@ -64,6 +64,8 @@ Funcionalidades clave:
 
 - **Corrección de errores en pipelines**: depura y soluciona fallos de compilación de forma automática. <br>
 
+En <a href="https://www.atlassian.com/software/rovo-dev" target="_blank" rel="nofollow">este enlace</a> tienes más información de Atlassian sobre Rovo Dev.
+
 <h2>DX se une a Atlassian y a la Software Collection</h2>
 
 Hace unas semanas, Atlassian anunció la **adquisición de DX**, una compañía líder en inteligencia de ingeniería. Su integración dentro de la Software Collection **amplía la capacidad de las organizaciones para medir, entender** y mejorar el trabajo de sus equipos técnicos.
@@ -80,4 +82,6 @@ Gracias a esta incorporación, ahora es posible:
 
 Y hasta aquí las novedades de esta nueva colección.
 
-Una propuesta que creo que deja claro que Atlassian está construyendo un SDLC nativo de IA preparado para transformar la forma en que los equipos de software trabajan, colaboran y crean valor.
+Esta se suma a la [Service Collection](/que-es-service-collection-atlassian), la [Teamwork Collection](/que-es-teamwork-collection-atlassian) y la [Strategy Collection](/que-es-strategy-collection-atlassian). En cada enlace puedes ampliar la información de cada una. 
+
+Una propuesta que creo que deja claro que Atlassian está construyendo un **SDLC nativo de IA** preparado para transformar la forma en que los equipos de software trabajan, colaboran y crean valor.
