@@ -63,18 +63,13 @@ Las principales novedades para Rovo que han anunciado estos días:
 
 - **Rovo Search in Jira**: Potencián la búsqueda para que sea más inteligente, rápida y personalizada. <br>
 
-
 - **Conectores mejorados**: Integraciones con más de 50 aplicaciones, entre las que se incluyen Jira Data Center, DocuSign, Zendesk y muchas más. <br>
-
 
 - **Rovo Chat**: Analiza datos, utiliza entradas multimodales y aprovecha la memoria personal. <br>
 
-
 - **Directorio de habilidades para agentes**: Lanzamiento de habilidades predefinidas para crear agentes más rápidamente. <br>
 
-
 - **Seguridad y control**: Próximamente dispondremos de paneles de uso, controles de agentes y LLM alojados por Atlassian. <br>
-
 
 
 <h2>Lanzamiento de la Service Collection</h2>
@@ -108,8 +103,12 @@ Aquí tienes lo que debes saber sobre esta colección:
 
 - **Compass**: Catálogo unificado para la propiedad y la gestión.
 
+Si quieres saber más sobre la Software Collection, puedes leer el artículo específico de esta colección en [este enlace](/que-es-software-collection-atlassian). 
+
 Sin duda, con el lanzamiento de la **Service Collection y Software Collection**, Atlassian redefine su enfoque en inteligencia artificial aplicada a la gestión de servicios y al desarrollo de software.
 
 Estas novedades confirman que **Atlassian está construyendo un ecosistema más conectado**, inteligente y seguro. En excentia seguimos de cerca cada lanzamiento para ayudarte a aprovechar al máximo el potencial de Rovo, las Collections y las nuevas capacidades de IA.
+
+Por cierto, si quieres ver lo mejor de cada anuncio, puedes consultar la biblioteca de videos del Team'25 Europe en <a href="https://events.atlassian.com/teameurope-digital" target="_blank" rel="nofollow">este enlace</a>.
 
 ¡Nos leemos en los artículos de ampliación de novedades!
