@@ -10,7 +10,8 @@ description: En esta página encontraras la Política de Seguridad de la Informa
 
 <h3>Aprobación y entrada en vigor</h3>
 
-Texto aprobado por la dirección de excentia el día 24 de junio de 2025.
+Política de Seguridad ISO 27001 aprobada por la dirección de excentia el día 24 de junio de 2025.
+Política de Seguridad ENS aprobada por la dirección de excentia el día 14 de octubre de 2025.
 <br><br>
 Estas Políticas de Seguridad de la Información son efectivas desde dicha fecha y hasta que sea reemplazadas por nuevas Políticas.
 <br><br>
