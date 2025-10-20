@@ -41,7 +41,7 @@ Rovo es la **inteligencia artificial de Atlassian**. Un ecosistema de IA empresa
 
 - **Mayor control e información** sobre cada agente que implementes, con permisos detallados y registros de conversaciones para rastrear y refinar los resultados. <br>
 
-- Las **automatizaciones permiten integrar agentes en flujos de trabajo** interequipos e implementarlos dondequiera que se trabaje. <br>
+- Las **automatizaciones permiten integrar agentes en flujos de trabajo** entre equipos e implementarlos dondequiera que se trabaje. <br>
 
 - Próximamente, **cualquier usuario** podrá **crear aplicaciones de producción** en un lenguaje sencillo. Simplemente describe lo que necesitas y Studio planificará la solución y la desarrolla en minutos, de principio a fin. <br>
 
