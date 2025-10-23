@@ -20,7 +20,7 @@ Sonar ha lanzado SonarSweep un servicio innovador que tiene como objetivo **mejo
 
 <h2>Qué es SonarSweep</h2>
 
-SonarSweep es un servicio que **ige, optimiza y protege** el código utilizado para el entrenamiento de modelos de lenguaje para programación (LLMs). Este sistema asegura que los modelos aprendan de ejemplos de **código seguros y de alta calidad**, desde el entrenamiento hasta la alineación del modelo, un paso crítico para construir modelos de IA fiables.
+SonarSweep es un servicio que **corrige, optimiza y protege** el código utilizado para el entrenamiento de modelos de lenguaje para programación (LLMs). Este sistema asegura que los modelos aprendan de ejemplos de **código seguros y de alta calidad**, desde el entrenamiento hasta la alineación del modelo, un paso crítico para construir modelos de IA fiables.
 
 Según un estudio realizado por Sonar, los modelos preparados por SonarSweep ofrecen código con hasta un **67% menos de vulnerabilidades de seguridad** y hasta un **42% menos de errores**, sin pérdida de rendimiento. En <a href="https://www.sonarsource.com/blog/announcing-sonarsweep-improving-training-data-quality-for-coding-llms/" target="_blank" rel="nofollow">este enlace tienes</a> el artículo en inglés de este estudio, que se ha realizado con una amplia gama de modelos, incluyendo **Llama 3.1 70B y GPT-4o**. 
 
