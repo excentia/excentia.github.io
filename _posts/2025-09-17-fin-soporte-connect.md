@@ -22,7 +22,7 @@ A principios de año, Atlassian anunció su **plan para finalizar el soporte de 
 
 - Inicio de la aplicación: **17 de septiembre de 2025**
 
-Todas las nuevas aplicaciones que se han publicado en el Marketplace deberán haberse creado en Forge y no podrán contener módulos Connect. Las aplicaciones Connect existentes no habrán sido afectadas en esta etapa. Atlassian se compromete a mantener la transparencia y el diálogo, permitiendo que los desarrolladores sigan el progreso a través del roadmap de equivalencia de Connect y consulten solicitudes existentes en el proyecto FRGE.
+Todas las nuevas aplicaciones que se han publicado en el Marketplace deberán haberse creado en Forge y no podrán contener módulos Connect. Las aplicaciones Connect existentes no habrán sido afectadas en esta etapa. Atlassian se compromete a mantener la transparencia y el diálogo, permitiendo que los desarrolladores sigan el progreso a través del roadmap de equivalencia de Connect y consulten solicitudes existentes en el <a href="https://ecosystem.atlassian.net/jira/software/c/projects/FRGE/list/?filter=allopenissues&jql=project+%3D+%22FRGE%22+AND+statusCategory+IN+%28%22To+Do%22%2C+%22In+Progress%22%29+ORDER+BY+votes+DESC%2C+updated+DESC" target="_blank" rel="nofollow">proyecto FRGE</a>.
 
 <h2>Fase 2: No se permitirán nuevas actualizaciones mediante cambios en el descriptor Connect</h2>
 
