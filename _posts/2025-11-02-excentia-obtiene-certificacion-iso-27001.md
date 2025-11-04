@@ -30,6 +30,6 @@ Este paso no solo certifica que hacemos las cosas bien, sino que refuerza **la c
 
 <h2>Un compromiso que forma parte de nuestro ADN</h2>
 
-Como **Gold Partner de Atlassian y de Sonar**, en excentia llevamos más de 15 años ayudando a organizacioneo a mejorar la calidad y seguridad de su software y de los procesos. La obtención de la certificación ISO 27001 es una evolución natural de nuestro compromiso.
+Como **Gold Partner de Atlassian y de Sonar**, en excentia llevamos más de 15 años ayudando a organizaciones a mejorar la calidad y seguridad de su software y de los procesos. La obtención de la certificación ISO 27001 es una evolución natural de nuestro compromiso.
 
 
