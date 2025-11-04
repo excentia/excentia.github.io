@@ -18,6 +18,8 @@ Hoy compartimos una noticia que nos hace especial ilusión: excentia ha consegui
 
 Este reconocimiento acredita que **nuestro sistema de Gestión de la Seguridad de la Información** cumple con los requisitos más exigentes en materia de protección de datos, confidencialidad, integridad y disponibilidad de la información.
 
+“La certificación ISO 27001 supone para la compañía un **reconocimiento oficial de nuestro compromiso** con la seguridad de la información. Es una confirmación de que nuestro sistema de gestión, nuestros procesos, nuestra cultura y nuestro equipo están **perfectamente alineados** para hacer frente a las amenazas actuales. Además, refuerza la confianza de clientes, partners y proveedores, demostrando que la seguridad no es solo una prioridad técnica, sino también organizativa y estratégica”, asegura **Antonio Calero, co-CEO de excentia**.
+
 La certificación abarca nuestras actividades de **diseño e implantación de servicios informáticos de auditoría, consultoría y formación orientadas a mejorar la calidad de los procesos TI**. También incluye el uso e implantación de herramientas software para la gestión y el aseguramiento de la calidad del software: análisis, implantación de buenas prácticas de desarrollo, certificación de software, seguimiento y mejora continua, según el documento de aplicabilidad vigente (v1.0 del 24/06/2025).
 
 <h2>Seguridad, calidad y mejora continua</h2>
