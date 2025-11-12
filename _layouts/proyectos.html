@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+
+    <section id="legal" class="download bg-primary text-center" style="padding-top: 90px; padding-bottom: 20px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h1 class="section-heading"> {{page.title }} </h1>
+                <hr class="light">
+            </div>
+        </div>
+    </div>
+  </section>
+  
+  {{ content }}
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
