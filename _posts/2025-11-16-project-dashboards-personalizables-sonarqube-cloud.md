@@ -16,7 +16,7 @@ cover: /img/posts/2025-11-16-project-dashboards-personalizables-sonarqube-cloud.
 
 ---
 
-Sonar ha lanzado una nueva funcionalida que aporta más visibilidad y centraliza la información del estado de los proyectos. Hoy damos la bienvenida a los **dashboars personalizables de los proyectos**, una novedad (en fase beta) exclusiva para la edición Enterpirse de SonarQube Cloud. 
+Sonar ha lanzado una nueva funcionalidad que aporta más visibilidad y centraliza la información del estado de los proyectos. Hoy damos la bienvenida a los **dashboards personalizables de los proyectos**, una novedad (en fase beta) exclusiva para la edición Enterprise de SonarQube Cloud. 
 
 Hasta ahora, los equipos se veían obligados a **consultar diferentes vistas o recopilar datos de forma manual** para evaluar la calidad, la seguridad o la evolución de un proyecto. Con esta nueva capacidad, Sonar busca ofrecer un punto único de verdad para **líderes técnicos, Engineering Managers y Security Champions**. Desde excentia, como **Gold Partners de Sonar** te contamos todos los detalles de esta novedad. 
 
@@ -30,7 +30,7 @@ Las principales características de esta nueva funcionalidad son:
 
 - **Gestión centralizada de paneles**: Con la nueva página “Todos los paneles”, los usuarios pueden ver, editar, duplicar o eliminar paneles personalizados desde un único lugar. Esto facilita la administración, especialmente en equipos grandes.
 
-<h2>¿Dónde encontrar estos nuevos dashboars?</h2>
+<h2>¿Dónde encontrar estos nuevos dashboards?</h2>
 
 SonarQube Cloud está desplegando **esta beta de forma progresiva** para garantizar una experiencia estable y sin interrupciones. El despliegue **durará varias semanas** y no todos los usuarios verán la función al mismo tiempo.
 
@@ -44,7 +44,7 @@ Para acceder a los paneles:
 
 Aquçi tienes un ejemplo de estos dashboards en SonarQube Cloud: 
 
-<img src="/img/sonarsource-products/dashboards-personalizables-sonarqube-cloud.png" alt="Ejemplo de dashbboard personalizable" width="80%">
+<img src="/img/sonarsource-products/dashboards-personalizables-sonarqube-cloud.png" alt="Ejemplo de dashboard personalizable" width="80%">
 <br>
 
 
