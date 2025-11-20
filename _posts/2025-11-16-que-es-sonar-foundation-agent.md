@@ -16,7 +16,7 @@ cover: /img/posts/2025-11-16-que-es-sonar-foundation-agent.png
 
 ---
 
-¿Recuerdas que a principio de año Sonar anunció la **compra de AutoCodeRover**? Bien, pues esta semana han publicado un artículo en el que nos adelantan qué es lo que van a lanzar tras esta alianza. Se trata de Sonar Foundatio Agent, un agente que ayudará a los usuarios de SonarQube a corregir el código. Traducimos esta noticia de Sonar y la desgranamos para entender bien este nuevo "producto". 
+¿Recuerdas que a principio de año Sonar anunció la **compra de AutoCodeRover**? Bien, pues esta semana han publicado un artículo en el que nos adelantan qué es lo que van a lanzar tras esta alianza. Se trata de Sonar Foundation Agent, un agente que ayudará a los usuarios de SonarQube a corregir el código. Traducimos esta noticia de Sonar y la desgranamos para entender bien este nuevo "producto". 
 
 <h2>¿Qué es Sonar Foundation Agent?</h2>
 
