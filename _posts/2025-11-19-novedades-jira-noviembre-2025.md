@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novedades de Jira noviembre 2025'
-description: Conoce las nuevas funcionalidades de Jira como Spaces, custom onboarding, Theming...¡No te las pierdas!
+description: Conoce los últimos cambios en Jira como Spaces, custom onboarding, Theming...¡No te las pierdas!
 date: '2025-11-19T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -13,11 +13,11 @@ cover: /img/posts/2025-11-19-novedades-jira-noviembre-2025.png
 
 ---
 
-Si has llegado hasta aquí, es porque quieres **saber lo último de Jira**. Y no es para menos: después del **Team’25 Europe**, Atlassian no ha parado ni un segundo y ha lanzado varias novedades que pueden marcar la diferencia en el día a día de cualquier equipo. Así que, desde excentia, Gold Partners de Atlassian estamos aquí para contártelas de forma clara, directa y para que puedas empezar a **aprovecharlas desde ya**. ¿Vamos a ello?
+Si has llegado hasta aquí, es porque quieres **saber lo último de Jira**. Y no es para menos: después del **Team’25 Europe**, Atlassian no ha parado ni un segundo y ha lanzado varias novedades que pueden marcar la diferencia en el día a día de cualquier equipo. Así que, desde excentia, como Gold Partners de Atlassian estamos aquí para contártelas de forma clara, directa y para que puedas empezar a **aprovecharlas desde ya**. ¿Vamos a ello?
 
 <h2>Jira Spaces</h2>
 
-En los últimos meses Atlassian ha dado pasos firmes para evolucionar el **lenguaje de sus soluciones**. Si en Team’25 anunciaron que sus productos pasan a **llamarse aplicaciones**, ahora continúan avanzando con un cambio clave: la sección Projects pasa a llamarse Spaces.
+En los últimos meses Atlassian ha dado pasos firmes para evolucionar el **lenguaje de sus soluciones**. Si en el Team’25 anunciaron que sus productos pasan a **llamarse aplicaciones**, ahora continúan avanzando con un cambio clave: la sección Projects pasa a llamarse Spaces.
 
 Este cambio ya se está desplegando en los **planes Jira Cloud Free, Standard, Premium y Enterprise**, y también aplica a **Jira Service Management** y **Jira Product Discovery**.
 
@@ -51,7 +51,7 @@ Custom Onboarding está disponible en los planes **Premium y Enterprise** de Jir
 
 <h2>Panel de vista previa</h2>
 
-Ya puedes trabajar con el **nuevo panel de Vista Previa Global**, una funcionalidad que unifica la experiencia en Jira y Confluence y que permite previsualizar y actuar sobre contenido relacionado sin salir del sitio donde estoy trabajando.
+Ya puedes trabajar con el **nuevo panel de Vista Previa Global**, una funcionalidad que unifica la experiencia en Jira y Confluence y que permite previsualizar y actuar sobre contenido relacionado sin salir del sitio en el que estás trabajando.
 
 Este panel lateral soluciona uno de los mayores problemas en el día a día: el **cambio constante de contexto**. Trabajar alternando pestañas, ventanas o paneles inconsistentes corta el flujo de trabajo. Con esta nueva vista previa:
 
