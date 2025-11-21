@@ -74,7 +74,7 @@ Para activarlo, sigue estos pasos:
 
 - Selecciona **Set space background**. <br>
 
-- **Elige una imagen** del banco disponible o un color sólido. <br>
+- **Elige una imagen** de la galería o un color sólido. <br>
 
 <img width="60%" src="/img/atlassian-products/jira-theming-excentia.png" alt="Jira Theaming">
 <br>
