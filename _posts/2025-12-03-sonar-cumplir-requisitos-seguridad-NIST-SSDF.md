@@ -2,7 +2,7 @@
 layout: post
 title: 'Cómo SonarQube ayuda a cumplir los requisitos de seguridad del NIST SSDF'
 description: Descubre cómo SonarQube mejora la seguridad del código y facilita el cumplimiento del marco NIST SSDF.
-date: '2025-11-19T08:00:00Z'
+date: '2025-12-03T08:00:00Z'
 author: Belén Casanovas
 categories:
 
