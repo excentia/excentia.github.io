@@ -31,7 +31,7 @@ Con esta integración, las posibilidades son amplias y realmente prácticas:
 
 - Enriquecer contenido de Jira con **contexto extraído de múltiples fuentes** accesibles desde ChatGPT. <br>
 
-Esta integración de Atlassian Rovo MCP y ChatGPT es accesible para **todos los perfiles dentro de la empresa**. Por ejemplo,m si trabajas en **operaciones**, puedes empezar el día con un resumen generado automáticamente. Para **marketing**, los agentes pueden monitorizar tareas, resumir su estado y sugerir próximos pasos basados en lo que esté en curso, en riesgo o bloqueado. Incluso para el área de soporte, los agentes pueden clasificar nuevos tickets, sugerir respuestas según casos previos y crear automáticamente issues en Jira para bugs.
+Esta integración de Atlassian Rovo MCP y ChatGPT es accesible para **todos los perfiles dentro de la empresa**. Por ejemplo, si trabajas en **operaciones**, puedes empezar el día con un resumen generado automáticamente. Para **marketing**, los agentes pueden monitorizar tareas, resumir su estado y sugerir próximos pasos basados en lo que esté en curso, en riesgo o bloqueado. Incluso para el área de soporte, los agentes pueden clasificar nuevos tickets, sugerir respuestas según casos previos y crear automáticamente issues en Jira para bugs.
 
 <video width="100%" controls autoplay loop muted>
   <source src="https://atlassianblog.wpengine.com/wp-content/uploads/2025/12/chatgpt-mcp-gif_final.mp4" type="video/mp4">
@@ -39,7 +39,7 @@ Esta integración de Atlassian Rovo MCP y ChatGPT es accesible para **todos los 
 
 <h2>Cómo conectar ChatGPT con Atlassian Rovo MCP</h2>
 
-A continuación, te explico **cómo habilitar la integración de Atlassian Rovo MCP con ChatGPT**, aunque actualmente solo se puede hacer a través del modo desarrollador en ChatGPT, disponible en los planes Businessy Enterprise.
+A continuación, te explico **cómo habilitar la integración de Atlassian Rovo MCP con ChatGPT**, aunque actualmente solo se puede hacer a través del modo desarrollador en ChatGPT, disponible en los planes Business y Enterprise.
 
 Antes de empezar, asegúrate de contar con:
 
