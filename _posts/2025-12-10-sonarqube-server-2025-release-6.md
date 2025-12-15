@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novedades de SonarQube Server 2025.6'
-description: Incluye SAST para el lenguaje Go y detección de vulnerabilidades.
+description: Conoce esta nueva release que incluye análisis más rápidos, integración con Slack y actualización en lenguajes.
 date: '2025-12-10T08:00:00Z'
 author: Belén Casanovas
 categories:
