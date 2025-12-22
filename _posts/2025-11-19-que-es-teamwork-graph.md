@@ -2,7 +2,7 @@
 layout: post
 title: 'Teamwork Graph de Atlassian: qué es, beneficios y cómo conecta tus herramientas'
 description: Descubre qué es Teamwork Graph de Atlassian, sus beneficios y cómo conecta Jira, Confluence y herramientas externas.
-date: '2025-12-03T08:00:00Z'
+date: '2025-11-19T08:00:00Z'
 author: Belén Casanovas
 categories:
 
