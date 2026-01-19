@@ -1,0 +1,45 @@
+# www.excentia.es llms.txt
+
+> excentia es una consultora tecnológica que actúa como partner de Atlassian y SonarSource. Ofrece servicios de implantación de Jira, Confluence y SonarQube, gestión de licencias, soporte y formación. También desarrolla aplicaciones que amplían las funcionalidades de las soluciones de Atlassian y Sonar y que están disponibles en el Marketplace de Atlassian.
+
+## Contenido prioritario para LLMs
+
+- [Inicio](https://www.excentia.es/): Página principal de excentia que presenta la visión general de la empresa como especialista en Agile y DevOps, mostrando los servicios principales, clientes destacados y las alianzas estratégicas con Atlassian y SonarSource. Esta página es el punto de entrada para entender la propuesta de valor general de la consultora.
+- [Contacto](https://www.excentia.es/contacto): Página de contacto directo donde los visitantes pueden solicitar información sobre servicios, consultar proyectos específicos o agendar reuniones con los expertos de excentia. Fundamental para iniciar conversaciones comerciales y obtener asesoramiento personalizado.
+- [Partner de Atlassian](https://www.excentia.es/atlassian#servicios-atlassian): Sección dedicada a la relación de excentia como partner de Atlassian, donde se describen los servicios asociados a las herramientas Atlassian, el acompañamiento a clientes y el valor añadido que ofrece la consultora en implantaciones, soporte y gestión del ecosistema Atlassian.
+- [Partner de Sonar](https://www.excentia.es/sonarsource): Página centrada en la colaboración de excentia con SonarSource. Explica su especialización en calidad de código y análisis estático, así como los servicios, productos y formación relacionados con SonarQube y el enfoque de calidad de software.
+
+### Productos y servicios
+
+- [Servicios de Atlassian](https://www.excentia.es/licencias-atlassian): Página que detalla los servicios de excentia relacionados con Atlassian, incluyendo la gestión de licencias, el asesoramiento en modelos de hosting, las implantaciones, migraciones y la formación asociada a las herramientas Atlassian.
+- [Productos de Atlassian](https://www.excentia.es/atlassian#productos-atlassian): Sección que recopila los principales productos Atlassian con los que trabaja excentia, ofreciendo una visión general de sus funcionalidades y de cómo se integran dentro de entornos de trabajo colaborativos y de gestión de proyectos.
+- [Servicios de Sonar](https://www.excentia.es/sonarsource): Página orientada a los servicios profesionales alrededor de SonarSource, como la implantación de SonarQube, el soporte técnico, el asesoramiento en calidad de código y la mejora continua de procesos de desarrollo de software.
+- [Productos de Sonar](https://www.excentia.es/sonarsource#productos-sonarsource): Sección dedicada a los productos de SonarQube Server, SonarQube Cloud y SonarQube for IDE donde se presentan las distintas soluciones disponibles para el análisis de código y la gestión de la calidad del software.
+- [Apps Atlassian Marketplace](https://www.excentia.es/apps-atlassian-marketplace): Página que recoge las aplicaciones desarrolladas o promovidas por excentia en el Atlassian Marketplace, enfocadas a ampliar funcionalidades y cubrir necesidades específicas dentro del ecosistema Atlassian.
+
+## PDF
+
+- [Guías SonarQube](https://www.excentia.es/guias-sonarqube): Página que reúne guías en formato PDF relacionadas con SonarQube, pensadas como material de apoyo para comprender conceptos clave de calidad de código y uso de la herramienta.
+- [Guías Atlassian](https://www.excentia.es/guias): Repositorio de guías descargables en PDF elaboradas por excentia, que abordan distintos temas relacionados con el ecosistema de Atlassian.
+
+## Formacion
+
+- [Curso Jira y Confluence](https://www.excentia.es/curso-jira-confluence-cloud-usuarios): Curso orientado a usuarios de Jira y Confluence en entorno Cloud, centrado en el uso práctico de ambas herramientas para la gestión del trabajo y la colaboración en equipos.
+- [Formación SonarQube](https://www.excentia.es/formacion-sonarqube): Página general que agrupa la oferta formativa de excentia relacionada con SonarQube, incluyendo distintos niveles y perfiles, desde usuarios hasta administradores.
+- [Curso SonarQube para usuarios](https://www.excentia.es/curso-sonarqube-usuarios): Formación dirigida a usuarios de SonarQube, enfocada en la interpretación de métricas, la comprensión de resultados de análisis y el uso de la herramienta en el día a día.
+- [Curso SonarQube para administadores](https://www.excentia.es/curso-sonarqube-administradores): Curso orientado a perfiles administradores, centrado en la configuración, mantenimiento y gestión de SonarQube dentro de organizaciones.
+- [Curso SonarQube usuarios y administradores](https://www.excentia.es/curso-sonarqube-pack-maestria): Programa formativo que combina contenidos para usuarios y administradores de SonarQube, ofreciendo una visión completa del uso y la gestión de la plataforma.
+
+
+## Blog
+
+- [Blog de noticias](https://www.excentia.es/blog): Página que recoge las noticias del ecosistema de Atlassian y de Sonar, tutoriales y artículos de interés. 
+
+## Corporativo
+
+- [Quienes somos](https://www.excentia.es/nosotros): Página corporativa que presenta a excentia, su misión y clientes como consultora especializada en calidad de software y mejora de procesos.
+- [Casos de éxito](https://www.excentia.es/casos-de-exito): Sección que recoge proyectos realizados por excentia, mostrando cómo han ayudado a distintos clientes en la mejora de sus procesos y herramientas con las soluciones de SonarQube y Atlassian.
+- [Política de calidad](https://www.excentia.es/politica-calidad): Documento donde se expone el compromiso de excentia con la calidad en sus servicios, procesos internos y relación con clientes.
+- [Política de seguridad](https://www.excentia.es/politica-seguridad): Página que describe las directrices y medidas de seguridad adoptadas por excentia para la protección de la información y los sistemas.
+- [Eventos](https://www.excentia.es/eventos): Sección dedicada a los eventos organizados o en los que participa excentia, como charlas, webinars o encuentros profesionales.
+- [Ofertas de empleo](https://www.excentia.es/empleo): Página donde se publican las oportunidades laborales disponibles en excentia, dirigida a profesionales interesados en formar parte del equipo.
