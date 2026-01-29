@@ -16,7 +16,7 @@ cover: /img/posts/2026-01-24-desarrollar-codigo-seguro-IA-sonarqube.png
 
 ---
 
-La **inteligencia artificial escribe código** y cada vez está más integrada en el día a día de los equipos de desarrollo. IDEs con asistentes inteligentes, detecta y corríge errores... ¿Cómo podemos reducir los riesgos generan en este contexto? Desde excentia lo tenemos claro: **con SonarQube**. En este artículo, profundizamos en esta duda, en los problemas que surgen en la era de la IA y cómo las soluciones de Sonar nos ayudan a prevenir y desarrollar código de calidad. 
+La **inteligencia artificial escribe código** y cada vez está más integrada en el día a día de los equipos de desarrollo. IDEs con asistentes inteligentes, detectan y corrígen errores... ¿Cómo podemos reducir los riesgos generados en este contexto? Desde excentia lo tenemos claro: **con SonarQube**. En este artículo, profundizamos en esta duda, en los problemas que surgen en la era de la IA y cómo las soluciones de Sonar nos ayudan a prevenir y desarrollar código de calidad. 
 
 <h2>Más código generado por la IA, más riesgos</h2>
 
