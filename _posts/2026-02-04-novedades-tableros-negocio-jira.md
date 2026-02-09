@@ -34,7 +34,7 @@ A partir de ahora, **los elementos de trabajo completados permanecen en el table
 
 La visualización y gestión de los flujos de trabajo se ha simplificado notablemente. Ya no es necesario alternar entre diferentes flujos dentro del mismo tablero. Ahora **puedes filtrar por tipo de trabajo** o **crear un tablero dedicado para cada flujo**, accediendo a ellos directamente desde la navegación de tu espacio. Si eres administrador y tu tablero actual mapea varios flujos de trabajo, será necesario reconfigurarlo para seleccionar el flujo predeterminado.
 
-</h2>Pasos para crear un tablero dedicado por flujo de trabajo</h2>
+<h2>Pasos para crear un tablero dedicado por flujo de trabajo</h2>
 
 - En la navegación de tu espacio, selecciona **Añadir a la navegación (+)**, luego Tablero y Añadir a la navegación. <br>
 
