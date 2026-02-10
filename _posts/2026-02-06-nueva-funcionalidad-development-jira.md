@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nueva pestaña Development en Jira'
-description: Nueva funcionalidad para centraliar la información de los equipos de desarollo para mejorar visibilidad y productividad.
+description: Nueva funcionalidad para centraliar la información de los equipos de desarrollo para mejorar visibilidad y productividad.
 date: '2026-02-06T08:00:00Z'
 author: Belén Casanovas
 categories:
