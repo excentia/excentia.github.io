@@ -10,7 +10,7 @@ categories:
 - noticias
 
 
-cover: /img/posts/2026-03-03-release-sonarqube-connector-jira-cloud-3-1.pngssss
+cover: /img/posts/2026-03-03-release-sonarqube-connector-jira-cloud-3-1.png
 
 ---
 
