@@ -6,8 +6,10 @@ date: '2026-03-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- atlassian
-- noticias
+- sonarqube
+- calidad
+- devops
+- noticia
 
 
 cover: /img/posts/2026-03-02-sonar-lanza-kintsugi-revisar-codigo-IA.png
