@@ -33,14 +33,17 @@
 //     }
 // }
 
-@use "theme" with (
-  $head-primary: #f9a600,
-  $head-secondary: #edeae4,
-  $theme-primary: #f0951f,
-  $theme-secondary: #f7b124,
-  $theme-dark: #222,
-  $text-color: #555555
-);
+// variables.less link and gradient background
+$head-primary: #f9a600 ;
+$head-secondary: #edeae4 ;
+$theme-primary: #f0951f ;
+$theme-secondary: #f7b124 ;
+$theme-dark: #222;
+$text-color: #555555;
 
-@use "bootstrap-transition";
-@use "base";
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "mixins",
+        "bootstrap-transition",
+        "base"
+;
