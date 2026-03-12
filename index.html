@@ -8,29 +8,34 @@ redirect_from:
 
 {% include header.html %}
 
-<section id="especialistas-agile-devops" class="bg-primary text-center" style="padding: 50px 0; background-color: white;">
+<section id="especialistas-agile-devops" class="bg-primary text-center">
   <div class="container">
-    <div class="row title">
-      <h2>Especialistas en Agile y DevOps</h2>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-
-        <p class="header-text text-left">
-          Somos el socio perfecto para ayudarte a cerrar la brecha entre los equipos de desarrollo y operaciones
-          gracias a nuestra experiencia con <strong>Atlassian</strong>, <strong>SonarSource</strong> y el mundo <strong>Agile</strong>.
-        </p>
-        <p class="header-text text-left">
-          Ayudamos a las empresas a crear productos de calidad de forma rápida y eficiente.
-        </p>
-        <div class="text-center">
-          <a class="btn btn-primary btn-xl atlassian-background" href="/contacto">CONTÁCTANOS</a>
+    <div class="agile-devops-shell">
+      <div class="row agile-devops-row">
+        <div class="col-md-6 agile-devops-copy">
+          <span class="agile-devops-eyebrow">Atlassian, Sonar y cultura DevOps</span>
+          <h2>Mejora tus procesos y la calidad y seguridad de tu código</h2>
+          <p class="header-text text-left">
+            Somos el socio perfecto para ayudarte a cerrar la brecha entre los equipos de desarrollo y operaciones
+            gracias a nuestra experiencia con <strong>Atlassian</strong>, <strong>SonarSource</strong> y el mundo <strong>Agile</strong>.
+          </p>
+          <p class="header-text text-left">
+            Ayudamos a las empresas a crear productos de calidad de forma rápida y eficiente.
+          </p>
+          <div class="agile-devops-actions">
+            <a class="btn btn-primary btn-xl atlassian-background" href="/contacto">CONTÁCTANOS</a>
+          </div>
         </div>
-      </div>
-      <div class="col-md-6 text-left">
-                <img width="100%"
-             src="/img/services/excentia-especialistas-en-devops-y-agile-en-espana-y-latinoamerica-1202x900.png" alt="Especialistas en desarrollo software y calidad de procesos en España y Latinoamerica">
-
+        <div class="col-md-6 agile-devops-media">
+          <div class="agile-devops-media-frame">
+            <img
+               src="/img/services/excentia-especialistas-en-devops-y-agile-en-espana-y-latinoamerica-1202x900.png" alt="Especialistas en desarrollo software y calidad de procesos en España y Latinoamerica">
+          </div>
+          <div class="agile-devops-note">
+            <strong>Unimos herramientas, procesos y equipos</strong>
+            <span>para mejorar colaboración, calidad del software y capacidad de entrega.</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -38,18 +43,25 @@ redirect_from:
 
 <section id="servicios" class="features bg-white text-center" style="padding: 50px 0">
   <div class="container">
-    <div class="row title">
-      <h2>Servicios</h2>
+    <div class="row title servicios-heading">
+      <div class="col-md-10 col-md-offset-1">
+        <span class="servicios-eyebrow">Servicios expertos</span>
+        <h2>Servicios</h2>
+        <p class="header-text">
+          Acompañamos a los equipos desde la implantación inicial hasta la evolución de la plataforma,
+          combinando licencias, soporte, desarrollo y formación especializada.
+        </p>
+      </div>
     </div>
     <div class="row">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/licencias.png" alt="Licencias">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/licencias.png" alt="Licencias">
               </div>
-              <h3 class="text-center">LICENCIAS</h3>
+              <h3>LICENCIAS</h3>
               <p>
                 Nuevas adquisiciones, renovaciones, agrupaciones, upgrades. Te ayudamos a gestionar tus licencias
                 de Atlassian y SonarSource para que todo sea lo más sencillo posible.
@@ -57,11 +69,11 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/implantacion.png" alt="IMPLANTACIÓN">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/implantacion.png" alt="IMPLANTACIÓN">
               </div>
-              <h3 class="text-center">IMPLANTACIÓN</h3>
+              <h3>IMPLANTACIÓN</h3>
               <p>
                 Análisis del escenario inicial, selección de infraestructura, instalación y configuración,
                 on-boarding de equipos y proyectos.
@@ -69,11 +81,11 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/migracion.png" alt="Servicio de Migración">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/migracion.png" alt="Servicio de Migración">
               </div>
-              <h3 class="text-center">MIGRACIONES Y ACTUALIZACIONES</h3>
+              <h3>MIGRACIONES Y ACTUALIZACIONES</h3>
               <p>
                 Te ayudamos con una hoja de ruta para migrar a los nuevos productos o actualizar los ya existentes
                 y te acompañamos en el proceso. No más dolores de cabeza para estar a la última.
@@ -83,11 +95,11 @@ redirect_from:
         </div>
         <div class="row">
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/desarrollo.png" alt="Servicios de desarrollos personalizados para empresas">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/desarrollo.png" alt="Servicios de desarrollos personalizados para empresas">
               </div>
-              <h3 class="text-center">DESARROLLOS PERSONALIZADOS</h3>
+              <h3>DESARROLLOS PERSONALIZADOS</h3>
               <p>
                 Desarrollamos apps para <strong>Atlassian</strong> y plugins para <strong>SonarSource</strong>. Extendemos las funcionalidades de ambos
                 ecosistemas para adaptarlos a tus necesidades.
@@ -95,11 +107,11 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/soporte.png" alt="Servicio de soporte para escenarios complejos">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/soporte.png" alt="Servicio de soporte para escenarios complejos">
               </div>
-              <h3 class="text-center">SOPORTE 360º</h3>
+              <h3>SOPORTE 360º</h3>
               <p>
                 Te ofrecemos soporte completo para los escenarios más complejos que requieran cualquier tipo de tarea
                 (integraciones, desarrollos, explotación de datos, y mucho más).
@@ -107,11 +119,11 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/formacion.png" alt="Servicio de formación y cursos para profesionales y empresas">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/formacion.png" alt="Servicio de formación y cursos para profesionales y empresas">
               </div>
-              <h3 class="text-center">FORMACIÓN</h3>
+              <h3>FORMACIÓN</h3>
               <p>
                 Transmitimos el conocimiento a los equipos tanto en las mejores prácticas como en el uso de las herramientas.
                 Cursos de calidad del software, inspección continua, gestión de procesos y productos de <a href="/formacion" style="color:#0052CC"><strong>Atlassian</strong></a> y <a href="/formacion" style="color:#e03734"><strong>SonarSource</strong></a>.
@@ -121,7 +133,7 @@ redirect_from:
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row servicios-footer">
       <div class="text-center">
         <a class="btn btn-warning btn-xl" href="/contacto"><strong>¿En qué necesitas ayuda?</strong></a>
       </div>
@@ -197,17 +209,24 @@ redirect_from:
   </div>
 </section>
 
-<section id="devops" class="bg-white text-center" style="padding: 50px 0">
+<section id="devops" class="bg-white text-center">
   <div class="container">
-    <div class="row title">
-      <h2>Desata el potencial de tus equipos<br>y mejora la calidad de tu código</h2>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <img width="100%"
-             src="/img/services/excentia-soluciones-devops-y-formacion-para-equipos-software-operaciones-1461x1200.jpg" alt="Soluciones Devops para equipos de software y operaciones">
-      </div>
-      <div class="col-md-6 text-left">
+    <div class="devops-shell">
+      <div class="row devops-row">
+        <div class="col-md-6 devops-media">
+          <div class="devops-media-frame">
+            <img
+               src="/img/services/excentia-soluciones-devops-y-formacion-para-equipos-software-operaciones-1461x1200.jpg" alt="Soluciones Devops para equipos de software y operaciones">
+          </div>
+          <div class="devops-benefits">
+            <div class="devops-benefit">Mejor colaboración entre desarrollo, operaciones y negocio.</div>
+            <div class="devops-benefit">Implantación guiada con herramientas, procesos y formación.</div>
+            <div class="devops-benefit">Más visibilidad sobre calidad, entrega y mejora continua.</div>
+          </div>
+        </div>
+        <div class="col-md-6 text-left devops-copy">
+        <span class="devops-eyebrow">DevOps y mejora continua</span>
+        <h2>Desata el potencial de tus equipos y<br>mejora la calidad y seguridad de tu código</h2>
         <p class="header-text">
           <strong>DevOps</strong> es la solución perfecta para integrar tu equipo de software, de operaciones y de negocio,
           mejorando la comunicación y creando un entorno de <strong>mejora continua</strong>.
@@ -216,28 +235,54 @@ redirect_from:
           Te acompañamos durante <strong>todo el proceso</strong> desde el análisis y la elección de las herramientas hasta
           su puesta en marcha incluida la formación.
         </p>
-        <div class="text-center">
+        
+        <div class="devops-actions">
           <a class="btn btn-warning btn-xl" href="/contacto">Cuéntanos tu proyecto</a>
+        </div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<section id="partners" class="bg-primary text-center" style="padding: 50px 0">
+<section id="partners" class="bg-primary text-center">
   <div class="container">
-    <div class="row">
-      <h2>Somos partner oficial de los líderes</h2>
-    </div>
-    <br><br>
-    <div class="row">
-      <div class="col-md-5">
-        <img width="85%"
-             src="/img/atlassian-products/atlassian-centered.png" alt="Atlassian Gold Partner Solution">
+    <div class="partners-shell">
+      <div class="row partners-heading">
+        <div class="col-md-10 col-md-offset-1">
+          <span class="partners-eyebrow">Partners oficiales</span>
+          <h2>Somos partner oficial de los líderes</h2>
+          <p class="header-text">
+            Trabajamos con plataformas líderes para implantar soluciones fiables, escalables y orientadas a resultados
+            en colaboración, calidad del software y evolución de los equipos.
+          </p>
+        </div>
       </div>
-      <div class="col-md-5 col-md-offset-2">
-        <img width="70%"
-             src="/img/excentia/logo-new-sonar.png" alt="SonarSource Official Partner">
+      <div class="row partners-grid">
+        <div class="col-md-6">
+          <div class="partners-card partners-card-atlassian">
+            <div class="partners-logo-wrap">
+              <img
+                   src="/img/atlassian-products/atlassian-centered.png" alt="Atlassian Gold Partner Solution">
+            </div>
+            <h3>Atlassian Gold Solution Partner</h3>
+            <p>
+              Licencias, implantación, soporte, formación y evolución de la plataforma para equipos y procesos.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="partners-card partners-card-sonar">
+            <div class="partners-logo-wrap">
+              <img
+                   src="/img/excentia/logo-new-sonar.png" alt="SonarSource Official Partner">
+            </div>
+            <h3>Sonar Gold Partner</h3>
+            <p>
+              Acompañamiento experto para mejorar calidad, seguridad del código e inspección continua en entornos reales.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>

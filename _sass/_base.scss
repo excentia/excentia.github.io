@@ -173,6 +173,402 @@ p {
   margin-bottom: 50px;
 }
 
+#especialistas-agile-devops {
+  padding: 50px 0;
+  background-color: #ffffff;
+}
+
+#especialistas-agile-devops .agile-devops-shell {
+  position: relative;
+  padding: 38px;
+  border-radius: 30px;
+  border: 1px solid var(--line-soft);
+  background:
+    radial-gradient(circle at top right, rgba(255, 130, 0, 0.08), transparent 26%),
+    linear-gradient(180deg, #ffffff, #f8fafc);
+  box-shadow: var(--shadow-soft);
+}
+
+#especialistas-agile-devops .agile-devops-row {
+  display: flex;
+  align-items: center;
+}
+
+#especialistas-agile-devops .agile-devops-copy {
+  text-align: left;
+  padding-right: 22px;
+}
+
+#especialistas-agile-devops .agile-devops-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 130, 0, 0.1);
+  color: #9a4d00;
+  font-size: 1.02rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+#especialistas-agile-devops .agile-devops-eyebrow::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #ff8200;
+}
+
+#especialistas-agile-devops h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+#especialistas-agile-devops .agile-devops-pill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+#especialistas-agile-devops .agile-devops-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: rgba(255, 255, 255, 0.94);
+  color: #334155;
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+
+#especialistas-agile-devops .agile-devops-actions {
+  margin-top: 28px;
+}
+
+#especialistas-agile-devops .agile-devops-media-frame {
+  overflow: hidden;
+  border-radius: 26px;
+  border: 1px solid var(--line-soft);
+  box-shadow: var(--shadow-soft);
+  background: #ffffff;
+}
+
+#especialistas-agile-devops .agile-devops-media-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#especialistas-agile-devops .agile-devops-note {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 18px;
+  padding: 18px 20px;
+  border-radius: 20px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: rgba(255, 255, 255, 0.92);
+  text-align: left;
+}
+
+#especialistas-agile-devops .agile-devops-note strong {
+  font-size: 1.26rem;
+  color: var(--text-strong);
+}
+
+#especialistas-agile-devops .agile-devops-note span {
+  font-size: 1.12rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+#servicios {
+  padding: 50px 0;
+}
+
+#servicios .servicios-heading {
+  margin-bottom: 42px;
+}
+
+#servicios .servicios-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 130, 0, 0.1);
+  color: #9a4d00;
+  font-size: 1.02rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+#servicios .servicios-eyebrow::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #ff8200;
+}
+
+#servicios .servicios-heading p {
+  max-width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #475569;
+}
+
+#servicios .servicios-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  min-height: 430px;
+  padding: 32px 28px 28px;
+  border-radius: 28px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: linear-gradient(180deg, #ffffff, #f8fafc);
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08);
+}
+
+#servicios .servicios-icon-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 84px;
+  height: 84px;
+  margin-bottom: 22px;
+  border-radius: 24px;
+  background: linear-gradient(180deg, rgba(255, 130, 0, 0.12), rgba(255, 255, 255, 0.96));
+  border: 1px solid rgba(255, 130, 0, 0.14);
+}
+
+#servicios .servicios-icon-badge img {
+  display: block;
+  width: 54px;
+  height: 54px;
+  object-fit: contain;
+}
+
+#servicios .servicios-card h3 {
+  width: 100%;
+  margin: 0 0 14px;
+  font-size: 1.64rem;
+  line-height: 1.28;
+  text-align: left;
+}
+
+#servicios .servicios-card p {
+  margin-bottom: 0;
+  color: #475569;
+  line-height: 1.8;
+}
+
+#servicios .servicios-footer {
+  margin-top: 18px;
+}
+
+#devops {
+  padding: 50px 0;
+}
+
+#devops .devops-shell {
+  padding: 38px;
+  border-radius: 30px;
+  border: 1px solid var(--line-soft);
+  background:
+    radial-gradient(circle at top left, rgba(255, 130, 0, 0.08), transparent 24%),
+    linear-gradient(180deg, #ffffff, #f8fafc);
+  box-shadow: var(--shadow-soft);
+}
+
+#devops .devops-row {
+  display: flex;
+  align-items: center;
+}
+
+#devops .devops-media-frame {
+  overflow: hidden;
+  border-radius: 26px;
+  border: 1px solid var(--line-soft);
+  box-shadow: var(--shadow-soft);
+  background: #ffffff;
+}
+
+#devops .devops-media-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#devops .devops-copy {
+  padding-left: 24px;
+}
+
+#devops .devops-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 130, 0, 0.1);
+  color: #9a4d00;
+  font-size: 1.02rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+#devops .devops-eyebrow::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #ff8200;
+}
+
+#devops h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+#devops .devops-benefits {
+  display: grid;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+#devops .devops-benefit {
+  position: relative;
+  padding: 14px 18px 14px 46px;
+  border-radius: 18px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: rgba(255, 255, 255, 0.92);
+  color: #334155;
+  font-size: 1.18rem;
+  line-height: 1.7;
+}
+
+#devops .devops-benefit::before {
+  content: "";
+  position: absolute;
+  left: 18px;
+  top: 22px;
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  background: #ff8200;
+}
+
+#devops .devops-actions {
+  margin-top: 26px;
+}
+
+#partners {
+  padding: 50px 0;
+}
+
+#partners .partners-shell {
+  padding: 38px;
+  border-radius: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background:
+    radial-gradient(circle at top right, rgba(255, 255, 255, 0.12), transparent 26%),
+    linear-gradient(135deg, #0f172a, #1e293b);
+  box-shadow: var(--shadow-soft);
+}
+
+#partners .partners-heading {
+  margin-bottom: 34px;
+}
+
+#partners .partners-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #f8fafc;
+  font-size: 1.02rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+#partners .partners-eyebrow::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #ff8200;
+}
+
+#partners h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #ffffff;
+}
+
+#partners .partners-heading p {
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+#partners .partners-card {
+  height: 100%;
+  padding: 30px 26px;
+  border-radius: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.08);
+  text-align: left;
+}
+
+#partners .partners-logo-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 112px;
+  margin-bottom: 22px;
+  padding: 18px;
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.96);
+}
+
+#partners .partners-logo-wrap img {
+  display: block;
+  max-width: 100%;
+  max-height: 68px;
+  width: auto;
+  height: auto;
+}
+
+#partners .partners-card h3 {
+  margin: 0 0 12px;
+  color: #ffffff;
+  font-size: 1.72rem;
+  line-height: 1.24;
+}
+
+#partners .partners-card p {
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.8;
+}
+
 :root {
   --site-bg: #f5f7fa;
   --surface: #ffffff;
@@ -2531,6 +2927,44 @@ img.center {
 }
 
 @media (max-width: 991px) {
+  #partners .partners-shell {
+    padding: 30px;
+  }
+
+  #partners .partners-grid > div + div {
+    margin-top: 24px;
+  }
+
+  #devops .devops-row {
+    display: block;
+  }
+
+  #devops .devops-shell {
+    padding: 30px;
+  }
+
+  #devops .devops-copy {
+    padding-left: 0;
+    margin-top: 26px;
+  }
+
+  #servicios .servicios-card {
+    min-height: 0;
+  }
+
+  #especialistas-agile-devops .agile-devops-row {
+    display: block;
+  }
+
+  #especialistas-agile-devops .agile-devops-shell {
+    padding: 30px;
+  }
+
+  #especialistas-agile-devops .agile-devops-copy {
+    padding-right: 0;
+    margin-bottom: 26px;
+  }
+
   .site-footer-main {
     padding: 52px 0 20px;
   }
@@ -2558,6 +2992,67 @@ img.center {
 }
 
 @media (max-width: 767px) {
+  #partners .partners-shell {
+    padding: 24px;
+    border-radius: 24px;
+  }
+
+  #partners .partners-card {
+    padding: 24px 20px;
+  }
+
+  #partners .partners-logo-wrap {
+    min-height: 96px;
+    padding: 14px;
+  }
+
+  #partners .partners-logo-wrap img {
+    max-height: 56px;
+  }
+
+  #devops .devops-shell {
+    padding: 24px;
+    border-radius: 24px;
+  }
+
+  #devops .devops-benefit {
+    padding: 13px 16px 13px 42px;
+  }
+
+  #devops .devops-benefit::before {
+    left: 16px;
+    top: 21px;
+  }
+
+  #servicios .servicios-card {
+    padding: 26px 22px 24px;
+  }
+
+  #servicios .servicios-icon-badge {
+    width: 76px;
+    height: 76px;
+    margin-bottom: 18px;
+  }
+
+  #servicios .servicios-icon-badge img {
+    width: 48px;
+    height: 48px;
+  }
+
+  #especialistas-agile-devops .agile-devops-shell {
+    padding: 24px;
+    border-radius: 24px;
+  }
+
+  #especialistas-agile-devops .agile-devops-pill-list {
+    gap: 10px;
+  }
+
+  #especialistas-agile-devops .agile-devops-pill {
+    width: 100%;
+    justify-content: center;
+  }
+
   .site-newsletter {
     padding: 68px 0;
   }

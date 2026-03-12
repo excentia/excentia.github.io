@@ -8,28 +8,33 @@ redirect_from:
 
 {% include header-en.html %}
 
-<section id="especialistas-agile-devops" class="bg-primary text-center" style="padding: 50px 0; background-color: white;">
+<section id="especialistas-agile-devops" class="bg-primary text-center">
   <div class="container">
-    <div class="row title">
-      <h2>Agile and DevOps Specialists</h2>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-
+    <div class="agile-devops-shell">
+      <div class="row agile-devops-row">
+        <div class="col-md-6 agile-devops-copy">
+          <span class="agile-devops-eyebrow">Atlassian, Sonar and DevOps culture</span>
+          <h2>Improve your processes and the quality and security of your code</h2>
         <p class="header-text text-left">
           excentia is the perfect partner to help you bridge the gap between development and operations teams thanks to our experience with <strong>Atlassian, SonarSource and the Agile world</strong>.
         </p>
         <p class="header-text text-left">
           We help companies create quality products quickly and efficiently.
         </p>
-        <div class="text-center">
+        <div class="agile-devops-actions">
           <a class="btn btn-primary btn-xl atlassian-background" href="contacto">CONTACT US</a>
         </div>
-      </div>
-      <div class="col-md-6 text-left">
-                <img width="100%"
-             src="/img/services/excentia-especialistas-en-devops-y-agile-en-espana-y-latinoamerica-1202x900.png" alt="Specialists in software development and process quality in Spain and Latin America">
-
+        </div>
+        <div class="col-md-6 agile-devops-media">
+          <div class="agile-devops-media-frame">
+            <img
+               src="/img/services/excentia-especialistas-en-devops-y-agile-en-espana-y-latinoamerica-1202x900.png" alt="Specialists in software development and process quality in Spain and Latin America">
+          </div>
+          <div class="agile-devops-note">
+            <strong>We connect tools, processes and teams</strong>
+            <span>to improve collaboration, software quality and delivery capability.</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -37,16 +42,22 @@ redirect_from:
 
 <section id="servicios" class="features bg-white text-center" style="padding: 50px 0">
   <div class="container">
-    <div class="row title">
-      <h2>Services</h2>
+    <div class="row title servicios-heading">
+      <div class="col-md-10 col-md-offset-1">
+        <span class="servicios-eyebrow">Expert services</span>
+        <h2>Services</h2>
+        <p class="header-text">
+          We support teams from initial implementation to platform evolution, combining licenses, support, development and specialized training.
+        </p>
+      </div>
     </div>
     <div class="row">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/licencias.png" alt="Licenses">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/licencias.png" alt="Licenses">
               </div>
               <h3>LICENSES</h3>
               <p>
@@ -55,9 +66,9 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/implantacion.png" alt="Implantation">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/implantacion.png" alt="Implantation">
               </div>
               <h3>IMPLANTATION</h3>
               <p>
@@ -66,9 +77,9 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/migracion.png" alt="Migration Specialists">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/migracion.png" alt="Migration Specialists">
               </div>
               <h3>MIGRATION AND UPDATES</h3>
               <p>
@@ -79,9 +90,9 @@ redirect_from:
         </div>
         <div class="row">
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/desarrollo.png" alt="Custom developments">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/desarrollo.png" alt="Custom developments">
               </div>
               <h3>CUSTOM DEVELOPMENTS</h3>
               <p>
@@ -90,9 +101,9 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/soporte.png" alt="Support in complex scenarios">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/soporte.png" alt="Support in complex scenarios">
               </div>
               <h3>SUPPORT 360º</h3>
               <p>
@@ -101,9 +112,9 @@ redirect_from:
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-item">
-              <div class="text-center">
-                <img width=90px src="/img/services/formacion.png" alt="Training">
+            <div class="service-item servicios-card">
+              <div class="servicios-icon-badge">
+                <img src="/img/services/formacion.png" alt="Training">
               </div>
               <h3>TRAINING</h3>
               <p>
@@ -114,7 +125,7 @@ redirect_from:
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row servicios-footer">
       <div class="text-center">
         <a class="btn btn-warning btn-xl" href="contacto"><strong>How can we help you?</strong></a>
       </div>
@@ -191,45 +202,77 @@ redirect_from:
   </div>
 </section>
 
-<section id="devops" class="bg-white text-center" style="padding: 50px 0">
+<section id="devops" class="bg-white text-center">
   <div class="container">
-    <div class="row title">
-      <h2>Unleash the potential of your teams<br/> and improve the quality of your code</h2>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <img width="100%"
-             src="/img/services/excentia-soluciones-devops-y-formacion-para-equipos-software-operaciones-1461x1200.jpg" alt="Devops solutions for software and operations teams">
-      </div>
-      <div class="col-md-6 text-left">
+    <div class="devops-shell">
+      <div class="row devops-row">
+        <div class="col-md-6 devops-media">
+          <div class="devops-media-frame">
+            <img
+               src="/img/services/excentia-soluciones-devops-y-formacion-para-equipos-software-operaciones-1461x1200.jpg" alt="Devops solutions for software and operations teams">
+          </div>
+          <div class="devops-benefits">
+            <div class="devops-benefit">Better collaboration between development, operations and business.</div>
+            <div class="devops-benefit">Guided implementation with tools, processes and training.</div>
+            <div class="devops-benefit">More visibility over quality, delivery and continuous improvement.</div>
+          </div>
+        </div>
+        <div class="col-md-6 text-left devops-copy">
+        <span class="devops-eyebrow">DevOps and continuous improvement</span>
+        <h2>Unleash the potential of your teams and<br>improve the quality and security of your code</h2>
         <p class="header-text">
           <strong>DevOps is the perfect solution to integrate your software, operations and business team, improving communication and creating an environment of continuous improvement</strong>.
         </p>
         <p class="header-text">
           We help you throughout the process from the analysis and the choice of tools to their commissioning, including training.
         </p>
-        <div class="text-center">
+        
+        <div class="devops-actions">
           <a class="btn btn-warning btn-xl" href="contacto">Tell us about your project</a>
+        </div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<section id="partners" class="bg-primary text-center" style="padding: 50px 0">
+<section id="partners" class="bg-primary text-center">
   <div class="container">
-    <div class="row">
-      <h2>Official Partner of the Leaders</h2>
-    </div>
-    <br><br>
-    <div class="row">
-      <div class="col-md-5">
-        <img width="85%"
-             src="/img/atlassian-products/atlassian-centered.png" alt="Atlassian Gold Partner Solution">
+    <div class="partners-shell">
+      <div class="row partners-heading">
+        <div class="col-md-10 col-md-offset-1">
+          <span class="partners-eyebrow">Official partners</span>
+          <h2>Official Partner of the Leaders</h2>
+          <p class="header-text">
+            We work with leading platforms to implement reliable, scalable and results-oriented solutions for collaboration, software quality and team evolution.
+          </p>
+        </div>
       </div>
-      <div class="col-md-5 col-md-offset-2">
-        <img width="70%"
-             src="/img/excentia/logo-new-sonar.png" alt="SonarSource Official Partner">
+      <div class="row partners-grid">
+        <div class="col-md-6">
+          <div class="partners-card partners-card-atlassian">
+            <div class="partners-logo-wrap">
+              <img
+                   src="/img/atlassian-products/atlassian-centered.png" alt="Atlassian Gold Partner Solution">
+            </div>
+            <h3>Atlassian Gold Solution Partner</h3>
+            <p>
+              Licenses, implementation, support, training and platform evolution for teams and processes.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="partners-card partners-card-sonar">
+            <div class="partners-logo-wrap">
+              <img
+                   src="/img/excentia/logo-new-sonar.png" alt="SonarSource Official Partner">
+            </div>
+            <h3>Sonar Gold Partner</h3>
+            <p>
+              Expert support to improve code quality, security and continuous inspection in real-world environments.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
