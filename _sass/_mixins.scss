@@ -1,3 +1,5 @@
+@use "sass:color";
+
 @mixin transition-all()
 {
     -webkit-transition: all 0.35s;
@@ -27,8 +29,8 @@
 	&.active,
 	.open > .dropdown-toggle & {
 		color: $color;
-		background-color: darken($background, 5%);
-    border-color: darken($border, 7%);
+		background-color: color.adjust($background, $lightness: -5%);
+    border-color: color.adjust($border, $lightness: -7%);
 	}
 	&:active,
 	&.active,
