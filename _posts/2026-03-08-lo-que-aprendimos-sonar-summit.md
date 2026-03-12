@@ -9,7 +9,7 @@ categories:
 - sonarqube
 - calidad
 - devops
-- noticia
+- noticias
 
 
 cover: /img/posts/2026-03-08-lo-que-aprendimos-sonar-summit.png
