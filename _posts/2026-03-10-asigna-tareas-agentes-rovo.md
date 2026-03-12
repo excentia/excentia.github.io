@@ -59,7 +59,7 @@ El agente hará referencia al contexto del comentario y podrá acceder directame
 
 <h3>Activarlo en transiciones del workflow</h3>
 
-Puedes comenzar a automatiza un agente **asignándolo a una transición de Workflow**. Antes de comenzar, asegúrate de que Rovo está habilitado en tu espacio y de que se otorgan todos los permisos necesarios.
+Puedes comenzar a automatizar un agente **asignándolo a una transición de Workflow**. Antes de comenzar, asegúrate de que Rovo está habilitado en tu espacio y de que se otorgan todos los permisos necesarios.
 
 Hay que tener en cuenta que **el agente se activa cuando cualquier miembro del equipo mueve una tarea** al estado asignado.
 
