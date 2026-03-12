@@ -48,8 +48,6 @@ social:
     url: https://www.youtube.com/user/eXcentiaTube
   - title: feed
     url: https://www.excentia.es/feed.xml
-  - title: email
-    url:
 
 # defaults to hide folders from sitemap
 defaults:

@@ -3,31 +3,33 @@
 
 {% include head.html %}
 
-<body id="page-top">
+<body id="page-top" class="layout-simple">
   {% include nav.html %}
-    
-  <section id="legal" class="download bg-primary text-center" style="padding-top: 90px; padding-bottom: 20px">
+
+  <section id="legal" class="download bg-primary text-center site-page-hero">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-8 offset-md-2">
                 <h2 class="section-heading"> {{page.title }} </h2>
                 <hr class="light">
             </div>
         </div>
     </div>
   </section>
-    
-    
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="modal-body" style="padding-top: 50px; font-size: 1.5em">
-                        {{ content }}
-                    </div>
-                </div>
-                
-            </div>
+
+  <main class="site-layout site-layout-simple">
+    <section class="site-content-shell">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <article class="modal-body site-richtext site-richtext-page">
+              {{ content }}
+            </article>
+          </div>
         </div>
+      </div>
+    </section>
+  </main>
 
   {% include contact.html %}
   {% include scripts.html %}

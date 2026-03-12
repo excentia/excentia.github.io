@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body id="page-top">
+<body id="page-top" class="layout-front{% if page.url == '/en/' %} home-page{% endif %}">
   {% include nav-en.html %}
 
   {{ content }}

@@ -3,24 +3,25 @@
 
 {% include head.html %}
 
-<body id="page-top">
+<body id="page-top" class="layout-post">
   {% include nav.html %}
   {% include header-post.html %}
-    
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-10 col-lg-offset-1">
-                    <div class="modal-body" style="padding-top: 50px; font-size: 1.2em;">
-                        {{ page.content }}
-                    </div>
-                </div>
-                
-            </div>
+  <main class="site-layout site-layout-post">
+    <section class="site-reading-shell">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 offset-lg-1">
+            <article class="modal-body site-richtext site-richtext-post">
+              {{ page.content }}
+            </article>
+          </div>
         </div>
+      </div>
+    </section>
+  </main>
   {% include share.html %}
   {% include contact.html %}
   {% include scripts.html %}
 </body>
 
 </html>
-

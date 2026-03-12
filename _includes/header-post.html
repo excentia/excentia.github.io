@@ -1,10 +1,10 @@
- <header>
+ <header class="site-hero site-hero-post">
 
    <!-- Header -->
-    <div class="container" style="background-image: url(/img/product-background-header.png)">
+    <div class="container site-hero-pattern">
             <div class="row">
-                <div class="header-content text-center">
-                <div class="header-content-inner text-center" style="width: 100%">
+                <div class="header-content text-center site-hero-content">
+                <div class="header-content-inner text-center site-hero-panel site-hero-panel-post">
      
                     <!-- image cover? -->
                     
@@ -42,7 +42,7 @@
                             <ul class="list-inline item-details">
                                 {% for tag in page.categories %}
                                 <li>
-                                    <a href="/search?query={{ tag }}"><h5 class="label label-warning" style="text-transform: uppercase;">{{ tag }}</h5></a>
+                                    <a href="/search?query={{ tag }}"><h5 class="label label-warning post-tag-label">{{ tag }}</h5></a>
                                 </li>
                                 {% endfor %}                                    
                             </ul> 

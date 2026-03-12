@@ -1,15 +1,15 @@
-<footer id="contact">
-    <div class="footer-above">
+<footer id="contact" class="site-footer">
+    <div class="footer-above site-footer-main">
         <div class="container">
-                <div class="row text-left">
-                    <div class="footer-col col-md-4 text-left">
+                <div class="row text-left site-footer-brand-row">
+                    <div class="footer-col col-md-4 text-left site-footer-brand">
                         <p class="footer-text">
                             <img width=100px src="/img/excentia/logo-excentia-fondo-transparente-sineslogan.png" alt="excentia">
                         </p>
                     </div>
                 </div>
-                <div class="row text-left">
-                    <div class="footer-col col-md-4 text-left">
+                <div class="row text-left site-footer-links-row">
+                    <div class="footer-col col-md-4 text-left site-footer-address">
                         <p class="footer-text">
                             C/GRABADOR ESTEVE 15<br>
                             46004 VALENCIA (SPAIN)<br><br>
@@ -17,17 +17,17 @@
                             INFO@EXCENTIA.ES
                         </p>
                     </div>
-                    <div class="footer-col col-md-2 text-left">
+                    <div class="footer-col col-md-2 text-left site-footer-navcol">
                         <p class="footer-text">
                             <a href="nosotros"><strong>About</strong></a>
                         </p>
                     </div>
-                    <div class="footer-col col-md-2 text-left">
+                    <div class="footer-col col-md-2 text-left site-footer-navcol">
                         <p class="footer-text">
                             <a href="servicios"><strong>Services</strong></a>
                         </p>
                     </div>
-                    <div class="footer-col col-md-2 text-left">
+                    <div class="footer-col col-md-2 text-left site-footer-navcol">
                         <p class="footer-text">
                             <a href="atlassian"><strong>Atlassian</strong></a>
                         </p>
@@ -35,7 +35,7 @@
                             <a href="sonarsource"><strong>SonarSource</strong></a>
                         </p>
                     </div>
-                    <div class="footer-col col-md-2 text-left">
+                    <div class="footer-col col-md-2 text-left site-footer-navcol">
                         <p class="footer-text">
                             <a href="contacto"><strong>Contact</strong></a>
                         </p>
@@ -50,19 +50,34 @@
                 </div>
         </div>
     </div>
-    <div style="padding-top: 25px"></div>
-    <div class="footer-below">
+    <div class="site-footer-separator"></div>
+    <div class="footer-below site-footer-meta">
         <div class="container">
-            <div class="row">
-                <div class="footer-col col-md-4 text-center">
+            <div class="row site-footer-meta-row">
+                <div class="footer-col col-md-6 text-center site-footer-certs">
                     <a href="/img/certs/applus-ens-full.pdf" target="_blank"><img style="margin-right: 10px" height="80px" src="/img/certs/applus-ens.png"></a>
                     <a href="/img/certs/applus-iso-27001-full.pdf" target="_blank"><img style="margin-right: 10px" height="100px" src="/img/certs/applus-iso-27001.png"></a>
                     <a href="/img/certs/aenor-iso-9000-full.png" target="_blank"><img style="margin-right: 10px" height="75px" src="/img/certs/aenor-iso-9000.png"></a>
                     <a href="/img/certs/iqnet-certified-full.png" target="_blank"><img height="75px" src="/img/certs/iqnet-certified.png"></a>
                 </div>
-                <div class="footer-col col-md-4 text-center">
+                <div class="footer-col col-md-6 text-center site-footer-social">
+                    <ul class="list-inline site-footer-social-links">
+                        {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" class="btn-social"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
+                        </li>
+                        {% endfor %}
+                        <li>
+                            <a href="https://eepurl.com/dJkEiv" target="_blank" class="btn-social"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="row site-footer-legal-row">
+                <div class="footer-col col-md-12 text-center site-footer-legal">
                     <p>&copy; 2026 - excentia</p>
-                    <ul class="list-inline">
+                    <ul class="list-inline site-footer-legal-links">
                         <li>
                             <a href="/legal">Legal Notice</a>
                         </li>
@@ -77,22 +92,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="footer-col col-md-4 text-center">
-                    <ul class="list-inline">
-                        {% for network in site.social %}
-                        <li>
-                            <a href="{{ network.url }}" class="btn-social"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
-                        </li>
-                        {% endfor %}
-                        <li>
-                            <a href="https://eepurl.com/dJkEiv" target="_blank" class="btn-social"><i class="fa fa-fw fa-envelope fa-2x"></i></a>
-                        </li>
-                    </ul>
-
-                </div>
             </div>
         </div>
     </div>
 </footer>
-
-

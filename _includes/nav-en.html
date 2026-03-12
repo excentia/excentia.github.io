@@ -1,61 +1,87 @@
-<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+<nav id="mainNav" class="site-navbar" aria-label="Primary">
   <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-              data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i>
-      </button>
-      <a class="navbar-brand page-scroll" href="/"><img width="125px" src="/img/header-logo.png" alt="Logotipo nav"></a>
-    </div>
+    <div class="site-navbar-shell">
+      <a class="site-navbar-brand" href="/">
+        <img width="125" src="/img/header-logo.png" alt="Logotipo nav">
+      </a>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="nav-item dropdown">
-          <a href="#" class="page-scroll dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn" role="button" aria-haspopup="true" aria-expanded="false">About us<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a class="page-scroll" href="/en/nosotros">About</a></li>
-            <li><a class="page-scroll" href="/en/politica-calidad">Quality Policy</a></li>
-            <li><a class="page-scroll" href="/en/success-stories">Success Stories</a></li>
-            <li><a class="page-scroll" href="/en/eventos">Events</a></li>
-            <li><a class="page-scroll" href="/en/empleo">Join Us</a></li>
-          </ul>
-        </li>
-        <li class="nav-item dropdown">
-          <a href="#" class="page-scroll dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn" role="button" aria-haspopup="true" aria-expanded="false">Atlassian<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a class="page-scroll" href="/en/atlassian">About Atlassian</a></li>
-            <li><a class="page-scroll" href="/en/atlassian#atlassian-services">Servicies</a></li>
-            <li><a class="page-scroll" href="/en/atlassian#atlassian-products">Products</a></li>       
-          </ul>
-        </li>
-        <li class="nav-item dropdown">
-          <a href="#" class="page-scroll dropdown-toggle" data-hover="dropdown" data-animations="fadeIn fadeIn fadeIn fadeIn" role="button" aria-haspopup="true" aria-expanded="false">SonarSource<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a class="page-scroll" href="/en/sonarsource">About SonarSource</a></li>
-            <li><a class="page-scroll" href="/en/sonarsource#services-sonarsource">Services</a></li>
-            <li><a class="page-scroll" href="/en/sonarsource#productos-sonarsource">Products</a></li>
-            <li><a class="page-scroll" href="/en/sonarsource#solutions-sonarsource">Solutions</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="/en/apps-atlassian-marketplace">Apps</a>
-        </li>
-        <li>
-          <a href="/en/blog">Blog</a>
-        </li>
-        <li>
-          <div style="padding-top: 7px">
-            <a class="btn btn-warning" style="font-size: 11px; letter-spacing: 1px;line-height:20px" href="/en/contacto">Contact Us</a>
-          </div>
-        </li>
-        <li>
-          <a href="/">es</a>
-        </li>
-      </ul>
+      <button
+        class="site-navbar-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-navbar-menu-en"
+        data-site-nav-toggle>
+        <span class="sr-only">Toggle navigation</span>
+        <span class="site-navbar-toggle-icon" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </button>
+
+      <div class="site-navbar-menu" id="site-navbar-menu-en" data-site-nav-menu>
+        <ul class="site-navbar-links" role="list">
+          <li class="site-navbar-item site-navbar-item--dropdown" data-site-dropdown>
+            <button
+              class="site-navbar-link site-navbar-link--toggle"
+              type="button"
+              aria-expanded="false"
+              data-site-dropdown-toggle>
+              About us
+              <span class="site-navbar-caret" aria-hidden="true"></span>
+            </button>
+            <ul class="site-navbar-dropdown" role="list">
+              <li><a class="site-navbar-dropdown-link" href="/en/nosotros">About</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/politica-calidad">Quality Policy</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/success-stories">Success Stories</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/eventos">Events</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/empleo">Join Us</a></li>
+            </ul>
+          </li>
+          <li class="site-navbar-item site-navbar-item--dropdown" data-site-dropdown>
+            <button
+              class="site-navbar-link site-navbar-link--toggle"
+              type="button"
+              aria-expanded="false"
+              data-site-dropdown-toggle>
+              Atlassian
+              <span class="site-navbar-caret" aria-hidden="true"></span>
+            </button>
+            <ul class="site-navbar-dropdown" role="list">
+              <li><a class="site-navbar-dropdown-link" href="/en/atlassian">About Atlassian</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/atlassian#atlassian-services">Servicies</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/atlassian#atlassian-products">Products</a></li>
+            </ul>
+          </li>
+          <li class="site-navbar-item site-navbar-item--dropdown" data-site-dropdown>
+            <button
+              class="site-navbar-link site-navbar-link--toggle"
+              type="button"
+              aria-expanded="false"
+              data-site-dropdown-toggle>
+              SonarSource
+              <span class="site-navbar-caret" aria-hidden="true"></span>
+            </button>
+            <ul class="site-navbar-dropdown" role="list">
+              <li><a class="site-navbar-dropdown-link" href="/en/sonarsource">About SonarSource</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/sonarsource#services-sonarsource">Services</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/sonarsource#productos-sonarsource">Products</a></li>
+              <li><a class="site-navbar-dropdown-link" href="/en/sonarsource#solutions-sonarsource">Solutions</a></li>
+            </ul>
+          </li>
+          <li class="site-navbar-item">
+            <a class="site-navbar-link" href="/en/apps-atlassian-marketplace">Apps</a>
+          </li>
+          <li class="site-navbar-item">
+            <a class="site-navbar-link" href="/en/blog">Blog</a>
+          </li>
+        </ul>
+
+        <div class="site-navbar-actions">
+          <a class="btn btn-warning site-navbar-cta" href="/en/contacto">Contact Us</a>
+          <a class="site-navbar-lang" href="/">es</a>
+        </div>
+      </div>
     </div>
-    <!-- /.navbar-collapse -->
   </div>
-  <!-- /.container-fluid -->
 </nav>

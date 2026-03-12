@@ -3,15 +3,16 @@
 
 {% include head.html %}
 
-<body id="page-top">
+<body id="page-top" class="layout-blog">
   {% include nav-en.html %}
-  {% include header-blog-en.html %}
-  {% include blog-top-grid.html %}
-  {% include categories-grid.html %}
-  {% include blog-grid.html %}
+  <main class="site-layout site-layout-blog">
+    {% include header-blog-en.html %}
+    {% include blog-top-grid.html %}
+    {% include categories-grid.html %}
+    {% include blog-grid.html %}
+  </main>
   {% include contact-en.html %}
   {% include scripts.html %}
 </body>
 
 </html>
-
