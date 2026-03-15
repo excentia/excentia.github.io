@@ -18,10 +18,6 @@ cover: /img/posts/2023-03-30-jiracloud-sonarqube-connector-2.27-cover.png
 
 Cuando escuchas "Inteligencia Artificial" seguro que lo primero que te viene a la mente es una película de ciencia ficción o algo futurista, pero la verdad que a día de hoy ya es una realidad y por eso no podíamos quedarnos atrás y hemos decido integrarla en nuestro producto gracias a [OpenAI](https://openai.com/).
 
-<div style="display: flex; justify-content: center; margin: 30px;">
-    <img src="/img/posts/2023-03-30-awesome.gif" alt="Awesome gif"/>
-</div>
-
 Y aunque sabemos que los desarrolladores son muy buenos, siempre existen evidencias de **SonarCloud**&trade; o **SonarQube**&trade; que les cuesta entender o no saben como pueden solucionarla, pues bien, en esta nueva versión vamos a intentar ayudarlos.
 
 <h3>¿Y cómo lo haremos?</h3>

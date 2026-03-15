@@ -26,8 +26,6 @@ de agrupación en aplicaciones y portfolios de SonarQube son similares a contene
 
 ## Éxito o fracaso
 
-<img width="100%" src="img/posts/2020-09-25-ventajas-sonarqube-enterprise-code-quality-process.gif" alt="Analogia construcción naval">
-
 Si pensamos en una aplicación como un conjunto de bloques de construcción, los archivos y proyectos son los elementos básicos. Combina los elementos correctos aquí y allá y tienes una cartera de productos.
 
 La forma en que tu organización gestione este proceso es la diferencia entre el **éxito** y el **fracaso**.
