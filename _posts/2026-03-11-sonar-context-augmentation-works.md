@@ -51,6 +51,6 @@ La **beta de Sonar Context Argumentation** está disponible desde hoy para proye
 
 - Un agente de IA como Cursor, GitHub Copilot o Claude Code.
 
-Te recordamos que este es un artículo traducido del original que puedes encontrar <a href="https://www.sonarsource.com/blog/introducing-sonar-context-augmentation/" target="_blank" rel="nofollow noopener noreferrer">aquí</a>, 
-en el blog de Sonar. Si quieres probar Sonra Context Argumentation, en el ese mismo artículo puedes registrarte.
- ¡Nos leemos en el siguiente post!
+Te recordamos que este es un artículo traducido del original que puedes encontrar <a href="https://www.sonarsource.com/blog/introducing-sonar-context-augmentation/" target="_blank" rel="nofollow noopener noreferrer">aquí</a>, en el blog de Sonar. Si quieres probar Sonar Context Argumentation, en el ese mismo artículo puedes registrarte.
+
+¡Nos leemos en el siguiente post!
