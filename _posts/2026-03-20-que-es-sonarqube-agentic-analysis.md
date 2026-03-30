@@ -53,4 +53,4 @@ Además, incluye capacidades como:
 - Detección de secretos. <br>
 - Análisis en entornos de Infraestructura como Código (Docker, Kubernetes, Terraform). <br>
 
-Como vemo, cada vez más, el trabajo se desplaza de escribir código a supervisarlo, validarlo y darle dirección. Si necesitas más información sobre como adaptarte a este nuevo escenario o tienes dudas sobre las nuevas soluciones de SonarQube, puedes ponerte en contacto con nuestro equipo a través de [este enlace](/contacto). 
+Como vemos, cada vez más, el trabajo se desplaza de escribir código a supervisarlo, validarlo y darle dirección. Si necesitas más información sobre como adaptarte a este nuevo escenario o tienes dudas sobre las nuevas soluciones de SonarQube, puedes ponerte en contacto con nuestro equipo a través de [este enlace](/contacto). 
