@@ -43,40 +43,40 @@ El objetivo de esta fase es proporcionar a los agentes de IA el contexto necesar
 
 - **Sonar Conext Augmentation** es un servicio que inyecta conocimiento profundo y en tiempo real desde SonarQube directamente en el flujo de trabajo de agentes de IA de programación (como Cursor, Claude Code, Copilot, etc.).
 
-Puedes ampliar la información sobre esta solución en [este enlace](https://www.excentia.es/sonar-context-augmentation-works).
+Puedes ampliar la información sobre esta solución en [este enlace](/sonar-context-augmentation-works).
 
-- **SonarQube MCP Server** es un componente local que actúa como un puente entre los agentes basados en IA y tu instancia de SonarQube Server o SonarQube Cloud. Si necesitas más información sobre este servidor, puedes consultar [este enlace](https://www.excentia.es/sonarqube-mcp-server-seguridad-calidad-codigo).
+- **SonarQube MCP Server** es un componente local que actúa como un puente entre los agentes basados en IA y tu instancia de SonarQube Server o SonarQube Cloud. Si necesitas más información sobre este servidor, puedes consultar [este enlace](/sonarqube-mcp-server-seguridad-calidad-codigo).
 
 - **SonarSweep** es una tecnología de Sonar diseñada para mejorar la calidad de los datos de entrenamiento utilizados en modelos de lenguaje de IA para programación (LLMs). 
 
-La información detallada sobre este servicio está [este enlace](https://www.excentia.es/sonar-lanza-sonarsweep-mejorar-entrenamiento-LLMs).
+La información detallada sobre este servicio está [este enlace](/sonar-lanza-sonarsweep-mejorar-entrenamiento-LLMs).
 
 
 <h3>2 - Generate</h3>
 
 La fase Generate tiene como objetivo generar código automáticamente a partir del contexto definido. Por ello,  SonarQube for IDE, anteriormente conocido como SonarLint, encaja perfectamente en esta parte. 
 
-- **SonarQube for IDE (anteriormente SonarLint)** es una extensión gratuita y de código abierto para entornos de desarrollo IDE como VS Code, IntelliJ, Eclipse y Visual Studio. En concreto, esta solución va corrigiendo el código conforme estas programando, es decir, te permite generar código de calidad en el mismo IDE. En [este enlace](https://www.excentia.es/que-es-sonarlint-y-como-mejora-calidad-codigo) tienes más información sobre SonarQube for IDE.
+- **SonarQube for IDE (anteriormente SonarLint)** es una extensión gratuita y de código abierto para entornos de desarrollo IDE como VS Code, IntelliJ, Eclipse y Visual Studio. En concreto, esta solución va corrigiendo el código conforme estas programando, es decir, te permite generar código de calidad en el mismo IDE. En [este enlace](/que-es-sonarlint-y-como-mejora-calidad-codigo) tienes más información sobre SonarQube for IDE.
 
 
 <h3>3 - Verify</h3>
 
 En esta fase el objetivo es validar que el código generado cumple los requisitos de calidad, seguridad y funcionalidad. Con este contexto, las soluciones de SonarQube que encajan en esta fase son las siguientes: 
 
-- **SonarQube Advanced Security** es una extensión de pago para SonarQube Enterprise/Data Center que añade capacidades avanzadas de seguridad, como SCA, SAST avanzado, detección de secretos o informes de seguridad, entre otras funcionalidades.  La información sobre SonarQube Advanced Security la puedes encontrar en [este enlace](https://www.excentia.es/aumenta-seguridad-codigo-sonarqube-advanced-security).
+- **SonarQube Advanced Security** es una extensión de pago para SonarQube Enterprise/Data Center que añade capacidades avanzadas de seguridad, como SCA, SAST avanzado, detección de secretos o informes de seguridad, entre otras funcionalidades.  La información sobre SonarQube Advanced Security la puedes encontrar en [este enlace](/aumenta-seguridad-codigo-sonarqube-advanced-security).
 
-- **SonarQube Agentic Analysis**: es una funcionalidad que permite a herramientas de codificación asistidas por IA (AI coding agents) interactuar en tiempo real con el motor de análisis de SonarQube, a través del SonarQube MCP Server. Actualmente está en fase beta.  
+- **SonarQube Agentic Analysis**: es una funcionalidad que permite a herramientas de codificación asistidas por IA (AI coding agents) interactuar en tiempo real con el motor de análisis de SonarQube, a través del SonarQube MCP Server. Actualmente está en fase beta. Si quieres ampliar la información sobre esta solución, puedes consultar [este artículo](/que-es-sonarqube-agentic-analysis).
 
 - **SonarQube CLI** es una interfaz de línea de comandos que permite interactuar con SonarQube para tareas como la generación de informes, automatización de análisis, extracción de métricas y administración de proyectos. Facilita la integración en scripts y pipelines CI/CD sin depender de la interfaz web.
 
-- **AI Code Assurance** es el conjunto de capacidades de SonarSource para asegurar la calidad y seguridad del código generado por IA. Puedes ampliar la información sobre esta solución en [este enlace](https://www.excentia.es/sonar-context-augmentation-works).
+- **AI Code Assurance** es el conjunto de capacidades de SonarSource para asegurar la calidad y seguridad del código generado por IA. Puedes ampliar la información sobre esta solución en [este enlace](/sonar-context-augmentation-works).
 
 
 <h3>4 - Solve</h3>
 
 La fase de Solve pretende corregir de forma automática los problemas detectados en el código. Asi que las soluciones de SonarQube que encajan aquí son las siguientes: 
 
-- **AI CodeFix** es una funcionalidad de SonarQube que permite generar automáticamente propuestas de corrección para los problemas detectados en el código (bugs, vulnerabilidades, code smells) usando IA. Puedes ampliar la información sobre esta solución en [este enlace](https://www.excentia.es/sonar-context-augmentation-works).
+- **AI CodeFix** es una funcionalidad de SonarQube que permite generar automáticamente propuestas de corrección para los problemas detectados en el código (bugs, vulnerabilidades, code smells) usando IA. Puedes ampliar la información sobre esta solución en [este enlace](/sonar-context-augmentation-works).
 
 - **SonarQube Remediation Agents**: es una funcionalidad basada en IA que realiza un análisis independiente para ayudarte a corregir problemas de fiabilidad y mantenibilidad detectados en tu código.
 
