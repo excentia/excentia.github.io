@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novedades SonarQube Server 2026.2'
-description: Nuev versión de SonarQube Server con un espacio de trabajo rediseñado, análisis ampliado y seguridad avanzada para código propio y dependencias.
+description: Nueva versión de SonarQube Server con un espacio de trabajo rediseñado, análisis ampliado y seguridad avanzada para código propio y dependencias.
 date: '2026-03-27T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -42,7 +42,7 @@ Aumenta el soporte para los frameworks empresariales recientes, abordando espec�
 
 Los líderes en seguridad y los responsables de cumplimiento ahora disponen de controles granulares y reportes para gestionar el riesgo tanto del código propio como de las dependencias de terceros.
 
-- **Resolución de incidencias estructurada en el código (sonar-resolve)**: Se sutituye el comentario "all-or-nothing" NOSONAR. Ahora los desarrolladores pueden usar sonar-resolve para silenciar reglas específicas con un estado obligatorio directamente en el código. Esto conecta los flujos de trabajo ágiles de los desarrolladores con la auditoría rigurosa requerida por estándares de cumplimiento como MISRA C++:2023.
+- **Resolución de incidencias estructurada en el código (sonar-resolve)**: Se sustituye el comentario "all-or-nothing" NOSONAR. Ahora los desarrolladores pueden usar sonar-resolve para silenciar reglas específicas con un estado obligatorio directamente en el código. Esto conecta los flujos de trabajo ágiles de los desarrolladores con la auditoría rigurosa requerida por estándares de cumplimiento como MISRA C++:2023.
 
 - **Riesgos de dependencias unificados en los reportes de seguridad**: Los clientes de SonarQube Advanced Security obtienen una visión completa de la postura de seguridad de su software. Los informes listos para ejecutivos y PDFs exportados integran de manera nativa los datos de Software Composition Analysis (SCA) junto con la información de salud del código propio, reflejando el riesgo real de toda la cadena de suministro de software. Además, los datos de Software Bill of Materials (SBOM) y riesgos de dependencias ahora se incluyen en la descarga del informe regulatorio del proyecto.
 
