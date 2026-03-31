@@ -41,7 +41,7 @@ A continuación, desglosamos **cada etapa en detalle** junto con las soluciones 
 
 El objetivo de esta fase es proporcionar a los agentes de IA el contexto necesario para generar código alineado con los estándares del proyecto. Las soluciones de SonarQube que encajan en esta fase son las siguientes: 
 
-- **Sonar Conext Augmentation** es un servicio que inyecta conocimiento profundo y en tiempo real desde SonarQube directamente en el flujo de trabajo de agentes de IA de programación (como Cursor, Claude Code, Copilot, etc.).
+- **Sonar Context Augmentation** es un servicio que inyecta conocimiento profundo y en tiempo real desde SonarQube directamente en el flujo de trabajo de agentes de IA de programación (como Cursor, Claude Code, Copilot, etc.).
 
 Puedes ampliar la información sobre esta solución en [este enlace](/sonar-context-augmentation-works).
 

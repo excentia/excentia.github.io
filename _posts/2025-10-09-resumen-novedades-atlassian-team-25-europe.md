@@ -88,7 +88,7 @@ Las principales características de este lanzamiento son las siguientes:
 
 - **Rovo for Service & Ops**: agentes de IA para el servicio, las operaciones y el soporte al cliente. <br>
 
-En [este artículo](/que-es-service-collection) te contamos todo lo que necesitas sobre la Service Collection y cómo será tu transición si ya usas Jira Service Management. 
+En [este artículo](/que-es-service-collection-atlassian) te contamos todo lo que necesitas sobre la Service Collection y cómo será tu transición si ya usas Jira Service Management. 
 
 
 <h2>Lanzamiento de la Software Collection</h2>
@@ -103,7 +103,7 @@ Aquí tienes lo que debes saber sobre esta colección:
 
 - **Compass**: Catálogo unificado para la propiedad y la gestión.
 
-Si quieres saber más sobre la Software Collection, puedes leer el artículo específico de esta colección en [este enlace](/que-es-software-collection-atlassian). 
+Si quieres saber más sobre la Software Collection, puedes leer el artículo específico de esta colección en [este enlace](/que-es-software-collection-atlssian). 
 
 Sin duda, con el lanzamiento de la **Service Collection y Software Collection**, Atlassian redefine su enfoque en inteligencia artificial aplicada a la gestión de servicios y al desarrollo de software.
 
