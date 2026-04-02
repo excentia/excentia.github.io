@@ -14,7 +14,7 @@ cover: /img/posts/2026-02-04-novedades-tableros-negocio-jira.png
 
 ---
 
-Atlasian ha lanzado una actualización de los **tableros de negocio en Jira**, se han introducido mejoras significativas que simplifican **la visualización, el filtrado y la gestión de tareas**. Estas novedades buscan reducir la brecha entre los espacios de software y de negocio, aportando mayor potencia y flexibilidad a los tableros, y facilitando la localización y el seguimiento del trabajo.
+Atlassian ha lanzado una actualización de los **tableros de negocio en Jira**, se han introducido mejoras significativas que simplifican **la visualización, el filtrado y la gestión de tareas**. Estas novedades buscan reducir la brecha entre los espacios de software y de negocio, aportando mayor potencia y flexibilidad a los tableros, y facilitando la localización y el seguimiento del trabajo.
 
 Desde excentia, como **Gold Partner de Atlassian** te vamos a contar aquí en qué consisten estas nuevas funcionalidades y mejoras. 
 
