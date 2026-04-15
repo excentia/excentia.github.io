@@ -24,7 +24,8 @@ Pero, ¿cómo se traduce este nuevo paradigma en herramientas reales? ¿Qué pap
 
 Para responder a estas preguntas, hemos mapeado todo el ecosistema de Sonar dentro de las cuatro etapas del **modelo AC/DC** en la siguiente infografía:
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/7NaR55w9pBM11f?hostedIn=slideshare&page=upload" width="876" height="576" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<img width="100%" src="/img/excentia/infografia-agent-centric-development.jpg" alt="Infografía AC/DC">
+<br>
 
 En la siguiente tabla puedes **ver de forma rápida** qué ocurre en cada etapa del ciclo y cuál es su objetivo dentro del desarrollo de software asistido por IA:
 
