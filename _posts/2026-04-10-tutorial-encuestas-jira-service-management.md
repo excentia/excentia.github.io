@@ -132,7 +132,7 @@ Si quieres **eliminar una encuesta** sigue los siguientes pasos:
 
 - Ve a Encuestas y dirígete a la encuesta que desees eliminar. <br>
 
-- En la parte superior derecha, seleccione Más acciones (ICON), entonces Eliminar. <br>
+- En la parte superior derecha, selecciona **Más acciones**, entonces Eliminar. <br>
 
 - Clica sobre Eliminar nuevamente. 
 
