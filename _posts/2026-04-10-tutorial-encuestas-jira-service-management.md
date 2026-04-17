@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Todo lo que necesitas saber sobre encuestas en Jira Service Management'
-description: Descubre cómo crear y usar encuestas en Jira Service Management para mejorar procesos, medir satisfacción y convertir feedback en mejoras reales..
+description: Descubre cómo crear y usar encuestas en Jira Service Management para mejorar procesos, medir satisfacción y convertir feedback en mejoras reales.
 date: '2026-04-10T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -17,7 +17,7 @@ En cualquier organización, escuchar no es opcional. Por ello, las **encuestas**
 
 <h2>Caso real: Cómo mejorar el onboarding paso a paso</h2>
 
-Atlassian nos cuenta un ejemplo en concreto. Imagina que trabajas en el equipo de RR.HH de tu empresa. Quieres **mejorar el proceso de onboarding**, así que configuras una encuesta que se envía automáticamente 30 días después de la incorporación. Revisas los resultados que dicen algo interesante:
+Atlassian nos cuenta un ejemplo en concreto. Imagina que trabajas en el equipo de RR. HH. de tu empresa. Quieres **mejorar el proceso de onboarding**, así que configuras una encuesta que se envía automáticamente 30 días después de la incorporación. Revisas los resultados que dicen algo interesante:
 
 - **Alta puntuación** en la bienvenida del equipo. <br>
 
@@ -29,7 +29,7 @@ Los comentarios revelan que **el problema es la confusión** sobre políticas in
 
 - Actualizas el checklist de onboarding. <br>
 
-- Mejorar los artículos de la base de conocimiento. <br>
+- Mejoras los artículos de la base de conocimiento. <br>
 
 - Lanzar una nueva encuesta de seguimiento. <br>
 
@@ -62,7 +62,7 @@ A la hora de crear las encuestas, puedes empezar desde una plantilla o desde cer
 
 Utiliza este tutorial cuando **quieras empezar una encuesta desde una plantilla**, en lugar de empezar desde 0. 
 
-- Desde la navegación de la izquierda, seleccione Encuestas. <br>
+- Desde la navegación de la izquierda, selecciona Encuestas. <br>
 
 - Selecciona Crear encuesta → Crear desde plantilla. <br>
 
@@ -92,9 +92,9 @@ Si necesitas algo más específico:
 
 - Selecciona Crear encuesta → Crear en blanco. <br>
 
-- Asigna un nombre a tu encuesta y crealá. <br>
+- Asigna un nombre a tu encuesta y créala. <br>
 
-Y como dsde la plantilla, ya puedes construir tu encuesta: 
+Y como desde la plantilla, ya puedes construir tu encuesta: 
 
 - Añade campos según tus necesidades. <br>
 
@@ -108,7 +108,7 @@ Igual que antes, puedes previsualizar y guardar como borrador. Por defecto, **so
 
 <h3>Publicar y compartir una encuesta</h3>
 
-Una vez tengas tus encuentas creadas y revisadas, ya puedes lanzarlas. Para **darles visibilidad** puedes hacer lo siguiente: 
+Una vez tengas tus encuestas creadas y revisadas, ya puedes lanzarlas. Para **darles visibilidad** puedes hacer lo siguiente: 
 
 Si lo que quieres es **publicarla**: 
 
