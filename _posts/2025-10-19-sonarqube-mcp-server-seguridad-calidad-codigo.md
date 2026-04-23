@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lanzamiento de SonarQube MCP Server para garantizar la calidad del código generado por IA'
+title: 'Lanzamiento de SonarQube MCP Server para garantizar la calidad del código IA'
 description: Descubre cómo SonarQube MCP Server conecta tus agentes de IA con SonarQube para analizar y asegurar la calidad del código.
 date: '2025-10-19T08:00:00Z'
 author: Belén Casanovas

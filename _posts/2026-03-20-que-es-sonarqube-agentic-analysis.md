@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sonar lanza SonarQube Agentic Analysis para validar el código generado por IA en tiempo real'
+title: 'Nace SonarQube Agentic Analysis para validar el código generado por IA en tiempo real'
 description: Aprende cómo SonarQube Agentic Analysis permite validar código generado por IA en tiempo real, mejorando calidad, seguridad y productividad.
 date: '2026-03-20T08:00:00Z'
 author: Belén Casanovas

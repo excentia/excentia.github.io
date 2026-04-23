@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Qué es Atlassian Talent: aplicación para planificar y alinear equipos con la estrategia empresarial'
+title: '¿Qué es Atlassian Talent? La app para planificar y alinear equipos con la estrategia empresarial'
 description: Descubre Atlassian Talent, la solución para gestionar talento y equipos.
 date: '2025-07-02T08:00:00Z'
 author: Belén Casanovas

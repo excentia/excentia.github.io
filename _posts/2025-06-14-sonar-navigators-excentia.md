@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '¡Más Navigators en excentia! Mario, María José y Belén se unen al programa Sonar Navigators'
+title: '¡Más Navigators en excentia! Mario, Mariajo y Belén ya son Sonar Navigators'
 description: Nuevo reconocimiento para el equipo de excentia que consolida sus conocimientos técnicos en el ecosistema de SonarQube
 date: '2025-06-14T08:00:00Z'
 author: Belén Casanovas

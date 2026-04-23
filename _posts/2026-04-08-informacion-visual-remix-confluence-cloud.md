@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Remix con Rovo y agentes de IA en Confluence: convierte contenido en visuales, prototipos y presentaciones'
+title: 'Convierte los textos en información visual con Remix de Confluence'
 description: Qué es Remix con Rovo en Confluence y cómo convertir contenido en formatos visuales, prototipos y presentaciones con agentes de IA.
 date: '2026-04-08T08:00:00Z'
 author: Belén Casanovas
