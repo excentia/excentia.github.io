@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Impresiones del primer congreso nacional sobre desarrollo seguro de software - SuperSEC'
+title: 'Impresiones del primer congreso nacional sobre desarrollo seguro de software'
 description: ¡Vivimos una gran experiencia en el SuperSEC!  
 date: '2018-05-15T08:00:00.000+01:00'
 author: Andrea Crespo

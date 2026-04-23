@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'excentia obtiene el Certificado de Conformidad con el Esquema Nacional de Seguridad (ENS)'
+title: 'excentia obtiene el Certificado de Conformidad con el ENS'
 description: Obtenemos el Certificado ENS, reforzando su compromiso con la seguridad y calidad en TI.
 date: '2025-11-19T08:00:00Z'
 author: Belén Casanovas
