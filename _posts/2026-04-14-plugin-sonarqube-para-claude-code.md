@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SonarQube lanza su plugin para Claude Code'
-description: Te contamos en que consiste este plugin que integra el análisis de calidad y seguridad en el flujo de IA para verificar código en tiempo real.
+description: Te contamos en qué consiste este plugin que integra el análisis de calidad y seguridad en el flujo de IA para verificar código en tiempo real.
 date: '2026-04-14T08:00:00Z'
 author: Belén Casanovas
 categories:
