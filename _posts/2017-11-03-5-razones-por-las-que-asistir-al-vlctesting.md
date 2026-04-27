@@ -17,7 +17,7 @@ cover: /img/posts/2017-11-03-razones vlctesting.png
 ¡El [Instituto Tecnológico de Informática (ITI)](https://www.iti.es/) organiza una nueva edición del *#vlctesting*! Este evento, dirigido a profesionales con inquietud por conocer y mejorar sus **procesos**, metodologías y herramientas para asegurar la **calidad en el desarrollo de software**, celebra ya su séptima edición, tras iniciarse en el 2011. Desde entonces, el éxito y la satisfacción de todos los asistentes ha sido tal, que todos esperamos impacientes [noticias](https://www.excentia.es/vlctesting-is-coming) para el próximo año. 
 
 Bien, pues el próximo año ya ha llegado, y el *#vlctesting17* se celebrará el 29 y 30 de noviembre en la [Ciudad Politécnica de la Innovación](https://www.vlctesting.es).
-El [programa](http://www.vlctesting.es/programa) está formado por ponencias de carácter práctico relacionados con la calidad y **testing de software**: testimonios, demostraciones, lecciones aprendidas, aplicación de técnicas, uso de herramientas, buenas prácticas, etc.
+El [programa](https://vlctesting.es/programa) está formado por ponencias de carácter práctico relacionados con la calidad y **testing de software**: testimonios, demostraciones, lecciones aprendidas, aplicación de técnicas, uso de herramientas, buenas prácticas, etc.
 
 <a href="https://www.vlctesting.es/programa" target="_blank"><img class="center" width="100%" alt="VLC Testing 2017" title="VLC Testing 2017" src="/img/posts/2017-10-20-VLCTesting-programa.png"></a>
 

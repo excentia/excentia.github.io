@@ -10,7 +10,7 @@ cover: /img/posts/2018-06-13-eventos-y-conferencias-software.png
 modified_time: '2018-06-13T08:00:00.000+01:00'
 ---
 
-<a href="http://www.excentia.es/search?query=devops" target="_blank"><img class="center" width="100%" alt="Herramientas y ciclo DevOps" title="Herramientas y ciclo DevOps" src="/img/posts/2018-06-13-eventos-y-conferencias-software.png"></a> 
+<a href="https://www.excentia.es/search?query=devops" target="_blank"><img class="center" width="100%" alt="Herramientas y ciclo DevOps" title="Herramientas y ciclo DevOps" src="/img/posts/2018-06-13-eventos-y-conferencias-software.png"></a> 
 
 
 Junio está siendo un mes intenso y repleto de citas importantes, de las que no hay que perderse. Tantas citas que es imposible llegar a todas - y os lo decimos nosotros que en 7 días hemos estado en 3 eventos distintos en 2 ciudades diferentes. ¡Ey!...y con la oficina a pleno rendimiento. Todo es organizarse, priorizar tareas, establecer procesos y ser ágiles... Qué bien nos viene Jira para ello. 
@@ -30,11 +30,11 @@ D. "Voy super agobiado de tareas, no puedo perder un día en una charla". Esto e
 
 Asistir a un evento es la forma más ágil, sencilla y educativa de estar al día de las últimas novedades. Siempre aprendes algo nuevo, conoces a profesionales del sector, tomas café y bollos gratis, es el mejor momento para preguntar a alguien una duda en concreto, surgen iniciativas y proyectos, escapas de tu rutina para volver con las pilas cargadas, etc. 
 
-En excentia, predicamos con el ejemplo. Os decía al principio que hemos estado en 3 eventos y 2 ciudades en 7 días. En esta [página](http://www.excentia.es/eventos) recién estrenada puedes seguirnos la pista, pero ya que estoy os cuento un poco: 
+En excentia, predicamos con el ejemplo. Os decía al principio que hemos estado en 3 eventos y 2 ciudades en 7 días. En esta [página](https://www.excentia.es/eventos) recién estrenada puedes seguirnos la pista, pero ya que estoy os cuento un poco: 
 
 El día 06 estuvimos en [OpenExpo](https://openexpoeurope.com/es/). El año pasado además de asistir tuvimos nuestro propio stand y fue todo un éxito. La sensación que deja ver tantísimas ideas innovadoras, contar con ponentes como Chema Alonso, el buen ambiente, la predisposición a la colaboración... Repetiremos seguro el año que viene y esperamos ver a muchos conocidos por allí. Gracias a los organizadores - que trabajazo hacéis. 
 
-El día 07 nos fuimos corriendo de la OpenExpo al [Congreso Agile de itSMF](http://www.itsmf.es/index.php?option=com_content&view=article&id=2827). A parte de escuchar embobados a un referente mundial como Martin Fowler, nos encantó la experiencia que nos contaron desde [Zooplus](http://www.zooplus.es/). David Parra y Carlos García nos contaron como han implantado [DevOps](http://www.excentia.es/search?query=devops) en una ecommerce de comida de mascotas internacional. Nos encantó chicos, a seguir así. 
+El día 07 nos fuimos corriendo de la OpenExpo al Congreso Agile de itSMF. A parte de escuchar embobados a un referente mundial como Martin Fowler, nos encantó la experiencia que nos contaron desde Zooplus. David Parra y Carlos García nos contaron como han implantado [DevOps](https://www.excentia.es/search?query=devops) en una ecommerce de comida de mascotas internacional. Nos encantó chicos, a seguir así. 
 
 Finalmente, el día 12, sí, ayer mismo, estuvimos un año más y ya van 4, en el [VLCSofting](https://www.vlcsofting.es/). Integración Continua, Car Hacking, testing, agilidad, *dataops*, inteligencia artificial... y podriamos seguir. 
 

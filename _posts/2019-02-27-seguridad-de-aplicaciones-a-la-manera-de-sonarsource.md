@@ -32,7 +32,7 @@ Habiendo innumerables artículos sobre este tema, ¿en qué se diferencia este a
 
 Es decir, SonarQube incorpora un nuevo tipo de evidencia indicativa del nivel de seguridad, los Security Hotspots. Estas evidencias son un paso previo a las evidencias de tipo vulnerabilidad - creando así una doble capa o filtro para asegurar la seguridad de las aplicaciones. Un experto en seguridad evaluará los *Security Hotspots* detectados con el fin de determinar si se tratan efectivamente de vulnerabilidades que pongan en peligro la seguridad. 
 
-A este nuevo tipo de evidencia, se incorpora un nuevo informe. **Los informes de seguridad han sido diseñados para mostrar de manera visual el estado general de la seguridad de tus aplicaciones, con categorías y subapartados mostrando tu posición con respecto a estándares de [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10), [SANS Top 25](https://www.sans.org/top25-software-errors) y [CWE](http://cwe.mitre.org/).**
+A este nuevo tipo de evidencia, se incorpora un nuevo informe. **Los informes de seguridad han sido diseñados para mostrar de manera visual el estado general de la seguridad de tus aplicaciones, con categorías y subapartados mostrando tu posición con respecto a estándares de [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10), [SANS Top 25](https://www.sans.org/top25-software-errors) y [CWE](https://cwe.mitre.org/).**
 
 
 

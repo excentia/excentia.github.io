@@ -18,7 +18,7 @@ Es por eso que tantos equipos pasan horas exportando datos de docenas de herrami
 
 Entonces, **¿por qué medir el rendimiento del desarrollo sigue siendo una tarea tan difícil?**
 
-En la [Encuesta de tendencias de DevOps de 2020](http://www.atlassian.com/whitepapers/devops-survey-2020) , de Atlassian, descubrimos que, si bien la mayoría de los equipos han visto un impacto positivo al adoptar DevOps, la mitad de ellos aún no están seguros de cómo medir y mejorar los procesos de su organización. 
+En la [Encuesta de tendencias de DevOps de 2020](https://www.atlassian.com/whitepapers/devops-survey-2020) , de Atlassian, descubrimos que, si bien la mayoría de los equipos han visto un impacto positivo al adoptar DevOps, la mitad de ellos aún no están seguros de cómo medir y mejorar los procesos de su organización. 
 
 **Por eso, Atlassian ha anunciado cuatro nuevas funciones en [Jira Software Cloud](/jira-software#jira-software-cloud) que permiten a los desarrolladores visualizar y medir el progreso desde la idea hasta la producción en herramientas de Atlassian y de terceros**.
 

@@ -61,4 +61,4 @@ Existen otras herramientas de colaboración que sin duda ha utilizado en algún 
 
 ## Más informaciones sobre Confluence
 
-Si necesitas mas informaciones o lo quieres para tu equipo no dudes en <a href="http://www.excentia.es/#contact">contactarnos</a> y estaremos encantados de ayudaros.
+Si necesitas mas informaciones o lo quieres para tu equipo no dudes en <a href="https://www.excentia.es/#contact">contactarnos</a> y estaremos encantados de ayudaros.

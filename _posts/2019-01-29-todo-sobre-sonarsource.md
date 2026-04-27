@@ -40,7 +40,7 @@ Aclarados estos primeros términos, repasemos la historia y evolución de la her
 
 * En Junio de 2010, Sonar tenía un ritmo de descarga de más de 2.000 veces al mes. Gracias al éxito tanto de la plataforma Open-Source como de los plugins comerciales, SonarSource crecía tanto en tamaño como en servicios comerciales, con la salida de los plugins para C# y para PL/SQL, en junio y septiembre de 2011 respectivamente.
 
-* En abril de 2013, [Sonar pasa a llamarse SonarQube](http://sonar.15.x6.nabble.com/SONAR-is-becoming-SONARQUBE-td5010134) y su salida al mercado comercial se profesionaliza con distintas "ediciones" – logrando así satisfacer las necesidades de las grandes empresas en las que SonarQube se había convertido en la herramienta crítica para asegurar la calidad de su código y realizar análisis estático sobre el mismo. Este fue el primer gran cambio en el modelo comercial de SonarSource.
+* En abril de 2013, Sonar pasa a llamarse SonarQube y su salida al mercado comercial se profesionaliza con distintas "ediciones" – logrando así satisfacer las necesidades de las grandes empresas en las que SonarQube se había convertido en la herramienta crítica para asegurar la calidad de su código y realizar análisis estático sobre el mismo. Este fue el primer gran cambio en el modelo comercial de SonarSource.
 
 * 2015 fue un año significativo para SonarQube. Si dos años antes cambiaba el modelo comercial, ahora era la propia herramienta la que volvía a adaptarse a las necesidades del mercado. Los análisis se estructuran de una manera más sencilla y clara gracias a la introducción de mantenibilidad, confiabilidad y seguridad. Un movimiento necesario para estandarizar la plataforma, pues ya se cubría entonces el análisis de 24 tecnologías diferentes.
 
@@ -57,7 +57,7 @@ SonarQube es el producto estrella de la compañía, pero no el único. [SonarLin
 ### SonarQube
 ¿Qué es SonarQube? Os preguntareis en qué demonios estamos pensando para plantear esta pregunta. En la experiencia pensamos. Nos hemos encontrado con afirmaciones y preguntas de todo tipo: "sin Maven SonarQube no funciona, SonarQube solo analiza Java, es un escáner de código…" 
 
-Para responder a esta pregunta nos remitimos al [artículo](http://www.acalero.com/2014/11/28/que-es-sonarqube) que en 2014 Antonio Calero escribió en su blog y citamos: 
+Para responder a esta pregunta nos remitimos al artículo que en 2014 Antonio Calero escribió en su blog y citamos: 
 > “SonarQube es una plataforma de gestión de la calidad del código que permite a los equipos de desarrollo gestionar, hacer seguimiento y mejorar la calidad de su código fuente. Es una herramienta que mantiene datos históricos de una gran variedad de métricas y proporciona tendencias de los indicadores de referencia para no cometer los pecados capitales del desarrollo de software.” 
 
 Si en 2014 eso era SonarQube, podéis imaginar que en 2019 es mucho más. 
@@ -112,7 +112,7 @@ Momento de publicitarnos un poco y animaros a que probéis los plugins que excen
 * [SonarQube Connector for Confluence](https://www.excentia.es/sonarqube-connector-confluence ): permite tener acceso a los datos más relevantes de la calidad del código en el mismo espacio donde reside toda la documentación del mismo. Un project manager podrá decidir si pasar a producción un producto software sin ni siquiera tener que acceder al panel de control de SonarQube. Desde Confluence tendrá acceso claro, simple y directo a todas las métricas y al umbral de calidad.
 
 
-En la [documentación de SonarQube](https://docs.sonarqube.org/display/PLUG) puedes encontrar una recopilación de los plugins disponibles en la plataforma. Pero no es el único listado disponible. En [esta web](http://www.sonarplugins.com/) se han dedicado a recopilar muchos de los plugins desarrollados por la comunidad, por lo que es interesante seguirle también la pista. 
+En la [documentación de SonarQube](https://docs.sonarqube.org/display/PLUG) puedes encontrar una recopilación de los plugins disponibles en la plataforma. Pero no es el único listado disponible. En [esta web](https://www.sonarplugins.com/) se han dedicado a recopilar muchos de los plugins desarrollados por la comunidad, por lo que es interesante seguirle también la pista. 
 
 
 ## Comunidad SonarSource

@@ -11,14 +11,14 @@ modified_time: '2018-03-07T08:00:00.000+01:00'
 cover: /img/posts/Gestion de SLA en JSD.png
 ---
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Gestión de SLA en Jira Service Desk" title="Gestión de SLA en Jira Service Desk" src="/img/posts/Gestion de SLA en JSD.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Gestión de SLA en Jira Service Desk" title="Gestión de SLA en Jira Service Desk" src="/img/posts/Gestion de SLA en JSD.png"></a>
 
 Esta es una de esas entradas que compartimos con mucho orgullo. Demandado por muchos de nuestros clientes y conocidos, hoy os traemos una explicación clara y sencilla de la gestión de SLAs - o en español, ANS - usando la herramienta estrella de Atlassian: [Jira Service Desk](https://es.atlassian.com/software/jira/service-desk). 
 
 ## ¿Qué es un SLA?
 En el mundo de los servicios, los SLAs (Service Level Agreements) o en castellano ANS (Acuerdo de Nivel de Servicio) son acuerdos o contratos que realiza un proveedor de servicios con un cliente interno o externo. Este compromiso entre servicio y cliente ayuda a medir la calidad de los servicios contratados. 
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-sla1.jpeg"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Acuerdos de Nivel de Servicio en Jira Service Desk" title="Acuerdos de Nivel de Servicio en Jira Service Desk" src="/img/posts/2018-03-07-sla1.jpeg"></a>
 
 Con el fin de ejemplificar los SLAs, vamos a explicar qué métricas se suelen incluir:
 
@@ -34,7 +34,7 @@ Actualmente, el concepto de SLA se ha transportado a los grupos de IT y a los gr
 ## Configuración de SLAs en Jira Service Desk
 En Jira Service Desk, un SLA es representado mediante un cronómetro que se activa cuando llega una nueva solicitud/incidencia y/o cuando ocurre un determinado evento. Pero, ¿no hay determinadas condiciones dónde no debería contar el tiempo? ¿Qué ocurre si en el contrato pactado con los clientes, se han especificado determinados días festivos? ¿Y si un ticket abierto por un cliente está pendiente de información por parte del solicitante? Ese tiempo debe ser excluído de forma automática de nuestros "cronómetros." Los SLAs se componen de dos elementos básicos: tiempo a medir y metas. 
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-configuracion-sla-en-JSD.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-configuracion-sla-en-JSD.png"></a>
 
 En este caso, se ha configurado un SLA que mide el tiempo de resolución de los tickets en un proyecto de Jira Service Desk. Debemos hacernos varias preguntas antes de comenzar. ¿En qué situaciones debería empezar a contar el tiempo?, ¿y cuándo paramos el tiempo?, ¿hay alguna situación pactada con nuestros clientes dónde no se han de medir tiempos?
 
@@ -44,16 +44,16 @@ Veamos este caso en concreto, nuestro cronómetro comenzará a contar cuando se 
 
 La última columna permite elegir un calendario para cada meta. Así de esta forma, controlamos cuándo va a contar el tiempo, a qué horas y qué días del año.
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-configuracion-sla-en-JSD-time.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-configuracion-sla-en-JSD-time.png"></a>
 
 
 ## Visualización de SLAs en Jira Service Desk
 
 Los agentes de un Help Desk de Jira Service Desk pueden visualizar el tiempo restante de cada ticket desde las colas de Jira Service Desk y desde el propio ticket.
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-1.jpg"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-1.jpg"></a>
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-2.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-2.png"></a>
 
 **Esta forma de visualización de SLAs permite a los agentes dedicar su tiempo a los tickets que puedan estar a punto de incumplir las condiciones establecidas en los acuerdos de nivel de servicio**.
 
@@ -61,11 +61,11 @@ Además, Jira Service Desk utiliza colores muy descriptivos que mejoran la visua
 
 **Visualización de SLAs en curso:**
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="300px" height="150px" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-4.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="300px" height="150px" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-4.png"></a>
 
 **Visualización de SLAs completados:**
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-3.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Configuración SLA en Jira Service Desk" title="Configuración SLA en Jira Service Desk" src="/img/posts/2018-03-07-3.png"></a>
 
 ## ¿Por qué Jira Service Desk?
 Con esta explicación más práctica sobre el funcionamiento de Jira Service Desk, esperamos haberos convencido de por qué esta herramienta está triunfando en la gestión de servicios IT. 
