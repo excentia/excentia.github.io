@@ -109,7 +109,7 @@ Debe saber que, si acepta las cookies de terceros y posteriormente desea revocar
 - [Safari](https://support.apple.com/es-es/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 - [Opera](https://www.habilitarlascookies.com/como-habilitar-las-cookies-en-opera.html)
 
-Así como [Google AdWords](http://www.google.es/intl/es/policies/technologies/cookies/)
+Así como [Google AdWords](https://policies.google.com/technologies/cookies?hl=es&gl=es)
 
 Si se utilizan otros navegadores, recomendamos consultar su política de uso y gestión de cookies.
 

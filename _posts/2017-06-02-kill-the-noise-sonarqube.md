@@ -9,13 +9,13 @@ categories:
 modified_time: '2017-06-02T10:08:09.803+01:00'
 ---
 
-Si estás al día con las versiones de ciertos plugins de [SonarQube](http://sonarqube.org) te habrás dado cuenta que en las [últimas semanas](https://www.sonarsource.com/resources/product-news/) en todos ellos se menciona el concepto "*Kill the noise!*". Esta iniciativa se inició a principio de año para afinar la detección de evidencias de tipo *Bug* en ciertos analizadores de código: **SonarJS, SonarC#, SonarJava** y **SonarCFamily**. 
+Si estás al día con las versiones de ciertos plugins de [SonarQube](https://www.sonarsource.com) te habrás dado cuenta que en las [últimas semanas](https://www.sonarsource.com/resources/product-news/) en todos ellos se menciona el concepto "*Kill the noise!*". Esta iniciativa se inició a principio de año para afinar la detección de evidencias de tipo *Bug* en ciertos analizadores de código: **SonarJS, SonarC#, SonarJava** y **SonarCFamily**. 
 
-En otras palabras, esto significa que el objetivo es estar seguros que cuando un usuario de [SonarQube](http://sonarqube.org) pulsa en la sección de *Bugs* del espacio de un proyecto este será capaz de encontrar y solucionar bugs reales en lugar de intentar entender si las evidencias que está revisando son de verdad bugs o no. 
+En otras palabras, esto significa que el objetivo es estar seguros que cuando un usuario de [SonarQube](https://www.sonarsource.com) pulsa en la sección de *Bugs* del espacio de un proyecto este será capaz de encontrar y solucionar bugs reales en lugar de intentar entender si las evidencias que está revisando son de verdad bugs o no. 
 
 Mucha gente puede pensar que eso puede sonar algo obvio y que debería ser el comportamiento obligatorio de un analizador de código a la hora de informar sobre los bugs detectados. Pero la pregunta es, ¿conoces actualmente algún analizador en el mercado que tenga al menos un 90% de precisión?
 
-En los últimos años en [SonarSource](http://sonarsource.com) se ha desarrollado la tecnología para realizar análisis del flujo de datos (_data flow analysis_, o dicho de otra forma, "_path-sensistive DFA_") en los lenguajes C#, Java, JavaScript, C y C++. Esta tecnología nos permite recorrer todos los caminos de ejecución del código mientras se simula la ejecución de cada sentencia. 
+En los últimos años en [SonarSource](https://www.sonarsource.com) se ha desarrollado la tecnología para realizar análisis del flujo de datos (_data flow analysis_, o dicho de otra forma, "_path-sensistive DFA_") en los lenguajes C#, Java, JavaScript, C y C++. Esta tecnología nos permite recorrer todos los caminos de ejecución del código mientras se simula la ejecución de cada sentencia. 
 
 Con la ayuda de esos motores DFA ahora somos capaces de detectar bugs muy escurridizos como este encontrado en el kernel de Linux:
 
@@ -29,6 +29,6 @@ Así que al ver esto nos dimos cuenta de dos cosas:
 
 Así que hemos hecho un gran esfuerzo para la reclasificación y la división de muchas de las reglas que están en esa situación. Evidentemente se ha hecho todo esto siempre manteniendo al día la caza de los infames falsos positivos.
 
-En el equipo de [SonarSource](http://sonarsource.com) estamos todos trabajando para conseguir el objetivo de tener analizadores que tengan un 90% de precisión a la hora de detectar evidencias de tipo "Bug", y lo cierto es que no estamos muy lejos de hacer este sueño realidad. Cualquier feedback sobre las últimas versiones de los analizadores SonarJS, SonarC#, SonarJava y SonarCFamily será siempre bienvenida y ayudará muchísimo a "matar el ruido".
+En el equipo de [SonarSource](https://www.sonarsource.com) estamos todos trabajando para conseguir el objetivo de tener analizadores que tengan un 90% de precisión a la hora de detectar evidencias de tipo "Bug", y lo cierto es que no estamos muy lejos de hacer este sueño realidad. Cualquier feedback sobre las últimas versiones de los analizadores SonarJS, SonarC#, SonarJava y SonarCFamily será siempre bienvenida y ayudará muchísimo a "matar el ruido".
 
 [Enlace al artículo original en inglés](https://blog.sonarsource.com/kill-the-noise-to-change-gear-in-our-code-analyzers/)

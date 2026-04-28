@@ -12,11 +12,11 @@ modified_time: '2017-09-29T09:00:00.000+01:00'
 
 ---
 
-El jueves 5 de octubre estaremos en el [Instituto Tecnológico de Informática (ITI)](http://www.iti.es) para traerte el Atlassian Summit a Valencia. ¡Te esperamos en el Auditorio Cubo Rojo a las 9:00! 
+El jueves 5 de octubre estaremos en el [Instituto Tecnológico de Informática (ITI)](https://www.iti.es) para traerte el Atlassian Summit a Valencia. ¡Te esperamos en el Auditorio Cubo Rojo a las 9:00! 
 
-Descubrirás las últimas novedades de **Atlassian** y como [excentia](http://www.excentia.es) puede ayudarte a mejorar los procesos de tu equipo. Además tendrás la oportunidad de consultar tanto con nosotros como con el resto de invitados todas las dudas que puedan surgir tras los cambios recientemente acaecidos en **Atlassian**.  
+Descubrirás las últimas novedades de **Atlassian** y como [excentia](https://www.excentia.es) puede ayudarte a mejorar los procesos de tu equipo. Además tendrás la oportunidad de consultar tanto con nosotros como con el resto de invitados todas las dudas que puedan surgir tras los cambios recientemente acaecidos en **Atlassian**.  
 
-¿Qué? ¿Aún no te has registrado? Puedes hacerlo [aquí](http://mailchi.mp/359f3f67a049/te-esperamos-el-5-de-octubre-en-el-atlassian-vlc-day-2017). La entrada es gratuita y la ocasión es inmejorable si quieres conocer las herramientas de **Atlassian** de la mano de un **Solution Partner** especializado como [excentia](http://www.excentia.es).
+¿Qué? ¿Aún no te has registrado? Puedes hacerlo aquí. La entrada es gratuita y la ocasión es inmejorable si quieres conocer las herramientas de **Atlassian** de la mano de un **Solution Partner** especializado como [excentia](https://www.excentia.es).
 
 ## ¿Qué vamos a contar en el evento?
 
@@ -30,11 +30,8 @@ Descubrirás las últimas novedades de **Atlassian** y como [excentia](http://ww
 
 * **Casos de éxito**: podrás conocer de primera mano cómo hemos ayudado a muchas empresas y preguntar todas las dudas que te puedan surgir. Estamos aquí para ayudarte a mejorar, y eso lo conseguimos gracias a nuestro compromiso contigo. 
 
-* **Novedades en [excentia](http://www.excentia.es)**: tenemos nuevas apps, nuevo equipo y muchas ganas de seguir siendo referentes en la **gestión de procesos** y **calidad de software**. Escúchanos y contágiate de nuestro espíritu. También prometemos ayudarte a ti y a tus compañeros
+* **Novedades en [excentia](https://www.excentia.es)**: tenemos nuevas apps, nuevo equipo y muchas ganas de seguir siendo referentes en la **gestión de procesos** y **calidad de software**. Escúchanos y contágiate de nuestro espíritu. También prometemos ayudarte a ti y a tus compañeros.
 
-<a href="http://mailchi.mp/359f3f67a049/te-esperamos-el-5-de-octubre-en-el-atlassian-vlc-day-2017">
-    <img class="center" width="500px" alt="Registrate en el Atlassian VLC Day" title="Evento Atlassian" src="/img/posts/2017-09-29-agenda-atlassian-vlc-day.png">
-</a>
 
 ¡Además te invitamos a desayunar! Nosotros estamos impacientes por que llegue el jueves para veros a todos y contaros el trabajo que desarrollamos con **Atlassian**. ¡Nos vemos el jueves!
 

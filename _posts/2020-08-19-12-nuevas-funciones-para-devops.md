@@ -16,7 +16,7 @@ modified_time: '2020-08-19T08:00:00.000+01:00'
 
 Sin embargo, esta mayor colaboración puede tener un costo para los desarrolladores. En lugar de codificar y construir soluciones innovadoras, los desarrolladores pueden terminar pasando una gran parte de su día integrando múltiples herramientas, actualizando el estado del trabajo y compartiéndolo con otros equipos.
 
-En la [Encuesta de Tendencias DevOps](http://www.atlassian.com/whitepapers/devops-survey-2020) que Atlassian realizó a principios del 2020 descubrieron que las mismas prácticas que se suponía que facilitarían la vida de los desarrolladores estaban causando nuevos tipos de problemas. 
+En la [Encuesta de Tendencias DevOps](https://www.atlassian.com/whitepapers/devops-survey-2020) que Atlassian realizó a principios del 2020 descubrieron que las mismas prácticas que se suponía que facilitarían la vida de los desarrolladores estaban causando nuevos tipos de problemas. 
 
 **Demasiadas herramientas desconectadas, procesos manuales y prácticas de colaboración en constante cambio están impidiendo llegar al objetivo.**
 
@@ -72,7 +72,7 @@ Cuando ocurren incidentes, la clave para una resolución rápida es determinar l
 
 La implementación exitosa de DevOps no termina al conectar las herramientas. Por eso Atlassian ha creado un nuevo lugar donde aprender y compartir las mejores prácticas de DevOps.
 
-- [**Nuestro centro de recursos**](http://www.atlassian.com/devops/best-practices) donde se comparte información sobre cómo conectar herramientas con prácticas y cultivar una cultura DevOps:
+- [**Nuestro centro de recursos**](https://www.atlassian.com/devops/best-practices) donde se comparte información sobre cómo conectar herramientas con prácticas y cultivar una cultura DevOps:
 
 - - [Comunidad DevOps](https://community.atlassian.com/t5/DevOps/ct-p/devops) (con AMA exclusivos con líderes de opinión DevOps)
   - Plantillas de Confluencia de DevOps (para mejorar los rituales de DevOps y establecer objetivos de equipo a largo plazo)

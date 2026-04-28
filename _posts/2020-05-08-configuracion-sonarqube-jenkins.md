@@ -48,7 +48,7 @@ Mientras que la parte de inspección de código, tomaremos **[SonarQube](https:/
 
 ## **Jenkins, el mayordomo que construye aplicaciones**
 
-Ya hemos hablado en varias ocasiones de Jenkins y obviamente de fundamental papel en la [integración continua](http://oscarmoreno.com/integracion-continua-fundamentos-y-beneficios/).
+Ya hemos hablado en varias ocasiones de Jenkins y obviamente de fundamental papel en la integración continua.
 
 Pero el mayor aprovechamiento de esta herramienta, se obtiene principalmente por 3 elementos:
 

@@ -11,10 +11,10 @@ modified_time: '2018-01-24T08:00:00.000+01:00'
 cover: /img/posts/2018-01-24-transformacion-digital.png
 ---
 
-<a href="http://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Cabecera Transformación Digital - Parte 1" title="Cabecera Transformación Digital - Parte 1" src="/img/posts/2018-01-24-transformacion-digital.png"></a>
+<a href="https://www.excentia.es/atlassian" target="_blank"><img class="center" width="100%" alt="Cabecera Transformación Digital - Parte 1" title="Cabecera Transformación Digital - Parte 1" src="/img/posts/2018-01-24-transformacion-digital.png"></a>
 
 
-En [excentia](http://www.excentia.es/) nos encanta estar al día, ser conscientes de las últimas novedades tecnológicas, innovar constantemente y aprender cada día un poquito más. Forma parte de nuestro ADN, de nuestra apuesta por la mejora continua. En línea con todo ello, no podíamos dejar de hablar de uno de los grandes temas del momento (y con razón): la transformación digital, la industria 4.0, o como todo ha cambiado y cambiará a un ritmo vertiginoso. 
+En [excentia](https://www.excentia.es/) nos encanta estar al día, ser conscientes de las últimas novedades tecnológicas, innovar constantemente y aprender cada día un poquito más. Forma parte de nuestro ADN, de nuestra apuesta por la mejora continua. En línea con todo ello, no podíamos dejar de hablar de uno de los grandes temas del momento (y con razón): la transformación digital, la industria 4.0, o como todo ha cambiado y cambiará a un ritmo vertiginoso. 
 
 
 ## ¿Qué es la transformación digital?
@@ -46,7 +46,7 @@ Definir la estrategia digital implica que todos los departamentos se sumen al ca
 Para lograr todos esos cambios, esa reinvención y transformación, **la clave son las personas y no las tecnologías como se tiende a asumir**. 
 
 Todos los departamentos están implicados en el proceso, y el éxito de la transformación recae principalmente en las personas – nosotros, el equipo, los que trabajamos día a día somos los que tenemos que asumir en nuestro ADN el cambio digital. 
-Este [artículo](https://retina.elpais.com/retina/2017/11/28/tendencias/1511848293_101779) de Daniel Marote lo resume muy bien. Os animamos a que lo leáis, en [excentia](http://www.excentia.es/) lo suscribimos completamente. 
+Este [artículo](https://retina.elpais.com/retina/2017/11/28/tendencias/1511848293_101779) de Daniel Marote lo resume muy bien. Os animamos a que lo leáis, en [excentia](https://www.excentia.es/) lo suscribimos completamente. 
 
 Por otra parte también hay que recordar, que la generación del milenio (los millenials como nos gusta llamarlos) no sólo son clientes sino trabajadores, parte del equipo. **Sus necesidades, expectativas y procesos son diferentes y la transformación digital también implica adaptarse a ellos. Los nuevos empleados interactúan, se comunican y están motivados por agentes diferentes**. No adaptarse a este perfil laboral también es significado de negación del cambio. Las organizaciones y directivos han de hacer el esfuerzo también por sacar el máximo partido a lo que todos sus trabajadores, incluidos los más jóvenes, tienen que ofrecer. 
 
@@ -54,9 +54,9 @@ Por otra parte también hay que recordar, que la generación del milenio (los mi
 ## Industria conectada 4.0: una iniciativa del gobierno. 
 Fíjate si la transformación digital es relevante y necesaria que los órganos públicos con sus lentos procesos burocráticos y su delgado margen de flexibilidad, ya están no sólo transformándose sino ayudando a la industria del país a hacerlo. 
 
-Como resultado surge la iniciativa [Industria Conectada 4.0](http://www.industriaconectada40.gob.es/Paginas/index.aspx#inicio). Mediante este programa, el Ministerio de Economía, Industria y Competitividad, aporta una plataforma de ayuda a las empresas que incluye entre otros una herramienta de medición del grado de transformación, llamada [HADA](https://hada.industriaconectada40.gob.es/es/register/0ff89de99d4a8f4b04cb162bcb5740cf/industria_conectada_40/). 
+Como resultado surge la iniciativa Industria Conectada 4.0. Mediante este programa, el Ministerio de Economía, Industria y Competitividad, aporta una plataforma de ayuda a las empresas que incluye entre otros una herramienta de medición del grado de transformación, llamada [HADA](https://hada.industriaconectada40.gob.es/es/register/0ff89de99d4a8f4b04cb162bcb5740cf/industria_conectada_40/). 
 
-¡Descubre más sobre esta iniciativa [aquí](http://www.industriaconectada40.gob.es/Paginas/index.aspx#inicio)!
+¡Descubre más sobre esta iniciativa [aquí](https://www.industriaconectada40.gob.es/Paginas/index.aspx#inicio)!
 
 
 ## Más allá de la definición de transformación digital.

@@ -19,9 +19,9 @@ Pasar a la Nube es una decisión importante y, a menudo, una con la que los clie
 
 El Programa de migración de Atlassian es una herramienta gratuita para todos los clientes de Atlassian, y empaqueta los recursos necesarios para que las migraciones a la nube sean lo más fluidas posible.
 
-Si bien no existe una ruta única para migrar a la nube, Atlassian ha creado un marco para las migraciones que es lo suficientemente flexible para satisfacer las necesidades de equipos de todos los tamaños. A lo largo de tu migración, tendrás acceso a comparaciones y contenido educativo, una biblioteca de recursos completa, documentación técnica detallada y una guía paso a paso [de migraciones de Server a la Nube](http://www.atlassian.com/migration/cloud/guide) .
+Si bien no existe una ruta única para migrar a la nube, Atlassian ha creado un marco para las migraciones que es lo suficientemente flexible para satisfacer las necesidades de equipos de todos los tamaños. A lo largo de tu migración, tendrás acceso a comparaciones y contenido educativo, una biblioteca de recursos completa, documentación técnica detallada y una guía paso a paso [de migraciones de Server a la Nube](https://www.atlassian.com/migration/cloud/guide) .
 
-Y si eres un cliente más grande que necesita hacer una migración más compleja, también contamos con soporte y [recursos empresariales dedicados](http://www.excentia.es/contacto) 
+Y si eres un cliente más grande que necesita hacer una migración más compleja, también contamos con soporte y [recursos empresariales dedicados](https://www.excentia.es/contacto) 
 
 <img src="img/posts/2021-05-03-programa-de-migracion-nube-atlassian-guide.png" width="100%" alt="Guía para la migración a la Nube de Atlassian">
 

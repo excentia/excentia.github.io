@@ -11,13 +11,13 @@ cover: /img/posts/2018-11-23-VLCTesting18.png
 modified_time: '2018-09-14T08:00:00.000+01:00'
 ---
 
-<a href="http://www.vlctesting.es/" target="_blank"><img class="center" width="100%" alt="VLC Testing 2018" title="VLC Testing 2018" src="/img/posts/2018-11-23-VLCTesting18.png"></a> 
+<a href="https://vlctesting.es/" target="_blank"><img class="center" width="100%" alt="VLC Testing 2018" title="VLC Testing 2018" src="/img/posts/2018-11-23-VLCTesting18.png"></a> 
 
 Ya van ocho. Ocho ediciones de VLC Testing, de aprendizaje, de superación y de reunir en un mismo sitio durante dos días a **lo mejor del panorama nacional en cuanto a calidad y testeo de software**.
 
 ## La historia de VLC Testing
 
-En 2011, el [Instituto Tecnológico de la Informática (ITI)](https://www.iti.es/eventos/vlctesting-2018/) junto con la [Universidad Politécnica de Valencia (UPV)](http://www.upv.es/) lanzan un evento rompedor y altamente demandado. La primera edición de VLC Testing contó entre otros con Javier López Arana, entonces Software Quality Lead en HP. Iniciar una serie de eventos con el listón tan alto, es comprometerse con su éxito y apostar fuerte por el proyecto. Ocho años después, vemos que no se equivocaron. 
+En 2011, el [Instituto Tecnológico de la Informática (ITI)](https://www.iti.es/eventos/vlctesting-2018/) junto con la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es/) lanzan un evento rompedor y altamente demandado. La primera edición de VLC Testing contó entre otros con Javier López Arana, entonces Software Quality Lead en HP. Iniciar una serie de eventos con el listón tan alto, es comprometerse con su éxito y apostar fuerte por el proyecto. Ocho años después, vemos que no se equivocaron. 
 
 
 En 2012, y tras la confirmación del éxito de la primera edición, llegó la segunda parte. Pero una segunda parte, que sí fue buena, incluso mejor. De eso trata la calidad al final, de mejorar cada día. Se introducen por primera vez los seminarios, extendiendo la duración del evento a dos días.  Charlas y debates tan interesantes como “Sistemas de Calidad en Tiempos de Crisis”  o “Testing de Seguridad: Ataques de Inyección”. Desde luego lo que es curioso es ver como se empezaba a abordar el testing de aplicaciones móviles, destacando la importancia que este tipo de desarrollos tendría. Seis años después leer el planteamiento de esa charla nos trae nostalgia (sí, nos hacemos mayores), pero también alegría y sorpresa de ver a la velocidad a la que avanzan las tecnologías. 
@@ -35,12 +35,12 @@ La edición del 2015, ya se asemeja mucho más a la que conocemos actualmente. U
 En el año 2016 y 2017,  VLC Testing ha seguido batiendo records. Ha seguido contando con ponentes de la talla de Víctor Gómez, Jorge Barroso, Domingo Gaitero,  Pedro J. Molina, Javier Garzás o Tomislav Dedalic y empresas participantes como idealista, BQ, everis, flywire, 233 grados de TI, Cabify…
 
 Por cierto, ¿os hemos comentado que excentia fue patrocinador Premium y dió charlas y seminarios en cada una de estas ediciones? 
-Pues en la octava tampoco íbamos a fallar. Esperamos cada año pacientemente la llegada de [VLC Testing](http://www.vlctesting.es/), y nos da una satisfacción enorme ver como cada año contamos con más empresas colaboradoras, ponentes, asistentes y calidad. 
+Pues en la octava tampoco íbamos a fallar. Esperamos cada año pacientemente la llegada de [VLC Testing](https://vlctesting.es/), y nos da una satisfacción enorme ver como cada año contamos con más empresas colaboradoras, ponentes, asistentes y calidad. 
 
 
 ## ¿Quién debería de asistir?
 
-Todo el mundo es bienvenido. Pero, haciendo honor a la documentación, rescatamos de la [primera web de VLC Testing](http://eventos.iti.upv.es/conferenceDisplay.py?confId=1), el perfil de los asistentes y también ponentes: 
+Todo el mundo es bienvenido. Pero, haciendo honor a la documentación, rescatamos de la primera web de VLC Testing, el perfil de los asistentes y también ponentes: 
 * **Desarrolladores de software** que quieren introducir menos defectos (bugs).
 * **Jefes de proyecto (o de producto)** que prefieren encontrar los problemas en su software antes que sus clientes.
 * **Responsables de calidad y testeadores** que buscan herramientas y técnicas que les ayuden en su trabajo.
@@ -52,7 +52,7 @@ Si aún te quedan dudas [aquí tienes](https://www.excentia.es/5-razones-por-las
 
 ## ¿Qué novedades encontramos en esta octava edición?
 En la evolución expuesta hemos visto como cada año se han ido introduciendo distintos cambios que hacen de cada edición un poquito más especial. 
-Este año el tradicional TrobaTest se convierte en [Cluesting](http://www.vlctesting.es/evento-networking), una innovadora reunión de networking que parece tener algo de misterio y juegos de mesa en el ámbito del testing. Gracias [Flywire](https://www.flywire.com/es/) por traer el Cluedo a este mundo de calidad.
+Este año el tradicional TrobaTest se convierte en [Cluesting](https://vlctesting.es/evento-networking), una innovadora reunión de networking que parece tener algo de misterio y juegos de mesa en el ámbito del testing. Gracias [Flywire](https://www.flywire.com/es/) por traer el Cluedo a este mundo de calidad.
 
 Pero si hay una novedad destacada este año, esa ha sido la de [Testing Lite](https://www.iti.es/eventos/testing-lite-cazando-bugs-con-excentia/) – una serie de conferencias previas al VLC Testing que nos han servido para calentar motores. 
 

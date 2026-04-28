@@ -33,7 +33,7 @@ Para utilizar la **API de SonarQube tienes que hacer llamadas HTTP** a los endpo
 
 Con este token **ya puedes realizar peticiones** a la API de SonarQube. A continuación, te dejamos un ejemplo de petición para obtener una **lista de proyectos de tu instancia de SonarQube**:
 
-<code>curl -u <'tu_token'>: "http://<tu-servidor-sonarqube>/api/projects/search"</code>
+<code>curl -u <'tu_token'>: "https://<tu-servidor-sonarqube>/api/projects/search"</code>
 
 Aquí te dejamos un listado de endpoints útiles para realizar llamadas a la API de SonarQube:
 

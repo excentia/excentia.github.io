@@ -11,12 +11,12 @@ modified_time: '2018-02-26T08:00:00.000+01:00'
 cover: /img/posts/2018-02-26-mejorar-deuda-tecnica.png
 ---
 
-<a href="http://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="Mejorar nuestra deuda técnica día a día" title="Mejorar nuestra deuda técnica día a día" src="/img/posts/2018-02-26-mejorar-deuda-tecnica.png"></a>
+<a href="https://www.excentia.es/sonarsource" target="_blank"><img class="center" width="100%" alt="Mejorar nuestra deuda técnica día a día" title="Mejorar nuestra deuda técnica día a día" src="/img/posts/2018-02-26-mejorar-deuda-tecnica.png"></a>
 
 
-Terminamos el mes con uno de los tópicos favoritos tanto de [excentia](http://www.excentia.es/) como de todos vosotros: la deuda técnica. 
+Terminamos el mes con uno de los tópicos favoritos tanto de [excentia](https://www.excentia.es/) como de todos vosotros: la deuda técnica. 
 
-Mucho se ha [escrito](http://www.excentia.es/la-deuda-tecnica-y-el-metodo-sqale) acerca de la deuda técnica y se seguirá haciendo, pues es el principio sobre el que se sustenta el [desarrollo sostenible de software](http://www.excentia.es/los-principios-del-desarrollo)- esto es, la forma óptima de creación de producto software de máxima calidad. Ahí es nada. 
+Mucho se ha [escrito](https://www.excentia.es/la-deuda-tecnica-y-el-metodo-sqale) acerca de la deuda técnica y se seguirá haciendo, pues es el principio sobre el que se sustenta el [desarrollo sostenible de software](https://www.excentia.es/los-principios-del-desarrollo)- esto es, la forma óptima de creación de producto software de máxima calidad. Ahí es nada. 
 
 ## ¿Qué es la deuda técnica?
 La deuda técnica es un concepto muy conocido en el campo del desarrollo del software. Fue introducido por Ward Cunningham a principio de la década de los 90 y **hace referencia a las consecuencias de un desarrollo apresurado de software o un despliegue descuidado de hardware**.
@@ -27,7 +27,7 @@ Si tuviéramos una deuda podríamos optar por seguir pagando intereses o con un 
 ## ¿Cómo reducir la deuda técnica? *Fix the Leak*
 Pese a lo explicado arriba, todos sabemos que no siempre es posible parar los desarrollos, refactorizar un proyecto y quitarnos de encima la deuda. Eso no quiere decir que debamos acumular deuda como locos, **la calidad de nuestro código no debe ser algo negociable**. 
 
-Entonces, ¿cómo evitar la acumulación de deuda técnica sin interrumpir un desarrollo? Existen estrategias que nos permiten con cada nuevo desarrollo ir mejorando la calidad de nuestro código y reducir nuestra deuda técnica. De todas estas estrategias, hay una que destaca por su eficacia: [*Fix the Leak*](http://www.excentia.es/una-fuga-de-agua-cambia-el-juego-en-la).
+Entonces, ¿cómo evitar la acumulación de deuda técnica sin interrumpir un desarrollo? Existen estrategias que nos permiten con cada nuevo desarrollo ir mejorando la calidad de nuestro código y reducir nuestra deuda técnica. De todas estas estrategias, hay una que destaca por su eficacia: [*Fix the Leak*](https://www.excentia.es/una-fuga-de-agua-cambia-el-juego-en-la).
 
 ¿Qué es *fix the leak*? Imaginemos que un día llegas a casa y te la encuentras llena de agua por una fuga en una tubería. ¿Qué harías?, ¿achicarías agua o detendrías la fuga? Lo más probable es que cerraras la llave de paso, arreglaras la fuga y luego ya fregarías el suelo. ¿Por qué? Porque sabes que cualquier otra acción sería inútil y que en poco tiempo la misma cantidad de agua estaría de nuevo en el suelo.
 

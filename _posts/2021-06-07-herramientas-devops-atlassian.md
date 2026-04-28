@@ -17,7 +17,7 @@ modified_time: '2021-06-07T08:00:00.000+01:00'
 
 La cadena de herramientas DevOps no es un enfoque único para todos, incluye diferentes aplicaciones según los equipos. Pero, los equipos de operaciones de TI y de negocios que no trabajan estrechamente en estas herramientas necesitan saber qué está sucediendo y cuándo.
 
-La encuesta [Encuesta de Tendencias DevOps](http://www.atlassian.com/whitepapers/devops-survey-2020)  descubrió que un número cada vez mayor de equipos DevOps dicen que necesitan **más de 5 herramientas** para comprender el estado del proyecto.
+La encuesta [Encuesta de Tendencias DevOps](https://www.atlassian.com/whitepapers/devops-survey-2020)  descubrió que un número cada vez mayor de equipos DevOps dicen que necesitan **más de 5 herramientas** para comprender el estado del proyecto.
 
 ## Cómo las herramientas de Atlassian ayudan a los desarrolladores a ser más productivos
 
