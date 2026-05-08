@@ -15,7 +15,7 @@ cover: /img/posts/2026-05-07-resumen-novedades-atlassian-team-26.png
 
 Estamos en el Team '26 y ya conocemos las grandes novedades que Atlassian ha preparado para este año y presentado durante su keynote inaugural. Si hay dos nombres que han resonado con fuerza en Anaheim han sido Rovo y Teamwork Graph, la base tecnológica y conceptual sobre la que la compañía quiere construir el futuro del trabajo impulsado por inteligencia artificial.
 
-</h2>Teamwork Graph: el cerebro contextual de Atlassian 
+<h2>Teamwork Graph: el cerebro contextual de Atlassian</h2>
 
 Atlassian ha puesto el foco en una idea clave durante todo el evento. El contexto es el nuevo motor de productividad. Para ello, la compañía se apoya en **Teamwork Graph**, un sistema que conecta personas, proyectos, decisiones, herramientas y conocimiento organizativo.
 
@@ -32,7 +32,7 @@ Para ello se anunciaron dos nuevas iniciativas en beta abierta:
 - Teamwork Graph CLI, una interfaz orientada a agentes y usuarios técnicos con acceso directo al contexto organizativo.
 - Teamwork Graph en Rovo MCP Server, que permitirá a agentes y automatizaciones compatibles con MCP interactuar de forma segura con el grafo contextual.
 
-La idea es que la Teamwork Graph en una infraestructura abierta sobre la que otras IA puedan trabajar.
+La idea es que Teamwork Graph en una infraestructura abierta sobre la que otras IA puedan trabajar.
 
 <h2>Novedades sobre Rovo</h2>
 
@@ -50,7 +50,7 @@ La idea es que la Teamwork Graph en una infraestructura abierta sobre la que otr
 
 Otro de los protagonistas fue Dia, el navegador incorporado a la familia Atlassian el año pasado. La compañía explicó que Dia permite actuar sobre el contexto existente entre pestañas del navegador utilizando Teamwork Graph como capa de inteligencia compartida.
 
-Entre sus capacidades destaca la generación automática de un “Morning Brief”, capaz de recopilar conversaciones de Slack, calendario y tareas asignadas mientras el usuario duerme. Una especie de periódico personalizado cocinado por IA durante la noche
+Entre sus capacidades destaca la generación automática de un “Morning Brief”, capaz de recopilar conversaciones de Slack, calendario y tareas asignadas mientras el usuario duerme. Una especie de periódico personalizado cocinado por IA durante la noche.
 
 <h2>Novedades sobre las colecciones</h2>
 
@@ -58,8 +58,8 @@ Entre sus capacidades destaca la generación automática de un “Morning Brief�
 
 - **Confluence Slides**: Nueva funcionalidad de Confluence para la Teamwork Collection que permitirá preparar presentaciones sin salir de Confluence. 
 
-- **Novedades para la Strategy Collection**: Nuevas funcionalidades y espacios que te contaremos próximamente. Entre ellas está la opción de gestión de incidencias multi-canal (WhatsApp, sms..) o habilidades estrategicas para encontrar taleton en tu organización a partir de una seria de insights. 
+- **Novedades para la Strategy Collection**: Nuevas funcionalidades y espacios que te contaremos próximamente. Entre ellas está la opción de gestión de incidencias multi-canal (WhatsApp, SMS...) o habilidades estratégicas para encontrar talento en tu organización a partir de una serie de insights. 
 
 Muy pronto acompañaremos este artículo con un blog por cada nueva funcionalidad. 
 
-¡Seguímos en el Team '26!
+¡Seguimos en el Team '26!
