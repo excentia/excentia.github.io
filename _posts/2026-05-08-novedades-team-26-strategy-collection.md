@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SNovedades para la Strategy Collection lanzadas en el Team '26 de Atlassian
+title: Novedades para la Strategy Collection lanzadas en el Team '26 de Atlassian
 description: Nuevas funcionalidades de Atlassian Strategy Collection para conectar estrategia, IA, planificación y finanzas.
 date: '2026-05-08T08:00:00Z'
 author: Belén Casanovas
