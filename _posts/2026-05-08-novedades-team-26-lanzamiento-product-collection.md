@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Ya está disponible la Product Collection!
-description: Te contamos en lanzamiento de esta colección con IA, feedback, analítica y roadmpas dinámicos para gestión de producto. 
+description: Te contamos el lanzamiento de esta colección con IA, feedback, analítica y roadmaps dinámicos para gestión de producto. 
 date: '2026-05-08T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -13,7 +13,7 @@ cover: /img/posts/2026-05-08-novedades-team-26-lanzamiento-product-collection.pn
 
 ---
 
-En el **Team '26 Anaheim**, Atlassian ha terminado de completar su estrategia de collections con el **lanzamiento de la Product Collection**, la última colección que quedaba pendiente desde que la compañía anunciara este nuevo enfoque en Team ’25. La propuesta busca resolver uno de los mayores problemas de los equipos de producto actuales, la de transformar **enormes cantidades de feedback, datos y señales** en decisiones claras y alineadas con la estrategia del negocio.
+En el **Team '26 Anaheim**, Atlassian ha terminado de completar su estrategia de collections con el **lanzamiento de la Product Collection**, la última colección que quedaba pendiente desde que la compañía anunciara este nuevo enfoque en Team ’25. La propuesta busca resolver uno de los mayores problemas de los equipos de producto actuales, transformar **enormes cantidades de feedback, datos y señales** en decisiones claras y alineadas con la estrategia del negocio.
 
 Product Collection nace como un **sistema operativo de producto** impulsado por inteligencia artificial que conecta estrategia, insights y ejecución en una única plataforma. La colección reúne cuatro piezas principales: Jira Product Discovery, la nueva aplicación Feedback, Rovo y las integraciones de analítica de producto.
 
@@ -21,7 +21,7 @@ Product Collection nace como un **sistema operativo de producto** impulsado por 
 
 La principal novedad presentada para la Product Collection es Feedback, una nueva aplicación diseñada para **capturar automáticamente** las aportaciones de clientes desde múltiples canales y convertirlas en insights estructurados mediante inteligencia artificial.
 
-La **herramienta es capaz de recopilar información** procedente de tickets de soporte, llamadas comerciales, sistemas CRM, conversaciones en Slack y encuestas, organizando posteriormente toda esa información en temas, patrones y tendencias claras. El objetivo es eliminar uno de los mayores cuellos de botella de los equipos de producto, la del análisis manual de feedback disperso.
+La **herramienta es capaz de recopilar información** procedente de tickets de soporte, llamadas comerciales, sistemas CRM, conversaciones en Slack y encuestas, organizando posteriormente toda esa información en temas, patrones y tendencias claras. El objetivo es eliminar uno de los mayores cuellos de botella de los equipos de producto, análisis manual de feedback disperso.
 
 Además de acelerar la detección de tendencias, la automatización reduce significativamente el trabajo manual asociado al análisis de feedback y disminuye el riesgo de que señales importantes queden ocultas entre miles de conversaciones y comentarios.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Novedades para la Teamwork Graph el Team '26 de Atlassian
+title: Novedades para la Teamwork Graph en el Team '26 de Atlassian
 description: Descubre cómo la Teamwork Graph de Atlassian conecta IA, agentes y datos empresariales para automatizar el trabajo con contexto real.
 date: '2026-05-12T08:00:00Z'
 author: Belén Casanovas
@@ -62,4 +62,4 @@ La tercera pieza del ecosistema son los **Teamwork Graph Connectors**, ya dispon
 
 - Alimenta **automáticamente agentes de Rovo** y herramientas de análisis como Atlassian Analytics. <br>
 
-Y hasta todas las novedades sobre la Teamwork Graph. ¡Nos leemos en siguientes artículos!
+Y hasta aquí todas las novedades sobre la Teamwork Graph. ¡Nos leemos en siguientes artículos!
