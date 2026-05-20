@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resumen de novedades del Atlassian Team '26
-description: Atlassian presenta en el Team ’26 sus novedades en IA, Rovo, Teamwork Graph, agentes inteligentes y el futuro del trabajo conectado.
+description: Atlassian presenta en el Team '26 sus novedades en IA, Rovo, Teamwork Graph, agentes inteligentes y el futuro del trabajo conectado.
 date: '2026-05-07T08:00:00Z'
 author: Belén Casanovas
 categories:

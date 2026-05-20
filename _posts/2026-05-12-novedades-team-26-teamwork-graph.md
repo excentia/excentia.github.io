@@ -13,7 +13,7 @@ cover: /img/posts/2026-05-12-novedades-team-26-teamwork-graph.png
 
 ---
 
-En el evento Team ’26, la **gran protagonista fue el Teamwork Graph**, la capa de datos de Atlassian donde el trabajo deja de estar fragmentado y pasa a existir como una red de relaciones vivas. Lo más relevante es que, a partir de ahora, este contexto deja de ser “interno” o “cerrado” y se vuelve accesible para agentes de IA en cualquier entorno: navegador, móvil o terminal.
+En el evento Team '26, la **gran protagonista fue el Teamwork Graph**, la capa de datos de Atlassian donde el trabajo deja de estar fragmentado y pasa a existir como una red de relaciones vivas. Lo más relevante es que, a partir de ahora, este contexto deja de ser “interno” o “cerrado” y se vuelve accesible para agentes de IA en cualquier entorno: navegador, móvil o terminal.
 
 El resultado es un cambio de paradigma, porque las herramientas de IA ya no trabajan con información aislada, sino con el **contexto colectivo que la organización ya ha construido**. 
 

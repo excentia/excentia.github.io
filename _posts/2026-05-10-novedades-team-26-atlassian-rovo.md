@@ -13,7 +13,7 @@ cover: /img/posts/2026-05-10-novedades-team-26-atlassian-rovo.png
 
 ---
 
-Durante el evento Team ’26, Atlassian ha presentado nuevas capacidades para Rovo, su app de inteligencia artificial, con la idea de pasar de asistentes que responden preguntas a sistemas que ejecutan trabajo real dentro de las herramientas del equipo.
+Durante el evento Team '26, Atlassian ha presentado nuevas capacidades para Rovo, su app de inteligencia artificial, con la idea de pasar de asistentes que responden preguntas a sistemas que ejecutan trabajo real dentro de las herramientas del equipo.
 
 <h2>Max, el nuevo modo de razonamiento de Rovo Chat</h2>
 

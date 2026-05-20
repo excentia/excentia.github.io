@@ -13,7 +13,7 @@ cover: /img/posts/2026-05-08-novedades-team-26-strategy-collection.png
 
 ---
 
-La Strategy Collection de Atlassian ha sido una de las protagonistas en el Team ’26, con tres novedades que marcan un paso claro en la evolución de la compañía hacia un modelo más estratégico, conectado y orientado a la toma de decisiones ejecutivas. Estas innovaciones se centran en mejorar la visibilidad, la planificación y la gestión del capital, tanto humano como de inteligencia artificial, dentro de las organizaciones.
+La Strategy Collection de Atlassian ha sido una de las protagonistas en el Team '26, con tres novedades que marcan un paso claro en la evolución de la compañía hacia un modelo más estratégico, conectado y orientado a la toma de decisiones ejecutivas. Estas innovaciones se centran en mejorar la visibilidad, la planificación y la gestión del capital, tanto humano como de inteligencia artificial, dentro de las organizaciones.
 
 La primera de estas novedades es **Strategic Intelligence**, disponible en **Atlassian Focus**. Se trata de una vista personalizada, impulsada por inteligencia artificial, que permite a cada líder entender qué está ocurriendo en todo su portafolio sin depender de revisiones periódicas. Esta funcionalidad recoge señales de múltiples fuentes conectadas, como la **entrega de proyectos, el talento y los datos financieros**, y permite profundizar en la información en tiempo real. 
 
