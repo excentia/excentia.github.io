@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'excentia patrocina el Team '26 Solidario de la Comunidad Atlassian de Valencia'
-description: excentia patrocina el Team '26 Solidario de Valencia, un evento Atlassian sobre IA, Teamwork Graph y el futuro del trabajo en equipo.
+title: 'excentia patrocina el Team 26 Solidario de la Comunidad Atlassian de Valencia'
+description: excentia patrocina el evento de solidario de ACE Valencia sobre IA, Teamwork Graph y el futuro del trabajo en equipo.
 date: '2026-05-16T08:00:00Z'
 author: Belén Casanovas
 categories:
@@ -18,7 +18,7 @@ El **próximo 26 de mayo**, el ecosistema Atlassian tiene una cita señalada. El
 
 Desde excentia nos sumamos como **patrocinadores Platinum** de esta edición tan especial, que además vuelve a tener un componente solidario con una recaudación destinada a <a href="https://laninaamarilla.com/" target="_blank" rel="noopener noreferrer">La Niña Amarilla</a>, la primera asociación para la prevención del suicidio basada en la comunicación.
 
-<img width="100%" src="/img/eventos/atlassian-team-26-solidario.png" alt="Atlassian Team '26 Solidario">
+<img width="100%" src="/img/eventos/atlassian-team-26-solidario.png" alt="Atlassian Team 26 Solidario">
 <br>
 
 <h2>¿Qué vamos a ver en el evento?</h2>
