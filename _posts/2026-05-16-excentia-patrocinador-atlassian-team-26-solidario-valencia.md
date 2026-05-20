@@ -29,19 +29,6 @@ Durante la jornada, los asistentes podrán conocer en detalle las **principales 
 
 Como patrocinadores del evento, desde excentia estaremos presentes durante toda la jornada y además participaremos con una ponencia de **Antonio Calero, co-CEO de excentia**, a las 10:20 horas. La charla, titulada **Highway to Help**, abordará algunos de los grandes desafíos que están afrontando actualmente las organizaciones ante la irrupción masiva de la inteligencia artificial.
 
-Antonio compartirá cómo en excentia "estamos trabajando para impulsar **la adopción de IA** dentro de las organizaciones, ayudando a transformar el caos de herramientas en entornos conectados, contextualizados y realmente útiles para los equipos".
-
-Uno de los puntos clave de la sesión será la **evolución de los agentes de IA**, que están comenzando a convertirse en nuevos compañeros de trabajo dentro de los equipos de desarrollo y operaciones.
-
-<h2>Del CI/CD al modelo AC/DC</h2>
-
-Durante la charla también se presentará la **visión AC/DC**, una nueva forma de entender el desarrollo de software inspirada en el enfoque promovido por Sonar y adaptable al ecosistema Atlassian. Este modelo nace como una alternativa a los **enfoques tradicionales de CI/CD**, que fueron diseñados en un contexto donde la inteligencia artificial todavía no formaba parte activa del ciclo de desarrollo.
-
-La propuesta pone el foco en cómo **integrar la IA de forma real** dentro de los procesos de ingeniería, calidad y colaboración entre equipos.
-
-<h2>Teamwork Graph y el valor del contexto</h2>
-
-Otro de los grandes protagonistas de la sesión será [Teamwork Graph](/novedades-team-26-teamwork-graph), una de las apuestas más estratégicas de Atlassian. La idea es conectar el **contexto de trabajo** entre todas las aplicaciones, equipos y procesos. Atlassian parte con ventaja en este escenario porque sus aplicaciones **ya están conectadas entre sí** de forma nativa. Esto permite crear relaciones entre proyectos, documentación, tickets, personas, objetivos y conocimiento compartido, algo clave en un momento en el que la IA necesita contexto para generar valor real.
 
 <h3>Nos vemos en Valencia</h3>
 
