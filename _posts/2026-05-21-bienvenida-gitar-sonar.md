@@ -34,4 +34,4 @@ Gitar opera como un agente, no como una herramienta. Entiende el contexto del c�
 
 Para los clientes actuales de Gitar, todo seguirá igual. **No habrá cambios en el producto**, los servicios ni el soporte. Gitar seguirá estando disponible como producto independiente. Con el tiempo, Sonar profundizará la **integración entre Gitar y SonarQube**, ofreciendo una visión más completa de la calidad del código, la seguridad y el estado de las revisiones en un único lugar.
 
-Este artículo es una traducción del original que está publicado en <a href="https://www.sonarsource.com/blog/welcoming-gitar-to-sonar" target="_blank" rel="nofollow noopener">este enlace del blog</a> de Sonar.
+Este artículo es una traducción del original que está publicado en <a href="https://www.sonarsource.com/blog/welcoming-gitar-to-sonar" target="_blank" rel="nofollow">este enlace del blog</a> de Sonar.
