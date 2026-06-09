@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Datacenter: SonarQube Connector para Confluence'
+title: 'Datacenter: SonarQube Connector for Confluence'
 description: Integra los proyectos de SonarQube en tus páginas de Confluence
 date: '2020-09-03T08:00:00.000+01:00'
 author:  Anna Torres
@@ -20,7 +20,7 @@ Ya está disponible la versión **1.6.1** del [**SonarQube Connector for Conflue
 Y estad atentos que pronto lanzaremos la versión para cloud.
 
 
-## Datacenter: SonarQube Connector para Confluence
+## Datacenter: SonarQube Connector for Confluence
 
 Ahora también para **Datacenter** el SonarQube Connector for Confluence integra todos tus proyectos de SonarQube en las páginas de Confluence.
 

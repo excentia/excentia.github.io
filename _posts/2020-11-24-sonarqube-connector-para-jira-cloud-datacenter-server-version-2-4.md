@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 'Conecta tu instancia de SonarQube con Jira'
-description: SonarQube Connector para Jira Cloud, Data Center y Server versión 2.4
+description: SonarQube Connector for Jira Cloud, Data Center y Server versión 2.4
 date: '2020-11-24T08:00:00.000+01:00'
 author:  Anna Torres
 categories: 
@@ -38,7 +38,7 @@ Hemos publicado la versión 2.4 del [SonarQube Connector for Jira Cloud, Data Ce
 <br/>
 <div style="border:1px solid ##fbf1e1; background:#fbf1e1; padding:20px 20px;">
 <h3>SonarQube desde tu instancia de Jira</h3> 
-<p style="font-size:1.1em;">Prueba gratis por 30 días el <strong>SonarQube Connector para Jira</strong>.
+<p style="font-size:1.1em;">Prueba gratis por 30 días el <strong>SonarQube Connector for Jira</strong>.
 
 </p>
 <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_jira"><span class="btn btn-outline-white btn-xl" style="background:#FF8200; border:none;font-weight: bold" >DESCARGA DESDE EL MARKETPLACE DE ATLASSIAN</span></a>

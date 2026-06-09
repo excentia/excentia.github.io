@@ -26,7 +26,7 @@ Ejemplo:
 
 <br/>
 
-<a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_confluence" class="btn btn-outline-white btn-xl" style="background:#333;border:none; font-weight:bold;font-size:0.6em" >Descarga el SonarQube Connector para Confluence ></a>
+<a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_confluence" class="btn btn-outline-white btn-xl" style="background:#333;border:none; font-weight:bold;font-size:0.6em" >Descarga el SonarQube Connector for Confluence ></a>
 <br/>
 <br/>
 

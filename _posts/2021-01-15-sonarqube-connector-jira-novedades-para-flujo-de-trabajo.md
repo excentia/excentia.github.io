@@ -38,7 +38,7 @@ Los **Administradores de Proyecto** podrán:
 
 <br/>
 
-<a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_jira" class="btn btn-outline-white btn-xl" style="background:#333;border:none; font-weight:bold;font-size:0.6em" >Descarga el SonarQube Connector para Jira ></a>
+<a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_jira" class="btn btn-outline-white btn-xl" style="background:#333;border:none; font-weight:bold;font-size:0.6em" >Descarga el SonarQube Connector for Jira ></a>
 <br/>
 <br/>
 
