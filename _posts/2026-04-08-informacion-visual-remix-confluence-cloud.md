@@ -31,6 +31,9 @@ Con esta funcionalidad, puedes seleccionar **cualquier contenido en una página 
 
 Según los datos de Atlassian, las páginas de Confluence con al menos un elemento visual **tienen un 18 % más de probabilidades de ser leídas** por una audiencia más amplia, demostrando la importancia de presentar el conocimiento de manera clara y visual.
 
+En este video te enseñamos a utilizar la funcionalidad Remix que ya está disponible en Confluence: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RKxq6LsyTGU?si=Y-I3XncXfKmqictC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Agentes preconfigurados para Lovable, Replit y Gamma</h2>
 
