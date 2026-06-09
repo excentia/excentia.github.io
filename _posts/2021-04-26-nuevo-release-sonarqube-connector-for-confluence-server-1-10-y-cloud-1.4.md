@@ -15,7 +15,7 @@ modified_time: '2021-04-26T08:00:00.000+01:00'
 
 
 ¡En excentia no paramos! 
-Hemos publicado una nueva versión del <a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_Confluence" target="_blank">SonarQube Connector para Confluence Cloud 1.4 y Server 1.10</a>.
+Hemos publicado una nueva versión del <a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_Confluence" target="_blank">SonarQube Connector for Confluence Cloud 1.4 y Server 1.10</a>.
 
 ## Nuevas funcionalidades:
 

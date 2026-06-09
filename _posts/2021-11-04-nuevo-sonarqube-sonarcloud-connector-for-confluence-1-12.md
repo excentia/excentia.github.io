@@ -20,9 +20,9 @@ Hemos publicado la nueva versión (1.12) del <a href="https://marketplace.atlass
 
 Nuevo diseño para las macros.
 
-<img src="/img/posts/2021-11-04-nuevo-sonarqube-sonarcloud-connector-for-confluence-1-12-macro-portfolio.png" alt="SonarCloud / SonarQube Connector para Confluence - Portfolio" width="100%">
+<img src="/img/posts/2021-11-04-nuevo-sonarqube-sonarcloud-connector-for-confluence-1-12-macro-portfolio.png" alt="SonarCloud / SonarQube Connector for Confluence - Portfolio" width="100%">
 
-<img src="/img/posts/2021-11-04-nuevo-sonarqube-sonarcloud-connector-for-confluence-1-12-macro-single-project.png" alt="SonarCloud / SonarQube Connector para Confluence - Portfolio" width="100%">
+<img src="/img/posts/2021-11-04-nuevo-sonarqube-sonarcloud-connector-for-confluence-1-12-macro-single-project.png" alt="SonarCloud / SonarQube Connector for Confluence - Portfolio" width="100%">
 
 <br/>
 

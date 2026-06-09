@@ -26,10 +26,10 @@ Y en el caso de ser un Sercurity Hotspot se visualizará su prioridad y su resol
 
 **Issues** 
 
-<img src="/img/posts/2021-10-27-nuevo-sonarqube-sonarcloud-connector-for-jira-2-12-issue-tab-issues.png" alt="SonarQube Connector para Jira - Issue Tab" width="100%">
+<img src="/img/posts/2021-10-27-nuevo-sonarqube-sonarcloud-connector-for-jira-2-12-issue-tab-issues.png" alt="SonarQube Connector for Jira - Issue Tab" width="100%">
 
 **Security Hotspot** 
-<img src="/img/posts/2021-10-27-nuevo-sonarqube-sonarcloud-connector-for-jira-2-12-issue-tab-security-hotspot.png" alt="SonarQube Connector para Jira - Security Hotspot" width="100%">
+<img src="/img/posts/2021-10-27-nuevo-sonarqube-sonarcloud-connector-for-jira-2-12-issue-tab-security-hotspot.png" alt="SonarQube Connector for Jira - Security Hotspot" width="100%">
 
 <br/>
 
