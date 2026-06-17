@@ -19,7 +19,7 @@ En este artículo veremos **qué es Remix**, qué tipos de contenido puede gener
 
 <h2>¿Qué es Remix en Confluence?</h2>
 
-Remix es una función de [Atlassian Rovo](https://www.excentia.es/que-es-atlassian-rovo) para Confluence que **transforma contenido existente en gráficos, diagramas, infografías y visualizaciones** mediante inteligencia artificial. A partir de texto seleccionado en una página o un Live Doc, Remix puede generar automáticamente:
+Remix es una función de [Atlassian Rovo](/que-es-atlassian-rovo) para Confluence que **transforma contenido existente en gráficos, diagramas, infografías y visualizaciones** mediante inteligencia artificial. A partir de texto seleccionado en una página o un Live Doc, Remix puede generar automáticamente:
 
 - Gráficos y charts.
 - Diagramas.
@@ -30,7 +30,7 @@ El objetivo es ofrecer **nuevas formas de representar la información** para ada
 
 <h2>Casos de uso de Remix en Confluence</h2>
 
-Remix en [Confluence](https://www.excentia.es/que-es-confluence-y-a-que-aporta-al-trabajo-remoto) puede utilizarse en distintos escenarios para transformar información textual en formatos visuales. Algunos ejemplos son:
+Remix en [Confluence](/que-es-confluence-y-a-que-aporta-al-trabajo-remoto) puede utilizarse en distintos escenarios para transformar información textual en formatos visuales. Algunos ejemplos son:
 
 - Convertir una lista de puntos en una infografía.
 - Crear un organigrama a partir de una tabla con nombres y equipos.
@@ -80,14 +80,14 @@ Una vez iniciado el proceso, Remix muestra un menú con diferentes formatos de s
 <img width="100%" src="/img/atlassian-products/confluence-remix-rovo-opciones.png" alt="Opciones Remix Rovo">
 <br>
 
-**Charts**
+**Charts (Gráficos)**
 
 Cuando el contenido contiene datos numéricos, Remix puede generar gráficos automáticamente. Puedes elegir entre distintos tipos de visualización, como:
 
 - Gráficos de líneas, de barras o circulares.
 - Otros formatos adecuados para representar datos.
 
-**Diagrams**
+**Diagrams (Diagramas)**
 
 Los diagramas permiten representar visualmente las relaciones entre los distintos elementos del contenido. Remix puede generar:
 
@@ -96,13 +96,13 @@ Los diagramas permiten representar visualmente las relaciones entre los distinto
 
 Estos diagramas pueden añadirse al documento como Whiteboards incrustados.
 
-**Infographics**
+**Infographics (Infografías)**
 
 Las infografías ayudan a complementar el contenido mediante una representación más visual y narrativa. Actualmente pueden generarse en distintos estilos, incluyendo: Estilo moderno, minimalista o estilo boceto (sketch).
 
 Una vez creada la infografía, puedes solicitar cambios a Rovo hasta obtener el resultado deseado y posteriormente insertarla o copiarla como imagen.
 
-**Visualizations**
+**Visualizations (Visualizaciones)**
 
 Las visualizaciones generan experiencias interactivas para explorar la información. Entre los ejemplos mencionados por Atlassian se encuentran:
 
