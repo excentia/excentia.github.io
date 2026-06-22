@@ -16,14 +16,14 @@ cover: /img/posts/2026-06-22-quality-gates-live-show-episodio-3.png
 
 ---
 
-¡Nuevo capítulo de Quality Gates Live Show!. En este tercer episodio repasamos lo más destacado de la última versión de SonarQube Server y ponemos el **foco en ciclo AC/DC de SonarQube**.
+¡Nuevo capítulo de Quality Gates Live Show! En este tercer episodio repasamos lo más destacado de la última versión de SonarQube Server y ponemos el **foco en el ciclo AC/DC de SonarQube**.
 
-Quality Gates Life Show es el espacio donde **Mario Bastardo, Antonio Calero y Belén Casanovas** se reúnen para hablar de todo lo que se mueve en el mundo de la calidad de código, el análisis estático y las buenas prácticas de desarrollo. Todos los capítulos están disponibles en <a href="https://www.youtube.com/playlist?list=PLZ5oF-c2V6nPOdVPMflg2T04YAsA2P46m" target="_blank" rel="nofollow">nuestro canal de Youtube</a>.
+Quality Gates Live Show es el espacio donde **Mario Bastardo, Antonio Calero y Belén Casanovas** se reúnen para hablar de todo lo que se mueve en el mundo de la calidad de código, el análisis estático y las buenas prácticas de desarrollo. Todos los capítulos están disponibles en <a href="https://www.youtube.com/playlist?list=PLZ5oF-c2V6nPOdVPMflg2T04YAsA2P46m" target="_blank" rel="nofollow">nuestro canal de Youtube</a>.
 
 <h2>¿Qué encontrarás en este episodio?</h2>
 En esta tercera entrega, el equipo aborda dos temas clave:
 
-- Por un lado, las novedades que trae [SonarQube Server 2026.3](/novedades-sonarqube-server-2026-3), la última versión de la herramienta de referencia en análisis de código. ¿Qué ha cambiado? ¿Qué mejoras merece la pena conocer? Nuestro equipo lo desgrana de forma clara y directa. En este bloque también hacemos meción a la **compra de Gitar** y las pruebas que estamos haciendo con Sonar Review Alpha. 
+- Por un lado, las novedades que trae [SonarQube Server 2026.3](/novedades-sonarqube-server-2026-3), la última versión de la herramienta de referencia en análisis de código. ¿Qué ha cambiado? ¿Qué mejoras merece la pena conocer? Nuestro equipo lo desgrana de forma clara y directa. En este bloque también hacemos mención a la **compra de Gitar** y las pruebas que estamos haciendo con Sonar Review Alpha. 
 
 - Por otro lado, dedicamos un bloque especial a hablar de la **nueva metodología de Sonar AC/DC**, un tema que está generando mucho interés en la comunidad y que merece una explicación en profundidad.
 
