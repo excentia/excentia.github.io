@@ -33,7 +33,7 @@ Todo el progreso queda registrado en Jira, proporcionando visibilidad completa s
 
 El funcionamiento del agente se basa en tres fases principales: asignación, ejecución y revisión.
 
-1. **Delegar trabajo** a Claude desde Jira
+**Delegar trabajo a Claude desde Jira**
 
 Los equipos pueden asignar tareas a Claude de diferentes formas:
 
@@ -51,7 +51,7 @@ Una vez recibe la incidencia, Claude accede a toda la información disponible, i
 
 Gracias a este contexto, el agente puede trabajar con un conocimiento mucho más completo que el de un asistente tradicional.
 
-2. **Desarrollo** en un entorno seguro y aislado
+**Desarrollo en un entorno seguro y aislado**
 
 Claude ejecuta el trabajo dentro de la infraestructura gestionada por Anthropic. Durante este proceso:
 
@@ -63,7 +63,7 @@ Claude ejecuta el trabajo dentro de la infraestructura gestionada por Anthropic.
 
 Todo ello ocurre en un entorno sandbox aislado que reduce riesgos y mantiene la seguridad del proceso de desarrollo.
 
-3. **Revisión** y control humano
+**Revisión y control humano**
 
 Aunque Claude puede implementar cambios de forma autónoma, el control final sigue estando en **manos del equipo de ingeniería**. Una vez completada la tarea, el agente:
 
