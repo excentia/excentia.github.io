@@ -43,7 +43,7 @@ Una vez generado el código, Sonar Vortex **lo verifica en tiempo real** dentro 
 Este enfoque permite **identificar los problemas durante el desarrollo**, en lugar de descubrirlos en la fase de revisión de código. Como resultado, los equipos obtienen hallazgos consistentes, explicables y homogéneos entre herramientas, equipos y ramas de desarrollo.
 
 
-</h2>Beneficios de Sonar Vortex</h2>
+<h2>Beneficios de Sonar Vortex</h2>
 
 Entre los principales beneficios de Sonar Vortex destacan los siguientes.
 
@@ -55,7 +55,7 @@ Entre los principales beneficios de Sonar Vortex destacan los siguientes.
 
 Una <a href="https://www.sonarsource.com/blog/cut-your-coding-agents-cost-with-sonar-semantic-code-navigation/" target="_blank" rel="nofollow">investigación realizada por Sonar</a> cuantifica el impacto de Sonar Vortex sobre la eficiencia en el consumo de tokens que te contamos a continuación.
 
-En pruebas controladas realizadas **sobre proyectos Java, Python, TypeScript y C#, utilizando Claude Opus 4.8**, Sonar Vortex logró reducir el consumo de tokens de los modelos de lenguaje hasta en un **36% en tareas de refactorización** donde la localización del código representa la mayor parte del trabajo.
+En pruebas controladas realizadas **sobre proyectos Java, Python, TypeScript y C#, utilizando Claude Opus 4.8**, Sonar Vortex logró reducir el consumo de tokens de los modelos de lenguaje hasta en un **36 % en tareas de refactorización** donde la localización del código representa la mayor parte del trabajo.
 
 En lugar de obligar al agente a realizar búsquedas iterativas y mantener contexto procedente de numerosos archivos, Sonar Vortex **proporciona el contexto gobernado** necesario mediante una única consulta precisa. Esto reduce significativamente la exploración innecesaria.
 
