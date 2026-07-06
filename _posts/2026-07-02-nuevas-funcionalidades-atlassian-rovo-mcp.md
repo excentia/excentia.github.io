@@ -75,7 +75,7 @@ Estas capacidades de worklogs se irán desplegando progresivamente.
 **Mejora del contexto con menor uso de tokens**
 
 Atlassian ha introducido un **modelado más inteligente** de las respuestas, lo que permite a los agentes obtener el contexto necesario utilizando menos tokens. Según los <a href="https://www.atlassian.com/blog/jira/mcp-enhancements" target="_blank" rel="nofollow"> datos mencionados en su blog</a>, los agentes basados en el contexto de Teamwork Graph ofrecen:
-</a>
+
 
 - Un 44 % más de precisión en las respuestas
 - Un 48 % menos de consumo de tokens
