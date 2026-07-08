@@ -6,10 +6,8 @@ date: '2026-07-02T08:00:00Z'
 author: Belén Casanovas
 categories:
 
-- sonarqube
-- calidad
-- devops
-- noticia
+- atlassian
+- noticias
 
 
 cover: /img/posts/2026-07-02-nuevas-funcionalidades-atlassian-rovo-mcp.png
