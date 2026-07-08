@@ -35,7 +35,7 @@ El formulario completo **sigue estando disponible**. Puedes ampliarlo haciendo c
 <img width="80%" src="/img/atlassian-products/nueva-ventana-creacion-work-item-jira.webp" alt="Nueva vista de creacion de work item Jira">
 <br>
 
-<h2>Área princial de entrada</h2>
+<h2>Área principal de entrada</h2>
 
 **"Summary" pasa a denominarse "Title" en la interfaz de usuario**
 
