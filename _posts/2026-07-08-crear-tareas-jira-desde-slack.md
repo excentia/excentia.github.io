@@ -14,7 +14,7 @@ cover: /img/posts/2026-07-08-crear-tareas-jira-desde-slack.png
 
 ---
 
-Ya puedes **actualizar, asignar y crear tareas de Jira** sin salir de una conversación de Slack. Muchas veces mientras hablamos por Slack con algun/a compañero/a pueden aparecer informaciones que podrían ser **añadidas en Jira**. Para ello, deberíamos ir a la app y crear o actualizar la tarea. ¡Pues ya no! Con la aplicación **Jira Cloud para Slack**, ahora puedes **mencionar a @Jira** en cualquier canal de Slack para crear, actualizar y asignar elementos de trabajo utilizando lenguaje natural. En este artículo te contamos paso a paso cómo puedes hacerlo. 
+Ya puedes **actualizar, asignar y crear tareas de Jira** sin salir de una conversación de Slack. Muchas veces mientras hablamos por Slack con algún/a compañero/a pueden aparecer informaciones que podrían ser **añadidas en Jira**. Para ello, deberíamos ir a la app y crear o actualizar la tarea. ¡Pues ya no! Con la aplicación **Jira Cloud para Slack**, ahora puedes **mencionar a @Jira** en cualquier canal de Slack para crear, actualizar y asignar elementos de trabajo utilizando lenguaje natural. En este artículo te contamos paso a paso cómo puedes hacerlo. 
 
 <h2>Requisitos previos</h2>
 
@@ -46,7 +46,7 @@ A continuación, te dejo algunos ejemplos que puedes poner en práctica para uti
 | Crear una incidencia a partir de un hilo de Slack |       ✅ Sí       | @Jira crea una tarea con la información de este hilo           |
 
 
-Con Jira Cloud para Skack tendrás un **flujo directo desde la conversación** hasta la tarea, sin que nadie tenga que abrir Jira durante el proceso. ¡Te invitamos a probarla!
+Con Jira Cloud para Slack tendrás un **flujo directo desde la conversación** hasta la tarea, sin que nadie tenga que abrir Jira durante el proceso. ¡Te invitamos a probarla!
 
 Esta <a href="https://community.atlassian.com/forums/Jira-articles/Capture-assign-and-execute-work-in-Jira-from-Slack/ba-p/3252402" target="_blank" rel="nofollow noopener noreferrer">funcionalidad</a> ha sido anunciada por Atlassian y está disponible para Jira Cloud mediante la aplicación Jira Cloud para Slack.
 
