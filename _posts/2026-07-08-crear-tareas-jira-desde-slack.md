@@ -14,7 +14,7 @@ cover: /img/posts/2026-07-08-crear-tareas-jira-desde-slack.png
 
 ---
 
-Ya puedes **actualizar, asignar y crear tareas de Jira** sin salir de una conversación de Slack. Muchas veces mientras hablamos por Slack con algún/a compañero/a pueden aparecer informaciones que podrían ser **añadidas en Jira**. Para ello, deberíamos ir a la app y crear o actualizar la tarea. ¡Pues ya no! Con la aplicación **Jira Cloud para Slack**, ahora puedes **mencionar a @Jira** en cualquier canal de Slack para crear, actualizar y asignar elementos de trabajo utilizando lenguaje natural. En este artículo te contamos paso a paso cómo puedes hacerlo. 
+Ya puedes **actualizar, asignar y crear tareas de Jira** sin salir de un canal de Slack. Muchas veces mientras hablamos por Slack con algún/a compañero/a pueden aparecer informaciones que podrían ser **añadidas en Jira**. Para ello, deberíamos ir a la app y crear o actualizar la tarea. ¡Pues ya no! Con la aplicación **Jira Cloud para Slack**, ahora puedes **mencionar a @Jira** en cualquier canal de Slack para crear, actualizar y asignar elementos de trabajo utilizando lenguaje natural. En este artículo te contamos paso a paso cómo puedes hacerlo. 
 
 <h2>Requisitos previos</h2>
 
@@ -26,7 +26,7 @@ Antes de comenzar, es importante que tengas en cuenta que debes cumplir estos re
 
 <h2>Guía paso a paso</h2>
 
-- Menciona @Jira **en cualquier canal o conversación de Slack**. Si la aplicación aún no se ha añadido al canal, sigue las indicaciones para invitarla. La primera vez que la utilices tendrás que seleccionar tu instancia de Jira y el espacio predeterminado que desees.
+- Menciona @Jira **en cualquier canal de Slack**. Si la aplicación aún no se ha añadido al canal, sigue las indicaciones para invitarla. La primera vez que la utilices tendrás que seleccionar tu instancia de Jira y el espacio predeterminado que desees.
 
 - Menciona @Jira y **escribe lo que necesitas en un lenguaje natural** para crear o actualizar elementos de trabajo, con todos sus campos y una tarjeta editable en el hilo.
 
