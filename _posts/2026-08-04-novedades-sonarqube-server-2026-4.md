@@ -16,7 +16,7 @@ cover: /img/posts/2026-08-04-novedades-sonarqube-server-2026-4.png
 
 ---
 
-Sonar ha presentado SonarQube Server 2026.4, una actualización centrada en **reforzar la verificación del código** generado mediante inteligencia artificial. Esta nueva versión incorpora una Quality Gate específico para desarrollo asistido por agentes, añade **Architecture Management a SonarQube Server**, mejora la visibilidad sobre el **cumplimiento de las Quality Gates** e introduce importantes mejoras de rendimiento, nuevas reglas y una configuración más sencilla para GitHub App.
+Sonar ha presentado SonarQube Server 2026.4, una actualización centrada en **reforzar la verificación del código** generado mediante inteligencia artificial. Esta nueva versión incorpora un Quality Gate específico para desarrollo asistido por agentes, añade **Architecture Management a SonarQube Server**, mejora la visibilidad sobre el **cumplimiento de las Quality Gates** e introduce importantes mejoras de rendimiento, nuevas reglas y una configuración más sencilla para GitHub App.
 
 <h2>¿Qué incluye SonarQube Server 2026.4?</h2>
 
