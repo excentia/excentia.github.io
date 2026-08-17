@@ -16,12 +16,12 @@ cover: /img/posts/2026-08-14-new-code-vs-overall-code-sonarqube.png
 
 ---
 
-Dentro de un proyecto de SonarQube vamos a encontra una pestaña de **New Code** y otra de **Overall Code** (Código Total). La diferencia no es solo técnica, sino metodológica porque define cómo un equipo gestiona su deuda técnica. En este artículo profundizamos en los conceptos básicos que rodean el new code y overwall code y algunas recomendaciones para trabajar con ellos. 
+Dentro de un proyecto de SonarQube vamos a encontrar una pestaña de **New Code** y otra de **Overall Code** (Código Total). La diferencia no es solo técnica, sino metodológica porque define cómo un equipo gestiona su deuda técnica. En este artículo profundizamos en los conceptos básicos que rodean el new code y overall code y algunas recomendaciones para trabajar con ellos. 
 
 
 <h2>Definición de conceptos</h2>
 
-Vamos a resumir en dos lineas los conceptos de los que vamos a hablar.
+Vamos a resumir en dos líneas los conceptos de los que vamos a hablar.
 
 - **New Code (Código Nuevo):** hace referencia a los cambios recientes hechos en un periodo definido. El objetivo es que el código que escribes *hoy* sea de alta calidad.
 - **Overall Code (Código Total):** es la fotografía completa de todo el proyecto, incluido código escrito hace años

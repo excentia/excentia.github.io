@@ -48,7 +48,7 @@ La principal ventaja de los **campos de fórmula** es que los cálculos dejan de
 
 Una de las consecuencias más interesantes de esta funcionalidad es que **reduce la necesidad de sacar información de Jira para realizar determinados cálculos en herramientas externas**.
 
-Imaginemos, por ejemplo, un equipo que necesita **priorizar iniciativas utilizando una puntuación de riesgo**. Hasta ahora, ese cálculo podía mantenerse en una hoja de cálculo independiente o actualizarse manualmente. Con un Formula Field, la puntuación puede calcularse directamente a partir de los datos del work item.</p>
+Imaginemos, por ejemplo, un equipo que necesita **priorizar iniciativas utilizando una puntuación de riesgo**. Hasta ahora, ese cálculo podía mantenerse en una hoja de cálculo independiente o actualizarse manualmente. Con un Formula Field, la puntuación puede calcularse directamente a partir de los datos del work item.
 
 
 <h2>Rovo también ayuda a crear las fórmulas</h2>
