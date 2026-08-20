@@ -38,7 +38,7 @@ Te recordamos que la [Teamwork Graph](/que-es-teamwork-graph) es precisamente la
 
 **3. Genera un documento estructurado**
 
-Atlassian señala que Jira Planner genera un [Confluence Live Docs](https://www.youtube.com/watch?v=sXEoQCLj1bE) editables, conectados con Jira. Esto permite que la especificación se convierta en un espacio de trabajo en el que el equipo puede revisar y modificar el plan antes de comenzar la ejecución.
+Atlassian señala que Jira Planner genera un [Confluence Live Docs](https://www.youtube.com/watch?v=sXEoQCLj1bE) editable y conectado con Jira. Esto permite que la especificación se convierta en un espacio de trabajo en el que el equipo puede revisar y modificar el plan antes de comenzar la ejecución.
 
 **4. Planifica en equipo**
 
