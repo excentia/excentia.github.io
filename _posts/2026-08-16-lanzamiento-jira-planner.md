@@ -10,7 +10,7 @@ categories:
 - noticias
 
 
-cover: /img/posts/2026-08-06-campos-formulas-jira.png
+cover: /img/posts/2026-08-16-lanzamiento-jira-planner.png
 
 ---
 
