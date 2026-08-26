@@ -13,7 +13,7 @@ categories:
 cover: /img/posts/2026-08-18-tutorial-como-utilizar-confluence-slides.png
 
 ---
-Preparar una presentación suele empezar de una forma bastante poco inspiradora: una diapositiva en blanco, un cursor parpadeando y la sensación de que todavía queda un mundo por hacer. Mientras tanto, la información que necesitamos ya existe en algún sitio como por ejemplo **una página de Confluence**, un proyecto de Jira, una hoja de cálculo, una conversación de Slack o un documento compartido. Por ello, Atlassian ha lanzado Confluence Slides, para **ayudarte a crear presentaciones**. En este blog explciamos en qué consiste esta nueva funcionalidad y cómo puedes empezar a utilizarla. 
+Preparar una presentación suele empezar de una forma bastante poco inspiradora: una diapositiva en blanco, un cursor parpadeando y la sensación de que todavía queda un mundo por hacer. Mientras tanto, la información que necesitamos ya existe en algún sitio como por ejemplo **una página de Confluence**, un proyecto de Jira, una hoja de cálculo, una conversación de Slack o un documento compartido. Por ello, Atlassian ha lanzado Confluence Slides, para **ayudarte a crear presentaciones**. En este blog explicamos en qué consiste esta nueva funcionalidad y cómo puedes empezar a utilizarla. 
 
 <h2>¿Qué es Confluence Slides?</h2>
 
@@ -96,7 +96,7 @@ La clave está en no pedir únicamente **qué quieres**, sino también **para qu
 
 La documentación y la página oficial de Atlassian sitúan el acceso a estas capacidades dentro de los **planes Cloud Standard, Premium y Enterprise**, con **Rovo habilitado**.
 
-<h2>Preguntas frecuentes sobre ConfluenceSlides</h2>
+<h2>Preguntas frecuentes sobre Confluence Slides</h2>
 
 <h3>¿Necesito saber diseñar presentaciones para utilizarlo?</h3>
 
@@ -104,7 +104,7 @@ No. Precisamente una de las propuestas de valor de esta funcionalidad es que Rov
 
 <h3>¿Puedo crear una presentación a partir de una página de Confluence?</h3>
 
-Sí. Atlassian contempla específicamente el flujo de transformar una página o documento en vivo de Confluence en diapositivas mediante Remezclar con Rovo.
+Sí. Atlassian contempla específicamente el flujo de transformar una página o documento en vivo de Confluence en diapositivas mediante Remix con Rovo.
 
 <h3>¿Puede utilizar información de Slack o Google Drive?</h3>
 
