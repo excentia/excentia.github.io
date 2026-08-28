@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Novedades de Jira Summer 2026: todas las nuevas funcionalidades de Jira Cloud'
-description: Explora todas las novedades de Jira Summer 2026 para Jira Cloud con nuevas funciones de IA, Rovo, Delivery Agent y mejoras para gestionar el trabajo..
+description: Explora todas las novedades de Jira Summer 2026 para Jira Cloud con nuevas funciones de IA, Rovo, Delivery Agent y mejoras para gestionar el trabajo.
 date: '2026-08-02T08:00:00Z'
 author: Belén Casanovas
 categories:
