@@ -119,4 +119,4 @@ Atlassian justifica la actualización de precios por las inversiones realizadas 
 - Valorar cambios de plan o consolidación de productos.
 - Revisar la renovación y el impacto económico del incremento.
 
-Si necesitas analizar **cómo afectará la subida de precios de Atlassian** a las licencias de tu organización, en excentia podemos ayudarte a revisar tu configuración actual y valorar posibles opciones de optimización. Asi que si lo necesitas puedes contactarnos a través de [este enlace](/contacto).
+Si necesitas analizar **cómo afectará la subida de precios de Atlassian** a las licencias de tu organización, en excentia podemos ayudarte a revisar tu configuración actual y valorar posibles opciones de optimización. Puedes contactarnos a través de [este enlace](/contacto).
