@@ -44,6 +44,10 @@ Aquí tienes un ejemplo de la interfaz antes de la actualización y después:
 
 El nuevo aspecto es solo la parte más visible de esta actualización. Bajo la interfaz hemos revisado la **arquitectura y el funcionamiento** de la aplicación para construir una experiencia más sólida y preparada para futuras mejoras.
 
+A continuación te dejamos un video del producto con todas estas novedades: 
+
+<iframe width="660" height="415" src="https://www.youtube.com/embed/VvMyCHXQNkI?si=T7gDCfwcu0y6ryVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2>Compatible con SonarQube MQR</h2>
 
 Una de las principales novedades de esta versión es la compatibilidad con el [modo MQR (Multi-Quality Rule)](/que-es-modo-mqr-sonarqube) de SonarQube.
