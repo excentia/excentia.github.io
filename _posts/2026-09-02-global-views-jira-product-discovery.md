@@ -21,7 +21,7 @@ Hasta ahora, cuando un equipo creaba una vista específica para un roadmap, la p
 
 Global Views permite a los administradores crear una vista en **un único lugar y aplicarla en tantos espacios** de Jira Product Discovery como necesiten. La principal ventaja es que las vistas permanecen sincronizadas. Si se modifica la **configuración de una Global View**, los espacios vinculados reflejan automáticamente esos cambios.
 
-<img width="100%" src="/img/atlassian-products/global-wiews-jira-product-discovery.png" alt="Crear issues en SonarQube Connector for Jira">
+<img width="100%" src="/img/atlassian-products/global-views-jira-product-discovery.png" alt="Crear issues en SonarQube Connector for Jira">
 <br>
 
 Esto resulta especialmente útil para organizaciones que trabajan con **varios espacios de Jira Product Discovery** y necesitan mantener una forma de trabajo coherente sin tener que actualizar cada vista manualmente.
