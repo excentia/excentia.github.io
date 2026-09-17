@@ -104,6 +104,11 @@ El medidor contabiliza los registros de activos almacenados, como pueden ser:
 
 Cuando una organización supera los objetos incluidos en su asignación, el consumo adicional <strong>puede generar un coste</strong>. Puedes consultar los límites en la <a href="https://support.atlassian.com/assets/docs/increase-the-usage-limit-for-assets/" target="_blank" rel="nofollow">documentación de Atlassian</a>.
 
+Aquí tienes un ejemplo de dónde puedes consultar el uso de Assets: 
+
+<img width="100%" src="/img/atlassian-products/assets-usage.png" alt="Usage Assets">
+<br>
+
 <h2>Customer Service Management: pago por resolución de IA</h2>
 
 Customer Service Management introduce un modelo diferente al resto de medidores: AI agent resolutions. Se trata de un **modelo basado** en el resultado obtenido (outcome-based).
@@ -139,7 +144,7 @@ En los planes mensuales, las asignaciones pasan de gestionarse a **nivel de work
 | **Rovo**                              | Créditos de Rovo                                         | La mayoría de planes Cloud de pago incluyen una asignación mensual de créditos | Cuando se supera la asignación incluida y se utilizan capacidades que consumen créditos               |
 | **Rovo Search**                       | —                                                        | **No consume créditos de Rovo**                                                | No aplica a este medidor                                                                              |
 | **Rovo Chat y Agentes**               | Créditos de Rovo                                         | Uso incluido dentro de la asignación mensual                                   | Cuando se supera la asignación incluida                                                               |
-| **Automation**                        | Pasos (*automation steps*)                               | Los planes incluyen una asignación mensual según el plan y los asientos        | Cuando se superan los pasos incluidos                                                                 |
+| **Automation**                        | Pasos (*automation steps*)                               | Los planes incluyen una asignación mensual de pasos     | Cuando se superan los pasos incluidos                                                                 |
 | **Assets**                            | Objetos de Assets                                        | La mayoría de planes Cloud de pago incluyen una asignación mensual de objetos  | Cuando se supera el número de objetos incluidos                                                       |
 | **Customer Service Management (CSM)** | Resoluciones de agentes de IA                            | No se cobra por una consulta que no sea resuelta por la IA                     | **$1 por resolución** cuando el agente de IA resuelve completamente el ticket sin intervención humana |
 | **Bitbucket**                         | Build minutes, Git LFS, almacenamiento y red de paquetes | Los planes incluyen asignaciones según el modelo de suscripción                | El uso que supere la asignación incluida puede ser facturable                                         |
@@ -161,11 +166,14 @@ Los administradores de la instancia disponen de un punto centralizado para consu
 
 2 - Selecciona tu organización. <br>
 
-3 - En el menú de navegación, entra en **Insights**. <br>
+3 - En el menú de navegación, entra en **Insights** (Información). <br>
 
-4 - Selecciona **Platform usage**. <br>
+4 - Selecciona **Platform usage** (Uso de la Plataforma). <br>
 
 5 - Elige el medidor que quieres consultar. <br>
+
+<img width="100%" src="/img/atlassian-products/insights-plataform-usage.png" alt="Consulta los limites por app en la Administracion de Atlassian">
+<br>
 
 
 <h2>¿Cómo puedo controlar el consumo y evitar sorpresas?</h2>
