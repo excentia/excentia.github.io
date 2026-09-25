@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /encuesta
+permalink: /inscripcion-webinar-team-26-europe
 ---
 
 <html>
