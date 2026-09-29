@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /inscripcion-webinar-team-26-europe
+permalink: /inscripcion-webinar-sonarqube-hunter-agent
 ---
 
 <html>
