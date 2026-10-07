@@ -42,25 +42,25 @@ Durante la keynote, hemos podido ver esta clasificación de nuevos campos de con
 
 Loom protagonizó algunas de las demostraciones más visuales de la keynote. Estas son tres de las funcionalidades que destacamos.
 
-- **Record for Agent** permite mostrar en pantalla lo que se quiere conseguir y explicarlo mediante una grabación de Loom. Ese vídeo aporta un contexto visual y hablado que un agente puede utilizar para crear elementos de trabajo en Jira o desarrollar un prototipo. La documentación oficial lo sitúa en beta abierta.
+- **Record for Agent**(Generally Available) permite mostrar en pantalla lo que se quiere conseguir y explicarlo mediante una grabación de Loom. Ese vídeo aporta un contexto visual y hablado que un agente puede utilizar para crear elementos de trabajo en Jira o desarrollar un prototipo.
 
-- **Interactive PR Reviews with Loom**: Una nueva funcionalidad par explicar los cambios de una pull request. Según lo presentado en la keynote permitirá a los agentes grabar vídeos explicativos de las pull requests de Bitbucket. Los revisores podrán ver qué ha cambiado y comparar el resultado con los requisitos originales. Se presentó como una funcionalidad próxima.
+- **Interactive PR Reviews with Loom** (Coming soon): Una nueva funcionalidad par explicar los cambios de una pull request. Según lo presentado en la keynote permitirá a los agentes grabar vídeos explicativos de las pull requests de Bitbucket. Los revisores podrán ver qué ha cambiado y comparar el resultado con los requisitos originales.
 
-- **AI overlays**: Incorpora automáticamente elementos gráficos a los vídeos, como títulos animados, destacados de los puntos principales y tarjetas de introducción o cierre. Según Atlassian, esta función está en acceso anticipado.
+- **AI overlays** (Coming soon): Incorpora automáticamente elementos gráficos a los vídeos, como títulos animados, destacados de los puntos principales y tarjetas de introducción o cierre.
 
 <h2>Novedades de Rovo</h2>
 
-- **Rovo Work** es un nuevo modo de Rovo Chat para abordar tareas complejas de varios pasos, con supervisión humana para revisar y aprobar el trabajo. El usuario plantea un objetivo, Rovo propone un plan y, tras ajustarlo, lo ejecuta en Jira, Confluence y las herramientas conectadas. Según Atlassian, estas tareas pueden prolongarse durante horas e incluir el uso de herramientas y la ejecución de scripts en un entorno aislado bajo el control de los administradores.
+- **Rovo Work** (Early Access) es un nuevo modo de Rovo Chat para abordar tareas complejas de varios pasos, con supervisión humana para revisar y aprobar el trabajo. El usuario plantea un objetivo, Rovo propone un plan y, tras ajustarlo, lo ejecuta en Jira, Confluence y las herramientas conectadas. Según Atlassian, estas tareas pueden prolongarse durante horas e incluir el uso de herramientas y la ejecución de scripts en un entorno aislado bajo el control de los administradores.
 
 - **Rovo Code Search** permite buscar y explorar código en Bitbucket y GitHub mediante lenguaje natural, sin necesidad de clonar los repositorios. Gracias a la Teamwork Graph, incorpora información del código fuente hasta el nivel de funciones, símbolos y clases. Ese contexto también está disponible para los agentes de programación, que pueden trabajar con un mayor conocimiento de la base de código.
 
 <h2>Artifacts y Jira Planner</h2>
 
-- **Artifacts**: Proporciona un lugar permanente para los planes, modelos interactivos y vistas HTML generados con herramientas de IA, tanto dentro como fuera de Atlassian. Estas creaciones disponen de URL permanentes y pueden integrarse en páginas de Confluence, elementos de trabajo de Jira o canales de Slack. Están sujetas a permisos empresariales y se indexan en Teamwork Graph.
+- **Artifacts** (Open Beta): Proporciona un lugar permanente para los planes, modelos interactivos y vistas HTML generados con herramientas de IA, tanto dentro como fuera de Atlassian. Estas creaciones disponen de URL permanentes y pueden integrarse en páginas de Confluence, elementos de trabajo de Jira o canales de Slack. Están sujetas a permisos empresariales y se indexan en Teamwork Graph.
 
 Atlassian Artifacts está disponible en beta para todas las cuentas de pago de Atlassian. Funciona independientemente de las licencias de Jira o Confluence y también permite almacenar creaciones de otros agentes de IA conectados, aunque no utilices Rovo.
 
-- **Planner** ayuda a preparar el desarrollo a partir de especificaciones. Su función es convertir una idea inicial en un plan que el equipo pueda revisar y acordar antes de que las personas o los agentes empiecen a desarrollar. 
+- **Planner** (Early Access) ayuda a preparar el desarrollo a partir de especificaciones. Su función es convertir una idea inicial en un plan que el equipo pueda revisar y acordar antes de que las personas o los agentes empiecen a desarrollar. 
 
 Atlassian lo ofrece en acceso anticipado para clientes de Jira Cloud con Rovo habilitado, Teamwork Graph conectado y Confluence conectado para publicar los planes.
 
