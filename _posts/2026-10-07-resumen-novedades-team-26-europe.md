@@ -31,12 +31,12 @@ Teamwork Graph conecta la información de las aplicaciones Atlassian y de otras 
 
 Durante la keynote, hemos podido ver esta clasificación de nuevos campos de contexto, cada uno con sus agentes predefinidos: 
 
-- Knowledge: conocimiento.
-- Work: trabajo.
-- People: personas.
-- Communications: comunicaciones.
-- Code: código.
-- Assets: activos.
+- Knowledge.
+- Work.
+- People.
+- Communications.
+- Code.
+- Assets.
 
 <h2>Novedades de Loom</h2>
 
