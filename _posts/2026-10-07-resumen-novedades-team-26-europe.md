@@ -42,9 +42,9 @@ Durante la keynote, hemos podido ver esta clasificación de nuevos campos de con
 
 Loom protagonizó algunas de las demostraciones más visuales de la keynote. Estas son tres de las funcionalidades que destacamos.
 
-- **Record for Agent**(Generally Available) permite mostrar en pantalla lo que se quiere conseguir y explicarlo mediante una grabación de Loom. Ese vídeo aporta un contexto visual y hablado que un agente puede utilizar para crear elementos de trabajo en Jira o desarrollar un prototipo.
+- **Record for Agent** (Generally Available) permite mostrar en pantalla lo que se quiere conseguir y explicarlo mediante una grabación de Loom. Ese vídeo aporta un contexto visual y hablado que un agente puede utilizar para crear elementos de trabajo en Jira o desarrollar un prototipo.
 
-- **Interactive PR Reviews with Loom** (Coming soon): Una nueva funcionalidad par explicar los cambios de una pull request. Según lo presentado en la keynote permitirá a los agentes grabar vídeos explicativos de las pull requests de Bitbucket. Los revisores podrán ver qué ha cambiado y comparar el resultado con los requisitos originales.
+- **Interactive PR Reviews with Loom** (Coming soon): Una nueva funcionalidad para explicar los cambios de una pull request. Según lo presentado en la keynote permitirá a los agentes grabar vídeos explicativos de las pull requests de Bitbucket. Los revisores podrán ver qué ha cambiado y comparar el resultado con los requisitos originales.
 
 - **AI overlays** (Coming soon): Incorpora automáticamente elementos gráficos a los vídeos, como títulos animados, destacados de los puntos principales y tarjetas de introducción o cierre.
 
@@ -64,7 +64,7 @@ Atlassian Artifacts está disponible en beta para todas las cuentas de pago de A
 
 Atlassian lo ofrece en acceso anticipado para clientes de Jira Cloud con Rovo habilitado, Teamwork Graph conectado y Confluence conectado para publicar los planes.
 
-¡Seguiremos desglosando las novedades de Atlassian Team ’26 Europe en próximos artículos! En próximo 15 de octubre ofrecemos un webinar para que conozcas estas novedades. Si quieres asistir puedes registrarte a través de [este enlace](/inscripcion-webinar-team-26-europe.md). 
+¡Seguiremos desglosando las novedades de Atlassian Team ’26 Europe en próximos artículos! El próximo 15 de octubre ofrecemos un webinar para que conozcas estas novedades. Si quieres asistir puedes registrarte a través de [este enlace](/inscripcion-webinar-team-26-europe.md). 
 
-¡Seguímos con el Atlassian Team' 26 Europe!
+¡Seguimos con el Atlassian Team' 26 Europe!
 
