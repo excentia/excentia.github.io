@@ -64,6 +64,16 @@ Atlassian Artifacts está disponible en beta para todas las cuentas de pago de A
 
 Atlassian lo ofrece en acceso anticipado para clientes de Jira Cloud con Rovo habilitado, Teamwork Graph conectado y Confluence conectado para publicar los planes.
 
+<h2>Novedades por Colecciones</h2>
+
+Muchas de estas novedades están incluidas en las colecciones de Atlassian. La Teamwork, Service y Strategy Collection también han tenido sus novedades específicas. Por ello, hemos publicado un artículo de cada una de las colecciones para que puedas profundizar en cada una de ellas.
+
+- Consulta aquí las novedades para la [Teamwork Collection](novedades-teamwork-collection-team-26-europe). <br>
+
+- Accede a [este enlace](/novedades-service-collection-team-26-europe) para conocer las novedades para la Service Collection. <br>
+
+- Las novedades para la Strategy Collection las puedes leer en [este artículo](/novedades-strategy-collection-team-26-europe). <br>
+
 ¡Seguiremos desglosando las novedades de Atlassian Team ’26 Europe en próximos artículos! El próximo 15 de octubre ofrecemos un webinar para que conozcas estas novedades. Si quieres asistir puedes registrarte a través de [este enlace](/inscripcion-webinar-team-26-europe). 
 
 ¡Seguimos con el Atlassian Team' 26 Europe!
