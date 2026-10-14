@@ -29,7 +29,7 @@ Según la documentación de Atlassian, esta funcionalidad está disponible para 
 
 <h2>Proactive Service Management para detectar problemas en los dispositivos</h2>
 
-**Proactive Service Management** (en EAP, seleccionando participantes entre clientes Premium y Enterprise.) utiliza Rovo para supervisar continuamente el **estado de los dispositivos** de los usuarios y detectar de forma temprana pérdidas de rendimiento.
+**Proactive Service Management** (en EAP, seleccionando participantes entre clientes Premium y Enterprise) utiliza Rovo para supervisar continuamente el **estado de los dispositivos** de los usuarios y detectar de forma temprana pérdidas de rendimiento.
 
 A partir de esa información, Jira Service Management puede **solucionar problemas en segundo plano** o dirigir las solicitudes al equipo de servicio correspondiente. Esta funcionalidad lleva la experiencia digital del empleado hacia una gestión continua y proactiva, en la que los problemas pueden detectarse antes de que el usuario tenga que comunicar una incidencia.
 
@@ -43,7 +43,8 @@ Esta funcionalidad ya está disponible para las **ediciones Premium y Enterprise
 
 <h2>Contexto de servicios y operaciones desde Slack, Teams o Claude</h2>
 
-Otra de las novedades lanzadas en la de que los usuarios podrán gestionar **solicitudes de servicio y resolver incidentes desde aplicaciones como Slack, Microsoft Teams o Claude** (Actualmente en EAP). Jira Service Management y Teamwork Graph proporcionan la coordinación y el contexto necesarios para que los agentes de IA activen flujos especializados, como la **investigación de incidentes o la resolución de solicitudes**, sin cambiar de app ni perder información. Los agentes **respetan los permisos y mantienen los controles** de gobernanza establecidos en Jira Service Management.
+Otra de las novedades lanzadas es la de que los usuarios podrán gestionar **solicitudes de servicio y resolver incidentes desde aplicaciones como Slack, Microsoft Teams o Claude** (actualmente en EAP). Jira Service Management y Teamwork Graph proporcionan la coordinación y el contexto necesarios para que los agentes de IA activen flujos especializados, como la **investigación de incidentes o la resolución de solicitudes**, sin cambiar de app ni perder información. Los agentes **respetan los permisos y mantienen los controles** de gobernanza establecidos en Jira Service Management.
 
 Estas novedades de **Service Collection conectan la configuración de los servicios, la organización de los equipos**, el estado de los dispositivos y la información sobre los activos de TI.
+
 Si quieres consultar las novedades del resto de las colecciones puedes navegar por el [blog de excentia](/blog) para leer todas las novedades lanzadas durante el Team '26 Europe. 

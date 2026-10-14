@@ -35,13 +35,13 @@ Todo funciona sobre el renovado [Atlassian MCP](https://www.excentia.es/nuevas-f
 
 La aplicación de **Jira para Slack y Microsoft** Teams permite convertir las conversaciones en trabajo que el equipo pueda seguir desde Jira. Un hilo de chat puede enviarse con su contexto a un **compañero o agente en Jira**. De esta forma, las decisiones y los siguientes pasos quedan vinculados al trabajo, aunque la conversación continúe en el canal.
 
-En [este artículo](https://www.excentia.es/crear-tareas-jira-desde-slack) te contamo cómo puedes crear, asignar y actualiza tareas sin salir de Slack. 
+En [este artículo](/crear-tareas-jira-desde-slack) te contamos cómo puedes crear, asignar y actualizar tareas sin salir de Slack. 
 
 <h2>Novedades para Loom</h2>
 
-**Record for Agent (en Open Beta)** te permite convertir un breve vídeo de Loom en **instrucciones que un agente las pueda ejecutar**. Explica lo que quieres y muéstralo en pantalla. Loom recoge tus ideas y comentarios en un encargo audiovisual y el agente interpreta los detalles y matices para actuar a partir de ellos. Por ejemplo, puede crear work items de trabajo en Jira, un prototipo o incluso diapositivas en Confluence.
+**Record for Agent (en Open Beta)** te permite convertir un breve vídeo de Loom en **instrucciones que un agente las pueda ejecutar**. Explica lo que quieres y muéstralo en pantalla. Loom recoge tus ideas y comentarios en un encargo audiovisual y el agente interpreta los detalles para actuar a partir de ellos. Por ejemplo, puedes crear work items de trabajo en Jira, un prototipo o incluso diapositivas en Confluence.
 
-Otra de las nuevas funcionalidades que estarán **disponibles próximamente es AI Overlay para Loom**. Gracias a esta noverdad podrás **añadir automáticamente elementos gráficos** a tu video de Loom, como títulos animados, destacados de los puntos clave y tarjetas de apertura o cierre.
+Otra de las nuevas funcionalidades que estarán **disponibles próximamente es AI Overlay para Loom**. Gracias a esta novedad podrás **añadir automáticamente elementos gráficos** a tu vídeo de Loom, como títulos animados, destacados de los puntos clave y tarjetas de apertura o cierre.
 
 <h2>Aplicación Artifacts y enlaces inteligentes en Confluence</h2>
 
@@ -49,4 +49,4 @@ Atlassian Artifacts es el lugar donde se **guardan todos los archivos que genera
 
 Las novedades de Teamwork Collection refuerzan la conexión entre el **conocimiento, las conversaciones y las tareas del equipo**. Con más contexto disponible y nuevas formas de colaborar con agentes de IA, las personas siguen definiendo el encargo y revisando los resultados.
 
-Te recordamos que el 15 de octubre a las 11:00 horas nos conectaremos Hugo Mora, Jonathan Infante y yo en un webinar para contarte todas estas novedades en un webinar. Si quieres asistir puedes registrarte a través de [este enlace](/inscripcion-webinar-team-26-europe)
+Te recordamos que el 15 de octubre a las 11:00 horas nos conectaremos Hugo Mora, Jonathan Infante y yo en un webinar para contarte todas estas novedades en un webinar. Si quieres asistir, puedes registrarte a través de [este enlace](/inscripcion-webinar-team-26-europe)
