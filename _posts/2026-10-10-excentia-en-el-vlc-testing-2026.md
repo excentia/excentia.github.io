@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VLC Testing 2026: Sobre el AC/DC de Sonar y la IA de Atlassian
+title: excentia en el VLC Testing 2026 con el AC/DC de Sonar y la IA de Atlassian
 description: Descubre cómo vivimos el VLC Testing 2026 y cómo Sonar AC/DC y Atlassian Collections impulsan el desarrollo de software con IA gracias a Highway to Help.
 date: '2026-10-10T08:00:00Z'
 author: Belén Casanovas
