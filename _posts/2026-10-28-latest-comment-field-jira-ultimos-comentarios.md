@@ -2,7 +2,7 @@
 layout: post
 title: "Latest Comment Field for Jira: consulta los últimos comentarios de tus Work Items de un vistazo"
 description: Descubre Latest Comment Field for Jira, la nueva app de excentia para visualizar los últimos comentarios de tus Work Items en búsquedas JQL.
-date: '2026-10-10T08:00:00Z'
+date: '2026-10-28T08:00:00Z'
 author: Belén Casanovas
 categories:
 
