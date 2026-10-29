@@ -18,7 +18,7 @@ En excentia seguimos ampliando **nuestras soluciones para Jira Cloud** con el la
 
 Una funcionalidad sencilla, pero especialmente útil para los equipos que necesitan **realizar un seguimiento de sus tareas, consultar actualizaciones y conocer el estado** de diferentes Work Items sin tener que abrirlos individualmente.
 
-<img width="100%" src="/img/atlassian-addons/atlassian-marketplae-latest-comment-field-jql.webp" alt="Latest Comment Field Work Item view JQL">
+<img width="100%" src="/img/atlassian-addons/atlassian-marketplace-latest-comment-field-jql.webp" alt="Latest Comment Field Work Item view JQL">
 <br>
 
 
@@ -28,7 +28,7 @@ Cuando trabajamos con **múltiples Work Items en Jira**, los comentarios son una
 
 Latest Comment Field for Jira resuelve esta necesidad mediante **un campo personalizado de solo lectura** que muestra el último comentario registrado en cada Work Item. Este campo puede añadirse como **una columna adicional** a los resultados de búsqueda de Jira, permitiendo consultar los comentarios más recientes de múltiples Work Items desde una única vista.
 
-<img width="100%" src="/img/atlassian-addons/atlassian-marketplae-latest-comment-field-work-item.png" alt="Configuration Latest Comment Field in Work Item">
+<img width="100%" src="/img/atlassian-addons/atlassian-marketplace-latest-comment-field-work-item.png" alt="Configuration Latest Comment Field in Work Item">
 <br>
 
 <h2>¿Qué es Latest Comment Field for Jira y cómo funciona?</h2>
@@ -59,7 +59,7 @@ La configuración es sencilla y se realiza desde Jira Cloud.
 
 6 - Incorpora el campo como columna en los resultados de búsqueda de Jira.
 
-<img width="100%" src="/img/atlassian-addons/atlassian-marketplae-latest-comment-field-work-item-configuration.webp" alt="Configuration Latest Comment Field Work Item configuration">
+<img width="100%" src="/img/atlassian-addons/atlassian-marketplace-latest-comment-field-work-item-configuration.webp" alt="Configuration Latest Comment Field Work Item configuration">
 <br>
 
 Si necesitas visualizar los últimos comentarios de Work Items creados anteriormente, puedes utilizar el panel de administración de la aplicación para realizar la actualización inicial.
