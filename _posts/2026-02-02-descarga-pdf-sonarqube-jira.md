@@ -18,7 +18,9 @@ cover: /img/posts/2026-02-02-descarga-pdf-sonarqube-jira.png
 
 La información sobre el estado de calidad del código está en SonarQube, pero las decisiones se toman en Jira. Este salto para consultar la información y tomar las decisiones provoca capturas de pantalla, preguntas repetidas, reuniones innecesarias. Para resolverlo existe nuestra app **SonarQube Connector for Jira** que lleva las métricas directamente al lugar donde se gestiona el trabajo.
 
-En esta guía vamos a ver, paso a paso, **cómo instalarla, configurarla y, sobre todo, cómo exportar un informe PDF** con el estado real de calidad del código listo para compartir con equipos, managers o auditorías.
+En esta guía vamos a ver, paso a paso, **cómo instalarla, configurarla y, sobre todo, cómo exportar un informe PDF** con el estado real de calidad del código listo para compartir con equipos, managers o auditorías. 
+
+Para seguir el proceso con capturas de pantalla e instrucciones detalladas, consulta nuestro tutorial: [Cómo descargar un informe PDF de SonarQube desde Jira, paso a paso](/como-descargar-informe-pdf-sonarqube-jira).
 
 Recordemos que SonarQube Connector for Jira es una **aplicación oficial** en el Atlassian Marketplace que **conecta tu instancia de SonarQube (Server o Cloud) con Jira**. Su objetivo es facilitar la visibilidad de la calidad de tu código en Jira, permitiéndote:
 
