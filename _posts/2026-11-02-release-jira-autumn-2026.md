@@ -147,6 +147,6 @@ Con esta actualización, las plantillas personalizadas están disponibles en Sta
 
 Para aprovechar esta actualización, empieza por identificar las mejoras que afectan a tu trabajo diario como las vistas que utiliza tu equipo, los agentes que participan en sus procesos y las configuraciones que conviene compartir entre espacios.
 
-Si quieres saber como aprovechar todas estas nuevas funcionalidades o necesitas soporte, puedes ponerte en contacto con nuestro equipo a través de [este enlace](/contacto).
+Si quieres saber cómo aprovechar todas estas nuevas funcionalidades o necesitas soporte, puedes ponerte en contacto con nuestro equipo a través de [este enlace](/contacto).
 
 

@@ -73,4 +73,4 @@ Activar Rovo es solo el comienzo. Para orientar su despliegue, también necesita
 
 Estas métricas ayudan a detectar dónde se concentra la actividad y qué equipos pueden necesitar formación o acompañamiento. Para evaluar el valor de un agente, conviene complementarlas con la revisión de sus respuestas y de los resultados que obtiene: el volumen de conversaciones, por sí solo, no demuestra su eficacia.
 
-En excentia te ayudamos a valorar **cómo encajan estas novedades** en tu entorno Atlassian y a planificar la adopción de Rovo según las necesidades de tus equipos. [Escríbenos](/contacto) a y cuéntanos qué quieres conseguir con Rovo.
+En excentia te ayudamos a valorar **cómo encajan estas novedades** en tu entorno Atlassian y a planificar la adopción de Rovo según las necesidades de tus equipos. [Escríbenos](/contacto) y cuéntanos qué quieres conseguir con Rovo.
