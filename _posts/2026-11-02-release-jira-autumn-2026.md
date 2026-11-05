@@ -10,7 +10,7 @@ categories:
 - noticias
 
 
-cover: /img/posts/2026-08-02-release-jira-summer-2026.png
+cover: /img/posts/2026-11-02-release-jira-autumn-2026.png
 
 ---
 
