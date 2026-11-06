@@ -1,95 +1,146 @@
 ---
 layout: post
-title: Cómo ahorrar tiempo entre SonarQube y Jira
-description: Descubre cómo SonarQube Connector for Jira ayuda a los equipos de desarrollo a crear actividades en Jira sin perder tiempo ni duplicar trabajo.
+title: Cómo integrar SonarQube con Jira y ahorrar tiempo
+description: Aprende a integrar SonarQube con Jira para consultar la calidad del código y crear tareas con evidencias de SonarQube sin copiar información manualmente.
 date: '2025-09-03T08:00:00Z'
 author: Belén Casanovas
 categories:
-
-- sonarqube
-- calidad
-- devops
-- atlassian
-
-
+  - sonarqube
+  - calidad
+  - devops
+  - atlassian
 cover: /img/posts/2025-09-02-como-ahorrar-tiempo-entre-sonarqube-jira.png
-
 ---
 
-Si eres desarrollador seguro que esta escena te resulta familiar: termina un análisis de SonarQube y aparecen varias issues que corregir. El siguiente paso es llevar toda esa información a Jira, registrar la información e incluirla en el backlog. Fácil, ¿verdad?
 
-Pensarás que lo normal es acabar **copiando y pegando** el título de la issue, descripciones, enlaces, líneas de código... una a una. Mientras realizas todo este trabajo manual, aparte de perder tiempo, estás desviando tu foco y pueden haber errores a la hora de copiar esa información. ¡Incluso se pueden generar duplicados!
+Si trabajas con **SonarQube y Jira**, probablemente conozcas esta situación: terminas un análisis de código, detectas problemas que debes corregir y necesitas trasladar esa información a Jira para organizar el trabajo del equipo.
 
-En **excentia** sabemos que los developers quieren pasar más tiempo desarrollando y menos realizando tareas administrativas. Por eso lanzamos la aplicación **SonarQube Connector for Jira**, una integración que convierte este proceso manual en algo tan sencillo **como un clic**. Cuando termina el análisis de SonarQube te aparece la información actualizada en tiempo real desde dentro de Jira, donde puedes pulsar un botón y en segundos tienes una tarea perfectamente detallada, lista para priorizar y asignar. Sin pérdida de contexto y sin duplicados.
+Copiar manualmente las reglas incumplidas, las descripciones, las evidencias y los enlaces al código consume tiempo y aumenta el riesgo de cometer errores.
 
-<h2>La solución en un clic: SonarQube Connector for Jira</h2>
+Pero ¿y si pudieras **crear tareas en Jira directamente a partir de los resultados de SonarQube**, sin tener que copiar toda esa información?
 
-SonarQube Connector for Jira es una **aplicación que integra** los resultados de análisis de SonarQube Server y SonarQube Cloud dentro de los proyectos de Jira Cloud y Jira Data Center. Esta app, disponible en el [Marketplace de Atlassian](/apps-atlassian-marketplace), permite consultar el estado de calidad de código y Quality Gates sin salir de Jira. Y lo mejor, te permite crear tareas en Jira con solo un clic. ¿Cómo lo hace?
+Con **SonarQube Connector for Jira**, la aplicación desarrollada por excentia, puedes consultar los resultados del análisis de SonarQube desde Jira y crear tareas con la información necesaria para gestionar los problemas detectados.
 
-1 - Consulta el listado de reglas incumplidas por el análisis de SonarQube.   <br> 
+<h2>¿Cómo integrar SonarQube con Jira?</h2>
 
-2 - Te diriges a la regla de la que quieras crear la tarea y clicas sobre el botón + . Fíjate en esta imagen:  <br> 
+**SonarQube Connector for Jira** es una aplicación que integra los resultados de los análisis de **SonarQube Server y SonarQube Cloud** en proyectos de Jira.
 
-<div style="text-align: center;">
-<img src="/img/atlassian-addons/sonarqube-connector-for-jira-crear-actividad.png" width="800" alt="Boton crear actividad Jira">
-</div>
-<br>
+Esta integración permite a los equipos de desarrollo consultar información sobre la calidad y seguridad del código, revisar el estado de los Quality Gates y gestionar los problemas detectados sin tener que cambiar continuamente de herramienta.
 
-3 - Se crea la actividad en Jira con toda la información de la regla incumplida con los datos de las issues asociadas:   <br> 
+La aplicación está disponible en el [Atlassian Marketplace](https://www.excentia.es/sonarqube-connector-jira).
 
-- Nombre de la regla incumplida añadido como 'Summary' del asunto de Jira.  <br> 
+Una de sus funcionalidades más útiles es la posibilidad de **crear tareas en Jira a partir de reglas incumplidas detectadas por SonarQube**.
 
-- Descripción de la regla incumplida para leer sin salir de Jira.  <br>
+<h2>Cómo crear tareas en Jira desde SonarQube paso a paso</h2>
 
-- Solución compatible. <br>
+Una vez configurada la integración, puedes crear tareas en Jira siguiendo estos pasos:
 
-- Excepciones. <br>
+### 1. Consulta los resultados del análisis de SonarQube
 
-- Pestaña con información completa de las issues y un enlace directo a la línea de código. <br>
+Accede al proyecto de Jira vinculado con SonarQube y consulta los resultados del análisis de código.
 
-Aquí tienes un ejemplo de una actividad creada gracias al SonarQube Connector for Jira
+Desde la aplicación puedes revisar las reglas incumplidas y las evidencias asociadas.
 
+### 2. Selecciona la regla que quieres gestionar
 
-{:target="_blank"} 
+Localiza la regla incumplida para la que necesitas crear una tarea y pulsa el botón **+**.
 
 <div style="text-align: center;">
-<img src="/img/atlassian-addons/sonarqube-connector-for-jira-issue.png" width="600" alt="Ejemplo de actividad a partir de una issue">
+  <img src="/img/atlassian-addons/sonarqube-connector-for-jira-crear-actividad.png"
+       width="800"
+       alt="Botón para crear una tarea en Jira desde una regla incumplida de SonarQube"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
 </div>
 
-Ahora la actividad ya está lista para **priorizarla en el backlog o asignarla a un sprint**. 
+### 3. Crea la tarea con la información de SonarQube
 
+La aplicación permite crear una tarea de Jira incorporando información relacionada con la regla seleccionada y sus evidencias.
 
-<h2>¿Qué gana el equipo con esta integración?</h2>
+Entre los datos que puedes consultar se encuentran:
 
-Como developer, tu objetivo es claro: escribir código de calidad. Pero la realidad del día a día suele ser distinta. Entre detectar issues y luego documentarlas en Jira, tu jornada puede convertirse en una sucesión interminable de **interrupciones**.
+- **Nombre de la regla incumplida:** utilizado como resumen de la tarea de Jira.
+- **Descripción de la regla:** información sobre el problema detectado.
+- **Información de la solución:** recomendaciones disponibles para resolver el problema.
+- **Excepciones:** cuando corresponda.
+- **Evidencias asociadas:** información de los problemas detectados y enlaces a las líneas de código correspondientes.
 
-Cuando desarrolladores y tech leads trabajan con **información sincronizada**, todo el equipo avanza más rápido. En definitiva: 
+De esta forma, el equipo dispone de información relevante para analizar y resolver el problema sin tener que recopilarla manualmente.
 
-- Los developers **mantienen su foco** y evitan tareas repetitivas. <br>
+Este es un ejemplo de una tarea creada con SonarQube Connector for Jira:
 
-- Los tech leads **planifican con datos reales** y priorizan con criterio. <br>
+<div style="text-align: center;">
+  <img src="/img/atlassian-addons/sonarqube-connector-for-jira-issue.png"
+       width="600"
+       alt="Ejemplo de tarea de Jira creada con información de una regla de SonarQube"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</div>
 
-El resultado es un flujo de trabajo más limpio, con **menos deuda técnica** acumulada y entregas más sólidas. SonarQube Connector for Jira es una integración que no solo conecta dos herramientas, sino que **conecta mejor a tu equipo** con su propio objetivo.
+### 4. Prioriza y asigna la tarea
 
+Una vez creada, puedes **priorizar la tarea en el backlog, asignarla a un desarrollador o incorporarla a un sprint**, siguiendo el flujo de trabajo habitual de tu equipo.
 
-<h2> Preguntas frecuentes </h2>
+Así puedes gestionar los problemas de calidad del código desde Jira y mantener la información técnica vinculada a las tareas de desarrollo.
 
-**¿Necesito conocimientos avanzados para configurarlo?**
-No, la integración de SonarQube Connector for Jira es rápida y sencilla.
+<h2>Ventajas de integrar SonarQube con Jira</h2>
 
-**¿Funciona con SonarQube Cloud y Server?**
-Sí, es compatible con ambos.
+Integrar ambas herramientas ayuda a reducir las tareas manuales y facilita la colaboración entre desarrolladores, tech leads y responsables de calidad.
 
-**¿Se pierden datos al transferir issues?**
-No, el conector envía toda la información de la issue a Jira.
+Estas son algunas de sus principales ventajas:
 
-**¿Qué precio tiene?**
-El precio de SonarQube Connector for Jira es gratis hasta 10 usuarios. A partir de ese rango, tiene un coste variable según el número de usuarios. Puedes hacer una simulación del coste en [este enlace](https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?tab=pricing)
+- **Ahorro de tiempo:** evita copiar manualmente información entre SonarQube y Jira.
+- **Mayor contexto:** las tareas incluyen información técnica relacionada con los problemas detectados.
+- **Mejor planificación:** los tech leads pueden organizar y priorizar las correcciones dentro de Jira.
+- **Menos errores manuales:** reduce el riesgo de omitir información al trasladar las evidencias.
+- **Seguimiento centralizado:** facilita la gestión de los problemas de calidad del código dentro del flujo de trabajo del equipo.
 
-A veces, verlo es más fácil que explicarlo. En este vídeo te muestro cómo pasar un issue de SonarQube a una actividad de Jira en segundos, sin pérdida de contexto y con toda la información lista para trabajar.
+El resultado es un proceso más sencillo para incorporar las correcciones de código al trabajo diario.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/3YXbauc0zuY?si=sZZF9JBsEj7pNaLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>Preguntas frecuentes sobre la integración de SonarQube con Jira</h2>
 
-<br>
+### ¿Se puede integrar SonarQube Cloud con Jira?
 
-¿Listo para simplificar tu flujo de trabajo y dejar atrás el copia-pega? Descubre cómo **SonarQube Connector for Jira** puede ayudarte instalándolo [aquí](https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira){:target="_blank"}.
+Sí. SonarQube Connector for Jira permite consultar resultados de SonarQube Cloud desde Jira y trabajar con la información de los análisis de código.
+
+### ¿Funciona también con SonarQube Server?
+
+Sí. La aplicación permite integrar proyectos de SonarQube Server y SonarQube Cloud con Jira.
+
+### ¿Qué información se incluye al crear una tarea?
+
+La tarea puede incorporar información de la regla incumplida, su descripción y las evidencias asociadas, incluyendo referencias al código afectado.
+
+### ¿Es necesario copiar manualmente las issues de SonarQube?
+
+No. La aplicación permite crear tareas de Jira a partir de las reglas incumplidas y consultar sus evidencias sin tener que copiar manualmente toda la información.
+
+### ¿Cuánto cuesta SonarQube Connector for Jira?
+
+El precio depende de la modalidad de Jira y del número de usuarios. Puedes consultar las condiciones y los precios actualizados en el [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?tab=pricing).
+
+<h2>Vídeo: cómo crear una tarea de Jira desde SonarQube</h2>
+
+En este vídeo puedes ver cómo utilizar SonarQube Connector for Jira para crear una tarea a partir de los resultados de un análisis de SonarQube.
+
+<div style="max-width: 660px; margin: 20px auto;">
+  <iframe
+    width="660"
+    height="415"
+    style="max-width: 100%;"
+    src="https://www.youtube.com/embed/3YXbauc0zuY"
+    title="Cómo crear una tarea en Jira desde SonarQube con SonarQube Connector for Jira"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<h2>Empieza a gestionar la calidad del código desde Jira</h2>
+
+Integrar SonarQube con Jira permite conectar los resultados del análisis de código con las tareas que gestiona tu equipo.
+
+Con **SonarQube Connector for Jira** puedes consultar la calidad del código, revisar las reglas incumplidas y crear tareas con información técnica para organizar las correcciones.
+
+**[Descubre SonarQube Connector for Jira en el Atlassian Marketplace](https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira)** y simplifica la gestión de los problemas de calidad del código.
