@@ -1,0 +1,220 @@
+---
+layout: front
+title: How to download a SonarQube PDF report from Jira
+description: Learn how to generate and download SonarQube PDF reports directly from Jira using SonarQube Connector for Jira. Step-by-step tutorial.
+---
+
+<section id="sonarqube-jira-pdf-cabecera" class="bg-primary text-center">
+  <div class="container">
+    <div class="row title"><div class="col-md-12"><h1>How to download a SonarQube PDF report from Jira: Step-by-step guide</h1></div></div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-left">
+        <p class="header-text">Learn how to <strong>generate and download SonarQube PDF reports directly from Jira</strong> using the <strong>SonarQube Connector for Jira</strong> app, without switching tools.</p>
+        <p class="header-text">This tutorial covers the prerequisites, the steps to export a report, and how to customize its logo.</p>
+        <a class="btn btn-warning btn-xl" href="#paso-a-paso">VIEW THE STEP-BY-STEP GUIDE</a>
+        <div style="margin: 25px 0;">
+
+            <p style="font-size: 16px; margin-bottom: 8px;">
+              <strong>Published by excentia</strong> |
+              <time datetime="2026-10-30">
+                Updated October 30, 2026
+              </time>
+            </p>
+
+          <p style="font-size: 16px; line-height: 1.6;">
+            This tutorial was prepared by the team at
+            <strong>excentia, developer of SonarQube Connector for Jira</strong>,
+            drawing on its experience integrating
+            SonarQube with Jira.
+          </p>
+
+</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<section id="sonarqube-jira-pdf-resumen" class="text-center" style="background-color: #ffffff; padding:50px 0">
+  <div class="container">
+    <div class="row title"><h2>How do you download a PDF report from Jira?</h2></div>
+    <div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <p class="header-text">Open the Jira project linked to SonarQube, go to the <strong>SonarQube Connector for Jira</strong>, select a report view, and click <strong>Download PDF</strong>. The connector generates a PDF containing the information from the selected view.</p>
+      <h3>What This Guide Covers</h3>
+        <ul class="header-li-text" style="font-size: 20px;">
+          <li><a href="#requisitos">Prerequisites</a></li>
+          <li><a href="#paso-a-paso">How to Download the Report Step by Step</a></li>
+          <li><a href="#personalizar">Customize the PDF Logo</a></li>
+          <li><a href="#preguntas-pdf">Frequently Asked Questions</a></li>
+        </ul>
+    </div></div>
+  </div>
+</section>
+
+<section id="requisitos" style="padding: 50px 0; background-color: #f4f6f9;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1 text-left">
+
+        <h2>Prerequisites</h2>
+
+        <p class="header-text">Before downloading a SonarQube PDF report from Jira, make sure you meet these requirements:</p>
+
+
+    <h3>1 - Check that SonarQube Connector for Jira is installed</h3>
+
+    <p class="header-text">
+      The app must be installed on your Jira Cloud instance. Follow these steps to install it:
+    </p>
+
+    <ul class="header-text" style="text-align: left; padding-left: 30px;">
+      <li>Sign in to your <strong>Jira instance</strong> as an administrator.</li>
+
+      <li>Go to administration and then <strong>Marketplace apps</strong>.</li>
+
+      <li>Click <strong>Find new apps</strong> (Explore apps).</li>
+
+      <li>Search for "SonarQube Connector for Jira" and select the app.</li>
+
+      <li>Choose <strong>Try free or Buy now</strong> and select the instance where you want to install the app.</li>
+
+      <li>You can also install the app directly from the <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?utm_source=web&utm_medium=web+excentia&utm_campaign=Comunicacion+Marketplace"
+          target="_blank" rel="noopener noreferrer"> Atlassian Marketplace</a>.
+      </li>
+    </ul>
+            
+    <h3>2 - Configure the SonarQube Connection</h3>
+    <p class="header-text">Next, configure the <strong>connection to SonarQube Server or SonarQube Cloud</strong> and the corresponding credentials. 
+    Follow these steps to configure the connection: </p>
+
+    <ul class="header-text" style="text-align: left; padding-left: 30px;">
+      <li>Open your Jira instance, go to Settings, and select <strong>Marketplace apps</strong>.</li>
+      <li>In Jira’s left sidebar, find <strong>Global Configuration</strong> under SonarQube Connector for Jira in the app list. The screenshot below shows where to find it.
+        <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-manage-apps.png" alt="SonarQube Connector for Jira global configuration in Jira" class="img-responsive img-rounded" style="margin: 20px 0;">
+      </li>
+      <li>On the page that opens, enter your <strong>SonarQube Server URL or SonarQube Cloud credentials</strong>.
+        <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-sonarqube-configuration.png" alt="Configure the SonarQube Server or Cloud connection to Jira" class="img-responsive img-rounded" style="margin: 20px 0;">
+      </li>
+      <li>Enter <strong>your access token</strong> (personal access token) from SonarQube to authenticate the connection.</li>
+    </ul>
+              
+    <h3>3 - Link your projects</h3>
+
+     <p class="header-text"> The Jira space where you want to use SonarQube Connector for Jira must be <strong>linked to at least one SonarQube project</strong> to display its data. Follow these steps to set up the link.</p>
+
+     <ul class="header-text" style="text-align: left; padding-left: 30px;">
+      <li>In Jira’s left sidebar, open the space where you want SonarQube Connector for Jira data to appear.
+        <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-space-settings.png" alt="Access Jira space settings" class="img-responsive img-rounded" style="margin: 20px 0;">
+      </li>
+      <li>In the settings page, select Apps in the left sidebar, then click SonarQube.
+        <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-apps-sonarqube.png" alt="Configure SonarQube Connector for Jira from space settings" class="img-responsive img-rounded" style="margin: 20px 0;">
+      </li>
+      <li>In the <strong>Connection settings</strong> section, you can use the SonarQube instance from the global configuration or configure a different instance by selecting or clearing "Check this option if you want to override global connection configuration".
+        <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-sonarqube-space-configuration.png" alt="SonarQube connection settings for a Jira space" class="img-responsive img-rounded" style="margin: 20px 0;">
+      </li>
+      <li>In the <strong>Project Settings</strong>, enter the key of the SonarQube project whose data you want to display. Then click Save.</li>
+      <li>Once configuration is complete, open the <strong>SonarQube</strong> tab in your Jira space to view data from the linked project.
+        <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-pestana-space.png" alt="SonarQube tab in a Jira space" class="img-responsive img-rounded" style="margin: 20px 0;">
+      </li>
+     </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+<section id="paso-a-paso" style="padding: 50px 0; background-color: #ffffff;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1 text-left">
+
+        <h2>How to generate and download a PDF report step by step</h2>
+
+        <p class="header-text">Follow these steps in your Jira space to download SonarQube reports.</p>
+
+          <h3>1. Open your Jira project</h3>
+          <p class="header-text">Open the SonarQube tab in your Jira project.</p>
+          <h3>2. Open the SonarQube connector panel</h3>
+          <p class="header-text">From this tab, you can download an <strong>Overview</strong> report containing your project’s main code quality metrics. To generate the PDF, click <strong>Download</strong>.</p>
+          <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-download-button.png" alt="Button to download a SonarQube PDF report from Jira" class="img-responsive img-rounded">
+          <br>
+          <h3>3. Download security-specific reports</h3>
+          <p class="header-text">To download security-specific PDF reports, scroll down in the SonarQube tab to the Security Reports section.</p>
+          <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-pdf-example.png" alt="Example PDF report from SonarQube Connector for Jira" class="img-responsive img-rounded"><br>
+          <br>
+          <p class="header-text">The following security reports are available to download as PDFs:</p>
+          <ul class="header-text">
+            <li><strong>CWE Top 25:</strong> a security report that identifies the most dangerous software weaknesses in the code, based on the CWE Top 25 list. It helps detect and prioritize issues that could compromise application security.</li>
+            <li><strong>OWASP Top 10:</strong> a report for analyzing project vulnerabilities related to the ten most critical web application security risks identified by OWASP.</li>
+            <li><strong>OWASP ASVS:</strong> a security assessment report based on the OWASP Application Security Verification Standard (ASVS), helping teams review application security requirements and controls.</li>
+            <li><strong>ISO 5055:</strong> a code quality and security report based on ISO/IEC 5055, used to assess software weaknesses related to security, reliability, performance, and maintainability.</li>
+          </ul>
+            <h3>4. Review the downloaded report</h3>
+          <p class="header-text">Open the PDF to review the data and share it with anyone who needs to assess the project’s quality or security status.</p>
+          <figure style="margin:30px 0;text-align:center">
+            <img class="img-responsive img-rounded center-block" src="/img/atlassian-addons/sonarqube-connector-jira-overview-pdf.webp" alt="Example Overview PDF report generated from Jira with SonarQube Connector for Jira" loading="lazy" style="max-width:100%;border:1px solid #ddd">
+            <figcaption style="margin-top:10px">Example PDF report generated with SonarQube Connector for Jira.</figcaption>
+          </figure>
+        </div></div>
+      </div>
+    </section>
+
+<section id="personalizar" style="padding: 50px 0;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1 text-left">
+      <h2>How to customize the logo in PDF reports</h2>
+      <p class="header-text">SonarQube Connector for Jira also lets you configure the <strong>company logo displayed in the footer of reports</strong>. You can apply this setting globally to reports from all projects or configure it separately for each space. </p>
+        <h3>1 - Global Configuration for All Reports</h3>
+        <ul class="header-text">
+          <li>In Jira, go to settings and select Marketplace Apps.</li>
+          <li>In the left sidebar, select SonarQube Connector for Jira global configuration.</li>
+          <li>Scroll down to PDF report sSettings at the bottom of the page and enter the URL of the logo you want to display in report footers.
+            <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-global-pdf-report-settings.png" alt="PDF report footer settings in SonarQube Connector for Jira" class="img-responsive img-rounded" style="margin: 20px 0;">
+          </li>
+        </ul>
+      <h3>2 - Configure the report logo for a specific space</h3>
+      <ul class="header-text">
+        <li>In the left sidebar, click the three-dot menu for the space you want to configure and select Project settings.</li>
+        <li>In the left sidebar, select Apps and then SonarQube.</li>
+        <li>On the PDF tab, select <strong>Override Global PDF Config</strong> and enter the URL of the logo image you want to display in report footers for that space.
+          <img width="100%" src="/img/atlassian-addons/sonarqube-connector-jira-space-pdf-report-settings.png" alt="Space-specific PDF footer settings in SonarQube Connector for Jira" class="img-responsive img-rounded" style="margin: 20px 0;">
+        </li>
+      </ul>
+      <p class="header-text">Administrator permissions may be required to change these settings.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="preguntas-pdf" class="text-center" style="padding:55px 0">
+  <div class="container">
+    <div class="row title"><h2>Frequently Asked Questions</h2></div>
+    <div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h3>Can I download a SonarQube PDF report without leaving Jira?</h3>
+      <p class="header-text">Yes. Once the connector is installed and configured, you can generate the PDF directly from its panel in your Jira project.</p>
+      <h3>What types of reports can I download?</h3>
+      <p class="header-text">The connector provides views such as Overview, OWASP Top 10, CWE Top 25, ISO 5055, and OWASP ASVS. The available data depends on the integration.</p>
+      <h3>Can I link multiple SonarQube projects to one Jira project?</h3>
+      <p class="header-text">Yes. You can link multiple SonarQube projects to the same Jira project.</p>
+      <h3>Can I include my company logo?</h3>
+      <p class="header-text">Yes. You can configure it under PDF Report Settings, either globally or for individual projects.</p>
+      <h3>Where Can I install SonarQube Connector for Jira?</h3>
+      <p class="header-text">The app is available on <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?hosting=cloud&amp;tab=overview">Atlassian Marketplace</a>.</p>
+    </div></div>
+  </div>
+</section>
+
+<section id="recursos-pdf" class="bg-primary text-center" style="background-color:#37394f;padding:40px 0 55px">
+  <div class="container">
+    <div class="row title" style="color:white"><h2>More Resources on SonarQube Connector for Jira</h2></div>
+    <div class="row"><div class="col-md-10 col-md-offset-1">
+      <p class="header-text" style="color:white">Watch the video tutorial or explore the app on the Atlassian Marketplace.</p>
+      <p><a class="btn btn-warning btn-xl" href="https://youtu.be/VvMyCHXQNkI">Watch Video Tutorial</a> <a class="btn btn-warning btn-xl" href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?utm_source=web&utm_medium=web+excentia&utm_campaign=Comunicacion+Marketplace">View App on Marketplace</a></p>
+      <p style="color:white;margin-top:25px">Need help? <a href="https://www.excentia.es/contacto" style="color:white;text-decoration:underline">Contact excentia</a>.</p>
+    </div></div>
+  </div>
+</section>

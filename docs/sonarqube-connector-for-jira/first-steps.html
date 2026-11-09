@@ -1,0 +1,119 @@
+---
+layout: docs
+title: "Primeros pasos | SonarQube Connector for Jira"
+description: "Instala y configura SonarQube Connector for Jira: conexión, visualización, creación de incidencias y opciones de PDF."
+permalink: /docs/sonarqube-connector-for-jira/first-steps
+lang: es
+doc_title: "Primeros pasos"
+doc_id: "1493205026"
+---
+
+<h1 id="overview">Primeros pasos</h1>
+
+<div class="docs-panel docs-panel--custom">
+<p class="header-text">Aprende a <strong>instalar</strong> y <strong>configurar</strong> la aplicación <strong>SonarQube Connector for Jira</strong></p>
+</div>
+<h2 id="install-sonarqube-connector-for-jira">Instalar SonarQube Connector for Jira</h2>
+<p class="header-text">Consigue la aplicación SonarQube Connector for Jira en <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube">Atlassian Marketplace</a>. Haz clic en <strong>Probar gratis</strong> para iniciar una prueba o en <strong>Comprar ahora</strong> para adquirir una licencia de <strong>SonarQube Connector for Jira</strong>. Se te pedirá que inicies sesión en MyAtlassian y comenzará la descarga del conector. Introduce tus datos y haz clic en <strong>Generar licencia</strong> en MyAtlassian. Después, haz clic en <strong>Aplicar licencia</strong>.</p>
+<h2 id="setup-sonarqube-connector-for-jira-cloud">Configurar SonarQube Connector for Jira Cloud</h2>
+<div class="docs-panel docs-panel--custom">
+<p class="header-text">Puedes <strong>configurar un servidor global</strong> para compartir la configuración entre todos los proyectos de Jira. Esto resulta muy útil si utilizas la misma instancia de Sonar en todos ellos.</p>
+</div>
+<h3 id="connection">Conexión</h3>
+<p class="header-text">Puedes configurar un servidor global para compartir la configuración entre todos los proyectos de Jira. Esto resulta muy útil si utilizas la misma instancia de SonarQube en todos ellos.</p>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1494155292.png' | relative_url }}" alt="Conexión — SonarQube Connector for Jira" loading="lazy" width="1197" height="515">
+</figure>
+<p class="header-text">Estas son las opciones disponibles:</p>
+<ul>
+<li>
+<p class="header-text"><strong>Sobrescribir la configuración global de conexión</strong>: marca esta opción si quieres sustituir la configuración global de conexión.</p>
+</li>
+<li>
+<p class="header-text"><strong>URL de SonarQube Server</strong>: URL base del servidor de tu instalación de SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Token</strong>: este campo es opcional. Si tu instancia de SonarQube no es pública, debes introducir el token de seguridad de un usuario de SonarQube.</p>
+<ul>
+<li>
+<p class="header-text">El token debe ser de <strong>tipo USER</strong>. Encontrarás más información sobre los tokens de SonarQube aquí: <a href="https://docs.sonarsource.com/sonarqube-server/10.7/user-guide/managing-tokens/">https://docs.sonarsource.com/sonarqube-server/10.7/user-guide/managing-tokens/</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p class="header-text"><strong>Organización de SonarCloud</strong>: este parámetro es necesario si has configurado <strong>SonarCloud</strong> como URL de SonarQube Server.</p>
+</li>
+</ul>
+<h3 id="visualization">Visualización</h3>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1494450196.png' | relative_url }}" alt="Visualización — SonarQube Connector for Jira" loading="lazy" width="1214" height="635">
+</figure>
+<ul>
+<li>
+<p class="header-text"><strong>Mostrar gráficos históricos</strong>: activa o desactiva esta opción para mostrar los gráficos del historial de métricas.</p>
+</li>
+<li>
+<p class="header-text"><strong>Fecha de inicio del historial</strong>: selecciona la fecha a partir de la cual quieres obtener las métricas históricas.</p>
+</li>
+<li>
+<p class="header-text"><strong>Agrupar tarjetas de proyectos</strong>: número de tarjetas de proyectos individuales que se muestran en el panel del complemento.</p>
+</li>
+</ul>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1494745094.png' | relative_url }}" alt="Visualización — SonarQube Connector for Jira" loading="lazy" width="1203" height="685">
+</figure>
+<ul>
+<li>
+<p class="header-text"><strong>Aviso de fecha del último análisis</strong>: muestra un aviso para los proyectos cuyo último análisis sea anterior al número de días configurado (90 días de forma predeterminada).</p>
+</li>
+<li>
+<p class="header-text"><strong>Pantalla principal del panel</strong>: selecciona la pantalla que quieres utilizar como principal (<em>Resumen, CWE Top 25, OWASP Top 10, OWASP ASVS o ISO 5055</em>).</p>
+</li>
+<li>
+<p class="header-text"><strong>Sobrescribir configuración global</strong>: marca esta opción para sustituir la configuración global de filtros.</p>
+</li>
+<li>
+<p class="header-text"><strong>Configuración de filtros</strong>: selecciona los tipos de incidencias de SonarQube que se muestran en el desglose de incidencias.</p>
+</li>
+<li>
+<p class="header-text"><strong>Métricas personalizadas</strong>: indica las claves de las métricas personalizadas que quieres mostrar en el panel.</p>
+</li>
+</ul>
+<h3 id="issue-creation-settings"><strong>Configuración de creación de incidencias</strong></h3>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1493827627.png' | relative_url }}" alt="Configuración de creación de incidencias — SonarQube Connector for Jira" loading="lazy" width="2739" height="799">
+</figure>
+<ul>
+<li>
+<p class="header-text"><strong>Tipo de incidencia para errores</strong>: tipo de incidencia predeterminado para crear incidencias de Jira a partir de errores de SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Tipo de incidencia para vulnerabilidades</strong>: tipo de incidencia predeterminado para crear incidencias de Jira a partir de vulnerabilidades de SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Tipo de incidencia para defectos de mantenibilidad</strong>: tipo de incidencia predeterminado para crear incidencias de Jira a partir de defectos de mantenibilidad de SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Tipo de incidencia para puntos críticos de seguridad</strong>: tipo de incidencia predeterminado para crear incidencias de Jira a partir de puntos críticos de seguridad de SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Etiquetas de incidencias de Jira</strong>: configura una lista de etiquetas para añadirlas a las incidencias de Jira creadas con SonarQube Connector.</p>
+</li>
+<li>
+<p class="header-text"><strong>Añadir la clave de la incidencia de Jira como comentario en las incidencias de SonarQube</strong>: cuando se crea una incidencia en Jira mediante el conector, la aplicación puede añadir automáticamente un comentario a la incidencia de SonarQube con un enlace directo a la incidencia de Jira. Así puedes identificar rápidamente que ya se está gestionando en Jira y acceder a ella con un solo clic.</p>
+</li>
+<li>
+<p class="header-text"><strong>Prefijo del comentario:</strong> permite personalizar el texto inicial del comentario publicado en SonarQube. Si no se especifica ningún valor, se utiliza el prefijo predeterminado [Jira].</p>
+</li>
+</ul>
+<h3 id="pdf-settings">Configuración de PDF</h3>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1494450205.png' | relative_url }}" alt="Configuración de PDF — SonarQube Connector for Jira" loading="lazy" width="1218" height="571">
+</figure>
+<ul>
+<li>
+<p class="header-text"><strong>URL de la imagen del pie de página</strong>: añade la URL de una imagen personalizada para incluirla en los archivos PDF creados con SonarQube Connector for Jira.</p>
+</li>
+</ul>
+<section class="docs-columns">
+</section>

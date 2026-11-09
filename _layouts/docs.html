@@ -1,0 +1,61 @@
+{% assign docs_language = page.lang | default: 'en' %}
+{% assign docs_labels = site.data.docs-labels[docs_language] %}
+{% assign docs_sections = site.data.docs-sonarqube.sections %}
+{% if docs_language == 'es' %}
+  {% assign docs_sections = site.data.docs-sonarqube-es.sections %}
+{% endif %}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+{% include head.html %}
+<body id="page-top" class="docs-page">
+  {% if docs_language == 'es' %}{% include nav.html %}{% else %}{% include nav-en.html %}{% endif %}
+  <link rel="stylesheet" href="{{ '/css/docs.css' | relative_url }}">
+  <a class="docs-skip" href="#docs-content">{{ docs_labels.skip }}</a>
+  <div class="docs-shell">
+    <aside class="docs-sidebar" aria-label="{{ docs_labels.navigation }}">
+      <details class="docs-navigation" open>
+        <summary>{{ docs_labels.documentation }}</summary>
+        <div class="docs-product">
+          <img src="{{ '/img/atlassian-addons/sonarqube-connector-jira.png' | relative_url }}" width="36" height="36" alt="">
+          <span>SonarQube Connector<br>for Jira</span>
+        </div>
+        <nav aria-label="SonarQube Connector for Jira">
+          <a class="docs-nav-link{% unless page.doc_id %} docs-nav-link--current{% endunless %}" href="{{ docs_labels.docs_url | relative_url }}"{% unless page.doc_id %} aria-current="page"{% endunless %}>{{ docs_labels.overview }}</a>
+          <p class="docs-nav-label">{{ docs_labels.get_started }}</p>
+          {% for item in docs_sections %}
+            {% if item.group == 'getting-started' %}
+              {% include docs-nav-item.html item=item %}
+            {% endif %}
+          {% endfor %}
+          <p class="docs-nav-label">{{ docs_labels.reference }}</p>
+          {% for item in docs_sections %}
+            {% if item.group == 'help' %}
+              {% include docs-nav-item.html item=item %}
+            {% endif %}
+          {% endfor %}
+        </nav>
+        <a class="docs-product-link" href="{{ docs_labels.product_url | relative_url }}">{{ docs_labels.about }}</a>
+      </details>
+    </aside>
+    <main id="docs-content" class="docs-content" tabindex="-1">
+      <nav class="docs-breadcrumb" aria-label="{{ docs_labels.breadcrumb }}">
+        <a href="{{ docs_labels.home_url | relative_url }}">{{ docs_labels.home }}</a><span aria-hidden="true">/</span>
+        {% if page.doc_id %}
+          <a href="{{ docs_labels.docs_url | relative_url }}">SonarQube Connector for Jira</a>
+          {% if page.parent_url %}<span aria-hidden="true">/</span><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a>{% endif %}
+          <span aria-hidden="true">/</span><span aria-current="page">{{ page.doc_title }}</span>
+        {% else %}
+          <span aria-current="page">SonarQube Connector for Jira</span>
+        {% endif %}
+      </nav>
+      {{ content }}
+      <footer class="docs-footer">
+        <span>SonarQube Connector for Jira · excentia</span>
+        <a href="{{ docs_labels.docs_url | append: '/support' | relative_url }}">{{ docs_labels.support }} <span aria-hidden="true">→</span></a>
+      </footer>
+    </main>
+  </div>
+  {% if docs_language == 'es' %}{% include contact.html %}{% else %}{% include contact-en.html %}{% endif %}
+  {% include scripts.html %}
+</body>
+</html>

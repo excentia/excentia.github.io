@@ -1,0 +1,11 @@
+{% if include.item.children %}
+  <details class="docs-nav-branch"{% if page.url == include.item.url or page.parent_url == include.item.url %} open{% endif %}>
+    <summary>{{ include.item.title }}</summary>
+    <a class="docs-nav-link{% if page.url == include.item.url %} docs-nav-link--current{% endif %}" href="{{ include.item.url | relative_url }}"{% if page.url == include.item.url %} aria-current="page"{% endif %}>{{ docs_labels.overview }}</a>
+    {% for child in include.item.children %}
+      <a class="docs-nav-link{% if page.url == child.url %} docs-nav-link--current{% endif %}" href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a>
+    {% endfor %}
+  </details>
+{% else %}
+  <a class="docs-nav-link{% if page.url == include.item.url %} docs-nav-link--current{% endif %}" href="{{ include.item.url | relative_url }}"{% if page.url == include.item.url %} aria-current="page"{% endif %}>{{ include.item.title }}</a>
+{% endif %}

@@ -1,0 +1,43 @@
+# Local documentation navigation, shared by the sidebar and overview cards.
+sections:
+  - id: first-steps
+    title: First steps
+    url: /en/docs/sonarqube-connector-for-jira/first-steps
+    description: Install, connect, and configure the app for your Jira projects.
+    image: first-steps.png
+    group: getting-started
+  - id: features
+    title: Features
+    url: /en/docs/sonarqube-connector-for-jira/features
+    description: Explore dashboards, quality metrics, security reports, and PDF exports.
+    image: features.png
+    group: getting-started
+  - id: how-to-articles
+    title: How-to articles
+    url: /en/docs/sonarqube-connector-for-jira/how-to-articles
+    description: Follow practical guides for common workflows and use cases.
+    image: how-to-articles.png
+    group: getting-started
+    children:
+      - title: SonarQube Connector Migration Tool
+        url: /en/docs/sonarqube-connector-for-jira/how-to-articles/sonarqube-connector-migration-tool
+      - title: How to download a PDF report from SonarQube in Jira
+        url: /en/how-to-download-a-PDF-report-from-SonarQube-Jira#paso-a-paso
+  - id: data-security-and-privacy
+    title: Data security and privacy
+    url: /en/docs/sonarqube-connector-for-jira/data-security-and-privacy
+    description: Review how data is handled, protected, and processed.
+    image: data-security-and-privacy.png
+    group: help
+  - id: faqs
+    title: FAQs
+    url: /en/docs/sonarqube-connector-for-jira/faqs
+    description: Find quick answers to the most common questions.
+    image: faqs.png
+    group: help
+  - id: support
+    title: Support
+    url: /en/docs/sonarqube-connector-for-jira/support
+    description: Get help when you need assistance or further guidance.
+    image: support.png
+    group: help
