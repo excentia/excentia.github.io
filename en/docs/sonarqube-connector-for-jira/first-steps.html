@@ -1,0 +1,144 @@
+---
+layout: docs
+title: "First steps | SonarQube Connector for Jira"
+description: "Install and configure SonarQube Connector for Jira: connection, visualization, issue creation and PDF settings."
+permalink: /en/docs/sonarqube-connector-for-jira/first-steps
+lang: en
+doc_title: "First steps"
+doc_id: "1493205026"
+toc: [{"id":"install-sonarqube-connector-for-jira","title":"Install SonarQube Connector for Jira","level":2},{"id":"setup-sonarqube-connector-for-jira-cloud","title":"Setup SonarQube Connector for Jira Cloud","level":2},{"id":"connection","title":"Connection","level":3},{"id":"visualization","title":"Visualization","level":3},{"id":"issue-creation-settings","title":"Issue creation settings","level":3},{"id":"pdf-settings","title":"PDF Settings","level":3}]
+---
+
+<h1 id="overview">First steps</h1>
+
+<div class="docs-panel docs-panel--custom">
+<p class="header-text">Learn how to <strong>install</strong> and <strong>configure</strong> the app <strong>SonarQube Connector for Jira</strong>
+</p>
+</div>
+<h2 id="install-sonarqube-connector-for-jira">Install SonarQube Connector for Jira</h2>
+<p class="header-text">Get the SonarQube Connector for Jira app from the <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube">Atlassian Marketplace</a>.  Click <strong>Try free</strong> to start a trial or <strong>Buy now</strong> to purchase a license for <strong>SonarQube Connector for Jira</strong>. You&#39;ll be prompted to log into MyAtlassian and the connector begins downloading. Enter your details and click <strong>Generate license</strong> on MyAtlassian. Click <strong>Apply license</strong>.</p>
+<h2 id="setup-sonarqube-connector-for-jira-cloud">Setup SonarQube Connector for Jira Cloud</h2>
+<div class="docs-panel docs-panel--custom">
+<p class="header-text">You can<strong> configure a global server</strong> to share the configuration on all Jira projects. This is very useful if your Sonar instance is the same for all your Jira projects.</p>
+</div>
+<h3 id="connection">Connection</h3>
+<p class="header-text">You can configure a global server to share the configuration on all Jira projects. This is very useful if your SonarQube instance is the same for all your Jira projects.</p>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1494155292.png' | relative_url }}" alt="Connection — SonarQube Connector for Jira" loading="lazy" width="1197" height="515">
+</figure>
+<p class="header-text">There are different options:</p>
+<ul>
+<li>
+<p class="header-text">
+<strong>Override Global Connection Configuration</strong>: Check this option when you want to override global connection configuration</p>
+</li>
+<li>
+<p class="header-text">
+<strong>SonarQube Server URL</strong>: this is server base URL for your SonarQube installation</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Token</strong>: this field is optional. If your SonarQube instance is not public, then you will need to setup this field with the security token from a SonarQube user. </p>
+<ul>
+<li>
+<p class="header-text">The token type must be <strong>USER token type</strong>. You can find more information about SonarQube tokens here: <a href="https://docs.sonarsource.com/sonarqube-server/10.7/user-guide/managing-tokens/">https://docs.sonarsource.com/sonarqube-server/10.7/user-guide/managing-tokens/</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p class="header-text">
+<strong>SonarCloud Organization</strong>: this parameter is needed if you have configured <strong>SonarCloud </strong>as SonarQube Server URL.</p>
+</li>
+</ul>
+<h3 id="visualization">Visualization</h3>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1494450196.png' | relative_url }}" alt="Visualization — SonarQube Connector for Jira" loading="lazy" width="1214" height="635">
+</figure>
+<ul>
+<li>
+<p class="header-text">
+<strong>Show history charts </strong>: you can enable/disable this option if you want to show history measure charts.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>History date</strong> : you can select a date from which you want to obtain de history measures.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Group project cards : </strong>the number of of individual project cards displayed in the plugin panel.</p>
+</li>
+</ul>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1494745094.png' | relative_url }}" alt="Visualization — SonarQube Connector for Jira" loading="lazy" width="1203" height="685">
+</figure>
+<ul>
+<li>
+<p class="header-text">
+<strong>Last analysis date warning : </strong>this option will show a warningn for projects with last analysis date befor this configured date in days (90 days by default).</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Main Panel Screen : </strong>you can select which screen do you want to be main screen (<em>Overview, CWE Top 25, OWASP Top 10, OWASP ASVS or ISO 5055</em>).</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Override Global</strong>: Check this if you want to override global filter configuration. </p>
+</li>
+<li>
+<p class="header-text">
+<strong>Filter configuration : </strong>Select which SonarQube issuetypes are displayed in Sonarqube Issues breakdown.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Custom metrics</strong>: You can list custom metric keys to display in the dashboard.</p>
+</li>
+</ul>
+<h3 id="issue-creation-settings">
+<strong>Issue creation settings</strong>
+</h3>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1493827627.png' | relative_url }}" alt="Issue creation settings — SonarQube Connector for Jira" loading="lazy" width="2739" height="799">
+</figure>
+<ul>
+<li>
+<p class="header-text">
+<strong>Issue type For Bugs:  </strong>this is the default issue type to create new Jira issues based on SonarQube Bugs.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Issue type For Vulnerabilities:  </strong>this is the default issue type to create new Jira issues based on SonarQube Vulnerabilities.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Issue type For Code Smells: </strong>this is the default issue type to create new Jira issues based on SonarQube Code Smells.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Issue type For Hotspots: </strong>this is the default issue type to create new Jira issues based on SonarQube Security Hotspots.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Jira Issue Labels : </strong>here you can configure a list of labels, to add it to the Jira issues created with Sonarqube Connector.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Add Jira issue key as comment in SonarQube issues</strong>: When an issue is created in Jira via the connector, the app can automatically add a comment to the SonarQube issue with a direct link to the created Jira issue. This allows you to quickly identify that the issue is already being managed in Jira and access the ticket with a single click.</p>
+</li>
+<li>
+<p class="header-text">
+<strong>Comment prefix:</strong> This allows you to customize the initial text of the comment published on SonarQube. If no value is specified, the default prefix [Jira] is used.</p>
+</li>
+</ul>
+<h3 id="pdf-settings">PDF Settings</h3>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1494450205.png' | relative_url }}" alt="PDF Settings — SonarQube Connector for Jira" loading="lazy" width="1218" height="571">
+</figure>
+<ul>
+<li>
+<p class="header-text">
+<strong>Footer Image Url : </strong>You can add custom image url to add it to the PDF files created with SonarQube Connector for Jira.</p>
+</li>
+</ul>
+<section class="docs-columns">
+</section>

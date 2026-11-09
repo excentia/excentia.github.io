@@ -1,0 +1,63 @@
+---
+layout: docs
+title: "SonarQube Connector Migration Tool | SonarQube Connector for Jira"
+description: "Export and import SonarQube Connector configuration and issues when migrating Jira from Server or Data Center to Cloud."
+permalink: /en/docs/sonarqube-connector-for-jira/how-to-articles/sonarqube-connector-migration-tool
+lang: en
+doc_title: "SonarQube Connector Migration Tool"
+doc_id: "1498382440"
+parent_title: "How-to articles"
+parent_url: /en/docs/sonarqube-connector-for-jira/how-to-articles
+toc: [{"id":"how-to-export-a-file","title":"How to export a file","level":2},{"id":"1-first-step","title":"1. First step","level":3},{"id":"how-to-import-a-file","title":"How to import a file","level":2},{"id":"2-second-step","title":"2. Second step.","level":3},{"id":"3-third-step","title":"3. Third step.","level":3},{"id":"4-fourth-step","title":"4. Fourth step.","level":3}]
+---
+
+<h1 id="overview">SonarQube Connector Migration Tool</h1>
+
+<p class="header-text">If you already have migrated your instance from Server/DataCenter to Cloud, our SonarQube Connector for Jira Cloud Plugin needs the information that  its Jira Server version had. So you can import all your &quot;SonarQube Connector for Jira &quot; issues with their values and all SonarQube Connector Panel configuration you had in yourJira Server instance, using the SonarQube Connector Migration tool.</p>
+<h2 id="how-to-export-a-file">How to export a file</h2>
+<h3 id="1-first-step">1. First step</h3>
+<p class="header-text"> Go to your SonarQube Connector for Server/DataCenter Migration Tool menu and select which projects configuration do you want to export ( * to export all project&#39;s configurations and issues)</p>
+<div class="docs-panel docs-panel--warning">
+<p class="header-text">You are going to export private settings information to a file, as your SonarQube server URL or Sonar Token, you need to be Jira admin to have access to this tool</p>
+</div>
+<div class="docs-panel docs-panel--warning">
+<p class="header-text">
+<strong>excentia</strong> is not responsible for malicious use of this file, use this tool only if you know what you are doing. Please delete the file after the import.</p>
+</div>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1498710032.png' | relative_url }}" alt="1. First step — SonarQube Connector for Jira" loading="lazy" width="1280" height="557">
+</figure>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1498710038.png' | relative_url }}" alt="1. First step — SonarQube Connector for Jira" loading="lazy" width="568" height="72">
+</figure>
+<h2 id="how-to-import-a-file">How to import a file</h2>
+<h3 id="2-second-step">2. Second step.</h3>
+<p class="header-text">Go to your  SonarQube Connector for Cloud Migration Tool menu and select the json exported file created before.</p>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1498742806.png' | relative_url }}" alt="2. Second step. — SonarQube Connector for Jira" loading="lazy" width="1280" height="445">
+</figure>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1498742812.png' | relative_url }}" alt="2. Second step. — SonarQube Connector for Jira" loading="lazy" width="814" height="164">
+</figure>
+<h3 id="3-third-step">3. Third step.</h3>
+<p class="header-text">A report will be displayed with all the projects that will be imported, projects existing in exported migration file but not existing in Jira cloud instance, will NOT be imported.</p>
+<p class="header-text">Click import and wait until process is finished. Now you have migrated your SonarQube Connector configuration to Cloud!</p>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1497825302.png' | relative_url }}" alt="3. Third step. — SonarQube Connector for Jira" loading="lazy" width="1280" height="1022">
+</figure>
+<h3 id="4-fourth-step">4. Fourth step.</h3>
+<div class="docs-panel docs-panel--warning">
+<p class="header-text">Please delete Json exported file after the import finished successfully</p>
+</div>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1498775586.png' | relative_url }}" alt="4. Fourth step. — SonarQube Connector for Jira" loading="lazy" width="1280" height="402">
+</figure>
+<ul>
+<li>
+<p class="header-text">Now imported issues will appear in your sonarqube connector panel: </p>
+</li>
+</ul>
+<figure>
+<img src="{{ '/en/docs/assets/sonarqube-connector-for-jira/att1497628758.png' | relative_url }}" alt="4. Fourth step. — SonarQube Connector for Jira" loading="lazy" width="1457" height="820">
+</figure>
+<p class="header-text">If there is any problem you can contact us with <a href="https://excentia.atlassian.net/servicedesk/customer/portal/17/group/29/create/114">this link</a>.</p>

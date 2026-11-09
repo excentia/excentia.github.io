@@ -1,0 +1,405 @@
+---
+layout: docs
+title: "Funcionalidades | SonarQube Connector for Jira"
+description: "Explora las métricas de los proyectos de SonarQube, el análisis del código, los informes de seguridad, la creación de tareas de Jira y la exportación a PDF."
+permalink: /docs/sonarqube-connector-for-jira/features
+lang: es
+doc_title: "Funcionalidades"
+doc_id: "1494482978"
+---
+
+<h1 id="overview">Funcionalidades</h1>
+
+<h2 id="sonarqube-overview-panel">Panel de resumen de SonarQube</h2>
+<p class="header-text">El <strong>panel de resumen de SonarQube de SonarQube Connector for Jira</strong> ofrece una visión completa del estado de la calidad y la seguridad del código de tus proyectos de SonarQube directamente en Jira.</p>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1497628692.png' | relative_url }}" alt="Panel de resumen de SonarQube — SonarQube Connector for Jira" loading="lazy" width="1209" height="607">
+</figure>
+<p class="header-text">Este panel permite supervisar las principales métricas de calidad del software, revisar los resultados del último análisis e identificar posibles problemas de seguridad, fiabilidad y mantenibilidad sin acceder a SonarQube por separado.</p>
+<p class="header-text">La información se organiza en tres secciones principales:</p>
+<h3 id="1-general-project-information">1. Información general del proyecto</h3>
+<p class="header-text">La parte superior del panel muestra la información esencial del proyecto de SonarQube:</p>
+<ul>
+<li>
+<p class="header-text"><strong>Nombre del proyecto:</strong> muestra el nombre del proyecto analizado, con un enlace directo a SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Rama:</strong> permite seleccionar una rama del proyecto y consultar sus métricas de calidad.</p>
+</li>
+<li>
+<p class="header-text"><strong>Último análisis:</strong> muestra la fecha del análisis de código más reciente.</p>
+</li>
+<li>
+<p class="header-text"><strong>Deuda técnica:</strong> estima el esfuerzo necesario para resolver los problemas de mantenibilidad detectados en el código.</p>
+</li>
+<li>
+<p class="header-text"><strong>Puerta de calidad:</strong> muestra el estado de la puerta de calidad del proyecto e indica si el código cumple los criterios de calidad definidos.</p>
+</li>
+</ul>
+<p class="header-text">Esta sección también incluye el botón <strong>Descargar PDF</strong>, que permite exportar los resultados del análisis a un informe PDF.</p>
+<h3 id="2-new-code-metrics-for-new-code">2. Código nuevo: métricas del código nuevo</h3>
+<p class="header-text">La sección <strong>Código nuevo</strong> muestra las métricas de calidad del código añadido o modificado durante el periodo definido en SonarQube.</p>
+<p class="header-text">Incluye los siguientes indicadores:</p>
+<div class="docs-table-scroll" role="region" aria-label="Tabla de documentación" tabindex="0">
+<table>
+<thead>
+<tr>
+<th>
+<p class="header-text"><strong><span>MÉTRICA</span></strong></p>
+</th>
+<th>
+<p class="header-text"><strong><span>DESCRIPCIÓN</span></strong></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="header-text"><strong>Líneas nuevas</strong></p>
+</td>
+<td>
+<p class="header-text">Número de líneas de código nuevas añadidas durante el periodo definido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Incidencias nuevas</strong></p>
+</td>
+<td>
+<p class="header-text">Número de incidencias nuevas de calidad o seguridad del código detectadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Incidencias aceptadas</strong></p>
+</td>
+<td>
+<p class="header-text">Número de incidencias del código nuevo que se han aceptado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Cobertura</strong></p>
+</td>
+<td>
+<p class="header-text">Porcentaje del código nuevo cubierto por pruebas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Duplicaciones</strong></p>
+</td>
+<td>
+<p class="header-text">Porcentaje de código duplicado en el código nuevo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Puntos críticos de seguridad nuevos</strong></p>
+</td>
+<td>
+<p class="header-text">Número de puntos críticos de seguridad nuevos identificados que requieren una revisión de seguridad.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="header-text">Estas métricas ayudan a los equipos de desarrollo a evaluar la calidad del código incorporado recientemente y determinar si cumple los criterios de calidad establecidos.</p>
+<h3 id="3-overall-code-project-wide-quality-metrics">3. Código global: métricas de calidad de todo el proyecto</h3>
+<p class="header-text">La sección <strong>Código global</strong> ofrece una visión completa del código analizado, tanto del existente como del añadido recientemente.</p>
+<p class="header-text">Están disponibles las siguientes métricas:</p>
+<div class="docs-table-scroll" role="region" aria-label="Tabla de documentación" tabindex="0">
+<table>
+<thead>
+<tr>
+<th>
+<p class="header-text"><strong><span>MÉTRICA</span></strong></p>
+</th>
+<th>
+<p class="header-text"><strong><span>DESCRIPCIÓN</span></strong></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="header-text"><strong>Seguridad</strong></p>
+</td>
+<td>
+<p class="header-text">Número de incidencias de seguridad detectadas y su calificación de seguridad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Fiabilidad</strong></p>
+</td>
+<td>
+<p class="header-text">Número de incidencias de fiabilidad detectadas y su calificación de fiabilidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Mantenibilidad</strong></p>
+</td>
+<td>
+<p class="header-text">Número de incidencias de mantenibilidad detectadas y su calificación de mantenibilidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Líneas de código</strong></p>
+</td>
+<td>
+<p class="header-text">Número total de líneas de código analizadas y clasificación del proyecto por tamaño.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Cobertura</strong></p>
+</td>
+<td>
+<p class="header-text">Porcentaje del código cubierto por pruebas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Duplicaciones</strong></p>
+</td>
+<td>
+<p class="header-text">Porcentaje de código duplicado en el proyecto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Puntos críticos de seguridad</strong></p>
+</td>
+<td>
+<p class="header-text">Número de puntos críticos de seguridad identificados y su calificación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Incidencias aceptadas</strong></p>
+</td>
+<td>
+<p class="header-text">Número total de incidencias aceptadas en el proyecto.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="header-text">Las métricas se muestran en <strong>tarjetas visuales con valores numéricos e indicadores de color</strong> y, cuando corresponde, calificaciones de la A a la E, lo que facilita evaluar el estado general del código.</p>
+<hr>
+<h2 id="code-insights">Análisis del código</h2>
+<p class="header-text">La sección <strong>Análisis del código</strong> de SonarQube Connector for Jira ofrece una visión detallada de las incidencias de calidad y seguridad del código detectadas por SonarQube directamente en Jira.</p>
+<p class="header-text">Esta sección permite a los equipos de desarrollo y seguridad explorar las incidencias detectadas, identificar las reglas asociadas y priorizar su resolución según su impacto.</p>
+<p class="header-text">La información se organiza en distintas vistas para facilitar el análisis de incidencias de diferentes categorías de calidad y seguridad.</p>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1497497639.png' | relative_url }}" alt="Análisis del código — SonarQube Connector for Jira" loading="lazy" width="1189" height="386">
+</figure>
+<h3 id="1-code-insights-views">1. Vistas de análisis del código</h3>
+<p class="header-text">La sección Análisis del código incluye cinco vistas:</p>
+<div class="docs-table-scroll" role="region" aria-label="Tabla de documentación" tabindex="0">
+<table>
+<thead>
+<tr>
+<th>
+<p class="header-text"><strong>VISTA</strong></p>
+</th>
+<th>
+<p class="header-text"><strong>DESCRIPCIÓN</strong></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="header-text"><strong>Desglose de incidencias</strong></p>
+</td>
+<td>
+<p class="header-text">Muestra las reglas de SonarQube asociadas a las incidencias detectadas, incluido su impacto, atributos, lenguaje de programación y número de apariciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Desglose de puntos críticos de seguridad</strong></p>
+</td>
+<td>
+<p class="header-text">Permite consultar la información de los puntos críticos de seguridad detectados en el código analizado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Fiabilidad</strong></p>
+</td>
+<td>
+<p class="header-text">Se centra en las incidencias que afectan a la fiabilidad del código y pueden provocar comportamientos inesperados o fallos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Seguridad</strong></p>
+</td>
+<td>
+<p class="header-text">Se centra en las incidencias de seguridad que podrían introducir vulnerabilidades en la aplicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Mantenibilidad</strong></p>
+</td>
+<td>
+<p class="header-text">Se centra en las incidencias que dificultan la comprensión, modificación o mantenimiento del código.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="header-text">Los usuarios pueden cambiar entre estas vistas para centrarse en aspectos concretos de la calidad y la seguridad del software.</p>
+<h3 id="2-issues-breakdown">2. Desglose de incidencias</h3>
+<p class="header-text">La vista <strong>Desglose de incidencias</strong> muestra una tabla detallada con las reglas de SonarQube asociadas a las incidencias detectadas en el proyecto.</p>
+<p class="header-text">Cada fila representa una regla de SonarQube y ofrece la siguiente información:</p>
+<div class="docs-table-scroll" role="region" aria-label="Tabla de documentación" tabindex="0">
+<table>
+<thead>
+<tr>
+<th>
+<p class="header-text"><strong>COLUMNA</strong></p>
+</th>
+<th>
+<p class="header-text"><strong>DESCRIPCIÓN</strong></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="header-text"><strong>Regla</strong></p>
+</td>
+<td>
+<p class="header-text">Nombre de la regla de SonarQube asociada a las incidencias detectadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Impacto</strong></p>
+</td>
+<td>
+<p class="header-text">Característica de calidad del software afectada por la regla (seguridad, fiabilidad o mantenibilidad) y nivel de severidad, por ejemplo, bloqueante.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Atributo</strong></p>
+</td>
+<td>
+<p class="header-text">Atributos de código limpio asociados a la regla, como intencional, completo, responsable o digno de confianza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Lenguaje</strong></p>
+</td>
+<td>
+<p class="header-text">Lenguaje de programación al que afecta la regla.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Incidencias</strong></p>
+</td>
+<td>
+<p class="header-text">Número total de incidencias detectadas asociadas a la regla.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="header-text">Aquí también encontrarás <strong>dos columnas adicionales</strong>: una con el <a href="{{ '/docs/sonarqube-connector-for-jira/features#create-jira-work-items' | relative_url }}">botón para crear una tarea</a> y otra que muestra la tarea ya creada.</p>
+<p class="header-text">El campo <strong>Buscar reglas</strong> permite buscar reglas concretas, mientras que las columnas ordenables ayudan a organizar los resultados.</p>
+<h2 id="security-reports">Informes de seguridad</h2>
+<p class="header-text">La sección <strong>Informes de seguridad</strong> de SonarQube Connector for Jira muestra los resultados de seguridad organizados en las pestañas <strong>CWE Top 25, OWASP Top 10, OWASP ASVS e ISO 5055</strong>.</p>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1497497648.png' | relative_url }}" alt="Informes de seguridad — SonarQube Connector for Jira" loading="lazy" width="1189" height="695">
+</figure>
+<p class="header-text">En la pestaña <strong>CWE Top 25</strong> puedes seleccionar la edición de la clasificación en el desplegable y descargar el informe mediante el botón <strong>Descargar PDF</strong>.</p>
+<p class="header-text">La parte superior muestra cinco indicadores de resumen:</p>
+<ul>
+<li>
+<p class="header-text"><strong>Incidencias de CWE Top 25:</strong> número de incidencias asociadas a esta clasificación.</p>
+</li>
+<li>
+<p class="header-text"><strong>Puntos críticos de CWE Top 25:</strong> número de puntos críticos de seguridad asociados.</p>
+</li>
+<li>
+<p class="header-text"><strong>Esfuerzo de resolución de CWE Top 25:</strong> esfuerzo estimado para resolver las incidencias.</p>
+</li>
+<li>
+<p class="header-text"><strong>Densidad de CWE Top 25:</strong> valor de densidad para esta clasificación.</p>
+</li>
+<li>
+<p class="header-text"><strong>Calificación de CWE Top 25:</strong> calificación de esta clasificación.</p>
+</li>
+</ul>
+<p class="header-text">La tabla inferior enumera las debilidades de <strong>CWE Top 25</strong> e indica su posición, identificador, nombre, calificación y número de incidencias y puntos críticos de seguridad asociados. Cada fila incluye un control para desplegarla.</p>
+<hr>
+<h2 id="create-jira-work-items">Crear tareas de Jira</h2>
+<div class="docs-panel docs-panel--custom">
+<p class="header-text">SonarQube Connector for Jira permite crear incidencias de Jira a partir de las incidencias de calidad y seguridad del código detectadas por SonarQube.</p>
+</div>
+<p class="header-text">Antes de empezar, comprueba lo siguiente:</p>
+<ul>
+<li>
+<p class="header-text">SonarQube Connector for Jira está <strong>instalado en tu instancia de Jira</strong>.</p>
+</li>
+<li>
+<p class="header-text">El conector está configurado para <strong>acceder a tus proyectos de SonarQube</strong>.</p>
+</li>
+<li>
+<p class="header-text">Se ha completado al menos un <strong>análisis de código</strong> en SonarQube y se han detectado incidencias.</p>
+</li>
+</ul>
+<p class="header-text">Una vez realizadas estas comprobaciones, abre el proyecto de Jira vinculado a SonarQube y accede a la información que proporciona SonarQube Connector for Jira.</p>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1495564292.png' | relative_url }}" alt="Crear tareas de Jira — SonarQube Connector for Jira" loading="lazy" width="1222" height="582">
+</figure>
+<p class="header-text">Cuando hayas localizado la regla de SonarQube, sigue estos pasos:</p>
+<ol>
+<li>
+<p class="header-text">Busca el <strong>botón de creación de tareas</strong> en la fila de la regla de SonarQube.</p>
+</li>
+<li>
+<p class="header-text"><strong>Haz clic en el botón</strong> para crear la tarea de Jira. El conector utiliza la información de la regla de SonarQube para generarla.</p>
+</li>
+</ol>
+<p class="header-text">Una vez creada la tarea, su clave aparecerá en la misma fila que la incidencia de SonarQube, junto al botón de creación de tareas.</p>
+<hr>
+<h2 id="pdf-overview">Resumen en PDF</h2>
+<p class="header-text"><strong>SonarQube Connector for Jira</strong> permite descargar directamente desde Jira un informe PDF con los resultados del análisis de calidad y seguridad del código de tus proyectos de SonarQube.</p>
+<p class="header-text">El <strong>informe de evidencias de SonarQube</strong> ofrece a los equipos de desarrollo y seguridad una visión detallada del código, con métricas y tendencias que ayudan a identificar incidencias, tomar decisiones informadas y priorizar mejoras.</p>
+<h3 id="how-to-download-the-pdf-report">Cómo descargar el informe PDF</h3>
+<p class="header-text">Para descargar el informe, sigue estos pasos:</p>
+<ol>
+<li>
+<p class="header-text">Abre el proyecto de Jira vinculado a SonarQube.</p>
+</li>
+<li>
+<p class="header-text">Abre la sección <strong>SonarQube Connector for Jira</strong>.</p>
+</li>
+<li>
+<p class="header-text">Accede al panel <strong>Resumen</strong>, donde encontrarás la opción para descargar el informe.</p>
+</li>
+<li>
+<p class="header-text">Haz clic en la opción de descarga para obtener el <strong>informe PDF</strong>.</p>
+</li>
+</ol>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1496154113.png' | relative_url }}" alt="Cómo descargar el informe PDF — SonarQube Connector for Jira" loading="lazy" width="1224" height="676">
+</figure>
+<p class="header-text">Una vez descargado, <strong>puedes compartir el informe con otros miembros del equipo</strong>, documentar el estado de la calidad y la seguridad del código y facilitar el seguimiento de las incidencias detectadas.</p>
+<p class="header-text">Esta funcionalidad reúne los <strong>resultados de SonarQube en un documento</strong> fácil de revisar y compartir, sin necesidad de acceder directamente a la plataforma de análisis.</p>
+<figure>
+<img src="{{ '/docs/assets/sonarqube-connector-for-jira/att1495957506.png' | relative_url }}" alt="Cómo descargar el informe PDF — SonarQube Connector for Jira" loading="lazy" width="863" height="611">
+</figure>
+<section class="docs-columns">
+</section>

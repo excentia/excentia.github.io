@@ -53,3 +53,11 @@ Esta diferencia permite cubrir un punto ciego del análisis tradicional. Mientra
 <h2>Disponibilidad de SonarQube Hunter Agent</h2>
 
 SonarQube Hunter Agent está disponible de [forma general](https://www.sonarsource.com/products/sonarqube/hunter-agent/) desde hoy **para SonarQube Cloud**. La compatibilidad con SonarQube Server llegará próximamente.
+
+<h2>Webinar con demo del Sonarqube Hunter Agent</h2>
+
+En noviembre realizamos un webinar donde Antonio Calero, Sonar Bug Hunter en excentia y Fabio Gos, Enterprise Solution Engineer de Sonar nos hablaros sobre esta nueva solución y realizaron una demo en directo del producto. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UVHnUib0384?si=Q7O33m-MYwBjXwY7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Si necesitas más información sobre esta solución puedes ponerte en contacto con nuestro equipo a través de [este enlace](/contacto).

@@ -1,0 +1,124 @@
+/* Documentation is isolated from the marketing page styles. */
+.docs-page {
+  --docs-accent: #ff8200;
+  --docs-ink: #1f2937;
+  --docs-muted: #64748b;
+  --docs-border: #e5e7eb;
+  background: #fff;
+  color: var(--docs-ink);
+  font-size: 16px;
+  line-height: 1.75;
+}
+.docs-page a { transition: color .2s, background-color .2s, border-color .2s; }
+.docs-page a:focus-visible, .docs-page summary:focus-visible {
+  outline: 3px solid var(--docs-accent);
+  outline-offset: 4px;
+}
+.docs-shell {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: 48px;
+  max-width: 1440px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 140px 32px 64px;
+  align-items: start;
+}
+.docs-sidebar { position: sticky; top: 124px; max-height: calc(100vh - 148px); overflow-y: auto; }
+.docs-sidebar { border-right: 1px solid var(--docs-border); padding-right: 24px; }
+.docs-navigation > summary { cursor: pointer; color: var(--docs-muted); }
+.docs-product { display: flex; align-items: center; gap: 12px; padding: 28px 8px; font-size: 15px; font-weight: 800; line-height: 1.5; }
+.docs-product img { object-fit: contain; }
+.docs-nav-link { display: flex; align-items: center; justify-content: space-between; gap: 8px; color: var(--docs-ink); padding: 11px 14px; margin: 3px 0; border-radius: 8px; font-size: 14px; }
+.docs-nav-link:hover, .docs-nav-link:focus, .docs-nav-link--current { background: #fff2e3; color: #9b4b00; text-decoration: none; }
+.docs-nav-link--current { font-weight: 800; }
+.docs-external { color: var(--docs-muted); font-size: 14px; }
+.docs-nav-label { margin: 26px 14px 8px; font-size: 11px; font-weight: 800; color: var(--docs-muted); letter-spacing: .09em; text-transform: uppercase; }
+.docs-product-link { display: block; margin: 32px 14px 12px; padding-top: 20px; border-top: 1px solid var(--docs-border); font-size: 13px; color: var(--docs-muted); }
+.docs-nav-branch > summary { padding: 11px 14px; cursor: pointer; font-size: 14px; border-radius: 8px; }
+.docs-nav-branch > summary:hover { background: #fff2e3; color: #9b4b00; }
+.docs-nav-branch .docs-nav-link { margin-left: 14px; }
+.docs-navigation > summary,
+.docs-nav-link,
+.docs-nav-branch > summary {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.docs-breadcrumb { display: flex; flex-wrap: wrap; gap: 12px; margin: 0 0 38px; font-size: 12px; color: var(--docs-muted); }
+.docs-breadcrumb a { color: var(--docs-muted); }
+.docs-eyebrow { text-transform: uppercase; font-size: 11px; letter-spacing: .13em; font-weight: 800; color: #9b4b00; margin: 0 0 12px; }
+.docs-content h1 { font-size: clamp(30px, 3vw, 46px); line-height: 1.16; letter-spacing: -.04em; margin: 0 0 30px; }
+.docs-content h2 { font-size: 25px; line-height: 1.35; letter-spacing: -.025em; margin: 46px 0 24px; }
+.docs-content [id] { scroll-margin-top: 130px; }
+.docs-content > p { margin-bottom: 24px; }
+.docs-content h3 { font-size: 20px; line-height: 1.45; margin: 32px 0 18px; letter-spacing: -.02em; }
+.docs-content figure { margin: 28px 0; }
+.docs-content figure img { display: block; max-width: 100%; height: auto; border: 1px solid var(--docs-border); border-radius: 8px; }
+.docs-content figcaption { color: var(--docs-muted); font-size: 13px; margin-top: 8px; }
+.docs-content li { margin-bottom: 10px; }
+.docs-content li p { margin-bottom: 8px; }
+.docs-content > p a, .docs-content li a, .docs-panel a, .docs-resource-link a { color: #874100; text-decoration: underline; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.docs-panel { margin: 24px 0; padding: 20px 24px; border: 1px solid #f6d6b1; border-radius: 8px; background: #fff6eb; }
+.docs-panel > :first-child,
+.docs-callout > :first-child,
+.docs-resource-link > :first-child { margin-top: 0; }
+.docs-panel > :last-child,
+.docs-callout > :last-child,
+.docs-resource-link > :last-child { margin-bottom: 0; }
+.docs-panel--warning { background: #fff8e8; border-color: #eacb86; }
+.docs-panel--note { background: #f5f7fa; border-color: #cbd5e1; }
+.docs-panel--success { background: #f0f7f3; border-color: #93b9a3; }
+.docs-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin: 28px 0; }
+.docs-table-scroll { overflow-x: auto; max-width: 100%; margin: 24px 0; border: 1px solid var(--docs-border); border-radius: 8px; }
+.docs-table-scroll:focus-visible { outline: 3px solid var(--docs-accent); outline-offset: 3px; }
+.docs-table-scroll table { width: 100%; min-width: 480px; border-collapse: collapse; font-size: 14px; line-height: 1.7; }
+.docs-table-scroll th, .docs-table-scroll td { padding: 14px 18px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--docs-border); }
+.docs-table-scroll th { background: #fff2e3; color: var(--docs-ink); }
+.docs-table-scroll tr:nth-child(even) td { background: #f8fafc; }
+.docs-table-scroll p { margin: 0; }
+.docs-content > details { border: 1px solid var(--docs-border); border-radius: 8px; margin: 14px 0; padding: 16px 20px; }
+.docs-content > details > summary { cursor: pointer; font-weight: 700; line-height: 1.6; }
+.docs-content > details[open] > summary { margin-bottom: 16px; color: #874100; }
+.docs-content > details > :last-child { margin-bottom: 0; }
+.docs-resource-link { padding: 16px 20px; border: 1px solid var(--docs-border); border-radius: 8px; margin: 20px 0; overflow-wrap: anywhere; }
+.docs-content pre { max-width: 100%; overflow-x: auto; }
+.docs-callout { padding: 24px; margin: 0 0 28px; background: #fff6eb; border: 1px solid #f6d6b1; border-radius: 10px; }
+.docs-callout p { margin: 0; }
+.docs-callout strong { font-weight: 800; }
+.docs-callout a { color: #874100; text-decoration: underline; text-underline-offset: 3px; }
+.docs-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.docs-card { display: flex; flex-direction: column; color: var(--docs-ink); border: 1px solid var(--docs-border); border-radius: 12px; padding: 22px 18px; background: #fff; }
+.docs-card:hover, .docs-card:focus { color: var(--docs-ink); border-color: var(--docs-accent); background: #fffbf5; text-decoration: none; }
+.docs-card img { width: 100%; height: 100px; object-fit: contain; margin: 0 auto 24px; }
+.docs-card h3 { font-size: 16px; line-height: 1.5; letter-spacing: -.02em; margin: 0 0 10px; }
+.docs-card h3 span { color: #9b4b00; font-size: 14px; }
+.docs-card p { color: #526071; font-size: 13px; line-height: 1.8; margin: 0; }
+.docs-capabilities { padding-left: 22px; margin-bottom: 28px; }
+.docs-capabilities li { padding-left: 6px; margin-bottom: 14px; }
+.docs-capabilities li::marker { color: #9b4b00; }
+.docs-callout--path { margin-top: 32px; }
+.docs-footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-top: 1px solid var(--docs-border); margin-top: 48px; padding: 24px 0; background: transparent; color: var(--docs-ink); font-size: 14px; text-align: left; }
+.docs-footer a { color: #874100; text-decoration: underline; text-underline-offset: 3px; }
+.docs-skip { position: fixed; top: -100px; left: 16px; padding: 12px 20px; z-index: 1100; background: #fff; color: var(--docs-ink); }
+.docs-skip:focus { top: 12px; }
+@media (min-width: 1600px) { .docs-shell { gap: 64px; grid-template-columns: 280px minmax(0, 1fr); } }
+@media (max-width: 1199px) { .docs-shell { grid-template-columns: 230px minmax(0, 1fr); gap: 32px; } }
+@media (max-width: 767px) {
+  .docs-shell { display: block; padding: 120px 20px 40px; }
+  .docs-sidebar { position: static; max-height: none; border: 1px solid var(--docs-border); border-radius: 10px; padding: 16px; margin-bottom: 32px; }
+  .docs-product { padding: 20px 8px; }
+  .docs-breadcrumb { margin-bottom: 28px; }
+  .docs-content h2 { font-size: 23px; margin-top: 36px; }
+  .docs-callout { padding: 18px; }
+  .docs-cards { grid-template-columns: 1fr; }
+  .docs-columns { grid-template-columns: 1fr; gap: 8px; }
+  .docs-card { padding: 24px; }
+  .docs-card img { height: 110px; }
+}
+@media print {
+  .docs-page #mainNav, .docs-page .site-footer, .docs-sidebar, .docs-skip { display: none; }
+  .docs-shell { display: block; padding: 0; min-height: auto; }
+  .docs-card, .docs-callout { break-inside: avoid; }
+}

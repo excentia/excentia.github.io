@@ -1,0 +1,30 @@
+en:
+  skip: Skip to content
+  navigation: Documentation navigation
+  documentation: Documentation
+  overview: Overview
+  get_started: Get started
+  reference: Reference and help
+  about: About the app
+  breadcrumb: Breadcrumb
+  home: Home
+  support: Documentation support
+  docs_url: /en/docs/sonarqube-connector-for-jira
+  home_url: /en/
+  product_url: /en/sonarqube-connector-jira
+  assets_url: /en/docs/assets/sonarqube-connector-for-jira/
+es:
+  skip: Saltar al contenido
+  navigation: Navegación de la documentación
+  documentation: Documentación
+  overview: Resumen
+  get_started: Primeros pasos
+  reference: Referencia y ayuda
+  about: Acerca de la aplicación
+  breadcrumb: Ruta de navegación
+  home: Inicio
+  support: Soporte de la documentación
+  docs_url: /docs/sonarqube-connector-for-jira
+  home_url: /
+  product_url: /sonarqube-connector-jira
+  assets_url: /docs/assets/sonarqube-connector-for-jira/

@@ -1,0 +1,132 @@
+---
+layout: docs
+title: "FAQs | SonarQube Connector for Jira"
+description: "Answers to common questions about installation, connectivity, projects, metrics, Jira work items and PDF reports."
+permalink: /en/docs/sonarqube-connector-for-jira/faqs
+lang: en
+doc_title: "FAQs"
+doc_id: "1497432070"
+toc: [{"id":"initial-setup","title":"Initial setup","level":2},{"id":"connection-and-projects","title":"Connection and projects","level":2},{"id":"viewing-results-in-jira","title":"Viewing results in Jira","level":2}]
+---
+
+<h1 id="overview">FAQs</h1>
+
+<div class="docs-panel docs-panel--info">
+<p class="header-text">This section brings together common questions about <strong>SonarQube Connector for Jira</strong> and helps you quickly identify what to review in each case.</p>
+</div>
+<div class="docs-table-scroll" role="region" aria-label="Documentation table" tabindex="0">
+<table>
+<thead>
+<tr>
+<th>
+<p class="header-text">
+<strong>
+<span>SECTION</span>
+</strong>
+</p>
+</th>
+<th>
+<p class="header-text">
+<strong>
+<span>WHAT YOU’LL FIND</span>
+</strong>
+</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="header-text">
+<strong>Initial setup</strong>
+</p>
+</td>
+<td>
+<p class="header-text">Compatibility, installation and connection to SonarQube Server or SonarQube Cloud.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text">
+<strong>Troubleshooting</strong>
+</p>
+</td>
+<td>
+<p class="header-text">Connection checks, credentials, project keys and network requirements.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text">
+<strong>Using it in Jira</strong>
+</p>
+</td>
+<td>
+<p class="header-text">Available metrics, dashboards, work item creation and PDF reports.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<h2 id="initial-setup">Initial setup</h2>
+<details>
+<summary>1. Can I use the connector with SonarQube Server and SonarQube Cloud?</summary>
+<p class="header-text">Yes. SonarQube Connector for Jira lets you view information from SonarQube Server and SonarQube Cloud projects in Jira. You need to configure the connection for the service you use.</p>
+</details>
+<details>
+<summary>2. Where do I need to install the connector?</summary>
+<p class="header-text">It is installed in Jira from Atlassian Marketplace. Select the option that matches your environment and check compatibility with your Jira version.</p>
+</details>
+<details>
+<summary>3. I have configured the connection, but the results do not appear. What should I check?</summary>
+<p class="header-text">As an initial check, review the SonarQube URL, token and configured project key. If the problem continues, also check the connectivity between the connector and SonarQube. These are the first points worth ruling out for this type of query.</p>
+</details>
+<h2 id="connection-and-projects">Connection and projects</h2>
+<details>
+<summary>4. Can a firewall prevent the connector from working?</summary>
+<p class="header-text">Yes. There is a resolved case in Atlassian Community where it was necessary to allow traffic from the connector server. If your SonarQube has access restrictions, confirm the current network requirements with support.</p>
+</details>
+<details>
+<summary>5. Where can I find the SonarQube project key?</summary>
+<p class="header-text">You can get it from the SonarQube project panel or from its analysis parameters. You must use the project key in the <strong>Resource ID</strong> field, or the equivalent field in your version.</p>
+</details>
+<details>
+<summary>6. Can I link several SonarQube projects to one Jira project?</summary>
+<p class="header-text">Yes. The documented configuration allows you to enter several project keys separated by commas. The connector groups their metrics into a single view.</p>
+</details>
+<h2 id="viewing-results-in-jira">Viewing results in Jira</h2>
+<details>
+<summary>7. What SonarQube information can I view in Jira?</summary>
+<p class="header-text">You can view quality metrics, Quality Gate status, vulnerabilities, Security Hotspots and technical debt, as well as access the issue breakdown for linked projects.</p>
+</details>
+<details>
+<summary>8. Can I display the results on a Jira dashboard?</summary>
+<p class="header-text">The connector documentation includes a gadget configuration for displaying information from one or more projects. Check which gadgets are available in the edition and version you have installed.</p>
+</details>
+<details>
+<summary>9. How do I create a Jira work item from SonarQube results?</summary>
+<p class="header-text">Use the creation button located in the SonarQube rule row. The connector generates the item with the rule name and links to the corresponding issues.</p>
+</details>
+<details>
+<summary>10. Why does a warning appear saying that the issue already exists?</summary>
+<p class="header-text">The connector checks whether the rule already has an associated issue and displays a warning to avoid creating another one for the same findings.</p>
+</details>
+<details>
+<summary>11. Where can I find the created work item?</summary>
+<p class="header-text">Its link appears in the same SonarQube rule row. According to the documentation, it stops being displayed if the issue is deleted or resolved.</p>
+</details>
+<details>
+<summary>12. Why does the SonarQube tab not appear in a manually created issue?</summary>
+<p class="header-text">That tab is shown in issues created through the connector. A manually created issue does not automatically establish the relationship with SonarQube findings.</p>
+</details>
+<details>
+<summary>13. How can I download a quality and security report in PDF?</summary>
+<p class="header-text">Open the linked Jira project, go to the connector’s <strong>Overview</strong> panel and use the <strong>SonarQube Evidence Report</strong> download option.</p>
+</details>
+<div class="docs-panel docs-panel--success">
+<p class="header-text">
+<strong>Tip:</strong> if an answer does not resolve your case, first review the connection configuration and then contact support with the URL, connector edition and affected project keys.</p>
+</div>
+<section class="docs-columns">
+</section>

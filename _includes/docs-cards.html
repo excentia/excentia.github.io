@@ -1,0 +1,17 @@
+{% assign cards_language = page.lang | default: 'en' %}
+{% assign cards_labels = site.data.docs-labels[cards_language] %}
+{% assign cards_sections = site.data.docs-sonarqube.sections %}
+{% if cards_language == 'es' %}
+  {% assign cards_sections = site.data.docs-sonarqube-es.sections %}
+{% endif %}
+<div class="docs-cards">
+  {% for item in cards_sections %}
+    {% if item.group == include.group %}
+      <a class="docs-card" href="{{ item.url | relative_url }}">
+        <img src="{{ cards_labels.assets_url | append: item.image | relative_url }}" alt="" loading="lazy" width="201" height="160">
+        <h3>{{ item.title }} <span aria-hidden="true">→</span></h3>
+        <p class="header-text">{{ item.description }}</p>
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>

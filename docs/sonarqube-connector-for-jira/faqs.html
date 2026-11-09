@@ -1,0 +1,116 @@
+---
+layout: docs
+title: "Preguntas frecuentes | SonarQube Connector for Jira"
+description: "Respuestas a las preguntas habituales sobre instalación, conexión, proyectos, métricas, tareas de Jira e informes PDF."
+permalink: /docs/sonarqube-connector-for-jira/faqs
+lang: es
+doc_title: "Preguntas frecuentes"
+doc_id: "1497432070"
+---
+
+<h1 id="overview">Preguntas frecuentes</h1>
+
+<div class="docs-panel docs-panel--info">
+<p class="header-text">Esta sección reúne las preguntas más habituales sobre <strong>SonarQube Connector for Jira</strong> y te ayuda a identificar rápidamente qué revisar en cada caso.</p>
+</div>
+<div class="docs-table-scroll" role="region" aria-label="Tabla de documentación" tabindex="0">
+<table>
+<thead>
+<tr>
+<th>
+<p class="header-text"><strong><span>SECCIÓN</span></strong></p>
+</th>
+<th>
+<p class="header-text"><strong><span>QUÉ ENCONTRARÁS</span></strong></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="header-text"><strong>Configuración inicial</strong></p>
+</td>
+<td>
+<p class="header-text">Compatibilidad, instalación y conexión con SonarQube Server o SonarQube Cloud.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Resolución de problemas</strong></p>
+</td>
+<td>
+<p class="header-text">Comprobaciones de conexión, credenciales, claves de proyectos y requisitos de red.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="header-text"><strong>Uso en Jira</strong></p>
+</td>
+<td>
+<p class="header-text">Métricas disponibles, paneles, creación de tareas e informes PDF.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<h2 id="initial-setup">Configuración inicial</h2>
+<details>
+<summary>1. ¿Puedo utilizar el conector con SonarQube Server y SonarQube Cloud?</summary>
+<p class="header-text">Sí. SonarQube Connector for Jira permite consultar en Jira la información de los proyectos de SonarQube Server y SonarQube Cloud. Debes configurar la conexión con el servicio que utilices.</p>
+</details>
+<details>
+<summary>2. ¿Dónde tengo que instalar el conector?</summary>
+<p class="header-text">Se instala en Jira desde Atlassian Marketplace. Selecciona la opción correspondiente a tu entorno y comprueba la compatibilidad con tu versión de Jira.</p>
+</details>
+<details>
+<summary>3. He configurado la conexión, pero no aparecen los resultados. ¿Qué debo comprobar?</summary>
+<p class="header-text">Como primera comprobación, revisa la URL de SonarQube, el token y la clave del proyecto configurada. Si el problema continúa, comprueba también la conectividad entre el conector y SonarQube. Estos son los primeros puntos que conviene descartar en este tipo de consultas.</p>
+</details>
+<h2 id="connection-and-projects">Conexión y proyectos</h2>
+<details>
+<summary>4. ¿Puede un cortafuegos impedir que funcione el conector?</summary>
+<p class="header-text">Sí. Existe un caso resuelto en Atlassian Community en el que fue necesario permitir el tráfico desde el servidor del conector. Si tu SonarQube tiene restricciones de acceso, confirma con soporte los requisitos de red actuales.</p>
+</details>
+<details>
+<summary>5. ¿Dónde puedo encontrar la clave del proyecto de SonarQube?</summary>
+<p class="header-text">Puedes obtenerla en el panel del proyecto de SonarQube o en sus parámetros de análisis. Debes utilizar la clave del proyecto en el campo <strong>ID del recurso</strong>, o en el campo equivalente de tu versión.</p>
+</details>
+<details>
+<summary>6. ¿Puedo vincular varios proyectos de SonarQube a un proyecto de Jira?</summary>
+<p class="header-text">Sí. La configuración documentada permite introducir varias claves de proyecto separadas por comas. El conector agrupa sus métricas en una sola vista.</p>
+</details>
+<h2 id="viewing-results-in-jira">Consultar resultados en Jira</h2>
+<details>
+<summary>7. ¿Qué información de SonarQube puedo consultar en Jira?</summary>
+<p class="header-text">Puedes consultar métricas de calidad, el estado de la puerta de calidad, vulnerabilidades, puntos críticos de seguridad y deuda técnica, además de acceder al desglose de incidencias de los proyectos vinculados.</p>
+</details>
+<details>
+<summary>8. ¿Puedo mostrar los resultados en un panel de Jira?</summary>
+<p class="header-text">La documentación del conector incluye la configuración de un gadget para mostrar información de uno o varios proyectos. Comprueba qué gadgets están disponibles en la edición y la versión que tienes instaladas.</p>
+</details>
+<details>
+<summary>9. ¿Cómo creo una tarea de Jira a partir de los resultados de SonarQube?</summary>
+<p class="header-text">Utiliza el botón de creación situado en la fila de la regla de SonarQube. El conector genera la tarea con el nombre de la regla y enlaces a las incidencias correspondientes.</p>
+</details>
+<details>
+<summary>10. ¿Por qué aparece un aviso que indica que la incidencia ya existe?</summary>
+<p class="header-text">El conector comprueba si la regla ya tiene una incidencia asociada y muestra un aviso para evitar que se cree otra para los mismos hallazgos.</p>
+</details>
+<details>
+<summary>11. ¿Dónde puedo encontrar la tarea creada?</summary>
+<p class="header-text">Su enlace aparece en la misma fila de la regla de SonarQube. Según la documentación, deja de mostrarse si la incidencia se elimina o se resuelve.</p>
+</details>
+<details>
+<summary>12. ¿Por qué no aparece la pestaña de SonarQube en una incidencia creada manualmente?</summary>
+<p class="header-text">Esa pestaña se muestra en las incidencias creadas mediante el conector. Una incidencia creada manualmente no establece automáticamente la relación con los hallazgos de SonarQube.</p>
+</details>
+<details>
+<summary>13. ¿Cómo puedo descargar un informe de calidad y seguridad en PDF?</summary>
+<p class="header-text">Abre el proyecto de Jira vinculado, accede al panel <strong>Resumen</strong> del conector y utiliza la opción de descarga del <strong>informe de evidencias de SonarQube</strong>.</p>
+</details>
+<div class="docs-panel docs-panel--success">
+<p class="header-text"><strong>Consejo:</strong> si una respuesta no resuelve tu caso, revisa primero la configuración de conexión y después contacta con soporte indicando la URL, la edición del conector y las claves de los proyectos afectados.</p>
+</div>
+<section class="docs-columns">
+</section>
