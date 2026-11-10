@@ -2,7 +2,6 @@
 layout: simple_en
 title: Personal Data Protection Regulation
 description: In compliance with Regulation (EU) 2016/679 (General Data Protection Regulation), Organic Law 3/2018 on the Protection of Personal Data and Guarantee of Digital Rights, and Law 34/2002 of 11 July on Information Society Services and Electronic Commerce
-redirect_from: /es/legal
 ---
 
 <style>p {font-size: 1em;}</style>

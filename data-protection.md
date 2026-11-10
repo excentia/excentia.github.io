@@ -2,7 +2,6 @@
 layout: simple
 title: Información sobre la Normativa de Protección de datos personales
 description: En cumplimiento del Reglamento de Protección de Datos (UE) 2016/679, la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales, así como la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico
-redirect_from: /es/legal
 ---
 
 <style>p {font-size: 1em;}</style>
