@@ -1,0 +1,26 @@
+{%- comment -%}
+  Resolve both directions from one translation pair. Use the actual Jekyll URL
+  so existing permalinks and pages with different filenames stay unchanged.
+  Posts are deliberately excluded: the blog articles have no translations.
+{%- endcomment -%}
+{%- unless page.collection == 'posts' -%}
+  {%- assign translation_path = nil -%}
+  {%- assign translation_language = nil -%}
+  {%- for translation in site.data.translations -%}
+    {%- if translation.es == page.path -%}
+      {%- assign translation_path = translation.en -%}
+      {%- assign translation_language = 'en' -%}
+      {%- break -%}
+    {%- elsif translation.en == page.path -%}
+      {%- assign translation_path = translation.es -%}
+      {%- assign translation_language = 'es' -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if translation_path -%}
+    {%- assign translated_page = site.pages | where: 'path', translation_path | first -%}
+    {%- if translated_page -%}
+      <a class="site-navbar-lang" href="{{ translated_page.url | relative_url }}" lang="{{ translation_language }}" hreflang="{{ translation_language }}" aria-label="{% if translation_language == 'en' %}View this page in English{% else %}Ver esta página en español{% endif %}">{{ translation_language }}</a>
+    {%- endif -%}
+  {%- endif -%}
+{%- endunless -%}
