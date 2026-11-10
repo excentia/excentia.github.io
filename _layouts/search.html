@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="{{ page.lang | default: 'es' }}">
     {% include head.html %}
     
     <body id="page-top">
 
-    {% include nav.html %}
+    {% if page.lang == 'en' %}{% include nav-en.html %}{% else %}{% include nav.html %}{% endif %}
         <header>
         <div >
             <div class="container" style="padding-top: 80px">
@@ -38,7 +38,7 @@
             </div>
         </div>
         </header>
-    {% include contact.html %}        
+    {% if page.lang == 'en' %}{% include contact-en.html %}{% else %}{% include contact.html %}{% endif %}
     {% include scripts.html %}
     </body>
 </html>
