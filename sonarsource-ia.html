@@ -4,7 +4,7 @@ title: Corrige el código generado por IA con SonarQube
 description: SonarQube te ayuda a corregir el código generado por la IA. Conoce aquí los desafios de la IA y cómo superarlos 
 ---
 
-<section id="sonar-ai" class="features text-center" style="padding: 50px 0; background-color: #F0F0F0">
+<section id="sonar-ai" class="features text-center bg-white" style="padding: 50px 0;">
   <div class="container">
     <div class="row title">
       <h1>Corríge el código <br> generado por la IA</h1>
@@ -252,53 +252,55 @@ description: SonarQube te ayuda a corregir el código generado por la IA. Conoce
   </div>
 </section>
 
-<section id="contacto-formulario" class="text-center" style="padding: 40px 0">
+<section id="contacto-formulario" class="site-contact-section text-center">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-8 col-md-offset-2 site-contact-column">
+        <div class="site-contact-intro">
         <h2>¿Hablamos?</h2>
-        <p>Si todavía no eres cliente y necesitas información sobre SonarQube puedes hacerlo a través del siguiente formulario.</p>
-        <form action="https://formspree.io/f/xaygrdqg" method="POST">
-          <div class="col-md-12 col-sm-12">
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls">
-                <input type="text" name="name" class="form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls">
-                <input type="email" name="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            
-            <div>
-              <input type="hidden" name="_subject" value="SonarSource-IA"/>
-                     </div>
-            <div>
-              <input type="text" name="_gotcha" style="display:none"/>
-            </div>
-            <div class="row control-group">
-              <div class="form-group-2 col-xs-12 floating-label-form-group controls">
-                <textarea name="message" class="form-control" rows="3" placeholder="Tu mensaje" id="message" required
-                          data-validation-required-message="Por favor escribe un mensaje."></textarea>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls">
-                <p><strong>excentia</strong> se compromete a respetar tu privacidad, y solo usaremos tu información para proporcionar productos, servicios y contenido que pueda ser de interés para ti.</p>
-                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Por favor lee y acepta la política de privacidad y los términos y condiciones">
-                <label class="form-check-label" for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
-              </div>
-            </div>
-            <div id="success"></div>
-            <div class="block">
-              <button type="submit" class="btn btn-warning btn-xl">Enviar mensaje</button>
-            </div>
-          </div>
-        </form>
+                <p class="header-text">Si todavía no eres cliente y necesitas información sobre SonarQube puedes hacerlo a través del siguiente formulario.</p>
+        </div>
+        <form action="https://formspree.io/f/xaygrdqg" method="POST" class="site-form">
+                  <div class="col-md-12 col-sm-12">
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
+                        <input type="text" name="name" class="form-control site-form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
+                        <input type="email" name="email" class="form-control site-form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+
+                    <div>
+                      <input type="hidden" name="_subject" value="SonarSource-IA"/>
+                             </div>
+                    <div>
+                      <input type="text" name="_gotcha" style="display:none"/>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group-2 col-xs-12 floating-label-form-group controls site-form-field">
+                        <textarea name="message" class="form-control site-form-control" rows="3" placeholder="Tu mensaje" id="message" required
+                                  data-validation-required-message="Por favor escribe un mensaje."></textarea>
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
+                        <p><strong>excentia</strong> se compromete a respetar tu privacidad, y solo usaremos tu información para proporcionar productos, servicios y contenido que pueda ser de interés para ti.</p>
+                        <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Por favor lee y acepta la política de privacidad y los términos y condiciones">
+                        <label class="form-check-label" for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
+                      </div>
+                    </div>
+                    <div id="success"></div>
+                    <div class="block">
+                      <button type="submit" class="btn btn-warning btn-xl site-form-submit">Enviar mensaje</button>
+                    </div>
+                  </div>
+                </form>
       </div>
     </div>
   </div>

@@ -4,7 +4,7 @@ title: Contact Us
 description: Information and help about Atlassian products, SonarSource products, DevOps and Agile | Contact us for the best enterprise solutions
 ---
 
-<section id="contacto-header" class="bg-primary text-center" style="padding: 1px">
+<section id="contacto-header" class="text-center bg-white" style="padding: 1px;">
   <div class="container">
     <div class="row title">
     </div>
@@ -27,53 +27,55 @@ description: Information and help about Atlassian products, SonarSource products
   </div>
 </section>
 
-<section id="contacto-formulario" class="text-center" style="padding: 40px 0">
+<section id="contacto-formulario" class="site-contact-section text-center">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 offset-md-2">
+      <div class="col-md-8 col-md-offset-2 site-contact-column">
+        <div class="site-contact-intro">
         <h2>Contact Us</h2>
-        <p>Fill the form and ask us anything you need.</p>
-        <form action="https://formspree.io/f/xaygrdqg" method="POST">
-          <div class="col-12">
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <input type="text" name="name" class="form-control" placeholder="Your name" id="name" required data-validation-required-message="Please, enter your name.">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <input type="email" name="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Please, enter your email address.">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div>
-              <input type="text" name="_gotcha" style="display:none"/>
-            </div>
-            <div class="row control-group">
-              <div class="form-group-2 col-12 floating-label-form-group controls">
-                <textarea name="message" class="form-control" rows="3" placeholder="Your message" id="message" required
-                          data-validation-required-message="Please, enter your message."></textarea>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <p><strong>excentia</strong> is committed to respecting your privacy, and we’ll use your information
-                  to provide products, services and content that may be of interest to you.</p>
-                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Please read and agree with privacy policy and terms and conditions">
-                <label class="form-check-label" for="agreement">I agree to excentia <a
-                    href="https://www.excentia.es/en/privacy" target="_blank">privacy policy</a> and <a
-                    href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">terms
-                  and conditions</a></label>
-              </div>
-            </div>
-            <div id="success"></div>
-            <div class="block">
-              <button type="submit" class="btn btn-warning btn-xl">Send Message</button>
-            </div>
-          </div>
-        </form>
+                <p class="header-text">Fill the form and ask us anything you need.</p>
+        </div>
+        <form action="https://formspree.io/f/xaygrdqg" method="POST" class="site-form">
+                  <div class="col-12">
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-12 floating-label-form-group controls site-form-field">
+                        <input type="text" name="name" class="form-control site-form-control" placeholder="Your name" id="name" required data-validation-required-message="Please, enter your name.">
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-12 floating-label-form-group controls site-form-field">
+                        <input type="email" name="email" class="form-control site-form-control" placeholder="Email" id="email" required data-validation-required-message="Please, enter your email address.">
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div>
+                      <input type="text" name="_gotcha" style="display:none"/>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group-2 col-12 floating-label-form-group controls site-form-field">
+                        <textarea name="message" class="form-control site-form-control" rows="3" placeholder="Your message" id="message" required
+                                  data-validation-required-message="Please, enter your message."></textarea>
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-12 floating-label-form-group controls site-form-field">
+                        <p><strong>excentia</strong> is committed to respecting your privacy, and we’ll use your information
+                          to provide products, services and content that may be of interest to you.</p>
+                        <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Please read and agree with privacy policy and terms and conditions">
+                        <label class="form-check-label" for="agreement">I agree to excentia <a
+                            href="https://www.excentia.es/en/privacy" target="_blank">privacy policy</a> and <a
+                            href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">terms
+                          and conditions</a></label>
+                      </div>
+                    </div>
+                    <div id="success"></div>
+                    <div class="block">
+                      <button type="submit" class="btn btn-warning btn-xl site-form-submit">Send Message</button>
+                    </div>
+                  </div>
+                </form>
       </div>
     </div>
   </div>

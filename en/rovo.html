@@ -4,7 +4,7 @@ title: Rovo
 description: Rovo is Atlassian’s AI solution that helps you leverage your company’s information to work more efficiently.
 ---
 
-<section id="producto-cabecera" class="bg-primary text-center" style="background-color: #ffffff;">
+<section id="producto-cabecera" class="text-center bg-white">
   <div class="container">
     <div class="row title">
       <img src="/img/atlassian-products/logo-rovo.png" height="60px" alt="Jira">
@@ -176,52 +176,55 @@ description: Rovo is Atlassian’s AI solution that helps you leverage your comp
   </div>
 </section>
 
-<section id="atlassian-solicitud" class="text-center" style="padding: 80px 0;">
-  <div class="container" style="color: black;">
-      <div class="col-md-8 col-md-offset-2">
+<section id="atlassian-solicitud" class="site-contact-section text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 site-contact-column">
+        <div class="site-contact-intro">
         <h2>Want more information or a customized quote?</h2>
-          <p>Discover how to apply Atlassian’s artificial intelligence in your organization. Fill out the form and we’ll get back to you in less than 24 hours.</p>
-          <br/>
-        <form action="https://formspree.io/f/xaygrdqg" method="POST">
-          <div class="col-md-12 col-sm-12">
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls">
-                <input type="text" name="name" class="form-control" placeholder="Your name" id="name" required data-validation-required-message="Your name">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls">
-                <input type="email" name="email" class="form-control" placeholder="Your email" id="email" required data-validation-required-message="Your email">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div>
-              <input type="text" name="_gotcha" style="display:none"/>
-            </div>
-            <input type="hidden" name="_subject" value="Rovo_en"/>
-            <div class="row control-group">
-              <div class="form-group-2 col-xs-12 floating-label-form-group controls">
-                <textarea name="message" class="form-control" rows="3" placeholder="Your message" id="message" required
-                          data-validation-required-message="Por favor escribe un mensaje."></textarea>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls">
-                <p><strong>excentia</strong> is committed to respecting your privacy, and we will only use your information to provide products, services and content that may be of interest to you. </p>
-                <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Please read and accept the privacy policy and terms and conditions">
-                <label class="form-check-label" for="agreement">I read and accept the <a href="https://www.excentia.es/en/privacy" target="_blank">privacy policy</a> and the <a href="https:/www.excentia.es/pdf/excentia-terms-andcondition-pdftarget" ="=">terms and conditions</a</label>>
-              </div>
-            </div>
-            <div id="success"></div>
-            <div class="block">
-              <button type="submit" class="btn btn-warning btn-xl">SEND MESSAGE</button>
-            </div>
-          </div>
-        </form>
+                  <p class="header-text">Discover how to apply Atlassian’s artificial intelligence in your organization. Fill out the form and we’ll get back to you in less than 24 hours.</p>
+        </div>
+        <form action="https://formspree.io/f/xaygrdqg" method="POST" class="site-form">
+                  <div class="col-md-12 col-sm-12">
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
+                        <input type="text" name="name" class="form-control site-form-control" placeholder="Your name" id="name" required data-validation-required-message="Your name">
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
+                        <input type="email" name="email" class="form-control site-form-control" placeholder="Your email" id="email" required data-validation-required-message="Your email">
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div>
+                      <input type="text" name="_gotcha" style="display:none"/>
+                    </div>
+                    <input type="hidden" name="_subject" value="Rovo_en"/>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group-2 col-xs-12 floating-label-form-group controls site-form-field">
+                        <textarea name="message" class="form-control site-form-control" rows="3" placeholder="Your message" id="message" required
+                                  data-validation-required-message="Por favor escribe un mensaje."></textarea>
+                        <p class="help-block text-danger"></p>
+                      </div>
+                    </div>
+                    <div class="row control-group site-form-row">
+                      <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
+                        <p><strong>excentia</strong> is committed to respecting your privacy, and we will only use your information to provide products, services and content that may be of interest to you. </p>
+                        <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required data-validation-required-message="Please read and accept the privacy policy and terms and conditions">
+                        <label class="form-check-label" for="agreement">I read and accept the <a href="https://www.excentia.es/en/privacy" target="_blank">privacy policy</a> and the <a href="https:/www.excentia.es/pdf/excentia-terms-andcondition-pdftarget" ="=">terms and conditions</a</label>>
+                      </div>
+                    </div>
+                    <div id="success"></div>
+                    <div class="block">
+                      <button type="submit" class="btn btn-warning btn-xl site-form-submit">SEND MESSAGE</button>
+                    </div>
+                  </div>
+                </form>
       </div>
-</div>
+    </div>
+  </div>
 </section>
 
       
