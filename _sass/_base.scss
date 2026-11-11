@@ -251,12 +251,23 @@ p {
   margin-top: 28px;
 }
 
-#especialistas-agile-devops .agile-devops-media-frame {
+.site-media-frame {
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
   overflow: hidden;
   border-radius: 26px;
+  vertical-align: middle;
   border: 1px solid var(--line-soft);
   box-shadow: var(--shadow-soft);
   background: #ffffff;
+}
+
+.site-media-frame > img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 #especialistas-agile-devops .agile-devops-media-frame img {
@@ -440,14 +451,6 @@ p {
 #devops .devops-row {
   display: flex;
   align-items: center;
-}
-
-#devops .devops-media-frame {
-  overflow: hidden;
-  border-radius: 26px;
-  border: 1px solid var(--line-soft);
-  box-shadow: var(--shadow-soft);
-  background: #ffffff;
 }
 
 #devops .devops-media-frame img {
@@ -676,14 +679,6 @@ p {
 
 #apps .apps-actions .btn {
   min-width: 196px;
-}
-
-#apps .apps-media-frame {
-  overflow: hidden;
-  border-radius: 26px;
-  border: 1px solid var(--line-soft);
-  box-shadow: var(--shadow-soft);
-  background: #ffffff;
 }
 
 #apps .apps-media-frame img {
@@ -2265,6 +2260,15 @@ footer {
   transform: translateY(-2px);
   box-shadow: 0 22px 52px rgba(240, 149, 31, 0.34);
   filter: saturate(1.05);
+}
+
+.site-contact-section {
+  padding: 40px 0;
+}
+
+.site-contact-intro > img {
+  max-width: min(100%, 360px);
+  height: auto;
 }
 
 .site-form {

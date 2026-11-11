@@ -4,7 +4,7 @@ title: Cursos de formación SonarQube
 description: Cursos de SonarQube para usuarios y administradores. Aprende a analizar y mejorar la calidad del código con formación especializada en SonarQube.
 ---
 
-<section id="formacion-cabecera" class="bg-primary text-center">
+<section id="formacion-cabecera" class="text-center bg-white">
   <div class="container">
     <div class="row title">
       <h1>Formación especializada en SonarQube</h1>
@@ -40,7 +40,9 @@ description: Cursos de SonarQube para usuarios y administradores. Aprende a anal
     <div class="row">
       <div class="col-md-4">
         <div class="service-item" style="background-color: #eee; padding: 30px; border-radius: 10px; min-height: 480px;">
-          <img width="100%" src="/img/formacion/curso-sonarqube-usuarios.png" alt="Curso de SonarQube para usuarios en español" style="margin-bottom: 20px;">
+          <span class="site-media-frame">
+            <img width="100%" src="/img/formacion/curso-sonarqube-usuarios.png" alt="Curso de SonarQube para usuarios en español" style="margin-bottom: 20px;">
+          </span>
           <h3><strong>Curso de SonarQube para Usuarios</strong></h3>
           <p> Aprende a interpretar los resultados de análisis de código en SonarQube, qué métricas utilizar, cómo gestionar incidencias y aplicar buenas prácticas de calidad de software.
           </p>
@@ -50,7 +52,9 @@ description: Cursos de SonarQube para usuarios y administradores. Aprende a anal
 
       <div class="col-md-4">
         <div class="service-item" style="background-color: #eee; padding: 30px; border-radius: 10px; min-height: 480px;">
-          <img width="100%" src="/img/formacion/curso-sonarqube-administradores.png" alt="Curso de SonarQube para administradores" style="margin-bottom: 20px;">
+          <span class="site-media-frame">
+            <img width="100%" src="/img/formacion/curso-sonarqube-administradores.png" alt="Curso de SonarQube para administradores" style="margin-bottom: 20px;">
+          </span>
           <h3><strong>Curso de SonarQube para Administradores</strong></h3>
           <p>
             Aprende a instalar, configurar y mantener SonarQube. Integra la herramienta con tu CI/CD, gestiona reglas y perfiles de calidad, y automatiza análisis de código.
@@ -61,7 +65,9 @@ description: Cursos de SonarQube para usuarios y administradores. Aprende a anal
 
       <div class="col-md-4">
         <div class="service-item" style="background-color: #eee; padding: 30px; border-radius: 10px; min-height: 480px;">
-          <img width="100%" src="/img/formacion/pack-maestria-sonarqube.png" alt="Formación completa en SonarQube" style="margin-bottom: 20px;">
+          <span class="site-media-frame">
+            <img width="100%" src="/img/formacion/pack-maestria-sonarqube.png" alt="Formación completa en SonarQube" style="margin-bottom: 20px;">
+          </span>
           <h3><strong>Pack Maestría en SonarQube</strong></h3>
           <p>
             Formación completa que combina los dos cursos que hemos nombrado anteriormente, <a href="/curso-sonarqube-usuarios" style="color:#000; font-weight:bold;">para usuarios</a> y <a href="/curso-sonarqube-administradores" style="color:#000; font-weight:bold;">para administradores</a>. Ideal para equipos de desarrollo y calidad.
@@ -107,35 +113,38 @@ description: Cursos de SonarQube para usuarios y administradores. Aprende a anal
   </div>
 </section>
 
-<section id="formacion-solicitud" class="text-center">
-  <div class="container" style="color: black; background-color:white">
-      <div class="col-md-8 offset-md-2">
-      <h2>¿Te interesa formarte en SonarQube?</h2>
-      <p>Rellena este formulario para consultar temarios, precios, o solicitar un curso a medida. ¡Estamos aquí para ayudarte!</p>
-      <br/>
-        <form action="https://formspree.io/f/xaygrdqg" method="POST">
-          <div class="col-12">
-            <div class="form-group col-12">
-              <input type="text" name="name" class="form-control" placeholder="Tu nombre" id="name" required>
-            </div>
-            <div class="form-group col-12">
-              <input type="email" name="email" class="form-control" placeholder="Correo electrónico" id="email" required>
-            </div>
-            <div>
-              <input type="text" name="_gotcha" style="display:none"/>
-            </div>
-            <div class="form-group-2 col-12">
-              <textarea name="message" class="form-control" rows="3" placeholder="Tu mensaje" id="message" required></textarea>
-            </div>
-            <div class="form-group col-12">
-              <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required>
-              <label for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
-            </div>
-            <div class="block">
-              <button type="submit" class="btn btn-warning btn-xl">Enviar mensaje</button>
-            </div>
-          </div>
-        </form>
+<section id="formacion-solicitud" class="site-contact-section text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 site-contact-column">
+        <div class="site-contact-intro">
+        <h2>¿Te interesa formarte en SonarQube?</h2>
+              <p class="header-text">Rellena este formulario para consultar temarios, precios, o solicitar un curso a medida. ¡Estamos aquí para ayudarte!</p>
+        </div>
+        <form action="https://formspree.io/f/xaygrdqg" method="POST" class="site-form">
+                  <div class="col-12">
+                    <div class="form-group col-12">
+                      <input type="text" name="name" class="form-control site-form-control" placeholder="Tu nombre" id="name" required>
+                    </div>
+                    <div class="form-group col-12">
+                      <input type="email" name="email" class="form-control site-form-control" placeholder="Correo electrónico" id="email" required>
+                    </div>
+                    <div>
+                      <input type="text" name="_gotcha" style="display:none"/>
+                    </div>
+                    <div class="form-group-2 col-12">
+                      <textarea name="message" class="form-control site-form-control" rows="3" placeholder="Tu mensaje" id="message" required></textarea>
+                    </div>
+                    <div class="form-group col-12">
+                      <input type="checkbox" name="agreement" class="form-check-input" id="agreement" value="accept" required>
+                      <label for="agreement">He leído y acepto la <a href="https://www.excentia.es/privacy" target="_blank">política de privacidad</a> y los <a href="https://www.excentia.es/pdf/excentia-terms-and-conditions.pdf" target="_blank">términos y condiciones</a></label>
+                    </div>
+                    <div class="block">
+                      <button type="submit" class="btn btn-warning btn-xl site-form-submit">Enviar mensaje</button>
+                    </div>
+                  </div>
+                </form>
       </div>
+    </div>
   </div>
 </section>
