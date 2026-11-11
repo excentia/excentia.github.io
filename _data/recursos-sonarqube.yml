@@ -1,0 +1,41 @@
+guias:
+  - title: ¿Qué es SonarQube?
+    type: Infografía
+    topic: Primeros pasos
+    description: Una introducción visual para entender la herramienta y empezar a mejorar la calidad del código.
+    image: /img/pdf/que-es-sonarqube.png
+    url: /pdf/sonar/whitepaper/infografia_que_es_sonarqube.pdf
+  - title: SonarQube Advanced Security
+    type: Whitepaper
+    topic: Seguridad
+    description: Conoce el módulo de seguridad y sus capacidades para reforzar la protección de tu código.
+    image: /img/pdf/sonarqube-advanced-security-whitepaper.png
+    url: /pdf/sonar/whitepaper/sonarqube_advanced_security_excentia.pdf
+  - title: SonarQube Cloud Enterprise
+    type: Whitepaper
+    topic: Cloud
+    description: Explora las características clave de la edición Enterprise de SonarQube Cloud.
+    image: /img/pdf/sonarqube-cloud-enterprise.png
+    url: /pdf/sonar/whitepaper/sonarqube_cloud_enterprise_excentia.pdf
+  - title: El Clean Code empieza en tu IDE
+    type: Ficha de producto
+    topic: Desarrollo
+    description: Descubre los beneficios de SonarLint, actualmente SonarQube for IDE. El documento conserva el nombre anterior.
+    image: /img/pdf/whitepaper-product-sonarlint.png
+    url: /pdf/sonar/whitepaper/ficha_que_es_sonarlint.pdf
+  - title: SonarQube vs. SonarCloud
+    type: Infografía
+    topic: Comparativa
+    description: Compara ambas soluciones. Esta infografía utiliza los nombres anteriores a SonarQube Server y SonarQube Cloud.
+    image: /img/pdf/sonarqube-vs-sonarcloud.png
+    url: /pdf/sonar/whitepaper/infografia_sonarqube_sonarcloud.pdf
+webinars:
+  - title: Highway to help — Presentación AC/DC de Sonar
+    video_id: LDbkck3-81k
+    channel: excentia
+  - title: "Seguridad del Código en la era Mythos: de ser la presa al cazador"
+    video_id: UVHnUib0384
+    channel: excentia
+  - title: No cocines el código dos veces
+    video_id: DhQcs6JoHUo
+    channel: ITI, Centro Tecnológico TIC

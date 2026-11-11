@@ -1,182 +1,106 @@
 ---
 layout: front
-title: Descarga gratis guías PDF de SonarQube,Whitepapers y documentación técnica
-description: Descarga guías y whitepapers en PDF para dominar SonarQube gratis.
+title: Guías PDF y webinars de SonarQube gratis
+description: Aprende sobre calidad y seguridad del código con guías PDF, infografías y webinars de SonarQube. Recursos gratuitos y sin registro.
 ---
 
-<section id="sonarsource-title" class="text-center bg-white">
-  <div class="container">
-    <div class="row title">
-      <h1>Guías y documentación PDF sobre SonarQube</h1>
-    </div>
-    <div class="row">
-            <div class="col-md-6 text-left">
+<link rel="stylesheet" href="/css/recursos-sonarqube.css">
 
-        <img width="80%"
-             src="/img/pdf/guias-gratuitas-productos-atlassian-sonarsource.png" alt="excentia es Partner exclusivo de SonarSource en España y Latinoamérica">
-      
+<main class="sonar-library" id="recursos-sonarqube">
+  <section id="sonarsource-title" class="resource-hero text-center bg-white" aria-labelledby="resource-title">
+    <div class="container">
+      <div class="row title">
+        <h1 id="resource-title">Guías y webinars de SonarQube</h1>
       </div>
-      <div class="col-md-6 text-left">
-        <p class="header-text">
-          <p class="header-text"> Aquí encontrarás una selección de whitepapers, infografías y documentos técnicos en formato PDF para potenciar tu 
-            conocimiento y <strong>optimizar el uso de SonarQube</strong> en tus proyectos. 
-            <br><br>
-            Desde mejores prácticas en análisis de código hasta consejos avanzados para integrar SonarQube 
-            en tu pipeline DevOps, estos recursos te ayudarán a tomar decisiones informadas y <strong>mejorar la calidad de tu software</strong>. ¡Descárgalos ahora y lleva tu desarrollo al siguiente nivel!
-        </p>
-        <br/>
-       <div class="text-center">
-          <a class="btn btn-warning btn-xl" href="#guias-solicitud">contacta con nosotros</a>
+      <div class="row resource-hero-content">
+        <div class="col-md-6">
+          <img class="resource-hero-image" src="/img/pdf/guias-gratuitas-productos-atlassian-sonarsource.png" alt="Guías y recursos gratuitos sobre SonarQube">
         </div>
-        </p>
+        <div class="col-md-6 resource-hero-copy">
+          <p class="header-text">Guías PDF, infografías y webinars de SonarQube para entender la herramienta, explorar sus soluciones y mejorar la calidad y seguridad de tu código.</p>
+          <div class="resource-actions">
+            <a class="resource-button resource-button--guides" href="#guias-atlassian">Explorar guías PDF</a>
+            <a class="resource-button resource-button--webinars" href="#webinars-sonarqube">Ver webinars</a>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section id="guias-atlassian" class="bg-primary text-center" style="padding-top: 50px; background-color: #ffffff">
-  <div class="container">
-    <div class="row title">
-      <div class="col-md-10 col-md-offset-1">
-        <h2 style="color:#000000">Descarga tus whitepapers y guías de SonarQube</h2>
-        <p class="header-text" style="color:#000000"> ¿Buscas una <strong>guía en PDF de SonarQube</strong>? ¿Te interesa un <strong>manual de buenas prácticas</strong> para analizar código y mejorar su calidad?
-    En esta página puedes <strong>descargar documentación técnica gratuita</strong> sobre el ecosistema Sonar: desde guías introductorias hasta informes especializados sobre technical debt, seguridad del código y métricas de calidad.</p>
-   <br>
-
-    <h2>¿Para quién son estas guías?</h2>
-      <p class="header-text" style="color:#000000"> Estos documentos están pensados para:
-        <br><br>
-        Desarrolladores que quieren mejorar su código<br>
-
-        <strong>QA y responsables de calidad</strong> del software<br>
-
-        Equipos <strong>DevOps y de arquitectura</strong><br>
-
-        Estudiantes y formadores en <strong>ingeniería de software</strong><br>
-      </p>
-      <br><br>
-
-     <h2>Descarga tus recursos gratuitos</h2>
-     <p class="header-text" style="color:#000000"> Haz clic en el botón para acceder a todas nuestras <strong>guías técnicas sobre SonarQube</strong>.
-       Sin registros, sin costes. </p>
-
-     </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-4">
-        <div class="tarjeta-producto">
-          <div class="informacion-producto">
-            <img height="170px" src="/img/pdf/sonarqube-advanced-security-whitepaper.png" alt="Whitepaper SonarQube Advanced Security">
-            <h3 style="padding-top:10px"><strong>SonarQube Advanced Security</strong></h3>
-            <p>Conoce el nuevo modulo para reforzar la seguridad de tu código.</p>
+  <section id="guias-atlassian" aria-labelledby="pdf-title">
+    <div class="container">
+      <header class="resource-section-header">
+        <p class="resource-eyebrow">Para leer y consultar</p>
+        <h2 id="pdf-title">Guías y documentos de SonarQube</h2>
+        <p class="header-text">Empieza por los fundamentos o profundiza en seguridad, desarrollo y soluciones cloud. Todos los documentos son de acceso directo.</p>
+      </header>
+      <div class="resource-grid">
+        {% for resource in site.data.recursos-sonarqube.guias %}
+        <article class="resource-card">
+          <div class="resource-cover">
+            <img src="{{ resource.image }}" alt="" width="300" height="180" loading="lazy" decoding="async">
           </div>
-          <div class="enlace-producto">
-            <a href="/pdf/sonar/whitepaper/sonarqube_advanced_security_excentia.pdf" class="btn btn-primary btn-xl atlassian-background" target="_blank" style="border-radius: 4px;">DESCARGAR</a>
+          <div class="resource-card-body">
+            <p class="resource-meta">{{ resource.type }} · PDF · {{ resource.topic }}</p>
+            <h3>{{ resource.title }}</h3>
+            <p class="resource-description">{{ resource.description }}</p>
+            <a class="resource-link" href="{{ resource.url }}" target="_blank" rel="noopener noreferrer">Abrir PDF <span aria-hidden="true">↗</span><span class="sr-only">: {{ resource.title }} (se abre en una pestaña nueva)</span></a>
           </div>
-        </div>
-      </div>
-
-    
-      <div class="col-md-4">
-        <div class="tarjeta-producto">
-          <div class="informacion-producto">
-            <img height="170px" src="/img/pdf/sonarqube-cloud-enterprise.png"  alt="PDF SonarQube Cloud Enterprise">
-            <h3 style="padding-top:10px"><strong>SonarQube Cloud Enterprise</strong></h3>
-            <p>Te presentamos las características clave de la edición Enterprise.</p>
-          </div>
-          <div class="enlace-producto">
-            <a href="/pdf/sonar/whitepaper/sonarqube_cloud_enterprise_excentia.pdf" class="btn btn-primary btn-xl atlassian-background" target="_blank" style="border-radius: 4px;">DESCARGAR</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="tarjeta-producto">
-          <div class="informacion-producto">
-            <img height="170px" src="/img/pdf/whitepaper-product-sonarlint.png"  alt="Infografia Que es SonarLint">
-            <h3 style="padding-top:10px"><strong>El Clean Code empieza en tu IDE con SonarLint</strong></h3>
-            <p>Conoce los beneficios de SonarLint, el producto gratuito de Sonar.</p>
-          </div>
-          <div class="enlace-producto">
-            <a href="/pdf/sonar/whitepaper/ficha_que_es_sonarlint.pdf" class="btn btn-primary btn-xl atlassian-background" target="_blank" style="border-radius: 4px;">DESCARGAR</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="row" style="margin-top:30px">
-      <div class="col-md-4">
-        <div class="tarjeta-producto">
-          <div class="informacion-producto">
-            <img height="170px" src="/img/pdf/sonarqube-vs-sonarcloud.png"  alt="Diferencias SonarQube y SonarQube Cloud">
-            <h3 style="padding-top:10px"><strong>Infografía - SonarQube vs SonarCloud</strong></h3>
-            <p>Aprende a diferenciar las dos soluciones de Sonar en esta infografía.</p>
-          </div>
-          <div class="enlace-producto">
-            <a href="/pdf/sonar/whitepaper/infografia_sonarqube_sonarcloud.pdf" class="btn btn-primary btn-xl atlassian-background" target="_blank" style="border-radius: 4px;">DESCARGAR</a>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="col-md-4">
-        <div class="tarjeta-producto">
-          <div class="informacion-producto">
-            <img height="170px" src="/img/pdf/que-es-sonarqube.png"  alt="Infografía Que es SonarQube">
-            <h3 style="padding-top:10px"><strong>Infografía - ¿Qué es SonarQube?</strong></h3>
-            <p>En esta infografía te damos las claves para que conozcas la herramienta.</p>
-          </div>
-          <div class="enlace-producto">
-            <a href="/pdf/sonar/whitepaper/infografia_que_es_sonarqube.pdf" class="btn btn-primary btn-xl atlassian-background" target="_blank" style="border-radius: 4px;">DESCARGAR</a>
-          </div>
-        </div>
-      </div>
-
-
+        </article>
+        {% endfor %}
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-
-<section id="sonarsource-partner" class="producto-detalle text-center text-center" style="background-color:#f0f0f0; padding: 50px;">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5">
-        <img style="width: 100%; padding-top: 30px;"
-             src="/img/excentia/logo-new-sonar.png" alt="Logo SonarSource"/>
-             <p style="font-size: 20px; margin:auto; text-align: left;">Partner exclusivo en España</p>
-             <P style="font-size: 20px; margin:auto; text-align: left;">Partner en Latinoamérica</p>
+  <section id="webinars-sonarqube" class="resource-webinars" aria-labelledby="webinars-title">
+    <div class="container">
+      <header class="resource-section-header">
+        <h2 id="webinars-title">Webinars para seguir profundizando</h2>
+        <p class="header-text">Tres sesiones para ampliar tu perspectiva sobre el código y el ecosistema Sonar. Accede a las grabaciones completas en YouTube.</p>
+      </header>
+      <div class="resource-grid">
+        {% for webinar in site.data.recursos-sonarqube.webinars %}
+        <article class="resource-card">
+          <a class="resource-video-cover" href="https://www.youtube.com/watch?v={{ webinar.video_id }}" target="_blank" rel="noopener noreferrer" aria-label="Ver {{ webinar.title | escape }} en YouTube (pestaña nueva)">
+            <img src="https://i.ytimg.com/vi/{{ webinar.video_id }}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">
+            <span class="resource-play" aria-hidden="true"><span>▶</span></span>
+          </a>
+          <div class="resource-card-body">
+            <p class="resource-meta">Webinar · {{ webinar.channel }}</p>
+            <h3>{{ webinar.title }}</h3>
+            <a class="resource-link" href="https://www.youtube.com/watch?v={{ webinar.video_id }}" target="_blank" rel="noopener noreferrer">Ver en YouTube <span aria-hidden="true">↗</span><span class="sr-only">: {{ webinar.title }} (se abre en una pestaña nueva)</span></a>
+          </div>
+        </article>
+        {% endfor %}
       </div>
-      <div class="col-md-6 col-md-offset-1 text-left">
-        <p class="header-text">
-          Somos el <strong>Partner exclusivo de SonarSource en España y Latinoamérica</strong>. Somos referentes en calidad y seguridad del código con una intrínseca filosofía
-          de <strong>mejora continua</strong>, lo que nos convierte en el compañero perfecto para guiarte, aconsejarte y resolver cualquier duda durante todo tu camino.
-        </p>
-      </div>
+      <p class="header-text">Los vídeos se abren en YouTube, en una pestaña nueva.</p>
     </div>
-  </div>
-</section>
+  </section>
 
+</main>
 <section id="guias-solicitud" class="site-contact-section text-center">
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 site-contact-column">
         <div class="site-contact-intro">
-        <h2>Contáctanos</h2>
-              <p class="header-text">Si necesitas soporte o recibir más información sobre los productos de Atlassian o SonarSource, rellena el formulario y te responderemos en 24 horas.</p>
+          <h2>Contáctanos</h2>
+          <p class="header-text">¿Necesitas ayuda para elegir una solución o aplicar lo que has aprendido? Cuéntanos qué necesitas y te acompañaremos con asesoramiento, formación y soporte sobre SonarQube.</p>
+          <div class="resource-contact-partner">
+          </div>
         </div>
         <form action="https://formspree.io/f/xaygrdqg" method="POST" class="site-form">
                   <div class="col-md-12 col-sm-12">
                     <div class="row control-group site-form-row">
                       <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
-                        <input type="text" name="name" class="form-control site-form-control" placeholder="Tu nombre" id="name" required data-validation-required-message="Por favor escribe tu nombre.">
+                        <label class="sr-only" for="name">Tu nombre</label>
+                        <input type="text" name="name" class="form-control site-form-control" placeholder="Tu nombre" id="name" autocomplete="name" required data-validation-required-message="Por favor escribe tu nombre.">
                         <p class="help-block text-danger"></p>
                       </div>
                     </div>
                     <div class="row control-group site-form-row">
                       <div class="form-group col-xs-12 floating-label-form-group controls site-form-field">
-                        <input type="email" name="email" class="form-control site-form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
+                        <label class="sr-only" for="email">Correo electrónico</label>
+                        <input type="email" name="email" class="form-control site-form-control" placeholder="Correo electrónico" id="email" autocomplete="email" required data-validation-required-message="Por favor escribe tu dirección de correo.">
                         <p class="help-block text-danger"></p>
                       </div>
                     </div>
@@ -185,6 +109,7 @@ description: Descarga guías y whitepapers en PDF para dominar SonarQube gratis.
                     </div>
                     <div class="row control-group site-form-row">
                       <div class="form-group-2 col-xs-12 floating-label-form-group controls site-form-field">
+                        <label class="sr-only" for="message">Tu mensaje</label>
                         <textarea name="message" class="form-control site-form-control" rows="3" placeholder="Tu mensaje" id="message" required
                                   data-validation-required-message="Por favor escribe un mensaje."></textarea>
                         <p class="help-block text-danger"></p>
