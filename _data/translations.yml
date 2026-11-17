@@ -59,6 +59,8 @@
   en: en/hidden-fields-for-jira.html
 - es: como-descargar-informe-pdf-sonarqube-jira.html
   en: en/how-to-download-a-PDF-report-from-SonarQube-Jira.html
+- es: como-descargar-informe-seguridad-sonarqube-jira.html
+  en: en/how-to-download-sonarqube-security-report-jira.html
 - es: index.html
   en: en/index.html
 - es: issue-picker-for-jira-cloud.html

@@ -1,0 +1,152 @@
+---
+layout: front-en
+title: How to download a SonarQube security report from Jira
+description: Download SonarQube security reports as PDFs from Jira. Follow the steps to export OWASP Top 10, CWE Top 25, OWASP ASVS and ISO 5055 reports.
+---
+
+<main id="security-report-guide">
+  <section class="text-center bg-white" aria-labelledby="security-title">
+    <div class="container">
+      <div class="row title"><div class="col-md-12">
+        <h1 id="security-title">How to download a SonarQube security report from Jira</h1>
+      </div></div>
+      <div class="row"><div class="col-md-8 col-md-offset-2 text-left">
+        <p class="header-text">Need to share your code security findings with your team or prepare evidence for a review? With <a href="/en/sonarqube-connector-jira">SonarQube Connector for Jira</a>, you can <strong>generate and download PDF security reports from Jira</strong> based on OWASP Top 10, CWE Top 25, OWASP ASVS and ISO 5055.</p>
+        <p class="header-text">This guide shows you where to find the reports, how to select a standard and what to check before sharing the document.</p>
+        <a class="btn btn-warning btn-xl" href="#step-by-step">SEE HOW TO DOWNLOAD THE REPORT</a>
+        <p style="font-size:16px;margin-top:25px"><strong>Published by excentia</strong> · <time datetime="2026-11-17">November 17, 2026</time></p>
+        <p style="font-size:16px">Prepared by the team at excentia, developer of SonarQube Connector for Jira. The screenshots show the Jira Cloud interface; the location of options may vary by version.</p>
+      </div></div>
+    </div>
+  </section>
+
+  <section id="quick-answer" style="padding:50px 0;background-color:#f4f6f9" aria-labelledby="security-summary">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h2 id="security-summary">How do you download a SonarQube security report as a PDF from Jira?</h2>
+      <p class="header-text">Open your Jira space or project, go to <strong>SonarQube</strong> and select <strong>Security Reports</strong>. Choose the standard you need and, if a version selector is available, its version. Then click <strong>Download PDF</strong> to save the report for the selected view.</p>
+      <nav aria-label="Contents of this guide">
+        <h3>In this guide</h3>
+        <ul class="header-text">
+          <li><a href="#prerequisites">What you need before you start</a></li>
+          <li><a href="#choose-report">Which report to choose: OWASP, CWE or ISO 5055</a></li>
+          <li><a href="#step-by-step">How to download the report step by step</a></li>
+          <li><a href="#understand-report">How to interpret the results</a></li>
+          <li><a href="#troubleshooting">What to check if the report is missing or has no data</a></li>
+          <li><a href="#frequently-asked-questions">Frequently asked questions</a></li>
+        </ul>
+      </nav>
+    </div></div></div>
+  </section>
+
+  <section id="prerequisites" style="padding:50px 0" aria-labelledby="prerequisites-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h2 id="prerequisites-title">What you need to generate a security report from Jira</h2>
+      <ul class="header-text">
+        <li><strong>SonarQube Connector for Jira installed</strong> with an active license or trial. You can find the app on the <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?hosting=cloud&amp;tab=overview">Atlassian Marketplace</a>.</li>
+        <li><strong>A configured connection to SonarQube Server or SonarQube Cloud</strong>, with valid credentials and access to the projects you want to review.</li>
+        <li><strong>Your Jira space or project linked to the relevant SonarQube project</strong>.</li>
+        <li><strong>A code analysis available in SonarQube</strong> and access to the connector panel in Jira.</li>
+      </ul>
+      <p class="header-text">If you have not set up the integration yet, follow the <a href="/en/how-to-download-a-PDF-report-from-SonarQube-Jira#requisitos">steps to install the connector and connect SonarQube to Jira</a>. Administrator permissions may be required to install the app or change its configuration.</p>
+    </div></div></div>
+  </section>
+
+  <section id="choose-report" style="padding:50px 0;background-color:#f4f6f9" aria-labelledby="standards-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h2 id="standards-title">Which security reports can you download?</h2>
+      <p class="header-text">The app lets you export <a href="/en/sonarqube-connector-jira">PDF reports organized by these four standards</a>. Choose the one that matches the purpose of your review:</p>
+      <div class="table-responsive">
+        <table class="table table-bordered" style="background-color:white;font-size:18px">
+          <caption>Choosing the SonarQube report you need</caption>
+          <thead><tr><th scope="col">Report</th><th scope="col">What it shows</th><th scope="col">When to use it</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">OWASP Top 10</th><td>Findings grouped by categories of web application security risks.</td><td>To share analysis results related to OWASP Top 10 with your team.</td></tr>
+            <tr><th scope="row">CWE Top 25</th><td>Code weaknesses associated with the selected CWE Top 25 list.</td><td>To review types of weaknesses and guide remediation.</td></tr>
+            <tr><th scope="row">OWASP ASVS</th><td>Analysis evidence mapped to application security verification requirements.</td><td>To support a technical review that uses ASVS as a reference.</td></tr>
+            <tr><th scope="row">ISO 5055</th><td>Structural software quality weaknesses, including those related to security.</td><td>To extend the review to reliability, efficiency and maintainability.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="header-text">The version of the standard matters: two OWASP Top 10 or CWE Top 25 reports may use different categories. When comparing results, keep the scope and the version of the standard consistent.</p>
+    </div></div></div>
+  </section>
+
+  <section id="step-by-step" style="padding:50px 0" aria-labelledby="steps-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h2 id="steps-title">How to generate and download a security report step by step</h2>
+      <h3>1. Open SonarQube in your Jira space</h3>
+      <p class="header-text">Go to the Jira space or project where the connector is configured and select the <strong>SonarQube</strong> tab. Check that you are viewing the projects you need to include in your review.</p>
+      <h3>2. Go to Security Reports</h3>
+      <p class="header-text">In the connector panel, select <strong>Security Reports</strong> to find reports organized by standard. For a general code quality summary, see the <a href="/en/how-to-download-a-PDF-report-from-SonarQube-Jira#paso-a-paso">guide to downloading a general PDF report</a>.</p>
+      <figure style="margin:25px 0">
+        <img class="img-responsive img-rounded" src="/img/atlassian-addons/sonarqube-connector-jira-security-estandars.png" alt="SonarQube Security Reports tab in Jira with OWASP Top 10 selected and the Download PDF button" width="2154" height="1267" loading="lazy" decoding="async">
+        <figcaption style="margin-top:10px">Security Reports brings together the CWE Top 25, OWASP Top 10, OWASP ASVS and ISO 5055 views.</figcaption>
+      </figure>
+      <h3>3. Select the standard and its version</h3>
+      <p class="header-text">Click <strong>OWASP Top 10, CWE Top 25, OWASP ASVS or ISO 5055</strong>. If the view includes a version dropdown, choose the version you need before exporting.</p>
+      <p class="header-text">For example, to download a <strong>SonarQube CWE Top 25 report from Jira</strong>, select that view and the available year that matches your review. The screenshot shows the version selector next to the download button.</p>
+      <figure style="margin:25px 0">
+        <img class="img-responsive img-rounded" src="/img/atlassian-addons/sonarqube-connector-jira-security-reports.png" alt="CWE Top 25 version selector and Download PDF button for exporting a SonarQube security report from Jira" width="2143" height="990" loading="lazy" decoding="async">
+        <figcaption style="margin-top:10px">Select the version of the standard before clicking Download PDF.</figcaption>
+      </figure>
+      <h3>4. Click Download PDF</h3>
+      <p class="header-text">Click <strong>Download PDF</strong> and save the generated document. Repeat the process in another view if you need a PDF for a different standard: select OWASP Top 10, for example, to export that report.</p>
+      <h3>5. Review the PDF before sharing it</h3>
+      <p class="header-text">Open the file and check that it matches the project, standard and version you selected. Also check the date of the source analysis in SonarQube if you need to document a specific release.</p>
+      <p class="header-text">To organize your evidence, you can save the file with a name such as <code>project-owasp-top-10-date.pdf</code> and attach it to the relevant Jira work item if you have permission to add attachments.</p>
+    </div></div></div>
+  </section>
+
+  <section id="understand-report" style="padding:50px 0;background-color:#f4f6f9" aria-labelledby="interpretation-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h2 id="interpretation-title">How to interpret the security report</h2>
+      <p class="header-text">Review the categories and findings to decide what to investigate with your team. Keep in mind that <strong>security issues and Security Hotspots need to be handled differently</strong>:</p>
+      <ul class="header-text">
+        <li><strong>A vulnerability or security issue</strong> indicates a problem detected by the analysis that requires a fix.</li>
+        <li><strong>A Security Hotspot</strong> highlights security-sensitive code that needs a review to determine whether a change is necessary. Its presence alone does not mean there is a confirmed vulnerability.</li>
+      </ul>
+      <p class="header-text">SonarQube may use different terminology depending on whether it runs in Standard Experience or MQR Mode. Learn more in <a href="https://docs.sonarsource.com/sonarqube-server/user-guide/security-hotspots">Sonar's documentation on Security Hotspots</a>.</p>
+      <p class="header-text">The report provides evidence of the available analysis. <strong>It does not, on its own, demonstrate full compliance with OWASP ASVS or ISO 5055</strong> or replace other security checks. A category with no findings does not guarantee that there are no risks: the results depend on the code analyzed and the rules enabled.</p>
+    </div></div></div>
+  </section>
+
+  <section id="troubleshooting" style="padding:50px 0" aria-labelledby="troubleshooting-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <h2 id="troubleshooting-title">What to check if the report is missing or has no data</h2>
+      <h3>I cannot find the SonarQube or Security Reports tab</h3>
+      <p class="header-text">Ask your Jira administrator to check that the app is installed and that your space has linked SonarQube projects. Also check your access to the space and the connector version used by your instance.</p>
+      <h3>The panel is empty or shows a connection error</h3>
+      <p class="header-text">Check the SonarQube URL, the validity of the credentials and their access to the configured projects. Confirm that the project key is correct and that a completed analysis is available in SonarQube.</p>
+      <h3>The report shows no vulnerabilities or Security Hotspots</h3>
+      <p class="header-text">Check the analysis scope and the security rules enabled in the quality profile. <a href="https://docs.sonarsource.com/sonarqube-server/10.7/user-guide/viewing-reports/security-reports">Sonar's security report documentation</a> explains why a project may have no findings, for example, if no applicable rules are enabled for the language being analyzed.</p>
+      <h3>Download PDF is missing or the download does not finish</h3>
+      <p class="header-text">Make sure you are in the view for the standard you want to export. If the option is still missing or the download fails, note your Jira and connector versions, the selected standard and the error message. Share these details with <a href="https://excentia.atlassian.net/servicedesk/customer/portal/17">excentia support</a> so the team can investigate.</p>
+    </div></div></div>
+  </section>
+
+  <section id="frequently-asked-questions" style="padding:50px 0;background-color:#f4f6f9" aria-labelledby="questions-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-left">
+      <div class="row title"><div class="col-md-12"><h2 id="questions-title">Frequently asked questions about SonarQube security reports in Jira</h2></div></div>
+      <h3>Can I download an OWASP Top 10 PDF report from Jira?</h3>
+      <p class="header-text">Yes. In SonarQube Connector for Jira, open Security Reports, select OWASP Top 10, choose the available version you need and click Download PDF.</p>
+      <h3>Do I need administrator permissions to download the report?</h3>
+      <p class="header-text">Installation and configuration may require administrator permissions. To view and export reports, check that you can access the connector panel and the configured project data. If you cannot see the option, ask your administrator to review your instance's permissions.</p>
+      <h3>Is this the same as downloading a report directly from SonarQube?</h3>
+      <p class="header-text">This guide covers exporting from Jira through a Marketplace app. SonarQube's native export is a separate feature with its own requirements depending on the product and edition.</p>
+      <h3>Does it work with SonarQube Server and SonarQube Cloud?</h3>
+      <p class="header-text">The connector supports connections to both products. The available information depends on your integration, the analysis performed and the compatibility of the versions in use. Check the <a href="/en/docs/sonarqube-connector-for-jira">connector documentation</a> for your installation.</p>
+      <h3>Can I add my company logo to the report?</h3>
+      <p class="header-text">Yes. You can configure the report footer logo in PDF Report Settings, globally or for a specific space. Follow the <a href="/en/how-to-download-a-PDF-report-from-SonarQube-Jira#personalizar">steps to customize the logo in PDF reports</a>.</p>
+    </div></div></div>
+  </section>
+
+  <section class="bg-primary text-center" style="background-color:#37394f;padding:45px 0 55px" aria-labelledby="resources-title">
+    <div class="container"><div class="row"><div class="col-md-10 col-md-offset-1">
+      <h2 id="resources-title" style="color:white">Bring SonarQube security findings into Jira</h2>
+      <p class="header-text" style="color:white">Review findings by standard and share the PDF report with the people who need to assess the project's status.</p>
+      <p><a class="btn btn-warning btn-xl" href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?hosting=cloud&amp;tab=overview">VIEW APP ON THE MARKETPLACE</a></p>
+      <p class="header-text" style="color:white">Learn more in the <a href="/en/docs/sonarqube-connector-for-jira" style="color:white;text-decoration:underline">SonarQube Connector for Jira documentation</a>.</p>
+      <p style="color:white;margin-top:25px">Need help with the integration? <a href="/en/contacto" style="color:white;text-decoration:underline">Contact excentia</a>.</p>
+    </div></div></div>
+  </section>
+</main>

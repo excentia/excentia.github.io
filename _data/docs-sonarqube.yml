@@ -23,6 +23,8 @@ sections:
         url: /en/docs/sonarqube-connector-for-jira/how-to-articles/sonarqube-connector-migration-tool
       - title: How to download a PDF report from SonarQube in Jira
         url: /en/how-to-download-a-PDF-report-from-SonarQube-Jira#paso-a-paso
+      - title: How to download a SonarQube security report from Jira
+        url: /en/how-to-download-sonarqube-security-report-jira
   - id: data-security-and-privacy
     title: Data security and privacy
     url: /en/docs/sonarqube-connector-for-jira/data-security-and-privacy
