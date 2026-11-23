@@ -27,13 +27,13 @@ Con **SonarQube Connector for Jira**, la aplicación desarrollada por excentia, 
 
 Esta integración permite a los equipos de desarrollo consultar información sobre la calidad y seguridad del código, revisar el estado de los Quality Gates y gestionar los problemas detectados sin tener que cambiar continuamente de herramienta.
 
-La aplicación está disponible en el [Atlassian Marketplace](https://www.excentia.es/sonarqube-connector-jira).
+Consulta la ficha de [SonarQube Connector for Jira](/sonarqube-connector-jira) para conocer las funcionalidades de la aplicación.
 
 Una de sus funcionalidades más útiles es la posibilidad de **crear tareas en Jira a partir de reglas incumplidas detectadas por SonarQube**.
 
 <h2>Cómo crear tareas en Jira desde SonarQube paso a paso</h2>
 
-Una vez configurada la integración, puedes crear tareas en Jira siguiendo estos pasos:
+Si todavía tienes que preparar el conector, consulta cómo [configurar la creación de incidencias en Jira](/docs/sonarqube-connector-for-jira/first-steps#issue-creation-settings). Una vez configurado, sigue estos pasos para crear una tarea:
 
 ### 1. Consulta los resultados del análisis de SonarQube
 
