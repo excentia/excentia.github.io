@@ -128,7 +128,7 @@ En este vídeo puedes ver cómo utilizar SonarQube Connector for Jira para crear
     width="660"
     height="415"
     style="max-width: 100%;"
-    src="https://www.youtube.com/embed/3YXbauc0zuY"
+    src="https://www.youtube.com/embed/fydViSqsV58"
     title="Cómo crear una tarea en Jira desde SonarQube con SonarQube Connector for Jira"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
