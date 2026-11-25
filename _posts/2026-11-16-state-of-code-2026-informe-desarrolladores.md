@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'State of Code 2026 Developer Survery: el 96 % no confía plenamente en el código generado por IA'
+title: 'State of Code 2026 Developer Survey: el 96 % no confía plenamente en el código generado por IA'
 description: Descubre los resultados del informe State of Code 2026 de Sonar sobre IA, seguridad y calidad del código. Accede al informe en español.
 date: '2026-11-16T08:00:00Z'
 author: Belén Casanovas
