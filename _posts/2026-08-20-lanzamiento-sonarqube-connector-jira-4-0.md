@@ -65,6 +65,8 @@ La versión 4.0 también incorpora una pequeña mejora pensada para hacer más c
 
 Ahora, el botón de creación de issues incluye un **tooltip que proporciona feedback sobre la acción**. Puede parecer un cambio pequeño, pero este tipo de mejoras ayudan a que la experiencia sea más intuitiva y a que el usuario tenga mayor claridad cuando interactúa con la aplicación.
 
+Si quieres ver el proceso completo, consulta [cómo crear tareas en Jira desde SonarQube paso a paso](/como-ahorrar-tiempo-entre-sonarqube-jira).
+
 Al tratarse de una aplicación Cloud, SonarQube Connector for Jira se actualiza automáticamente. Si ya tienes instalada la aplicación, la versión 4.0 **llegará sin que tengas que realizar ninguna acción** ni instalar manualmente una nueva versión.
 
 ¿Todavía no utilizas SonarQube Connector for Jira?

@@ -82,7 +82,7 @@ Por último, te contamos que Jira se integra con distintos tipos de herramientas
 
 Por otro lado, te contamos que tienes a disposición el **Atlassian Marketplace**, que es una 'store' donde podrás descargar aplicaciones para **extender los beneficios de Jira**. Por ejemplo, nosotros como [Gold Markeplace Partner de Atlassian](https://marketplace.atlassian.com/vendors/1210681/excentia){:target="_blank"}, desarrollamos distintos conectores para Jira. Te los presentamos a continuación: 
 
-- **SonarQube Connector for Jira**:  Aplicación que permite la integración con Jira y SonarQube. Con esta app podrás crear tareas en Jira directamente desde tu instancia de SonarQube<br>
+- **SonarQube Connector for Jira**: Aplicación que integra SonarQube con Jira. Consulta [cómo crear tareas en Jira a partir de problemas detectados por SonarQube](/como-ahorrar-tiempo-entre-sonarqube-jira).<br>
 
 - **Dependency Track Connector for Jira**: Conector que te permite gestionar las vulnerabilidades de tu código en Jira.<br>
 
