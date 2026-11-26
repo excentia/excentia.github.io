@@ -1,153 +1,112 @@
 ---
 layout: front
-title: SonarQube Connector for Confluence
-description: Aplicación para integrar SonarQube Server o SonarQube Cloud con Confluence para que puedas ver tus métricas de calidad de código rápidamente.
+title: Integrar SonarQube con Confluence
+description: Muestra Quality Gates, cobertura y deuda técnica de SonarQube Server o Cloud en Confluence. Configura el conector en Confluence Cloud.
+article_schema: false
 ---
 
 <section id="producto-detalles" class="text-center bg-white" style="padding: 50px 0;">
   <div class="container">
     <div class="row title">
-      <h1><img src="/img/atlassian-addons/sonarqube-connector-confluence.png" height="60px" alt="logo"> SonarQube Connector for Confluence</h1>
+      <h1><img src="/img/atlassian-addons/sonarqube-connector-confluence.png" height="60" alt=""> SonarQube Connector for Confluence</h1>
     </div>
     <div class="row">
- <div class="col-md-6">
-  <br>
-  <iframe width="500" height="280" src="https://www.youtube.com/embed/biRuACaURrQ?si=7bbX2nCOcpYiqnQ9" title="Video SonarQube Connector for Confluence" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="border: none;" allowfullscreen></iframe>
-      </div>
-
-
       <div class="col-md-6 text-left">
-        <p class="header-text">
-          <strong>Integra tus métricas de SonarQube Server o SonarQube Cloud en tus páginas de Confluence.</strong>
-        </p>
-        <p class="header-text">
-          Integra de manera sencilla tus métricas de SonarQube Server o SonarQube Cloud directamente en Confluence. Con SonarQube Connector for Confluence, podrás consultar y mostrar el estado real de calidad de tu código sin salir de tus páginas de Confluence.
-        </p>
-
+        <p class="header-text">Integra SonarQube Server o SonarQube Cloud con Confluence. Añade macros a tus páginas para consultar el Quality Gate, la cobertura y la deuda técnica de uno o varios proyectos en el mismo lugar donde documentas el trabajo.</p>
+        <p class="header-text"><a href="{{ '/docs/sonarqube-connector-for-confluence/first-steps' | relative_url }}">Instalar y configurar el conector en Confluence Cloud</a></p>
         <div class="text-left">
-          <a class="btn btn-warning btn-xl" href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=boton+gratis&utm_medium=web&utm_campaign=Atlassian+Marketplace" target="_blank">PRUÉBALA GRATIS</a>
+          <a class="btn btn-warning btn-xl" href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=boton+gratis&amp;utm_medium=web&amp;utm_campaign=Atlassian+Marketplace" target="_blank" rel="noopener">PRUÉBALA GRATIS</a>
           &nbsp;
-          <a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=boton&utm_medium=web&utm_campaign=Atlassian+Marketplace" target="_blank"><img src="img/atlassian-addons/atlassian-app-disponibile-en-el-marketplace.png" alt="App para Confluence Disponible en el Atlassian Marketplace" height="55px"></a>
-        </div>      
-      </div>
-
-    </div>
-  </div>
-</section>
-
-<section id="producto-detalles" class="text-center" style="padding: 50px 0;">
-  <div class="container">
-    <div class="row title">
-      <h2>Características y ventajas de integrar SonarQube con Confluence</h2>
-      <p class="header-text" >A continuación te presentamos las acciones que puedes realizar con SonarQube Connector for Confluence y los beneficios que vas a obtener.</p>
-    </div>
-
-     <div class="row" style="padding-bottom: 50px">
- <div class="col-md-6 text-right">
-        <h3>Visualización de métricas a nivel macro</h3>
-          <p class="header-text">
-              Visualiza información general de múltiples proyectos de SonarQube: tamaño del proyecto, bugs, vulnerabilidades, code smells, cobertura de código y duplicación de código.
-            </p>   
-      </div>
-      <div class="col-md-6 text-left">
-        <br><br>
-        <img width="80%" src="/img/atlassian-addons/sonarqube-connector-confluence-multiples-proyectos.webp" alt="Consulta multiples proyectos de SonarQube en Confluence">
-      </div>
-    </div>
-
-    <div class="row" style="padding-bottom: 50px">
- <div class="col-md-6">
-        <img width="80%" src="/img/atlassian-addons/sonarqube-connector-confluence-macro.webp" alt="Informe en PDF del estado de calidad del proyecto en SonarQube">
-      </div>
-      <div class="col-md-6 text-left">
-        <h3>Información detallada por métrica</h3>
-          <p class="header-text">Muestra métricas específicas y consulta issues de SonarQube Server o SonarQube Cloud, filtrando por autor o proyecto.</p>   
-      </div>
-    </div>
-
-    <div class="row" style="padding-bottom: 50px">
-      <div class="col-md-6 text-right">
-        <h3>Datos críticos</h3>
-          <p class="header-text">
-              Identifica de inmediato issues críticas y bloqueantes (bugs, vulnerabilidades y code smells) para priorizar soluciones y reducir riesgos en tus proyectos. </p>
-      </div>
-      <div class="col-md-6 text-left">
-        <img width="80%" src="/img/atlassian-addons/sonarqube-connector-confluence-hotspots-issues.webp" alt="Consulta issues y hotsposts de SonarQube en Confluence">
-      </div>
-    </div>
-
-    <div class="row" style="padding-bottom: 50px">
-      <div class="col-md-6">
-             <img width="80%" src="/img/atlassian-addons/sonarqube-connector-confluence-quality-gate.webp" alt="Cronograma en Jira para el seguimiento del progreso del proyecto">
-           </div>
-           <div class="col-md-6 text-left">
-            <h3>Calidad integrada en tu documentación</h3>
-            <p class="header-text">Agiliza la toma de decisiones sobre tu código directamente desde Confluence, manteniendo toda la información centralizada en el mismo espacio de documentación.</p>
-          </div>
+          <a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=boton&amp;utm_medium=web&amp;utm_campaign=Atlassian+Marketplace" target="_blank" rel="noopener"><img src="/img/atlassian-addons/atlassian-app-disponibile-en-el-marketplace.png" alt="Ver el conector en Atlassian Marketplace" height="55"></a>
         </div>
+      </div>
+      <div class="col-md-6">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/biRuACaURrQ?si=7bbX2nCOcpYiqnQ9" title="Demostración de SonarQube Connector for Confluence" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      </div>
     </div>
+  </div>
 </section>
 
-<section id="producto-detalles" class="text-center" style="padding: 50px 0; padding-bottom:50px">
+<section id="funcionalidades" class="text-center bg-white" style="padding: 50px 0;">
   <div class="container">
     <div class="row title">
-      <h2>Integra la calidad en tu documentación</h2>
-      <p class="header-text">Gracias a las macros dinámicas, el <strong>SonarQube Connector for Confluence</strong> permite traer la información de tus proyectos de SonarQube Server o SonarQube Cloud directamente a tus páginas de Confluence. 
-        De este modo, cualquier usuario, desarrollador o responsable de proyecto puede <strong>revisar la calidad del código en tiempo real</strong>, detectar posibles riesgos antes de la entrega del software y tomar decisiones fundamentadas sin necesidad de cambiar de herramienta.</p>
+      <h2>¿Qué puedes consultar de SonarQube en Confluence?</h2>
+      <p class="header-text">Las macros muestran el estado del Quality Gate, las métricas de calidad y los hallazgos de seguridad de los proyectos que elijas.</p>
+    </div>
+    <div class="row" style="padding-bottom: 50px;">
+      <div class="col-md-6 text-left">
+        <h3>Revisa el Quality Gate antes de una entrega</h3>
+        <p class="header-text">Consulta si un proyecto cumple las condiciones del Quality Gate. Si no lo supera, puedes ver desde Confluence qué umbrales quedaron pendientes, como la cobertura mínima del código nuevo.</p>
+      </div>
+      <div class="col-md-6">
+        <img width="1641" height="637" style="width: 80%; height: auto;" loading="lazy" src="{{ '/docs/assets/sonarqube-connector-for-confluence/quality-gate.png' | relative_url }}" alt="Quality Gate superado en Confluence, junto a la deuda técnica y la fecha del último análisis">
+      </div>
+    </div>
+    <div class="row" style="padding-bottom: 50px;">
+      <div class="col-md-6">
+        <img width="2149" height="1310" style="width: 80%; height: auto;" loading="lazy" src="{{ '/docs/assets/sonarqube-connector-for-confluence/multiple-projects.png' | relative_url }}" alt="Portfolio de SonarQube en Confluence con métricas agregadas y estado por proyecto">
+      </div>
+      <div class="col-md-6 text-left">
+        <h3>Consulta varios proyectos en una vista</h3>
+        <p class="header-text">Agrupa por claves o etiquetas de proyecto para comparar cobertura, duplicación, fiabilidad y seguridad. La vista muestra las métricas agregadas y el estado de cada proyecto.</p>
+      </div>
+    </div>
+    <div class="row" style="padding-bottom: 50px;">
+      <div class="col-md-6 text-left">
+        <h3>Destaca la cobertura con un <em>badge</em></h3>
+        <p class="header-text">Si solo necesitas una métrica, usa la <a href="{{ '/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-badge">macro SonarQube Connector Badge</a> para mostrar, por ejemplo, el porcentaje de cobertura junto al resumen del componente.</p>
+      </div>
+      <div class="col-md-6">
+        <img width="2152" height="982" style="width: 80%; height: auto;" loading="lazy" src="{{ '/docs/assets/sonarqube-connector-for-confluence/metric-badge.png' | relative_url }}" alt="Badge con el porcentaje de cobertura de código de SonarQube en Confluence">
+      </div>
     </div>
     <div class="row">
-        <div class="col-md-7 text-left">
-          <p class="header-text"> SonarQube Connector for Confluence te permitirá tener acceso a los <strong>datos más relevantes de la calidad del código</strong> en el mismo espacio donde reside toda la documentación en Confluence.</p>
-                 
-          <h3><strong>¿Qué métricas podrás visualizar?</strong></h3>
-
-          <p class="header-text"><strong>Fiabilidad</strong>: Incluye las evidencias de tipo bug. Un bug representa algo que está mal en el código. Si el software aún no se ha roto, se romperá, y probablemente en el peor momento. Todos los bugs tienen que solucionarse cuanto antes.</p>
-          
-           <p class="header-text"><strong>Seguridad</strong>: Incluye las evidencias de tipo vulnerabilidad. Aquí se van a encontrar todas las evidencias que tengan una mínima sospecha de afectar a la seguridad. Es responsabilidad del equipo eliminar los falsos positivos y centrarse en resolver los casos reales.</p>
-          
-           <p class="header-text"><strong>Mantenibilidad</strong>: Incluye las evidencias de tipo code smells, que al final son todas esas malas prácticas que a la larga van a provocar que cada vez sea más difícil hacer cambios en el código.</p>
-          
-           <p class="header-text">Además podrás acceder fácilmente a: Densidad de código duplicado, líneas de código, deuda técnica, ratio de deuda técnica, cobertura de test unitarios y densidad de comentarios. </p>
-      
-          <div class="text-left">
-          	<a class="btn btn-warning btn-xl" style="background: #fff; color:#FF8200;" href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=boton+gratis&utm_medium=web&utm_campaign=Atlassian+Marketplace" target="_blank">Prueba Gratis</a> &nbsp;&nbsp;
-          	<a class="btn btn-warning btn-xl" href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?utm_source=boton&utm_medium=web&utm_campaign=Atlassian+Marketplace" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        </div>  
-          <div style="padding-top:20px">        
-          <h3><strong>Compatibilidad</strong></h3>
-          <p class="header-text">Actualmente es compatible con Confluence Cloud, Confluence Server y Confluence Data Center.</p>
-          <p class="header-text">Si quieres consultar más información sobre SonarQube Connector for Confluence puedes <strong>consultar su documentación aquí.</strong></p>
-          <a class="btn btn-primary btn-xl atlassian-background" href="https://confluence.excentia.es/display/SQCONF/Home?utm_source=website&utm_medium=page&utm_campaign=atlassian&utm_content=atlassian_marketplace" target="_blank"><strong>Ir a la Documentación</strong></a>
-
-  </div>
-        </div>  
-
-        <div class="col-md-5">
-          <img width="100%" 
-               src="/img/atlassian-addons/sonarqube-connector-confluence-dashboard.png" alt="Dashboard SonarQube Connector for Confluence">
-        </div> 
-        <div class="col-md-5">
-          <img width="100%" 
-               src="/img/atlassian-addons/sonarqube-connector-confluence-hotspots-and-quality-profile.png" alt="Dashboard SonarQube Connector for Confluence">
-        </div>       
+      <div class="col-md-6 text-left">
+        <h3>Explora incidencias y hallazgos de seguridad</h3>
+        <p class="header-text">Revisa errores, vulnerabilidades y Security Hotspots junto a la documentación del proyecto. Consulta qué macros están disponibles en las <a href="{{ '/docs/sonarqube-connector-for-confluence/features' | relative_url }}">funcionalidades del conector</a>.</p>
+      </div>
+      <div class="col-md-6">
+        <img width="2149" height="932" style="width: 80%; height: auto;" loading="lazy" src="{{ '/docs/assets/sonarqube-connector-for-confluence/issues-breakdown.png' | relative_url }}" alt="Desglose de incidencias de SonarQube por regla, impacto y lenguaje en Confluence">
+      </div>
     </div>
   </div>
 </section>
 
+<section id="como-empezar" class="text-center" style="padding: 50px 0;">
+  <div class="container">
+    <div class="row title">
+      <h2>¿Cómo empiezo a integrar SonarQube con Confluence?</h2>
+      <p class="header-text">Para empezar en Confluence Cloud, instala la app desde Atlassian Marketplace, configura una conexión con SonarQube y añade una macro a una página. Necesitas permisos de administración en Confluence para configurar la conexión.</p>
+    </div>
+    <div class="row">
+      <div class="col-md-7 text-left">
+        <a class="btn btn-primary btn-xl atlassian-background" style="white-space: normal;" href="{{ '/docs/sonarqube-connector-for-confluence' | relative_url }}"><strong>Documentación de SonarQube Connector for Confluence</strong></a>
+        <p class="header-text" style="margin-top: 20px;">Consulta las <a href="{{ '/docs/sonarqube-connector-for-confluence/faqs' | relative_url }}">preguntas frecuentes del conector</a> para resolver dudas sobre conexiones y macros.</p>
+        <p class="header-text">Encontrarás los canales de ayuda en <a href="{{ '/docs/sonarqube-connector-for-confluence/support' | relative_url }}">Soporte del conector</a> y las condiciones de tratamiento de datos en <a href="{{ '/docs/sonarqube-connector-for-confluence/data-security-and-privacy' | relative_url }}">Seguridad y privacidad de los datos</a>.</p>
+        <p class="header-text">Si ya usas Confluence Data Center, consulta la <a href="https://excentia.atlassian.net/wiki/spaces/SQCONF/overview?homepageId=6783002">documentación del conector para Data Center</a>.</p>
+      </div>
+      <div class="col-md-5">
+        <img width="2154" height="1112" style="width: 100%; height: auto;" loading="lazy" src="{{ '/docs/assets/sonarqube-connector-for-confluence/project-dashboard.png' | relative_url }}" alt="Panel de SonarQube en Confluence Cloud con métricas de código nuevo y código global">
+      </div>
+    </div>
+  </div>
+</section>
 
-<section id="banner" class="atlassian-background text-center" style="background-color: #0052CC; padding:30px 0">
+<section id="banner" class="atlassian-background text-center" style="background-color: #0052CC; padding: 30px 0;">
   <div class="container">
     <div class="row">
       <div class="col-md-6 text-left">
-        <br>
-        <p>Gracias a nuestra experiencia como <strong>desarrolladores de aplicaciones</strong> para Atlassian, conseguimos el distintivo de Silver Marketplace Partner de Atlassian. Superamos las más de <strong>1.000 descargas </strong>por parte de los usuarios de nuestras aplicaciones. 
-        </p>
-      </div>        
+        <h2>Precios y reseñas en Atlassian Marketplace</h2>
+        <p>Consulta el precio para tu edición de Confluence y lee las opiniones de quienes ya usan el conector antes de iniciar una prueba.</p>
+        <p><a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?tab=pricing" style="color: #fff; text-decoration: underline;">Consultar precios del conector</a></p>
+        <p><a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence?tab=reviews" style="color: #fff; text-decoration: underline;">Leer reseñas del conector</a></p>
+      </div>
       <div class="col-md-6">
-        <img width="90%" 
-             src="/img/excentia/silver-marketplace-partner-logo-white.png" alt="Logo Silver Marketplace Partner">
-      </div>        
-  </div>
+        <img width="90%" loading="lazy" src="/img/excentia/silver-marketplace-partner-logo-white.png" alt="excentia, Atlassian Silver Marketplace Partner">
+      </div>
+    </div>
   </div>
 </section>
 

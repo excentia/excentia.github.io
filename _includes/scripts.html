@@ -54,6 +54,7 @@
     style="display:none;visibility:hidden"></iframe>
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
+{% unless page.article_schema == false %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,4 +82,5 @@
   }
 }
 </script>
+{% endunless %}
 {% endif %}

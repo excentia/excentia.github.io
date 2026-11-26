@@ -25,6 +25,8 @@ Esta nueva versión contiene **dos actualizaciones principales**. La primera es 
 
 <img width="100%" src="img/atlassian-addons/atlassian-app-sonarqube-sonarcloud-connector-confluence-quality-gate.png" alt="Quality Gate SonarQube/SonarCloud connector for Confluence">
 
+Consulta cómo [revisar el Quality Gate en Confluence]({{ '/docs/sonarqube-connector-for-confluence/features' | relative_url }}#check-the-quality-gate-before-a-release) y ver las condiciones que debe cumplir el proyecto.
+
 El segundo cambio se trata de la **visualización de las etiquetas del proyecto** en los reportes. 
 
 Si todavía no eres usuario de esta aplicación, puedes [descárgala aquí](https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence) y ver cómo funciona. 

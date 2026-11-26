@@ -1,0 +1,253 @@
+---
+layout: docs
+title: "Macros | SonarQube Connector for Confluence"
+description: "Añade y configura macros para mostrar métricas, perfiles de calidad, incidencias e informes."
+permalink: /docs/sonarqube-connector-for-confluence/macros
+lang: es
+docs_product: docs-sonarqube-confluence-es
+doc_title: "Macros"
+doc_id: "1591115788"
+---
+
+<h1 id="overview">Macros</h1>
+
+<h2 id="how-to-add-a-macro">Cómo añadir una macro</h2>
+<p class="header-text">Edita una página de Confluence y abre <strong>Insert elements</strong> o escribe <code>/</code> en el editor. Busca <strong>SonarQube</strong> para ver las macros disponibles.</p>
+
+<h2 id="sonarqube-connector-macro">SonarQube Connector Macro</h2>
+<p class="header-text">Selecciona una conexión de SonarQube y elige los recursos que quieres mostrar. La macro del panel ofrece estos ajustes.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/macro-settings.png' | relative_url }}" alt="Configuración de SonarQube Connector Macro" loading="lazy" width="1377" height="839">
+</figure>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube <a href="{{ '/docs/sonarqube-connector-for-confluence/first-steps' | relative_url }}">configurados en los ajustes del conector</a>.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis.</p>
+    <ul>
+      <li>
+        <p class="header-text">Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Custom metrics.</strong> Introduce una o varias claves de métricas separadas por comas, como <code>blocker_violations</code>, <code>major_violations</code> o <code>classes</code>. Consulta con la persona que administra SonarQube qué métricas están disponibles.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>
+
+<h3 id="setting-multiple-resource-keys">Configura varias claves de proyecto</h3>
+<p class="header-text">En <strong>Resource Key</strong>, introduce las claves de los proyectos de SonarQube separadas por comas. Una lista larga puede aumentar el tiempo de carga de la página.</p>
+<p class="header-text">Si tu equipo gestiona varios componentes de software, puedes reunirlos en una misma página de Confluence.</p>
+<p class="header-text">SonarQube Connector for Confluence agrega todas las métricas en una sola vista.</p>
+<p class="header-text">La vista contiene dos secciones.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>Cabecera.</strong> Contiene las métricas agregadas, las calificaciones globales y la distribución de los proyectos por calificación de tamaño, fiabilidad, seguridad y mantenibilidad.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Portfolio de proyectos.</strong> Muestra los datos de cada proyecto, incluida la fecha del último análisis y el estado del Quality Gate.</p>
+  </li>
+</ul>
+
+<h3 id="how-do-we-compute-the-global-ratings">Cómo se calculan las calificaciones globales</h3>
+<p class="header-text">Al configurar varios proyectos, obtienes una calificación global para el tamaño, la fiabilidad, la seguridad y la mantenibilidad.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>Calificación de tamaño.</strong> Se suman las líneas de código de todos los proyectos y se aplica el mismo cálculo que para un proyecto individual.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Calificaciones de fiabilidad, seguridad y mantenibilidad.</strong> Para cada métrica, se asigna un valor del 1 al 5 a la calificación de cada proyecto, con A = 1 y E = 5. Se calcula la media y se redondea al entero más cercano para obtener la calificación global.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-badge">SonarQube Connector Badge</h2>
+<p class="header-text">Configura estos campos.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/badge-settings.png' | relative_url }}" alt="Configuración de SonarQube Connector Badge" loading="lazy" width="1368" height="474">
+</figure>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis. Para combinar varios proyectos en una sola vista, introduce sus claves separadas por comas.</p>
+    <ul>
+      <li>
+        <p class="header-text">Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Metric Key.</strong> Elige la métrica que quieres mostrar en el badge. Consulta las <a href="https://docs.sonarqube.org/latest/user-guide/metric-definitions/">definiciones de métricas de SonarQube</a> para identificar la clave que corresponde a cada métrica.</p>
+    <ul>
+      <li>
+        <p class="header-text">Entre los valores habituales están <code>ncloc</code>, <code>coverage</code>, <code>reliability_rating</code>, <code>security_rating</code>, <code>sqale_rating</code> y <code>duplicated_lines_density</code>.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-quality-profile">SonarQube Connector Quality Profile</h2>
+<p class="header-text">Usa <strong>SonarQube Connector Quality Profile</strong> para mostrar las reglas activas de un perfil de calidad de SonarQube.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/quality-profile.png' | relative_url }}" alt="Configuración de SonarQube Connector Quality Profile" loading="lazy" width="1366" height="829">
+</figure>
+<p class="header-text">Configura estos campos.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Quality profile name.</strong> Introduce el nombre del perfil cuyas reglas quieres consultar. Puedes encontrarlo en el panel de perfiles de calidad de SonarQube.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Quality profile language.</strong> Si varios perfiles tienen el mismo nombre, indica el lenguaje del perfil que quieres consultar.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Organization name.</strong> En SonarQube Cloud, introduce el nombre de la organización que figura en la información del proyecto.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-issue-breakdown">SonarQube Connector Issue Breakdown</h2>
+<p class="header-text">Usa <strong>SonarQube Connector Issue Breakdown</strong> para mostrar las incidencias de los proyectos seleccionados.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/issue-breakdown.png' | relative_url }}" alt="Configuración de SonarQube Connector Issue Breakdown" loading="lazy" width="1362" height="825">
+</figure>
+<p class="header-text">Configura estos campos.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis. Para combinar varios proyectos en una sola vista, introduce sus claves separadas por comas.</p>
+    <ul>
+      <li>
+        <p class="header-text">Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Bugs.</strong> Activa esta opción para mostrar los principales errores en el desglose.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Vulnerabilities.</strong> Activa esta opción para mostrar las principales vulnerabilidades en el desglose.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Code Smells.</strong> Activa esta opción para mostrar los principales <em>code smells</em> en el desglose.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-asvs-report">Informe OWASP ASVS</h2>
+<p class="header-text">Usa <strong>SonarQube Connector ASVS</strong> para mostrar los hallazgos de SonarQube según el estándar OWASP Application Security Verification Standard.</p>
+<p class="header-text">Configura estos campos.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis. Para combinar varios proyectos en una sola vista, introduce sus claves separadas por comas.<br>Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-iso-5055-report">Informe ISO 5055</h2>
+<p class="header-text">Usa <strong>SonarQube Connector ISO 5055</strong> para mostrar hallazgos relacionados con la calidad y la arquitectura del código según el estándar ISO 5055.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/iso-5055-report.png' | relative_url }}" alt="Informe ISO 5055 del conector" loading="lazy" width="1359" height="512">
+</figure>
+<p class="header-text">Configura estos campos.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis. Para combinar varios proyectos en una sola vista, introduce sus claves separadas por comas.<br>Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-top-25-cwe-report">Informe CWE Top 25</h2>
+<p class="header-text">Usa <strong>SonarQube Connector Top 25 CWE</strong> para mostrar los hallazgos asociados a la lista de debilidades CWE Top 25 del año que selecciones.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/cwe-report.png' | relative_url }}" alt="Informe CWE Top 25 del conector" loading="lazy" width="1362" height="835">
+</figure>
+<p class="header-text">Configura estos campos.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis. Para combinar varios proyectos en una sola vista, introduce sus claves separadas por comas.<br>Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-owasp-top-10-report">Informe OWASP Top 10</h2>
+<p class="header-text">Usa <strong>SonarQube Connector OWASP Top 10</strong> para mostrar los hallazgos agrupados por riesgo de seguridad en aplicaciones web para el año que selecciones.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/owasp-report.png' | relative_url }}" alt="Informe OWASP Top 10 del conector" loading="lazy" width="1362" height="682">
+</figure>
+<p class="header-text">Configura estos campos.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server.</strong> Selecciona uno de los servidores de SonarQube configurados en los ajustes del conector.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key.</strong> Introduce la clave del recurso de SonarQube del que quieres obtener las métricas. Puedes encontrarla en el panel del proyecto de SonarQube o en los parámetros del análisis. Para combinar varios proyectos en una sola vista, introduce sus claves separadas por comas.</p>
+    <ul>
+      <li>
+        <p class="header-text">Si usas un portfolio de SonarQube Enterprise, puedes introducir su nombre en ese campo.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags.</strong> Campo opcional. Selecciona proyectos mediante sus etiquetas de SonarQube Server o SonarQube Cloud. Puedes encontrar las etiquetas en la página del proyecto o en las propiedades del análisis. Introduce varias etiquetas separadas por comas para agregar los resultados en una sola vista.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>OWASP Year.</strong> Selecciona el año de OWASP Top 10 que quieres consultar.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch.</strong> Indica el nombre de la rama tal como aparece en SonarQube. Este campo solo está disponible cuando seleccionas un único proyecto.</p>
+  </li>
+</ul>

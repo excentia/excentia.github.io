@@ -55,9 +55,9 @@ Solo el código que cumple con nuestro estricto estándar de calidad se lanza de
 
 <img width="60%" src="img/sonarsource-products/step-3-sonar-ia.webp" alt="Confiar código generado por la IA Sonar">
 
-<h3>Paso 4: Aplicación de una insignia de garantía de la calidad</h3>
+<h3>Paso 4: Aplicación de un badge de garantía de la calidad</h3>
 
-A los proyectos que cumplan estos criterios **se les asigna una insignia de garantía de calidad** siempre y cuando cumplan con las normas de garantía del código AI. Esta insignia asegura a las partes interesadas que el código ha sido validado estrictamente a través del flujo de trabajo de Sonar AI Code Assurance y está totalmente listo para la producción.
+A los proyectos que cumplan estos criterios **se les asigna un badge de garantía de calidad** siempre y cuando cumplan con las normas de garantía del código AI. Esta insignia asegura a las partes interesadas que el código ha sido validado estrictamente a través del flujo de trabajo de Sonar AI Code Assurance y está totalmente listo para la producción.
 
 <img width="50%" src="img/sonarsource-products/step-4-sonar-ia.webp" alt="Confiar código generado por la IA Sonar">
 

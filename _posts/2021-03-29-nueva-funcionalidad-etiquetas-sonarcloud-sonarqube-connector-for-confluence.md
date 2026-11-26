@@ -35,7 +35,7 @@ Se trata de un campo opcional que permite obtener la información de un proyecto
 
 ## Documentación
 
-Para más detalles visita la pagina de <a href="https://confluence.excentia.es/display/SQCONF?utm_source=blog&utm_medium=post&utm_campaign=new_release&utm_content=sonarqube_connector_confluence" target="_blank">SonarCloud / SonarQube Connector for Confluence</a>.
+Consulta cómo [mostrar varios proyectos de SonarQube por etiquetas]({{ '/docs/sonarqube-connector-for-confluence/features' | relative_url }}#track-multiple-sonarqube-projects-in-one-view) en una misma página de Confluence.
 
 <br/>
 

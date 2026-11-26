@@ -1,0 +1,75 @@
+---
+layout: docs
+title: "Features | SonarQube Connector for Confluence"
+description: "Explore Quality Gates, project dashboards, badges, and security reports."
+permalink: /en/docs/sonarqube-connector-for-confluence/features
+lang: en
+docs_product: docs-sonarqube-confluence
+doc_title: "Features"
+doc_id: "1591673176"
+---
+
+<h1 id="overview">Features</h1>
+<p class="header-text">SonarQube Connector for Confluence displays code quality and security results from SonarQube Server or SonarQube Cloud on your Confluence pages. Use it to review a project’s Quality Gate before a release, track several components in one view, or add a code coverage badge to a component page.</p>
+
+<h2 id="check-the-quality-gate-before-a-release">Check the Quality Gate before a release</h2>
+<p class="header-text">Display the Quality Gate status and its conditions on a Confluence page. During a release review, use the conditions to see what needs attention when a project fails its Quality Gate.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/quality-gate.png' | relative_url }}" alt="Quality Gate status and conditions" loading="lazy" width="1042" height="404">
+</figure>
+
+<h2 id="add-a-project-dashboard-to-a-confluence-page">Add a project dashboard to a Confluence page</h2>
+<p class="header-text">Use the <strong>SonarQube Connector Macro</strong> to display a project’s reliability, security and maintainability ratings alongside measures such as code coverage, duplication and technical debt. Select a configured SonarQube connection and enter the project key in <strong>Resource Key</strong>. Use <strong>Custom metrics</strong> to add available measures by metric key. When the macro is configured for a single project, you can also specify a branch.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/project-dashboard.png' | relative_url }}" alt="SonarQube project dashboard in Confluence" loading="lazy" width="1368" height="706">
+</figure>
+<p class="header-text">See the <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-macro">macro configuration guide</a>.</p>
+
+<h2 id="track-multiple-sonarqube-projects-in-one-view">Track multiple SonarQube projects in one view</h2>
+<p class="header-text">Enter several project keys in <strong>Resource Key</strong>, separated by commas, or use <strong>Tags</strong> to select projects by their SonarQube tags. The macro displays aggregate measures and ratings, with the Quality Gate status and last analysis date for each project. You can also select an existing Enterprise portfolio by name where supported.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/multiple-projects.png' | relative_url }}" alt="Combined dashboard for multiple SonarQube projects" loading="lazy" width="1364" height="832">
+</figure>
+<p class="header-text"><strong>Read about</strong> <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#setting-multiple-resource-keys">Multiple project keys</a> · <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-macro">Tags and portfolio configuration</a>.</p>
+
+<h2 id="display-a-sonarqube-metric-as-a-badge">Display a SonarQube metric as a badge</h2>
+<p class="header-text">Use the <strong>SonarQube Connector Badge</strong> macro when a page needs a single metric. Select the SonarQube connection, enter the project key and set <strong>Metric Key</strong> to the measure you want to display. The badge macro also supports aggregating a metric across multiple projects.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/metric-badge.png' | relative_url }}" alt="SonarQube code coverage badge in Confluence" loading="lazy" width="1366" height="623">
+</figure>
+<p class="header-text"><strong>For example,</strong> enter <code>sonarlint-visualstudio</code> in <strong>Resource Key</strong> and <code>coverage</code> in <strong>Metric Key</strong>. Place the badge near the component summary so readers can see its code coverage as soon as they open the page. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-badge">Badge configuration</a> · <a href="https://excentia.atlassian.net/wiki/spaces/SQCONF/pages/6785198">Badge examples</a></p>
+
+<h2 id="review-issues-and-security-findings">Review issues and security findings</h2>
+
+<h3 id="show-a-breakdown-of-sonarqube-issues">Show a breakdown of SonarQube issues</h3>
+<p class="header-text">Use <strong>Issue Breakdown</strong> to display a summary of issues for one or more projects. This gives the team a shared view to review alongside project documentation.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/issues-breakdown.png' | relative_url }}" alt="SonarQube issues grouped by project" loading="lazy" width="1364" height="592">
+</figure>
+
+<h3 id="display-security-reports">Display security reports</h3>
+<p class="header-text">Use these macros to bring SonarQube findings into a Confluence review page under the relevant reporting framework. The results depend on the data available in your SonarQube environment.</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>OWASP Top 10.</strong> Display findings by OWASP Top 10 category for the year you select. On a web application’s security review page, use the macro to discuss findings grouped by risk category. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-owasp-top-10-report">OWASP Top 10 macro documentation</a></p>
+  </li>
+  <li>
+    <p class="header-text"><strong>CWE Top 25.</strong> Display findings mapped to the CWE Top 25 list for the year you select. On a remediation planning page, use the macro to identify which types of software weakness appear across the selected projects. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-top-25-cwe-report">CWE Top 25 macro documentation</a></p>
+  </li>
+  <li>
+    <p class="header-text"><strong>OWASP ASVS.</strong> Display findings organised by the OWASP Application Security Verification Standard. On an application security verification page, add the macro alongside the team’s manual review checklist. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-asvs-report">OWASP ASVS macro documentation</a></p>
+  </li>
+  <li>
+    <p class="header-text"><strong>ISO 5055.</strong> Display findings organised by the ISO 5055 software quality measurement standard. On an architecture review page, use the macro to discuss code and architecture findings across the services under review. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-iso-5055-report">ISO 5055 macro documentation</a></p>
+  </li>
+</ul>
+
+<div class="docs-columns">
+  <div class="docs-resource-link"><a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence">Atlassian Marketplace</a></div>
+  <div class="docs-resource-link"><a href="{{ '/en/docs/sonarqube-connector-for-confluence/support' | relative_url }}">Support</a></div>
+</div>
