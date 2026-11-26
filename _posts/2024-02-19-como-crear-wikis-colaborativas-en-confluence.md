@@ -77,7 +77,7 @@ En este apartado te enumeramos algunos **beneficios de trabajar con Confluence**
 - Crea enlaces con las **tareas de Jira**.
 - **Entrelaza las páginas** para tener toda la información documentada.
 - Consulta las **versiones** de la edición de las páginas.
-- **Añade macros** para añadir más información: Como por ejemplo, puedes integrar las issues de SonarQube en Confluence con [nuestro conector.](/sonarqube-connector-confluence)
+- **Añade macros** para mostrar más información. Por ejemplo, puedes consultar las incidencias de SonarQube en Confluence con [SonarQube Connector for Confluence](/sonarqube-connector-confluence). Descubre [cómo añadir macros de SonarQube en Confluence]({{ '/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#how-to-add-a-macro).
 - Confluence incluye un lugar que denomina **pizarras**. Se trata de un espacio para que los usuarios dejen fluir sus ideas y puedan **representar la información de forma visual**. 
 
 <h3>Otras cosas que debes saber</h3>

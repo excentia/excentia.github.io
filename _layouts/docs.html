@@ -4,6 +4,13 @@
 {% if docs_language == 'es' %}
   {% assign docs_sections = site.data.docs-sonarqube-es.sections %}
 {% endif %}
+{% assign docs_product = site.data[page.docs_product] %}
+{% assign docs_sections = docs_product.sections | default: docs_sections %}
+{% assign docs_url = docs_product.docs_url | default: docs_labels.docs_url %}
+{% assign docs_product_url = docs_product.product_url | default: docs_labels.product_url %}
+{% assign docs_product_name = docs_product.name | default: 'SonarQube Connector for Jira' %}
+{% assign docs_product_platform = docs_product.platform | default: 'Jira' %}
+{% assign docs_product_icon = docs_product.icon | default: '/img/atlassian-addons/sonarqube-connector-jira.png' %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en' }}">
 {% include head.html %}
@@ -16,11 +23,11 @@
       <details class="docs-navigation" open>
         <summary>{{ docs_labels.documentation }}</summary>
         <div class="docs-product">
-          <img src="{{ '/img/atlassian-addons/sonarqube-connector-jira.png' | relative_url }}" width="36" height="36" alt="">
-          <span>SonarQube Connector<br>for Jira</span>
+          <img src="{{ docs_product_icon | relative_url }}" width="36" height="36" alt="">
+          <span>SonarQube Connector<br>for {{ docs_product_platform }}</span>
         </div>
-        <nav aria-label="SonarQube Connector for Jira">
-          <a class="docs-nav-link{% unless page.doc_id %} docs-nav-link--current{% endunless %}" href="{{ docs_labels.docs_url | relative_url }}"{% unless page.doc_id %} aria-current="page"{% endunless %}>{{ docs_labels.overview }}</a>
+        <nav aria-label="{{ docs_product_name }}">
+          <a class="docs-nav-link{% unless page.doc_id %} docs-nav-link--current{% endunless %}" href="{{ docs_url | relative_url }}"{% unless page.doc_id %} aria-current="page"{% endunless %}>{{ docs_labels.overview }}</a>
           <p class="docs-nav-label">{{ docs_labels.get_started }}</p>
           {% for item in docs_sections %}
             {% if item.group == 'getting-started' %}
@@ -34,24 +41,24 @@
             {% endif %}
           {% endfor %}
         </nav>
-        <a class="docs-product-link" href="{{ docs_labels.product_url | relative_url }}">{{ docs_labels.about }}</a>
+        <a class="docs-product-link" href="{{ docs_product_url | relative_url }}">{{ docs_labels.about }}</a>
       </details>
     </aside>
     <main id="docs-content" class="docs-content" tabindex="-1">
       <nav class="docs-breadcrumb" aria-label="{{ docs_labels.breadcrumb }}">
         <a href="{{ docs_labels.home_url | relative_url }}">{{ docs_labels.home }}</a><span aria-hidden="true">/</span>
         {% if page.doc_id %}
-          <a href="{{ docs_labels.docs_url | relative_url }}">SonarQube Connector for Jira</a>
+          <a href="{{ docs_url | relative_url }}">{{ docs_product_name }}</a>
           {% if page.parent_url %}<span aria-hidden="true">/</span><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a>{% endif %}
           <span aria-hidden="true">/</span><span aria-current="page">{{ page.doc_title }}</span>
         {% else %}
-          <span aria-current="page">SonarQube Connector for Jira</span>
+          <span aria-current="page">{{ docs_product_name }}</span>
         {% endif %}
       </nav>
       {{ content }}
       <footer class="docs-footer">
-        <span>SonarQube Connector for Jira · excentia</span>
-        <a href="{{ docs_labels.docs_url | append: '/support' | relative_url }}">{{ docs_labels.support }} <span aria-hidden="true">→</span></a>
+        <span>{{ docs_product_name }} · excentia</span>
+        <a href="{{ docs_url | append: '/support' | relative_url }}">{{ docs_labels.support }} <span aria-hidden="true">→</span></a>
       </footer>
     </main>
   </div>

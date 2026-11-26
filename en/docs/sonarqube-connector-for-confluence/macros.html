@@ -1,0 +1,253 @@
+---
+layout: docs
+title: "Macros | SonarQube Connector for Confluence"
+description: "Add and configure macros for project metrics, quality profiles, issues, and reports."
+permalink: /en/docs/sonarqube-connector-for-confluence/macros
+lang: en
+docs_product: docs-sonarqube-confluence
+doc_title: "Macros"
+doc_id: "1591115788"
+---
+
+<h1 id="overview">Macros</h1>
+
+<h2 id="how-to-add-a-macro">How to add a macro</h2>
+<p class="header-text">Edit a Confluence page and open <strong>Insert elements</strong>, or type <code>/</code> in the editor. Search for <strong>SonarQube</strong> to see the available macros.</p>
+
+<h2 id="sonarqube-connector-macro">SonarQube Connector Macro</h2>
+<p class="header-text">Select a configured SonarQube connection and choose the resources to display. The dashboard macro offers these settings:</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/macro-settings.png' | relative_url }}" alt="SonarQube Connector Macro settings" loading="lazy" width="1377" height="839">
+</figure>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server: </strong>this is a dropdown list with the SonarQube servers <a href="{{ '/en/docs/sonarqube-connector-for-confluence/first-steps' | relative_url }}">configured through the plugin settings</a>.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key</strong>: this is the key of the SonarQube resource to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters.</p>
+    <ul>
+      <li>
+        <p class="header-text"><strong>Note: </strong>Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Custom metrics: </strong>List of custom metric keys to display in the page, you can specify one metric key or a list of metric keys separated by commas. For example: blocker_violations, major_violations, classes. Check with your SonarQube administrator to find out the keys to the available metrics</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>
+
+<h3 id="setting-multiple-resource-keys">Setting multiple resource keys</h3>
+<p class="header-text">In <strong>Resource Key</strong>, enter a comma-separated list of SonarQube project keys. A long list can increase the page load time.</p>
+<p class="header-text">This is <strong>very useful if your team manages several software</strong> components and you want to have all of them in your Confluence page.</p>
+<p class="header-text">SonarQube Connector for Confluence will aggregate all the metrics into a single view.</p>
+<p class="header-text">This new view provides:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>A header section</strong> with all the collected metrics and global ratings. This includes the project distribution for each rating (size, reliability, security and maintainability) and the aggregated measures.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>A project portfolio section</strong> with the information for each project, including last analysis date and quality gate.</p>
+  </li>
+</ul>
+
+<h3 id="how-do-we-compute-the-global-ratings">How do we compute the global ratings?</h3>
+<p class="header-text">If you configure multiple projects then you will get a global rating for the main quality metrics: size, reliability, security and maintainability:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>Size rating</strong>: this is the sum of all lines of code of all the projects. The rating is computed the same way as for an individual project. </p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Reliability, Security and Maintainability rating</strong>: these ratings are computed by giving values from 1 to 5 to each project depending on the rating (A=1 ... E=5). Then we sum all the values and compute the average number. This number is rounded to the nearest value from 1 to 5. This value will be the global rating for your projects.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-badge">SonarQube Connector Badge</h2>
+<p class="header-text">You have to complete these parameters:</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/badge-settings.png' | relative_url }}" alt="SonarQube Connector Badge settings" loading="lazy" width="1368" height="474">
+</figure>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server: </strong>this is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key</strong>: this is the key of the SonarQube resource to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters. You can setup more than one resource/project key by providing a comma separated list of resource keys. Measures will be aggregated into a unique view of all the projects together.</p>
+    <ul>
+      <li>
+        <p class="header-text"><strong>Note: </strong>Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.<strong> </strong></p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Metric Key</strong>: choose the metric to display in the badge. Check out <a href="https://docs.sonarqube.org/latest/user-guide/metric-definitions/">SonarQube metric definitions</a> to know which metric key you should use for each metric.</p>
+    <ul>
+      <li>
+        <p class="header-text"><strong>Common values are</strong>: <em>ncloc, coverage, reliability_rating, security_rating, sqale_rating, duplicated_lines_density...</em></p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-quality-profile">SonarQube Connector Quality Profile</h2>
+<p class="header-text">Use the <strong>SonarQube Connector Quality Profile</strong> macro to display the active rules for a SonarQube quality profile.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/quality-profile.png' | relative_url }}" alt="SonarQube Connector Quality Profile settings" loading="lazy" width="1366" height="829">
+</figure>
+<p class="header-text">You have to complete these parameters:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server: </strong>This is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Quality profile name</strong>: This is the name of the SonarQube Quality profile where you are going to retrieve the information. You can get this name from your SonarQube Quality profile dashboard.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Quality profile language : </strong>This is an optional field in case there are more than one Quality profiles with the same name, you will need to add the Quality Profile language.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Organization name</strong>: For SonarQube Cloud, use the organization name shown in the project information.</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-issue-breakdown">SonarQube Connector Issue Breakdown</h2>
+<p class="header-text">Use the SonarQube Connector Issue Breakdown macro to display issues from the selected projects.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/issue-breakdown.png' | relative_url }}" alt="SonarQube Connector Issue Breakdown settings" loading="lazy" width="1362" height="825">
+</figure>
+<p class="header-text">You have to complete these parameters:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server: </strong>this is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key</strong>: This is the key of the SonarQube resource where you are going to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters. You can setup more than one resource/project key by providing a comma separated list of resource keys. Measures will be aggregated into a unique view of all the projects together.</p>
+    <ul>
+      <li>
+        <p class="header-text"><strong>Note: </strong>Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Bugs</strong>: Select if you want see top bugs on issue breakdown</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Vulnerabilities</strong>: Select if you want see top vulnerabilities on issue breakdown</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Code Smells</strong>: Select if you want see top code smells on issue breakdown</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-asvs-report">SonarQube Connector ASVS report</h2>
+<p class="header-text">Use the <strong>SonarQube Connector ASVS</strong> macro to display SonarQube findings organised by the OWASP Application Security Verification Standard.</p>
+<p class="header-text">You have to complete these parameters:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server:</strong> this is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key:</strong> This is the key of the SonarQube resource where you are going to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters. You can setup more than one resource/project key by providing a comma separated list of resource keys. Measures will be aggregated into a unique view of all the projects together.<br>Note: Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-iso-5055-report">SonarQube Connector ISO 5055 report</h2>
+<p class="header-text">Use the <strong>SonarQube Connector ISO 5055</strong> macro to display findings related to code quality and architecture under the ISO 5055 standard.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/iso-5055-report.png' | relative_url }}" alt="SonarQube Connector ISO 5055 report" loading="lazy" width="1359" height="512">
+</figure>
+<p class="header-text">You have to complete these parameters:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server:</strong> this is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key:</strong> This is the key of the SonarQube resource where you are going to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters. You can setup more than one resource/project key by providing a comma separated list of resource keys. Measures will be aggregated into a unique view of all the projects together.<br>Note: Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-top-25-cwe-report">SonarQube Connector Top 25 CWE report</h2>
+<p class="header-text">Use the <strong>SonarQube Connector Top 25 CWE</strong> macro to display findings mapped to the CWE Top 25 software weaknesses for the selected reporting year.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/cwe-report.png' | relative_url }}" alt="SonarQube Connector Top 25 CWE report" loading="lazy" width="1362" height="835">
+</figure>
+<p class="header-text">You have to complete these parameters:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server:</strong> this is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key:</strong> This is the key of the SonarQube resource where you are going to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters. You can setup more than one resource/project key by providing a comma separated list of resource keys. Measures will be aggregated into a unique view of all the projects together.<br>Note: Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>
+
+<h2 id="sonarqube-connector-owasp-top-10-report">SonarQube Connector OWASP Top 10 report</h2>
+<p class="header-text">Use the <strong>SonarQube Connector OWASP Top 10</strong> macro to display findings grouped by web application security risk for the selected reporting year.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/owasp-report.png' | relative_url }}" alt="SonarQube Connector OWASP Top 10 report" loading="lazy" width="1362" height="682">
+</figure>
+<p class="header-text">You have to complete these parameters:</p>
+<ul>
+  <li>
+    <p class="header-text"><strong>SonarQube server: </strong>this is a dropdown list with the SonarQube servers configured through the plugin settings.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Resource Key</strong>: This is the key of the SonarQube resource where you are going to retrieve the quality metrics. You can get this key from your SonarQube project dashboard or your sonar-project analysis parameters. You can setup more than one resource/project key by providing a comma separated list of resource keys. Measures will be aggregated into a unique view of all the projects together.</p>
+    <ul>
+      <li>
+        <p class="header-text"><strong>Note: </strong>Enterprise portfolios are also supported. Enter the portfolio name in this field.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p class="header-text"><strong>Tags:</strong> This is an optional field. You can get the projects through the tags associated with them in SonarQube Server or SonarQube Cloud. These tags can be obtained from your project page in SonarQube Server or SonarQube Cloud or from the analysis properties. You can configure more than one tag by specifying a comma separated list of tags. The results will be aggregated in a single view with all the resources together.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>OWASP Year </strong>: select the Owasp Year to retrieve the information.</p>
+  </li>
+  <li>
+    <p class="header-text"><strong>Branch</strong>: Name of the branch (visible in the SonarQube UI and only available on single project configuration).</p>
+  </li>
+</ul>

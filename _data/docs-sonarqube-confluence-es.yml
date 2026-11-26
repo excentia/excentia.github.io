@@ -1,0 +1,37 @@
+name: SonarQube Connector for Confluence
+platform: Confluence
+docs_url: /docs/sonarqube-connector-for-confluence
+product_url: /sonarqube-connector-confluence
+icon: /img/atlassian-addons/sonarqube-connector-confluence.png
+assets_url: /docs/assets/sonarqube-connector-for-confluence/
+sections:
+  - title: Primeros pasos
+    url: /docs/sonarqube-connector-for-confluence/first-steps
+    description: Instala la aplicación y conecta Confluence con SonarQube Server o SonarQube Cloud.
+    image: first-steps.png
+    group: getting-started
+  - title: Funcionalidades
+    url: /docs/sonarqube-connector-for-confluence/features
+    description: Explora los Quality Gates, los paneles de proyecto y los informes de seguridad.
+    image: features.png
+    group: getting-started
+  - title: Macros
+    url: /docs/sonarqube-connector-for-confluence/macros
+    description: Añade y configura macros para mostrar métricas, perfiles de calidad, incidencias e informes.
+    image: macros.png
+    group: getting-started
+  - title: Seguridad de los datos y privacidad
+    url: /docs/sonarqube-connector-for-confluence/data-security-and-privacy
+    description: Consulta cómo se tratan, protegen y conservan los datos.
+    image: data-security-and-privacy.png
+    group: help
+  - title: Preguntas frecuentes
+    url: /docs/sonarqube-connector-for-confluence/faqs
+    description: Resuelve dudas sobre instalación, conectividad y consulta de resultados de SonarQube.
+    image: faqs.png
+    group: help
+  - title: Soporte
+    url: /docs/sonarqube-connector-for-confluence/support
+    description: Obtén ayuda con la instalación, la configuración, las licencias y la resolución de incidencias.
+    image: support.png
+    group: help

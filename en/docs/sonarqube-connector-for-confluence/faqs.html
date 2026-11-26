@@ -1,0 +1,128 @@
+---
+layout: docs
+title: "FAQs | SonarQube Connector for Confluence"
+description: "Find answers about installation, connectivity, and displaying SonarQube results."
+permalink: /en/docs/sonarqube-connector-for-confluence/faqs
+lang: en
+docs_product: docs-sonarqube-confluence
+doc_title: "FAQs"
+doc_id: "1592688641"
+---
+
+<h1 id="overview">FAQs</h1>
+
+<div class="docs-panel docs-panel--info">
+  <p class="header-text">This section brings together common questions about <strong>SonarQube Connector for Confluence</strong> and helps you quickly identify what to review in each case.</p>
+</div>
+
+<div class="docs-table-scroll" role="region" aria-label="Documentation table" tabindex="0">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">
+          <p class="header-text"><strong>SECTION</strong></p>
+        </th>
+        <th scope="col">
+          <p class="header-text"><strong>WHAT YOU’LL FIND</strong></p>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <p class="header-text"><strong>Installation and setup</strong></p>
+        </td>
+        <td>
+          <p class="header-text">Compatibility, installation and connection to SonarQube Server or SonarQube Cloud.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="header-text"><strong>Connections and troubleshooting</strong></p>
+        </td>
+        <td>
+          <p class="header-text">Connection checks, credentials, project keys and network requirements.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="header-text"><strong>Viewing SonarQube results in Confluence</strong></p>
+        </td>
+        <td>
+          <p class="header-text">Available metrics, dashboards, security reports…</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<hr>
+
+<h2 id="installation-and-setup">Installation and setup</h2>
+
+<details>
+  <summary>Does SonarQube Connector for Confluence work with SonarQube Server and SonarQube Cloud?</summary>
+  <p class="header-text">Yes. The connector can display analysis results from both SonarQube Server and SonarQube Cloud. A Confluence administrator configures the connection in the app settings. For SonarQube Cloud, use <code>https://sonarcloud.io</code> as the base URL.</p>
+</details>
+
+<details>
+  <summary>Where do I install the connector, and which Confluence versions are supported?</summary>
+  <p class="header-text">Install the app in Confluence from Atlassian Marketplace. Select your Confluence deployment in the listing and check the compatible versions before installing or upgrading.</p>
+</details>
+
+<details>
+  <summary>Where do I find my SonarQube project key?</summary>
+  <p class="header-text">Look for the project key in your SonarQube project dashboard or in the analysis configuration, where it is set as <code>sonar.projectKey</code>. Copy it into the <strong>Resource Key</strong> field of the Confluence macro. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}">Macro configuration</a></p>
+</details>
+
+<h2 id="connections-and-troubleshooting">Connections and troubleshooting</h2>
+
+<details>
+  <summary>Can I display metrics or badges from a private SonarQube project?</summary>
+  <p class="header-text">Configure the SonarQube connection with a <strong>user token</strong> from an account that can access the private project. Then select that connection and enter the project key in the macro. Before sharing the Confluence page, check its restrictions and verify what a reader can see in your deployment.</p>
+</details>
+
+<details>
+  <summary>Can Confluence Cloud connect to SonarQube Server behind a firewall?</summary>
+  <p class="header-text">The connector needs a network route to the SonarQube Server URL you configure. If your server is accessible only from a private network, ask excentia support to confirm the connectivity requirements for your deployment before changing firewall rules.</p>
+</details>
+
+<details>
+  <summary>Why is my SonarQube macro empty or showing an error?</summary>
+  <p class="header-text">First, open the same project in SonarQube and confirm that it has a completed analysis. Then check the connection selected in the macro, the base URL and the project key. For a private project, verify that the user token is valid and that its account can access the project. If several macros fail for the same connection, check whether the connector can reach the SonarQube URL.</p>
+</details>
+
+<details>
+  <summary>Why is my code coverage badge missing or showing 0%?</summary>
+  <p class="header-text">Check the coverage value for the same project in SonarQube first. If coverage is missing or unexpectedly low there, verify that your build generates a coverage report and that the analysis imports it. If SonarQube shows the expected value, check that the badge uses the correct connection, project key and <strong>Metric Key</strong> <code>coverage</code>.</p>
+</details>
+
+<h2 id="viewing-sonarqube-results-in-confluence">Viewing SonarQube results in Confluence</h2>
+
+<details>
+  <summary>How do I add a SonarQube dashboard or a coverage badge to a Confluence page?</summary>
+  <p class="header-text">Edit the Confluence page and insert the <strong>SonarQube Connector Macro</strong> for a project dashboard or <strong>SonarQube Connector Badge</strong> for a single metric. Select the configured SonarQube connection and enter the project key. For a coverage badge, enter <code>coverage</code> in <strong>Metric Key</strong>.</p>
+</details>
+
+<details>
+  <summary>Can I see why a Quality Gate failed without leaving Confluence?</summary>
+  <p class="header-text">Yes. The connector can display the Quality Gate status and its conditions in a Confluence page. Use the conditions to see which threshold the analysis failed to meet, such as minimum coverage on new code.</p>
+</details>
+
+<details>
+  <summary>Can I show several SonarQube projects in a single Confluence page?</summary>
+  <p class="header-text">Yes. In the dashboard macro, enter comma-separated project keys in <strong>Resource Key</strong> or select projects using their SonarQube tags in <strong>Tags</strong>. The combined view shows aggregate measures and ratings, plus the Quality Gate status and last analysis date for each project. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/features' | relative_url }}#track-multiple-sonarqube-projects-in-one-view">Multiple project keys</a>.</p>
+</details>
+
+<details>
+  <summary>Can I display security findings by OWASP or CWE in Confluence?</summary>
+  <p class="header-text">Yes. The <strong>OWASP Top 10</strong> and <strong>CWE Top 25</strong> macros display findings for the configured projects using the reporting year you select. The results depend on the data available in your SonarQube environment. <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-owasp-top-10-report">OWASP Top 10 macro</a> · <a href="{{ '/en/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-top-25-cwe-report">CWE Top 25 macro</a></p>
+</details>
+
+<div class="docs-panel docs-panel--success">
+  <p class="header-text"><strong>Tip:</strong> if an answer does not resolve your case, first review the connection configuration and then contact support with the URL, connector edition and affected project keys.</p>
+</div>
+
+<div class="docs-columns">
+  <div class="docs-resource-link"><a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence">Atlassian Marketplace</a></div>
+  <div class="docs-resource-link"><a href="{{ '/en/docs/sonarqube-connector-for-confluence/support' | relative_url }}">Support</a></div>
+</div>

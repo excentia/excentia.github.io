@@ -1,0 +1,128 @@
+---
+layout: docs
+title: "Preguntas frecuentes | SonarQube Connector for Confluence"
+description: "Resuelve dudas sobre instalación, conectividad y consulta de resultados de SonarQube."
+permalink: /docs/sonarqube-connector-for-confluence/faqs
+lang: es
+docs_product: docs-sonarqube-confluence-es
+doc_title: "Preguntas frecuentes"
+doc_id: "1592688641"
+---
+
+<h1 id="overview">Preguntas frecuentes</h1>
+
+<div class="docs-panel docs-panel--info">
+  <p class="header-text">Estas preguntas frecuentes sobre <strong>SonarQube Connector for Confluence</strong> te ayudan a saber qué comprobar en cada caso.</p>
+</div>
+
+<div class="docs-table-scroll" role="region" aria-label="Tabla de documentación" tabindex="0">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">
+          <p class="header-text"><strong>SECCIÓN</strong></p>
+        </th>
+        <th scope="col">
+          <p class="header-text"><strong>QUÉ ENCONTRARÁS</strong></p>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <p class="header-text"><strong>Instalación y configuración</strong></p>
+        </td>
+        <td>
+          <p class="header-text">Compatibilidad, instalación y conexión con SonarQube Server o SonarQube Cloud.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="header-text"><strong>Conexiones y resolución de problemas</strong></p>
+        </td>
+        <td>
+          <p class="header-text">Comprobaciones de conexión, credenciales, claves de proyecto y requisitos de red.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="header-text"><strong>Consulta de resultados de SonarQube en Confluence</strong></p>
+        </td>
+        <td>
+          <p class="header-text">Métricas disponibles, paneles e informes de seguridad.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<hr>
+
+<h2 id="installation-and-setup">Instalación y configuración</h2>
+
+<details>
+  <summary>¿SonarQube Connector for Confluence funciona con SonarQube Server y SonarQube Cloud?</summary>
+  <p class="header-text">Sí. El conector puede mostrar resultados de análisis de SonarQube Server y SonarQube Cloud. Una persona con permisos de administración en Confluence configura la conexión en los ajustes de la aplicación. Para SonarQube Cloud, utiliza <code>https://sonarcloud.io</code> como URL base.</p>
+</details>
+
+<details>
+  <summary>¿Dónde instalo el conector y qué versiones de Confluence son compatibles?</summary>
+  <p class="header-text">Instala la aplicación en Confluence desde Atlassian Marketplace. Selecciona tu modalidad de Confluence en la ficha y comprueba qué versiones son compatibles antes de instalar o actualizar.</p>
+</details>
+
+<details>
+  <summary>¿Dónde encuentro la clave de mi proyecto de SonarQube?</summary>
+  <p class="header-text">Busca la clave en el panel del proyecto de SonarQube o en la configuración del análisis, donde se define como <code>sonar.projectKey</code>. Cópiala en el campo <strong>Resource Key</strong> de la macro de Confluence. <a href="{{ '/docs/sonarqube-connector-for-confluence/macros' | relative_url }}">Configuración de macros</a>.</p>
+</details>
+
+<h2 id="connections-and-troubleshooting">Conexiones y resolución de problemas</h2>
+
+<details>
+  <summary>¿Puedo mostrar métricas de un proyecto privado de SonarQube?</summary>
+  <p class="header-text">Configura la conexión de SonarQube con un <strong>token de usuario</strong> de una cuenta que tenga acceso al proyecto privado. Selecciona esa conexión e introduce la clave del proyecto en la macro. Antes de compartir la página de Confluence, comprueba sus restricciones y verifica qué pueden ver los lectores en tu instalación.</p>
+</details>
+
+<details>
+  <summary>¿Puede Confluence Cloud conectarse a un SonarQube Server protegido por un cortafuegos?</summary>
+  <p class="header-text">El conector necesita acceso por red a la URL de SonarQube Server que configures. Si solo se puede acceder al servidor desde una red privada, consulta con el equipo de soporte de excentia los requisitos de conectividad de tu instalación antes de cambiar las reglas del cortafuegos.</p>
+</details>
+
+<details>
+  <summary>¿Por qué mi macro de SonarQube aparece vacía o muestra un error?</summary>
+  <p class="header-text">Abre el mismo proyecto en SonarQube y confirma que tiene un análisis completado. Después, verifica la conexión seleccionada en la macro, la URL base y la clave del proyecto. Para un proyecto privado, comprueba que el token de usuario sea válido y que la cuenta tenga acceso al proyecto. Si fallan varias macros que usan la misma conexión, revisa si el conector puede acceder a la URL de SonarQube.</p>
+</details>
+
+<details>
+  <summary>¿Por qué no aparece mi badge de cobertura de código o muestra un 0 %?</summary>
+  <p class="header-text">Comprueba primero la cobertura del mismo proyecto en SonarQube. Si allí falta el dato o el valor es inferior al esperado, verifica que la compilación genera un informe de cobertura y que el análisis lo importa. Si SonarQube muestra el valor esperado, comprueba que el badge usa la conexión, la clave de proyecto y el valor <code>coverage</code> en <strong>Metric Key</strong>.</p>
+</details>
+
+<h2 id="viewing-sonarqube-results-in-confluence">Consulta de resultados de SonarQube en Confluence</h2>
+
+<details>
+  <summary>¿Cómo añado un panel de SonarQube o un badge de cobertura a una página de Confluence?</summary>
+  <p class="header-text">Edita la página de Confluence e inserta <strong>SonarQube Connector Macro</strong> para mostrar un panel de proyecto o <strong>SonarQube Connector Badge</strong> para mostrar una sola métrica. Selecciona la conexión de SonarQube e introduce la clave del proyecto. Para un badge de cobertura, introduce <code>coverage</code> en <strong>Metric Key</strong>.</p>
+</details>
+
+<details>
+  <summary>¿Puedo ver por qué no se ha superado un Quality Gate sin salir de Confluence?</summary>
+  <p class="header-text">Sí. El conector puede mostrar el estado del Quality Gate y sus condiciones en una página de Confluence. Revisa las condiciones para identificar qué umbral no alcanzó el análisis, como la cobertura mínima del código nuevo.</p>
+</details>
+
+<details>
+  <summary>¿Puedo mostrar varios proyectos de SonarQube en una sola página de Confluence?</summary>
+  <p class="header-text">Sí. En la macro del panel, introduce las claves de proyecto separadas por comas en <strong>Resource Key</strong> o selecciona los proyectos por sus etiquetas de SonarQube en <strong>Tags</strong>. La vista combinada muestra las métricas y calificaciones agregadas, además del estado del Quality Gate y la fecha del último análisis de cada proyecto. <a href="{{ '/docs/sonarqube-connector-for-confluence/features' | relative_url }}#track-multiple-sonarqube-projects-in-one-view">Configuración con varias claves de proyecto</a>.</p>
+</details>
+
+<details>
+  <summary>¿Puedo mostrar hallazgos de seguridad según OWASP o CWE en Confluence?</summary>
+  <p class="header-text">Sí. Las macros <strong>OWASP Top 10</strong> y <strong>CWE Top 25</strong> muestran los hallazgos de los proyectos configurados para el año que selecciones. Los resultados dependen de los datos disponibles en tu entorno de SonarQube. <a href="{{ '/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-owasp-top-10-report">Macro OWASP Top 10</a> · <a href="{{ '/docs/sonarqube-connector-for-confluence/macros' | relative_url }}#sonarqube-connector-top-25-cwe-report">Macro CWE Top 25</a>.</p>
+</details>
+
+<div class="docs-panel docs-panel--success">
+  <p class="header-text"><strong>Consejo.</strong> Si estas respuestas no resuelven tu caso, revisa la configuración de la conexión y contacta con soporte. Incluye la URL, la edición del conector y las claves de los proyectos afectados.</p>
+</div>
+
+<div class="docs-columns">
+  <div class="docs-resource-link"><a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence">Atlassian Marketplace</a></div>
+  <div class="docs-resource-link"><a href="{{ '/docs/sonarqube-connector-for-confluence/support' | relative_url }}">Soporte</a></div>
+</div>

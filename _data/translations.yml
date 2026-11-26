@@ -29,6 +29,20 @@
   en: en/debt-tracker.html
 - es: dependency-track-connector-jira.html
   en: en/dependency-track-connector-jira.html
+- es: docs/sonarqube-connector-for-confluence.html
+  en: en/docs/sonarqube-connector-for-confluence.html
+- es: docs/sonarqube-connector-for-confluence/data-security-and-privacy.html
+  en: en/docs/sonarqube-connector-for-confluence/data-security-and-privacy.html
+- es: docs/sonarqube-connector-for-confluence/faqs.html
+  en: en/docs/sonarqube-connector-for-confluence/faqs.html
+- es: docs/sonarqube-connector-for-confluence/features.html
+  en: en/docs/sonarqube-connector-for-confluence/features.html
+- es: docs/sonarqube-connector-for-confluence/first-steps.html
+  en: en/docs/sonarqube-connector-for-confluence/first-steps.html
+- es: docs/sonarqube-connector-for-confluence/macros.html
+  en: en/docs/sonarqube-connector-for-confluence/macros.html
+- es: docs/sonarqube-connector-for-confluence/support.html
+  en: en/docs/sonarqube-connector-for-confluence/support.html
 - es: docs/sonarqube-connector-for-jira.html
   en: en/docs/sonarqube-connector-for-jira.html
 - es: docs/sonarqube-connector-for-jira/data-security-and-privacy.html

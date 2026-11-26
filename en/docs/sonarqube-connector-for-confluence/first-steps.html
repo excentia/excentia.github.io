@@ -1,0 +1,48 @@
+---
+layout: docs
+title: "First steps | SonarQube Connector for Confluence"
+description: "Install the app and connect Confluence to SonarQube Server or SonarQube Cloud."
+permalink: /en/docs/sonarqube-connector-for-confluence/first-steps
+lang: en
+docs_product: docs-sonarqube-confluence
+doc_title: "First steps"
+doc_id: "1591673255"
+---
+
+<h1 id="overview">First steps</h1>
+
+<div class="docs-panel docs-panel--custom">
+  <p class="header-text">Learn how to <strong>install</strong> and <strong>configure</strong> the app <strong>SonarQube Connector for Confluence</strong>.</p>
+</div>
+
+<h2 id="install-sonarqube-connector-for-confluence">Install SonarQube Connector for Confluence</h2>
+<p class="header-text">Open the <a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence">SonarQube Connector for Confluence listing on Atlassian Marketplace</a>. Select your Confluence deployment and follow the Marketplace prompts to start a trial or purchase a license.</p>
+
+<h2 id="set-up-sonarqube-connector-for-confluence-cloud">Set up SonarQube Connector for Confluence Cloud</h2>
+
+<div class="docs-panel docs-panel--custom">
+  <p class="header-text">You must be a Confluence administrator to configure SonarQube connections.</p>
+</div>
+<p class="header-text">Open the SonarQube Connector settings to configure up to five connections.</p>
+
+<figure>
+  <img src="{{ '/docs/assets/sonarqube-connector-for-confluence/connection-settings.png' | relative_url }}" alt="SonarQube connection settings in Confluence Cloud" loading="lazy" width="1023" height="832">
+</figure>
+<p class="header-text">Enter these details for each connection.</p>
+<ul>
+  <li><strong>SonarQube Server Name.</strong> Choose the name that users will see when they configure a macro.</li>
+  <li><strong>SonarQube Server URL.</strong> Enter the base URL reachable from the connector. A default local SonarQube Server installation uses <code>http://localhost:9000</code>. For SonarQube Cloud, use <a href="https://sonarcloud.io/">https://sonarcloud.io</a>.</li>
+  <li><strong>Token.</strong> For a private instance or project, enter a SonarQube user token from an account with access. See <a href="https://docs.sonarsource.com/sonarqube-server/latest/instance-administration/security/administering-tokens/">Managing SonarQube tokens</a>.</li>
+</ul>
+
+<h2 id="https-in-self-managed-confluence">HTTPS in self-managed Confluence</h2>
+
+<div class="docs-panel docs-panel--custom">
+  <p class="header-text">If you run Confluence on your own infrastructure and SonarQube Server uses a certificate from a private certificate authority, you may need to add that certificate to the Confluence trust store.</p>
+  <p class="header-text">See the Atlassian instructions for <a href="https://confluence.atlassian.com/jira/connecting-to-ssl-services-117455.html">connecting to SSL services</a>.</p>
+</div>
+
+<div class="docs-columns">
+  <div class="docs-resource-link"><a href="https://marketplace.atlassian.com/apps/1218460/sonarqube-connector-for-confluence">Atlassian Marketplace</a></div>
+  <div class="docs-resource-link"><a href="{{ '/en/docs/sonarqube-connector-for-confluence/support' | relative_url }}">Support</a></div>
+</div>

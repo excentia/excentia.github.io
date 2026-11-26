@@ -19,7 +19,7 @@ cover: /img/posts/2024-01-03-sonarqube-sonarcloud-connector-confluence-cloud-1-2
 
 Ya tenemos nuestra primera release del 2024. Te presentamos la **versión 1.23** de nuestra aplicación **SonarQube/SonarCloud Connector for Confluence** con una nueva e interesante funcionalidad. ¡Empezamos!
 
-En esta release el usuario podrá elegir qué tipo de reporte quiere en las **cuatro macros de estándares de seguridad**: OWASP Top 10, CWE Top 25, ASVS o ISO 5055: Estos nuevos tipos de reporte son: **Breakdown, Summary y Rating**. 
+En esta release el usuario podrá elegir qué tipo de reporte quiere en las cuatro [macros de informes de seguridad en Confluence]({{ '/docs/sonarqube-connector-for-confluence/features' | relative_url }}#display-security-reports). Los marcos disponibles son OWASP Top 10, CWE Top 25, ASVS e ISO 5055. Los nuevos tipos de reporte son **Breakdown, Summary y Rating**.
 
 A continuación, vamos a ver unos ejemplos de cada tipo de reporte, generados en Confluence, gracias a esta aplicación: 
 
